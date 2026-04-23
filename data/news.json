@@ -1,6 +1,28 @@
 {
-  "timestamp": 1776961073404,
+  "timestamp": 1776966873770,
   "items": [
+    {
+      "id": 7839611,
+      "headline": "Cramer wants to 'buy more' of this household name if the stock price goes a bit lower",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/23/cramer-wants-to-buy-more-of-this-household-name-if-the-stock-price-goes-a-bit-lower.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108177260-1753465600549-gettyimages-2224899181-250712_costco_brands_111.jpeg?v=1776957915&w=1920&h=1080",
+      "datetime": 1776961534000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 7838380,
+      "headline": "Wall St muted as Middle East impasse, mixed earnings hurt sentiment - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc09RTW5BS211ZlFNcWU3bEN5YkZwUWdNcUd4NEhpeldpUEhOa2tpaFNuenNwSjR0azBNZ0xoS1hRNW12RTlnLW53SGJuRE5zTG0zOVhma3gwYXZfSFJZdl9tVjgta0N2VlQzU2FlZ1RFZE95czZmRUhrNzFMZ0hGRk4zVklOZE9DM28wMFhmSzV2bmZfZ3ZUamZWVE1kSVVBbTNr?oc=5",
+      "summary": "Wall St muted as Middle East impasse, mixed earnings hurt sentiment  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1776960144000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 139864086,
       "headline": "JPMorgan Chase CEO Jamie Dimon Pushes For In-Office Work, Saying 'If You Go To A Meeting With Me, You Got My Full Freaking Attention'",
@@ -200,17 +222,6 @@
       "category": "company"
     },
     {
-      "id": 7838380,
-      "headline": "Wall St slips on Middle East impasse, mixed earnings - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc09RTW5BS211ZlFNcWU3bEN5YkZwUWdNcUd4NEhpeldpUEhOa2tpaFNuenNwSjR0azBNZ0xoS1hRNW12RTlnLW53SGJuRE5zTG0zOVhma3gwYXZfSFJZdl9tVjgta0N2VlQzU2FlZ1RFZE95czZmRUhrNzFMZ0hGRk4zVklOZE9DM28wMFhmSzV2bmZfZ3ZUamZWVE1kSVVBbTNr?oc=5",
-      "summary": "Wall St slips on Middle East impasse, mixed earnings  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1776957258000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139864090,
       "headline": "Semiconductor stocks like Nvidia and Micron are on a remarkable streak",
       "source": "Yahoo",
@@ -363,6 +374,17 @@
       "datetime": 1776955800000,
       "ticker": "AMD",
       "category": "company"
+    },
+    {
+      "id": 7839721,
+      "headline": "Son of former Shah of Iran appeals to Western countries for support - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelE3elMyVFA1RDlYSnYxOUN1WHlCQlVsWWRmUlluNDFtYTdvRU1xRnpLUGNYbGRIM0RXT1BmdVNCVEVVMkdrdFdjUU0yZDVXdGRrU3dFLWY3RGtjR1FpNU1iNWt0Z184RFpSQ0tmNzFyZXZkM3pUb19TeUFiZFpSVFZEY0pSX3M0SXVhdmVhQ3VjczNBblRlZ3RBd3k?oc=5",
+      "summary": "Son of former Shah of Iran appeals to Western countries for support  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1776955533000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139864182,
@@ -860,6 +882,17 @@
       "category": "company"
     },
     {
+      "id": 139866068,
+      "headline": "Microsoft starts unprecedented voluntary redundancy program",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4bf63cdb3a966f12968be5c77b84ec7511ff764711a4123aea95dc76b6943235",
+      "summary": "Microsoft has announced the implementation of a voluntary separation program, a first for the group, amid a broader technological shift driven by the rise of artificial intelligence. The scheme could...",
+      "image": "",
+      "datetime": 1776952064000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 139862646,
       "headline": "Stock Market Today: Dow Falls After Jobless Claims Surprise; Tesla Drops On Musk Comments (Live Coverage)",
       "source": "Yahoo",
@@ -970,6 +1003,17 @@
       "category": "company"
     },
     {
+      "id": 139866032,
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=074f8583d1b5ff365aa7d45479d15407b71789e6e5a3603dfd3f81493013e13d",
+      "summary": " ",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
+      "datetime": 1776951330000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 139862592,
       "headline": "Amazon.com Inc. (AMZN) Gains Analyst Support on Strong AWS and AI Demand",
       "source": "Yahoo",
@@ -1054,50 +1098,6 @@
       "summary": "Intel Corporation (NASDAQ:INTC) is one of the 12 AI Stocks in Focus on Wall Street: Tesla, Meta, and More. Intel recently witnessed a core business re-rating driven by server CPU growth and pricing power from HSBC. It is seventh on our list of 12 AI Stocks in Focus on Wall Street. On April 21, analyst […]",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776951212000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139862638,
-      "headline": "Snowflake (SNOW) Seen as Long-Term Winner Despite Recent Stock Weakness",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=08e3100a649736cb3b3503cc89265ee36c7fec5ed7e5f4ee4dd75becfd443e5d",
-      "summary": "Snowflake Inc. (NYSE:SNOW) is one of the 12 AI Stocks in Focus on Wall Street: Tesla, Meta, and More. Even though the Snowflake story may seem risky to some, one research firm believes its long-term growth story remains intact. Snowflake Inc. (NYSE:SNOW) is eighth on our list of 12 AI Stocks in Focus on Wall […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776951202000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139862639,
-      "headline": "Marvell (MRVL) Gains Analyst Support on AWS Exposure, Optical Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5a0ae08a75a63b7ba2bcca7d4232f887910d4ec72ab587ecde34c28a424018fb",
-      "summary": "Marvell Technology, Inc. (NASDAQ:MRVL) is one of the 12 AI Stocks in Focus on Wall Street: Tesla, Meta, and More. Improving visibility around AWS’s Trainium chips and robust near-term demand for optical components has recently led RBC Capital more optimistic toward Marvell. The stock ranks 9th on our list of 12 AI Stocks in Focus […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776951193000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139862640,
-      "headline": "Baidu Inc. (BIDU) Gains Analyst Backing on AI Cloud Strength Despite Ad Weakness",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=84a0bc07586153891b225c9e6fdee94a5442a9dfdf4ed2c2a54b25e3d8573a61",
-      "summary": "Baidu, Inc. (NASDAQ:BIDU) is one of the 12 AI Stocks in Focus on Wall Street: Tesla, Meta, and More. Baidu, Inc. has recently been on the radar owing to its robust AI cloud momentum and improving growth trajectory, earning itself a place in our list of 12 AI Stocks in Focus on Wall Street. On […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776951181000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139862641,
-      "headline": "Astera Labs (ALAB) Initiated at Neutral Despite Strong AI Networking Growth Outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f5772a5470866ea9acdaa75059976b2acad664a16af8bdc97cc20c945e0bc7eb",
-      "summary": "Astera Labs (NASDAQ:ALAB) is one of the 12 AI Stocks in Focus on Wall Street: Tesla, Meta, and More. Astera Labs (NASDAQ:ALAB) is included in our roundup of 12 AI Stocks in Focus on Wall Street. The company recently received a rating initiation from UBS, with analysts pointing to robust AI networking growth and execution […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776951174000,
       "ticker": "META",
       "category": "company"
     }
