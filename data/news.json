@@ -1,6 +1,160 @@
 {
-  "timestamp": 1776927830116,
+  "timestamp": 1776934694033,
   "items": [
+    {
+      "id": 139859022,
+      "headline": "Will Taiwan Semiconductor Be Worth More Than Nvidia by 2030?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98d48f68de7a9e251cc6215d9879573c136bb1570bcce5b4c03fda26bf330d7a",
+      "summary": "The chip foundry giant has a huge AI opportunity.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776930000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139859091,
+      "headline": "Battle Royale: Joby Aviation vs. Boeing. Only One Can Make You Rich.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c74fc3872145e84025995fb99f3f26be32b0d5cac62bdc4f688a13d6df65f6c0",
+      "summary": "The eVTOL market is highly competitive, and two companies are offering a transportation-as-a-service model.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776929100000,
+      "ticker": "BA",
+      "category": "company"
+    },
+    {
+      "id": 139859033,
+      "headline": "Amazon Faces New Legal Tests As Stock Trades Below Fair Value",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=691ac3b569baf51ed86eeefda366450e3812bfbfeadf6ceca7d43ab5c169d22b",
+      "summary": "Within the past two weeks, Amazon.com (NasdaqGS:AMZN) has been named in a new federal lawsuit in California alleging the company facilitated predatory online gambling and failed to address Americans with Disabilities Act related complaints. The suit claims Amazon helped bypass internal gift card controls and seeks substantial damages, while also pointing to broader systemic issues across multiple tech and financial firms. Separately, newly unsealed court filings in California describe...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776928073000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139859040,
+      "headline": "Tesla Inc (TSLA) Q1 2026 Earnings Call Highlights: Record Production and Strategic Investments ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fdb1d3341fe285f543c8404261c8a32b4de017c2874f87a9a418de043371c5b",
+      "summary": "Tesla Inc (TSLA) reports significant growth in EMEA deliveries and Giga Berlin output, while navigating energy storage declines and Bitcoin impacts.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776927986000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139859023,
+      "headline": "Siemens Humanoid Robot Breakthrough Highlights Physical AI And Valuation Debate",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72ca0a77fa621826959c4e0b737c27b73eb6313b19854bfe0bc13a2548ff8d93",
+      "summary": "Siemens (XTRA:SIE), Humanoid and NVIDIA have jointly deployed AI-powered humanoid robots in live operations at an electronics factory. The robots handle autonomous logistics tasks on the factory floor using Siemens automation systems and the NVIDIA AI stack. The rollout moves humanoid robots from controlled lab settings into real industrial workflows for the first time for this partnership. For Siemens, known for industrial automation and factory software, this move fits directly into its...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776927953000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139859092,
+      "headline": "Boeing Co (BA) Q1 2026 Earnings Call Highlights: Revenue Soars Amid Production Challenges",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03db77aeced7e38f8cc7f185b7614b5e4b8a3c9c1c9c17564f84e3295dd93173",
+      "summary": "Boeing Co (BA) reports a 14% revenue increase, despite facing supply chain issues and program delays.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776927896000,
+      "ticker": "BA",
+      "category": "company"
+    },
+    {
+      "id": 139859024,
+      "headline": "UK's BT and Nscale team up to build 14MW of AI capacity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d64c6a9ff2526264463e4aab64619f907c8a82b70c549d677c680b4b05b67e32",
+      "summary": "Britain's BT Group is teaming up with Nscale to ‌build up to 14 megawatts of ‌AI data centre capacity across three of its sites ​using Nvidia infrastructure, expanding its sovereign data service to public sector and business customers.  Nscale, founded in 2024 and backed by Nvidia, ‌owns and operates ⁠its own data centres and raised $2 billion last month in a ⁠funding round that valued it at $14.6 billion.  Sovereign computing refers to a country's capacity to develop and control its own AI infrastructure.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776927765000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139859036,
+      "headline": "Why Broadcom (AVGO) Stock Is Trading Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c4cc8ade8d90031b107be72b17cdd663d7d3f3123b7180402d5e7790ec11df0",
+      "summary": "Shares of fabless chip and software maker Broadcom (NASDAQ:AVGO) jumped 4.3% in the afternoon session after the company announced an expanded collaboration with Google Cloud amid a broad rally in semiconductor stocks.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776927683000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139859055,
+      "headline": "UBS Raises its Price Target on Occidental Petroleum (OXY) to $67",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=daee952350d51227e02a12d0ffdbca027ee793c88407e41ef7b24d0ef2b8a4c5",
+      "summary": "Occidental Petroleum Corporation (NYSE:OXY) is one of the 10 Stocks to Buy on a Pullback. On April 12, 2026, UBS raised its price target on Occidental Petroleum Corporation (NYSE:OXY) to $67 from $64 while maintaining a Neutral rating. The firm noted ongoing exposure to the Middle East, including suspended operations at Al Hosn, but expects […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776926249000,
+      "ticker": "CVX",
+      "category": "company"
+    },
+    {
+      "id": 139859029,
+      "headline": "Apple (AAPL) Stock Trades Up, Here Is Why",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1a7ce9d832dc29b9ac11e32bba403fad18ff0b0ab251f69a8e776b6328cbd52",
+      "summary": "Shares of iPhone and iPad maker Apple (NASDAQ:AAPL) jumped 2.3% in the afternoon session after the company announced that John Ternus, senior vice president of Hardware Engineering, would become its next chief executive officer, a move that analysts viewed positively.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776926243000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139859176,
+      "headline": "Tesla: A Good Quarter, Then a Complicated Call",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=b9e8c413f68a9ad951c3a6d8258a831083d61df5535b52a47ade7a35c0b3c868",
+      "summary": "",
+      "image": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_1_56aa1858e8.webp",
+      "datetime": 1776926133000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139859030,
+      "headline": "Richest countries in 2026: New measure of wealth pushes France and Germany out of top ten",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26927ac3824d93cb4291aec9260b2b9ba96ea5e39ab57bc20b43ff433c68ca79",
+      "summary": "Measures of “richest countries” can be misleading. A new prosperity index — looking at income, GDP and how wealth translates into quality of life, social cohesion and long-term development — does not place the US, Germany, or France in the top ten.View on euronews",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776925671000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139859041,
+      "headline": "Now Even Volvo Is Putting Tesla in the Rearview Mirror?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a462a9d8c8ea864790b11f3068fab786d0f863bebb933efd6bb6398ceeb23954",
+      "summary": "A number of competitors have passed Tesla in a number of its big ambitions. The question is what does success look like for Tesla's semi, and can it catch back up?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776925500000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139859034,
+      "headline": "Satellite startup Univity raises $32 million in push to become Europe's largest operator",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ce87e78757a6f96cc4953055f7d73041c869142aeec854952a966c5bedbc8ce",
+      "summary": "Univity, a satellite internet startup backed by the French state, said on Thursday it had closed a ‌27 million euro ($32 million) funding round, as it plans to launch thousands ‌of satellites that could make it Europe's biggest satellite operator. Combined with a 31 million euro contract from ​the French space agency, the Series A round brings total secured funding to 68 million euros, Univity's CEO Charles Delfieux said. French state-owned investment bank Bpifrance is among the investors, alongside investment platform Blast and venture capital fund Expansion.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776924260000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
     {
       "id": 139858152,
       "headline": "NuScale Power Stock Falls 70% in 6 Months. Here's Why the Nuclear Energy Company Faces Headwinds.",
@@ -33,6 +187,17 @@
       "datetime": 1776922791000,
       "ticker": "TSLA",
       "category": "company"
+    },
+    {
+      "id": 7837514,
+      "headline": "Nestle maintains full-year outlook as Iran war has limited impact so far - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEkzY19RQ2tMYWdzNXVyUEFEd1RKNmlQYVBhaGFPSThsRl9vQzRmUEtBUHdBNUtYemUyUFA4ZERJTVV6bjN2MlkzdGxvXzd2Z3lLTGg4MFFwdGdHWmRqNk5NQkFkU1RIa2pyOUtSRkY5LVJZbjlOY3ZPQXpRQW9ONzAzQnZ1N3FjYjQ0bGs0TF8?oc=5",
+      "summary": "Nestle maintains full-year outlook as Iran war has limited impact so far  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1776920820000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139858159,
@@ -68,6 +233,17 @@
       "category": "company"
     },
     {
+      "id": 139859031,
+      "headline": "The Highest-Paid CEO of 2025 Is a Furniture Salesman",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=518a93ced1ccd4a8109168e87792f8ca4db85443f0d3711689f6411190c1e70f",
+      "summary": "The median annual pay of large company CEOs hit $29.4 million last year, a record high, up 23.2%. It’s still one big fat guessing game.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776920400000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 139858173,
       "headline": "Exclusive-SpaceX targets in-house GPUs as it warns investors of chip supply, costs",
       "source": "Yahoo",
@@ -75,6 +251,50 @@
       "summary": "SpaceX may be tackling one of the biggest challenges in the chip business: manufacturing the keys to powering artificial intelligence called graphics processing units, or ‌GPUs.  Ahead of SpaceX's $1.75 trillion IPO expected this summer, the company has warned prospective investors of its big spending plans to develop ‌AI and other technologies.  It lists \"manufacturing our own GPUs\" among the \"substantial capital expenditures\" it is undertaking, according to excerpts of its S-1 registration reviewed by Reuters.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776919983000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139859508,
+      "headline": "Norway wealth fund lost $68 billion in first quarter as tech stocks fall",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=64f7655c9fc8beb001a2df0727b8ba9edf24ea3d523e3a8bbee6cbeb0d03ac69",
+      "summary": "Norway's $2.2 trillionsovereign wealth fund, the world's largest, on Thursday reporteda first-quarter loss of 636 billion Norwegian crowns as the war in the Middle East weighed on...",
+      "image": "",
+      "datetime": 1776919964000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139859175,
+      "headline": "The Records Got the Headlines. Oil Is the Real Story.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ac344b2ba12ea84489cb9574be7fcb75be587f9870c2eabfe23945f927457131",
+      "summary": "The S&P 500 closed at a new all-time high on Wednesday. So did the Nasdaq. And Brent crude hit $101.73 a barrel, its highest level in years, after Iran seized two container ships in the Strait of Hormuz. Two of those three facts dominated the financial press. I'll let you guess which one didn't.",
+      "image": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_3_a97fd29b9d.webp",
+      "datetime": 1776919710000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139859476,
+      "headline": "Norway wealth fund lost $68 billion in first quarter",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=18c4b8d87a1e1854336e83af6f50da516d4d56cb3f47646363605dc68e6ce5ae",
+      "summary": "Norway's $2.2 trillionsovereign wealth fund, the world's largest, on Thursday reporteda first-quarter loss of 636 billion Norwegian crowns as the war in the Middle East weighed on...",
+      "image": "",
+      "datetime": 1776919652000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139859473,
+      "headline": "Tesla Boosts Spending Plan in AI, Robotics Push",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4715a98978d90337faae18070cfe2abca256c5a35b713db365dc0bec66c10932",
+      "summary": "Tesla anticipates billions of dollars in additional spending this year to support Elon Musk's ambitions to transform the electric-vehicle pioneer into an AI and robotics company. Bloomberg's Dana...",
+      "image": "",
+      "datetime": 1776919544000,
       "ticker": "TSLA",
       "category": "company"
     },
@@ -98,6 +318,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776919062000,
       "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139859393,
+      "headline": "Amazon says Amazon India invests about $300 million in associate safety and well-being, strengthens operations network",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0d28ea1ec904ea59c1d78b72f7dc51b0ecff4431831ffc3598fbdb6b629094df",
+      "summary": "Amazon.com Inc:Amazon India invests about $300 million in associate safety and well-being, strengthens operations network...",
+      "image": "",
+      "datetime": 1776918820000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139859354,
+      "headline": "BofA awards $250,000 in grants to Harry Chapin Food Bank",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f680532114ab45ac3561f3ea868359f46333727f449ac2c995a6a1b2df719f62",
+      "summary": "Funding supports Hunger Action Center, Care and Share Senior Feeding Program.Key PointsA $200,000 grant will support construction of the food bank's new Hunger Action Center in Fort Myers, expanding...",
+      "image": "",
+      "datetime": 1776918487000,
+      "ticker": "BAC",
       "category": "company"
     },
     {
@@ -167,6 +409,17 @@
       "category": "business"
     },
     {
+      "id": 139858959,
+      "headline": "AMAZON COM INC : UBS maintains a Buy rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=03c3b7d9562d2886cac78ec3bb14fffc54ae18137f0f584e57279c0b737b761d",
+      "summary": "In a research note published by Stephen Ju, UBS advises its customers to buy the stock. The target price is slightly modified from 301 to 304 USD.",
+      "image": "",
+      "datetime": 1776916351000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
       "id": 139858184,
       "headline": "SoftBank Seeks $10 Billion Loan Backed by OpenAI Shares",
       "source": "Yahoo",
@@ -175,6 +428,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776916272000,
       "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139858929,
+      "headline": "EPAM Systems: AI Is A Threat, Yes, But Also An Opportunity",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fb87a02abfde01d01b6315c2ed1245bd45d5340dd6223e5d00e81b228b3deac6",
+      "summary": "EPAM Systems is well-positioned to benefit from the urgent industry shift, amid rising AI-driven cybersecurity threats. Find out why EPAM stock is a buy.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2268988397/image_2268988397.jpg?io=getty-c-w1536",
+      "datetime": 1776915671000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -208,17 +472,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776913620000,
       "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139858588,
-      "headline": "Satellite startup Univity raises $32 million in push to become Europe's largest operator",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=e35d598b82679c2cbd07578107cceba54f3c3537aefa7daf13a8415d307da1b4",
-      "summary": "Univity, a satellite internetstartup backed by the French state, said on Thursday it hadclosed a 27 million euro funding round, as itplans to launch thousands of satellites that could make...",
-      "image": "",
-      "datetime": 1776912534000,
-      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -846,259 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776898892000,
       "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139855807,
-      "headline": "Intel earnings, American Airlines, mortgage rates: What to Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71f729edcfe2f83583a6c217bd23352d88624d9b0cd1fa52bf9a6099fa30a4dc",
-      "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come tomorrow, Thursday, April 23, including earnings results from American Express (AXP), Intel (INTC), and American Airlines (AAL), alongside the latest reading on US mortgage rates.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776898800000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139855759,
-      "headline": "Optimus 3: Musk teases plans for unveiling",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06db0432be2a20ef11aa1c64d1e7ef2f7c9a0e3ba33cb289d7473dbaefb6f44c",
-      "summary": "Tesla (TSLA) reported first quarter results on Wednesday after the closing bell. Adjusted earnings per share (EPS) came in at $0.41 (compared to analyst estimates of $0.34), and revenue came in at $22.39 billion (compared to analyst estimates of $22.19 billion). On the earnings call, CEO Elon Musk projects that Tesla's Optimus humanoid robot will become the \"biggest product ever,\" with production starting in Fremont later this year and expanding to Giga Texas by summer 2027.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776898347000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 7836168,
-      "headline": "ServiceNow CEO downplays impact of Iran war and AI: 'Our business is doing great'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/22/servicenow-ceo-downplays-impact-of-iran-war-and-ai-our-business-is-doing-great.html",
-      "summary": "ServiceNow CEO Bill McDermott pushed back on concerns about the Iran war and AI disruption risks in an interview with CNBC's Jim Cramer.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108090677-1737564483883-Wi3Jjocc.jpg?v=1769716464&w=1920&h=1080",
-      "datetime": 1776898244000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 139855734,
-      "headline": "Nvidia supplier SK Hynix's Q1 profit rises five-fold, meets forecasts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c59547b3d01ab2cc50a263e8124213815deed799272c39d7786fd52066796ebf",
-      "summary": "South Korea's SK Hynix posted a more than five-fold jump in first-quarter operating profit ‌to a record on Thursday, as the artificial intelligence boom drove ‌strong demand for both advanced and conventional memory chip products.  \"As AI evolves from large model training to the stage of agentic ‌AI, which repeatedly performs ⁠real-time inference across various service environments, the foundation for memory demand is expanding across both DRAM and NAND flash,\" SK Hynix ⁠said in a statement.  Contract prices for certain DRAM chips jumped nearly 83% in the first quarter from the previous quarter, while prices for some NAND products soared around ​160%, according ​to data from market tracker TrendForce.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776898126000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139855735,
-      "headline": "Small Cap or Megacap: Which Healthcare Stock Is Right for You?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e61d8f33b9a5fe9d7ee347abd8dff30df1e940c8570c08ca4ba75183f4d88e8b",
-      "summary": "Healthcare companies with different market caps offer different rewards and challenges.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776898080000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139855770,
-      "headline": "JPMorgan Chase & Co. (JPM) Closing in on Record $38B Oracle Data Center Loan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=84e40307ff3f766183ed07b346e93d56dcc6c0e55e63168df4bd99a521a2cdcc",
-      "summary": "JPMorgan Chase & Co. (NYSE:JPM) is one of the top S&P 500 stocks by index weight. On April 15, JPMorgan Chase & Co. (NYSE:JPM) and Mitsubishi UFJ Financial Group inched closer to completing a record $38 billion loan package to finance Oracle’s data center projects. The two took up the record-breaking loan package in August […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776897806000,
-      "ticker": "JPM",
-      "category": "company"
-    },
-    {
-      "id": 139858190,
-      "headline": "Earnings Picture Remains Positive: A Closer Look",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce09c42f072fb530531eddad11fcce71680d047a8fb613dbd242d2b21e5a5ea5",
-      "summary": "The picture emerging from the Q1 earnings season is of continued strength and momentum, with companies not only comfortably beating consensus estimates but also providing a reassuring read on the economy despite elevated energy costs and other risks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776897660000,
-      "ticker": "BA",
-      "category": "company"
-    },
-    {
-      "id": 139855760,
-      "headline": "S&P, Nasdaq close at records on Iran ceasefire extension, earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1ebbeca0f6510bd812644baebda19da61dfcf5428a99ceee0f4ca2d7a003499",
-      "summary": "STORY: U.S. stocks ended higher on Wednesday, with the Dow adding about seven-tenths of a percent, the S&P 500 rising 1% and the Nasdaq climbing more than 1.6%.The gains pushed the S&P 500 and Nasdaq to record closing highs.Investor optimism was fueled by President Donald Trump's extended ceasefire with Iran, along with a round of solid corporate earnings.Shares of Tesla climbed about 4.5% in extended trading after the EV maker reported a surprise positive free cash flow in the first quarter.Tech in general had a strong session, led by gains in chip stocks such as Micron Technology, which surged 8.5% to close at a record high. That helped the Philadelphia Semiconductor Index hit an intraday record for an 11th straight session and notch its 16th straight day of gains - its longest streak ever.Mike Mussio is president of FBB Capital Partners.\"Big tech earnings are gonna be next week, but we're starting to see some of the things within that AI complex start to announce. All signs are pretty much full speed ahead as far as we know in terms of the AI capital spend, and that's pulling stocks in general and the Nasdaq, the tech-heavy Nasdaq up as well. And some of these chip companies that hadn't moved much - Nvidia being the most obvious - over the course of six months or so, from September to March, have all of a sudden started moving in a pretty big way in the last four weeks.\":: ServiceNowOn the downside, however, shares of ServiceNow plummeted 13% in extended trading after the software company said its first-quarter subscription revenue growth was impacted by the delayed closure of several large deals due to the ongoing conflict in the Middle East.Elsewhere in the market, shares of Lululemon Athletica, down 2% at the close, tumbled another 5% in extended trading after the company picked former top Nike executive Heidi O'Neill as its next chief executive. The move comes as the retailer faces pressure from its founder and a large activist investor to revive its struggling business.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776897606000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139855761,
-      "headline": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96d816307024bfd8d01fb93e6aad5b3e6e9b78f55cda9093d9a774f327fdf4d9",
-      "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776897598000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139855762,
-      "headline": "Tesla's Quarterly Call Ends. Here Are the Takeaways.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2457ae904b9f21f9c776fd2fbb94e10fbfc301695b97615531aa5986a0b7b246",
-      "summary": "Tesla's first-quarter earnings conference call is a wrap. Shares sold off during the call and were down about 2% near $379 in after-hours trading. Higher-than-expected capital spending is likely weighing on investor sentiment.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776897528000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139855763,
-      "headline": "Maybe Cybercab Is the Smaller Tesla People Have Been Anticipating",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0e4e7efaadbede3eb2c71024fa30d8ce5f91a1b88e993ddaf06bc500659ee5de",
-      "summary": "Musk doesn't see a future in human-driven cars. He sees Cybercab making up most of Tesla vehicle sales in the future. That means Cybercab, Tesla's purpose-built two-seat robo-taxi, might just be the smaller Tesla people have been waiting for.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776897093000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139855764,
-      "headline": "Intel lands key first customer for '14A' chip tech with Tesla's Terafab project, Musk says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4da2b255985feb53589d78f2d9802b36b575435ccbb191e3764fdeed5d5a05e0",
-      "summary": "Tesla's Chief Executive Officer Elon Musk said on Wednesday the company plans to use Intel's advanced 14A ‌manufacturing process to make chips at its Terafab project.  The ‌move marks a breakthrough for Intel, which has been trying to revamp its business ​to attract outside customers to use its chip manufacturing technology.  Intel's forthcoming \"14A\" chipmaking technology aims to compete with top rival Taiwan Semiconductor Manufacturing Co, but Intel had not yet disclosed a major external customer.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776896982000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139855736,
-      "headline": "3 AI Chipmakers With Far More Upside Than AMD",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8afde47101489017c284c83610697298c93265655d5c5541130c61a218639cf",
-      "summary": "AMD trades at a premium despite having far slower growth than this trio.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776896700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139855743,
-      "headline": "Einride files for $1.35B Nasdaq listing while scaling Amazon electric fleet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65438fc14b4bef5ac7c5b162a567a4903b43642bec9d99e346d7d4d8cf645714",
-      "summary": "Einride filed Form F-4 for its $1.35 billion SPAC merger with Legato and is deploying 75 electric trucks for Amazon across five U.S. locations. The post Einride files for $1.35B Nasdaq listing while scaling Amazon electric fleet appeared first on FreightWaves.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776896586000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139856939,
-      "headline": "Microsoft announces record $18 billion investment in Australia to boost AI",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=2a1d9ce1b35c61011952e7e1665cdcb8ef004221bd9112633ba3f680e2f6e5d3",
-      "summary": "Sydney, Australia, Apr 23 .- Microsoft on Wednesday announced an investment of AU$25 billion through 2029 to expand its artificial intelligence infrastructure, representing its largest financial...",
-      "image": "",
-      "datetime": 1776896046000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7836588,
-      "headline": "US Navy Secretary Phelan fired, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1dJUkJxeF9xUm1RdzhPRjdwTk02dkV4MXFlcnA0ZjN3eXIyNTBEb1htMUhwbHdLOW90c3QxQmkyX3ZBVDBOb1hJY2hnMWx3djVMSVk4amRPbjRTV3RSYV9kQ3YtVTZad1lDb00xSEh4WWZnNFBiUFI1bTkxakw2Rnh5N05WVzNIX0xfNlktX2paN05ROXV1RERDalA?oc=5",
-      "summary": "US Navy Secretary Phelan fired, sources say  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1776895800000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139855765,
-      "headline": "Tesla Stock Goes Red. Here's Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43a560c8aa37893cac395b7be902c934617deb6cf06a5416183d4f39c2b7adaf",
-      "summary": "Tesla stock gave up after-hours gains and was down slightly as investors listened to Elon Musk answer questions. A few things could be weighing on investor sentiment. Higher capital spending is one. Tesla expects to spend $25 billion in 2026, up from prior guidance of $20 billion.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776895517000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139855781,
-      "headline": "Is Costco's Stock Too Expensive Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fced1ca5bf1add7b1432906cc2d3958395e84993fd364a61e673816a38810067",
-      "summary": "Costco is trading near $1,000 per share, but the hefty price tag shouldn't scare away investors.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776895500000,
-      "ticker": "COST",
-      "category": "company"
-    },
-    {
-      "id": 139855766,
-      "headline": "Robo-Taxi Revenue to Be Significant in 2027.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e745686763ba536dacb5e964ccac5d0cb543af47f9f67dba816e2676b526f3f2",
-      "summary": "Eventually, Tesla's robo-taxi operations need to yield billions in profits to justify Tesla's $1.7 trillion valuation, based on its fully diluted share count, which includes Musk's options. Musk said the robo-taxi rollout would remain slow, with safety the top priority.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776895431000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139855753,
-      "headline": "Trump Media has pivoted to crypto, financial services and nuclear fusion. Its stock keeps falling.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62ae66b099cc499aa6486603db5229970eaeff7e1c367fee29b61738f4f30e4e",
-      "summary": "Launched by the Trump family four years ago with great fanfare, Truth Social was not just going take on Twitter and Facebook as a “free speech” alternative but maybe even challenge Netflix by streaming movies.  On Tuesday, the parent company of the once hoped-for social media giant announced it was shaking up its leadership.  Out is its long time CEO, former farmer turned Republican congressman Devin Nunes, replaced by seasoned digital executive, Kevin McGurn.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776895283000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139855767,
-      "headline": "Investors Have to Wait for Optimus, Version 3",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9ed82acf4a6d8a943fe411cd1d1f24ad507e4c75ac257637b5cd8c256c3edd04",
-      "summary": "It sounds like investors will have to wait until late summer to see the third generation of Optimus, with Musk preferring to hold the unveiling until the start of production.  Optimus will initially be built in Fremont, California, where Tesla builds the Model S and X, among other products.  The pace is \"impossible to predict,\" said Musk.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776895277000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139856774,
-      "headline": "Tesla (TSLA) Q1 Earnings: How Key Metrics Compare to Wall Street Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=726d3723e3546f5a8672514e40a6d3b005357a222950403a27ed2e9238e33a92",
-      "summary": "While the top- and bottom-line numbers for Tesla (TSLA) give a sense of how the business performed in the quarter ended March 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776895202000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139855811,
-      "headline": "1 Big Reason Analysts are Divided on Intel",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c554135870719c3208a3c8ca277646874741094cf370d72e0c1d461e3f50d772",
-      "summary": "Intel's turnaround story is compelling, but can its foundry business become profitable?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776895020000,
-      "ticker": "INTC",
       "category": "company"
     }
   ]
