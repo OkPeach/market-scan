@@ -52,12 +52,12 @@ function renderRow(stock, history) {
     <span class="name" title="${stock.name ?? ""}">${stock.name ?? ""}</span>
     <span class="price">${fmtPrice(stock.price)}</span>
     <span class="pct ${pctClass}">${fmtPct(pct)}</span>
-    <canvas class="spark"></canvas>
+    <div class="spark"><canvas></canvas></div>
   `;
 
-  const canvas = li.querySelector(".spark");
+  const canvas = li.querySelector(".spark canvas");
   const series = history[stock.ticker];
-  // Defer one tick so the canvas has dimensions before Chart.js measures it.
+  // Defer one tick so the wrapper has dimensions before Chart.js measures it.
   requestAnimationFrame(() => {
     renderSparkline(canvas, series, {
       color: pct == null || pct >= 0 ? POS_COLOR : NEG_COLOR,
