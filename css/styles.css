@@ -39,8 +39,13 @@ a:hover {
 }
 
 .site-header {
-  padding: 1.25rem 1.5rem 0.5rem;
+  padding: 1.25rem 1.5rem 0.85rem;
   border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 .site-header h1 {
   margin: 0;
@@ -51,6 +56,40 @@ a:hover {
   margin: 0.25rem 0 0;
   color: var(--text-dim);
   font-size: 0.9rem;
+}
+
+.refresh-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--bg-elev);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.45rem 0.75rem;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.refresh-btn:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.refresh-btn:disabled {
+  opacity: 0.6;
+  cursor: progress;
+}
+.refresh-btn .refresh-icon {
+  display: inline-block;
+  font-size: 1rem;
+  line-height: 1;
+}
+.refresh-btn.is-loading .refresh-icon {
+  animation: spin 0.9s linear infinite;
+}
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
 
 main {

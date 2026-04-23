@@ -14,8 +14,19 @@
   </head>
   <body>
     <header class="site-header">
-      <h1>market-scan</h1>
-      <p class="tagline">stocks · news · predictions</p>
+      <div class="site-header-text">
+        <h1>market-scan</h1>
+        <p class="tagline">stocks · news · predictions</p>
+      </div>
+      <button
+        type="button"
+        id="refresh-btn"
+        class="refresh-btn"
+        title="Reload data files from the repo (does not trigger the GitHub workflow)"
+      >
+        <span class="refresh-icon" aria-hidden="true">↻</span>
+        <span class="refresh-label">Refresh</span>
+      </button>
     </header>
 
     <main>
