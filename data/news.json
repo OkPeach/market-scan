@@ -1,6 +1,72 @@
 {
-  "timestamp": 1776976404346,
+  "timestamp": 1776981232746,
   "items": [
+    {
+      "id": 7840669,
+      "headline": "Trump says Israel-Lebanon ceasefire extended by three weeks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/23/trump-israel-lebanon-ceasefire-iran-war.html",
+      "summary": "Israel and Lebanon agreed to extend their ceasefire by three weeks following a meeting in the White House with top U.S. officials, President Donald Trump said.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108296540-1776978222218-gettyimages-2272096266-TRUMP_REGENERON.jpeg?v=1776978264&w=1920&h=1080",
+      "datetime": 1776979780000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139868966,
+      "headline": "Top gainers and losers in the S&P500 index during Thursday's after-hours session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=474f9719a63f2cf5e533e58b0e536b186c53c96194e1e0278b99430c7ca4aced",
+      "summary": "After the closing bell on Thursday, let's take a glimpse of the US markets and explore the top S&P500 gainers and losers in today's after-hours session.",
+      "image": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+      "datetime": 1776978305000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139868946,
+      "headline": "Thursday's after hours session: top gainers and losers",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=ac8200ca9565dc8edc5f3851d63dc32c19364be73e789e62a1013b13ae86f795",
+      "summary": "The regular session of the US market on Thursday is now over, but let's get a preview of the after-hours session and explore the top gainers and losers driving the post-market movements.",
+      "image": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+      "datetime": 1776978000000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 7840566,
+      "headline": "What the Trump administration's move to reclassify marijuana means for investors",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/23/what-cannabis-reclassification-means-for-investors.html",
+      "summary": "The Department of Justice said it will immediately move FDA-approved marijuana from Schedule I to Schedule III under the Controlled Substances Act.",
+      "image": "https://image.cnbcfm.com/api/v1/image/104747102-marijuana_farmer.jpg?v=1776964291&w=1920&h=1080",
+      "datetime": 1776977186000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 7840457,
+      "headline": "NYC Mayor Mamdani knocked Ken Griffin in pied-a-terre tax promo. His firm calls the move 'shameful'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/23/nyc-mayor-mamdani-knocked-ken-griffin-in-pied-a-terre-tax-promo-his-firm-calls-the-move-shameful.html",
+      "summary": "Chief Operating Officer Gerald Beeson saying in a memo that targeting Griffin showed \"ignorance and disdain\" toward contributors to the city's economy.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108135558-1745428607076-gettyimages-2211628098-331a5346_y1p05dqx.jpeg?v=1776975644&w=1920&h=1080",
+      "datetime": 1776976970000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 7840568,
+      "headline": "Trump says US will not use nuclear weapon in Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWU45T2l3LUNwR2dVRTk4QVdua0dNclhRV2RrY3pYSnF4Rk51QzV0cFZReEZwUUZoUjZ3TGxFVDBvblpjNnJlcjE2QnM4ZTRkbnFPWFlBSElUNFM1ZU9vSXplYUd1NXV5VEtEejVPZS12Vmx4TGh2OEJMRVMwN0NBS3VwTFNwWHBHSjlKT0RjRVBzWjczRkNEbXJ0UnlQYlRqakQwa0ROSS1VaU9qUUE?oc=5",
+      "summary": "Trump says US will not use nuclear weapon in Iran war  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1776975876000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 139867702,
       "headline": "This Under‑the‑Radar E-Commerce Stock Is Down from Its Highs -- and Might Be the Biggest Bargain in The Market Right Now.",
@@ -717,6 +783,17 @@
       "category": "company"
     },
     {
+      "id": 139869257,
+      "headline": "Ford: Prepare For A Challenging Year Ahead (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ec0576d100498a3f6fc8037726922c39b38f721a10233a7693586926256e11cf",
+      "summary": "Ford stock outlook: record-low valuation may be a trap as EV losses and restructuring hurt cash flow and threaten the dividend in 2026. Read the latest analysis on the stock here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2236837742/image_2236837742.jpg?io=getty-c-w1536",
+      "datetime": 1776966364000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 139866170,
       "headline": "Oracle Deal Collapse Sends Super Micro Stock Tumbling",
       "source": "Yahoo",
@@ -758,6 +835,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776966060000,
       "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139869146,
+      "headline": "Former Disney CEO Bob Iger returns to Thrive Capital",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3a6bc85a59402088fc4494fdd5bcfc45ba290b063fd18e552345c88f49fb9807",
+      "summary": "Former Disney ChiefExecutive Bob Iger is back at Thrive Capital, founder JoshKushner said on Thursday. Bob leads with boldness and conviction because he knowswhat he is building and...",
+      "image": "",
+      "datetime": 1776965958000,
+      "ticker": "DIS",
       "category": "company"
     },
     {
@@ -849,6 +937,39 @@
       "category": "company"
     },
     {
+      "id": 139869098,
+      "headline": "Goldman Sachs : Announces Redemption of All Outstanding Depositary Shares Representing Interests in Its 3.80% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series T",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c5eb49d70141e69ea9cc5b94f3b2f75a31316ce234f32eed1cff3ec43c74b86f",
+      "summary": "NEW YORK, NY, April 23, 2026 - The Goldman Sachs Group, Inc. today announced that on May 10, 2026 it will redeem all outstanding shares of its 3.80% Fixed-Rate Reset Non-Cumulative Preferred Stock,...",
+      "image": "",
+      "datetime": 1776965340000,
+      "ticker": "GS",
+      "category": "company"
+    },
+    {
+      "id": 139869102,
+      "headline": "Walmart : 2026 Annual Report (Walmart 2026 Annual Report)",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5198942d3ed1ff1c48f3dddb35920dd9d6db6b63e8728a6aff85f3be7959d533",
+      "summary": "Annual Report 2026 A message from our CEO ...",
+      "image": "",
+      "datetime": 1776965337000,
+      "ticker": "WMT",
+      "category": "company"
+    },
+    {
+      "id": 139869103,
+      "headline": "Walmart : Proxy Statement (2026 Proxy Statement)",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f25d9a9e82f55d93f3a10d9557bf4e82a29a917a5dec4bedb25481cdf190de9e",
+      "summary": "Notice of 2026 Annual Shareholders' Meeting Thursday, June 4, 2026 Virtual meeting at 8:30 a.m. Central Time ...",
+      "image": "",
+      "datetime": 1776965335000,
+      "ticker": "WMT",
+      "category": "company"
+    },
+    {
       "id": 139866228,
       "headline": "Tesla takes crypto hit but still delivers earnings surprise",
       "source": "Yahoo",
@@ -893,6 +1014,28 @@
       "category": "company"
     },
     {
+      "id": 139869033,
+      "headline": "Intel Corporation 2026 Q1 - Results - Earnings Call Presentation",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0367b07d9982d032acfbd0665844a230ce9e0dfe61ab4b9c8cdbe958296d71d2",
+      "summary": "2026-04-23. The following slide deck was published by Intel Corporation in conjunction with their 2026 Q1 earnings call.",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1776964805000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139868945,
+      "headline": "Stocks on the Backfoot, Intel Beats Earnings | Closing Bell",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1cb0f11c64936bc9317eac8d8ba59e1deea337719c9877e54c45ce8a734440b5",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec....",
+      "image": "",
+      "datetime": 1776964679000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 139867779,
       "headline": "AMD's Ryzen 9950X3D2 Launch Impact: What's Ahead in Gaming Next?",
       "source": "Yahoo",
@@ -912,6 +1055,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776964620000,
       "ticker": "JPM",
+      "category": "company"
+    },
+    {
+      "id": 139868972,
+      "headline": "BUZZ Investing: April Rebound Calms A March Washout",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=90ad026d13252f9e42316358a4e9607959bb3b0770608617e7a241bb5c40edce",
+      "summary": "U.S. equity markets experienced continued volatility and a broad-based defensive retrenchment through much of the recent period. Read more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2108172267/image_2108172267.jpg?io=getty-c-w1536",
+      "datetime": 1776964500000,
+      "ticker": "META",
       "category": "company"
     },
     {
@@ -945,160 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776964199000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139866173,
-      "headline": "2 Reasons to Buy This Surging Nuclear Energy Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3403035505b6c73816bbd2b08f8d86a6f91683abd0cfa1fa665408383a6d3429",
-      "summary": "OKLO is soaring this quarter, but still has some room to run on the charts",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776964075000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139866196,
-      "headline": "Salesforce Plummets 9% on Sector Panic. Is the Cloud Software King on Sale?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2a219f08cbc32ae7efadf76357c6989c2f0106e14841c90845c6b19a5b60198",
-      "summary": "Salesforce (NYSE:CRM) stock is down 9% intraday to $172.55, caught in a sector-wide panic that’s gutting enterprise software valuations. The trigger came from ServiceNow‘s (NYSE:NOW) Q1 2026 report and the cascade of Wall Street price target cuts that followed, rather than any company-specific news at Salesforce. For retirement-focused investors, the question is whether the cloud ... Salesforce Plummets 9% on Sector Panic. Is the Cloud Software King on Sale?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776964001000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139866174,
-      "headline": "CEO Elon Musk Just Delivered Bad News to Tesla Shareholders and Vehicle Owners",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d439182f7e4bf09359c840ab983b6167c942991dd42a24fc2af1f04327a130a",
-      "summary": "Tesla recently reported its 2026 first-quarter earnings results, followed by a conference call that fielded questions from investors and analysts.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963967000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139866175,
-      "headline": "Forget SpaceX Stock -- Is RocketLab the Better Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df23ad4a36a285387c05133bc320bc9f26047403ba1bef7dfe0405e9093014a6",
-      "summary": "Space could be a huge opportunity, but don't buy the wrong stock.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963900000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139866191,
-      "headline": "Is Apple (AAPL) One Of The Best Warren Buffett Stocks?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=90b058c2e31e6396fa977b6df743b5717161edd3769f582354a89f30054f101a",
-      "summary": "Apple Inc. (NASDAQ:AAPL) is included in our list of the best Warren Buffett stocks. Buffett added Apple Inc. (NASDAQ:AAPL) to his portfolio back in 2016. As of Q1 2016, Warren Buffett held 39.25 million shares worth over $1.07 billion. Over the years, the billionaire continued to acquire more shares of the iPhone-maker, seeing the investment […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963699000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139866282,
-      "headline": "Bank of America (BAC) Remains in Warren Buffett’s Portfolio Since 2011; See Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ee2797a2f777fdd5571334a94929a4f9cb3ac9cffec92007409b39d99451033",
-      "summary": "Bank of America Corporation (NYSE:BAC) is included in our list of the best Warren Buffett stocks. Bank of America Corporation (NYSE:BAC) has remained in Warren Buffett’s holdings since 2011, when the billionaire acquired a $5 billion stake in the bank through preferred shares. Later, in Q3 2017, he acquired 679 million common shares, which translated […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963697000,
-      "ticker": "BAC",
-      "category": "company"
-    },
-    {
-      "id": 139866316,
-      "headline": "Why Is The Coca-Cola Company (KO) Part Of Warren Buffett’s Portfolio Since 1988?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1637563456e3e225bba159bb44d1c0f2dbe0c4c77f8699b9d7a6d24607ee6590",
-      "summary": "The Coca-Cola Company (NYSE:KO) is among the best Warren Buffett stocks. The Coca-Cola Company (NYSE:KO) remains one of Warren Buffett’s longest-held positions, with the billionaire adding the stock to his portfolio back in 1988. Warren Buffett, a longtime advocate of Coca-Cola, once joked, “I’m one-quarter Coca-Cola,” reflecting his love for the brand. As of Q4 […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963696000,
-      "ticker": "KO",
-      "category": "company"
-    },
-    {
-      "id": 139866284,
-      "headline": "Deepening Growth Pipeline Sustains Warren Buffett’s Confidence In Chevron (CVX)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=53cfab20574a318df9a3be86f20e03ce4915973e97569133cb16ea170bac0a1b",
-      "summary": "Chevron Corporation (NYSE:CVX) is included in our list of the best Warren Buffett stocks. Buffett added Chevron Corporation (NYSE:CVX) to his portfolio back in 2020. As of Q3 2020, Warren Buffett held 44.27 million shares worth $3.19 billion. Over the years, the billionaire continued to add to his stake in the oil company. As of […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963694000,
-      "ticker": "CVX",
-      "category": "company"
-    },
-    {
-      "id": 139866204,
-      "headline": "How Has Warren Buffett’s Investment In Alphabet (GOOGL) Played Out?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b4303a06f54c047a552a0efa26b14bc0d3946ebf47793d78af92a9e22f2168b8",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is among the best Warren Buffett stocks. Buffett added Alphabet Inc. (NASDAQ:GOOGL) to his portfolio in 2025, purchasing 17.85 million shares worth $4.34 billion, which made the stock Warren Buffett’s 10th biggest holding as of Q3 2025. Berkshire’s investment in the stock has grown to $5.59 billion as of Q4 2025. Meanwhile, Alphabet […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963686000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139866176,
-      "headline": "SK Hynix Reports Five-Fold Profit Jump As AI Memory Demand Surges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e662ba9cd41342f7dad411722d8294ca0f78da6f4e1f48bcd9228bb3d986b8f",
-      "summary": "HBM demand tied to AI workloads may exceed supply for three years, supporting pricing and driving higher capital spending",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963685000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139866197,
-      "headline": "Slalom Builds Momentum with 2026 Tech Trends, Future of Marketing Solution, Strategic Partner Milestones, and Community Investments",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ddc640ee2bc2ff6286ce4f856878e421873f982845a3be058426ace4cf9d8f6",
-      "summary": "Recent company milestones include new Microsoft and Snowflake partner recognitions, continued workplace accolades, and more than $200,000 delivered in Slalom Foundation grantsSEATTLE, April 23, 2026 (GLOBE NEWSWIRE) -- Slalom, the global business and technology consulting company, has entered Q2 2026 with new partner milestones, workplace recognitions, thought leadership launches, and expanded social impact investments. In the first quarter of the year, Slalom earned new recognition from Microso",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963600000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139866232,
-      "headline": "AiLO Logistics Launches Tesla Semi Pilot in Live Freight Operations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b28a33b3bbeb3ac0c64507eeaccdcd51125ce812beafa0d9c94ac2c95c960bb6",
-      "summary": "Three-week deployment puts Class 8 electric truck on active freight lanes serving multiple customers. COMPTON, CA / ACCESS Newswire / April 23, 2026 / AiLO Logistics, a freight brokerage and asset-based carrier, today announced the start of a three-week ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963600000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139866177,
-      "headline": "Nike Is Now the Third Highest-Yielding Dividend Stock in the Dow Jones Industrial Average. Should You Follow Apple CEO Tim Cook's Lead and Buy Nike Near a 10-Year Low?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b8800c01c02aa7590797e7da1804e8269926270886a39f35e8c7c72b8e57708b",
-      "summary": "Nike's dividend yield is near an all-time high due to its falling stock price and 24 years of dividend increases.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776963000000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139866178,
-      "headline": "Thermo Fisher Scientific Inc. Q1 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a83d42a1978c4c35e4a06e70109a0803086319cb90ec7651f17d4b314e91c143",
-      "summary": "Moby summary of Thermo Fisher Scientific Inc.'s Q1 2026 earnings call",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776962972000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
