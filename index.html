@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>market-scan</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="icon" href="data:," />
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"
+    ></script>
+    <script type="module" src="js/app.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>market-scan</h1>
+      <p class="tagline">stocks · news · predictions</p>
+    </header>
+
+    <main>
+      <section id="news-section" class="panel">
+        <header class="panel-header">
+          <h2>Market-moving news</h2>
+          <span class="hint">sorted by impact (|same-day % move|)</span>
+        </header>
+        <div id="news-list" class="news-list">
+          <p class="empty">Loading news…</p>
+        </div>
+      </section>
+
+      <section id="movers-section" class="panel">
+        <header class="panel-header">
+          <h2>24h best / worst</h2>
+          <span class="hint">top 5 from the watchlist</span>
+        </header>
+        <div class="movers-grid">
+          <div>
+            <h3 class="movers-title pos">Best</h3>
+            <ul id="best-list" class="movers-list">
+              <li class="empty">Loading…</li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="movers-title neg">Worst</h3>
+            <ul id="worst-list" class="movers-list">
+              <li class="empty">Loading…</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section id="predictions-section" class="panel">
+        <header class="panel-header">
+          <h2>Predictions</h2>
+          <span class="hint">stored locally in your browser</span>
+        </header>
+
+        <form id="prediction-form" class="prediction-form" autocomplete="off">
+          <div class="field">
+            <label for="pf-ticker">Ticker</label>
+            <select id="pf-ticker" required></select>
+          </div>
+          <div class="field">
+            <label for="pf-direction">Direction</label>
+            <select id="pf-direction" required>
+              <option value="buy">Buy (price ↑)</option>
+              <option value="sell">Sell (price ↓)</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="pf-target">Target % move</label>
+            <input
+              type="number"
+              id="pf-target"
+              min="0.1"
+              step="0.1"
+              value="1"
+              required
+            />
+          </div>
+          <div class="field">
+            <label for="pf-window">Window (hours)</label>
+            <input
+              type="number"
+              id="pf-window"
+              min="1"
+              max="24"
+              step="1"
+              value="4"
+              required
+            />
+          </div>
+          <button type="submit" class="primary">Submit prediction</button>
+        </form>
+
+        <div class="leaderboards">
+          <div>
+            <h3>Open</h3>
+            <ul id="open-list" class="prediction-list">
+              <li class="empty">No open predictions.</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Buy leaderboard <small>last 24h</small></h3>
+            <ul id="buy-leaderboard" class="prediction-list">
+              <li class="empty">No resolved buy predictions yet.</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Sell leaderboard <small>last 24h</small></h3>
+            <ul id="sell-leaderboard" class="prediction-list">
+              <li class="empty">No resolved sell predictions yet.</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Best predictions <small>resolved + hit, last 24h</small></h3>
+            <ul id="best-predictions" class="prediction-list">
+              <li class="empty">No hits yet.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>last updated: <span id="last-updated">never</span></span>
+      <span class="sep">·</span>
+      <span>data: <a href="https://finnhub.io/" target="_blank" rel="noopener">Finnhub</a></span>
+    </footer>
+  </body>
+</html>
