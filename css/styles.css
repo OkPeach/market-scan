@@ -393,9 +393,19 @@ main {
 .mover .pct.neg { color: var(--red);   background: var(--red-bg); }
 .mover .spark {
   grid-column: 1 / -1;
-  height: 32px;
+  position: relative;  /* Chart.js measures this wrapper, not the canvas.   */
+  height: 32px;        /* Fixed height prevents the infinite-resize loop. */
+  width: 100%;
   margin-top: 0.35rem;
   opacity: 0.95;
+  overflow: hidden;
+}
+.mover .spark canvas {
+  /* Override the inline width/height Chart.js sets so the canvas always
+     matches the wrapper — Chart.js won't grow the parent. */
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
 }
 
 /* -------- Predictions form -------- */

@@ -49,6 +49,8 @@ export function renderSparkline(canvas, points, { color }) {
       responsive: true,
       maintainAspectRatio: false,
       animation: false,
+      resizeDelay: 0,
+      layout: { padding: 0 },
       plugins: { legend: { display: false }, tooltip: { enabled: false } },
       scales: {
         x: { display: false },
