@@ -88,12 +88,29 @@ async function refresh(state) {
 }
 
 async function main() {
-  const state = { data: null };
+  const state = { data: null, refreshing: false };
 
   initPredictionForm({
     formEl: document.getElementById("prediction-form"),
     onChange: () => refresh(state),
   });
+
+  const refreshBtn = document.getElementById("refresh-btn");
+  if (refreshBtn) {
+    refreshBtn.addEventListener("click", async () => {
+      if (state.refreshing) return;
+      state.refreshing = true;
+      refreshBtn.disabled = true;
+      refreshBtn.classList.add("is-loading");
+      try {
+        await refresh(state);
+      } finally {
+        state.refreshing = false;
+        refreshBtn.disabled = false;
+        refreshBtn.classList.remove("is-loading");
+      }
+    });
+  }
 
   await refresh(state);
 
