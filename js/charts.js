@@ -2,11 +2,26 @@
 // Chart is loaded via CDN as a global; we read it lazily per call so
 // modules don't crash if the script is still loading on first paint.
 
+import { createLogger } from "./logger.js";
+
+const log = createLogger("charts");
 const sparkRegistry = new WeakMap();
 
+let warnedMissingChart = false;
+
 export function renderSparkline(canvas, points, { color }) {
-  if (!canvas || typeof window.Chart === "undefined") return;
-  if (!points || points.length < 2) return;
+  if (!canvas) return;
+  if (typeof window.Chart === "undefined") {
+    if (!warnedMissingChart) {
+      log.warn("Chart.js not loaded yet — sparklines will render on next refresh");
+      warnedMissingChart = true;
+    }
+    return;
+  }
+  if (!points || points.length < 2) {
+    log.debug(`skip sparkline: ${points?.length ?? 0} points`);
+    return;
+  }
 
   const data = points.map((p) => p.p);
   const labels = points.map(() => "");

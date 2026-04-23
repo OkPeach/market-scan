@@ -1,5 +1,9 @@
 // Render news, sorted by impact = |same-day % move| of the mentioned ticker.
 
+import { createLogger } from "./logger.js";
+
+const log = createLogger("news");
+
 function fmtPct(n) {
   if (n == null || Number.isNaN(n)) return "—";
   const sign = n > 0 ? "+" : "";
@@ -43,8 +47,12 @@ function tickerBadge(item, stockMap) {
 }
 
 export function renderNews({ listEl, items, stocks }) {
-  if (!listEl) return;
+  if (!listEl) {
+    log.warn("renderNews: no list element");
+    return;
+  }
   if (!items || items.length === 0) {
+    log.info("renderNews: no items, showing empty state");
     listEl.innerHTML =
       '<p class="empty">No news yet — waiting for first workflow run.</p>';
     return;
@@ -88,4 +96,8 @@ export function renderNews({ listEl, items, stocks }) {
     .join("");
 
   listEl.innerHTML = html;
+  const withTicker = sorted.filter((it) => it.ticker).length;
+  log.info(
+    `renderNews: rendered ${sorted.length} items (${withTicker} with a ticker)`,
+  );
 }
