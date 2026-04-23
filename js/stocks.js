@@ -1,6 +1,9 @@
 // Render best/worst lists and populate the ticker dropdown.
 
 import { renderSparkline } from "./charts.js";
+import { createLogger } from "./logger.js";
+
+const log = createLogger("stocks");
 
 const POS_COLOR = "#3fb950";
 const NEG_COLOR = "#f85149";
@@ -19,8 +22,10 @@ function fmtPct(n) {
 }
 
 export function populateTickerSelect(selectEl, tickers) {
-  if (!selectEl) return;
-  // Preserve the currently selected value if still present.
+  if (!selectEl) {
+    log.warn("populateTickerSelect: no select element");
+    return;
+  }
   const prev = selectEl.value;
   selectEl.innerHTML = "";
   for (const t of tickers) {
@@ -32,6 +37,7 @@ export function populateTickerSelect(selectEl, tickers) {
   if (prev && tickers.some((t) => t.symbol === prev)) {
     selectEl.value = prev;
   }
+  log.debug(`populateTickerSelect: ${tickers.length} options (preserved=${prev || "none"})`);
 }
 
 function renderRow(stock, history) {
@@ -62,7 +68,10 @@ function renderRow(stock, history) {
 }
 
 export function renderMovers({ bestEl, worstEl, stocks, history }) {
-  if (!bestEl || !worstEl) return;
+  if (!bestEl || !worstEl) {
+    log.warn("renderMovers: missing list elements");
+    return;
+  }
   bestEl.innerHTML = "";
   worstEl.innerHTML = "";
 
@@ -72,6 +81,7 @@ export function renderMovers({ bestEl, worstEl, stocks, history }) {
     .sort((a, b) => b.changePct - a.changePct);
 
   if (ranked.length === 0) {
+    log.info(`renderMovers: no ranked stocks (${stocks.length} input)`);
     bestEl.innerHTML = '<li class="empty">No data yet — waiting for first workflow run.</li>';
     worstEl.innerHTML = '<li class="empty">No data yet — waiting for first workflow run.</li>';
     return;
@@ -82,4 +92,8 @@ export function renderMovers({ bestEl, worstEl, stocks, history }) {
 
   for (const s of best) bestEl.appendChild(renderRow(s, history));
   for (const s of worst) worstEl.appendChild(renderRow(s, history));
+  log.info(
+    `renderMovers: best=[${best.map((s) => s.ticker).join(",")}] ` +
+      `worst=[${worst.map((s) => s.ticker).join(",")}]`,
+  );
 }

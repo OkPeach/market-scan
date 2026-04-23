@@ -1,4 +1,8 @@
 // Predictions: localStorage CRUD, expiry resolution, leaderboards.
+
+import { createLogger } from "./logger.js";
+
+const log = createLogger("predictions");
 //
 // Schema:
 // {
@@ -25,7 +29,8 @@ function load() {
     if (!raw) return [];
     const parsed = JSON.parse(raw);
     return Array.isArray(parsed) ? parsed : [];
-  } catch {
+  } catch (err) {
+    log.warn("load: failed to parse localStorage, starting empty:", err.message);
     return [];
   }
 }
@@ -33,8 +38,9 @@ function load() {
 function save(predictions) {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(predictions));
+    log.debug(`save: ${predictions.length} predictions persisted`);
   } catch (err) {
-    console.warn("could not save predictions:", err.message);
+    log.warn("save: could not persist predictions:", err.message);
   }
 }
 
@@ -64,7 +70,11 @@ function fmtRelative(ms) {
 }
 
 export function initPredictionForm({ formEl, onChange }) {
-  if (!formEl) return;
+  if (!formEl) {
+    log.warn("initPredictionForm: no form element");
+    return;
+  }
+  log.info("initPredictionForm: wired");
 
   formEl.addEventListener("submit", (e) => {
     e.preventDefault();
@@ -73,12 +83,18 @@ export function initPredictionForm({ formEl, onChange }) {
     const targetPct = parseFloat(formEl.querySelector("#pf-target").value);
     const windowHours = parseInt(formEl.querySelector("#pf-window").value, 10);
 
+    log.info(
+      `submit: ticker=${ticker} dir=${direction} target=${targetPct}% window=${windowHours}h`,
+    );
+
     if (!ticker || !direction || !Number.isFinite(targetPct) || !Number.isFinite(windowHours)) {
+      log.warn("submit: invalid form values, ignoring");
       return;
     }
 
     const startPrice = currentPriceFor(ticker);
     if (startPrice == null) {
+      log.warn(`submit: no current price for ${ticker}, cannot record`);
       alert(
         `No current price available for ${ticker} yet. Wait for the next data refresh.`,
       );
@@ -104,22 +120,25 @@ export function initPredictionForm({ formEl, onChange }) {
     const all = load();
     all.push(prediction);
     save(all);
+    log.info(
+      `submit: recorded prediction ${prediction.id} (startPrice=${startPrice})`,
+    );
 
-    // Reset target/window to defaults but keep ticker/direction selection.
     formEl.querySelector("#pf-target").value = "1";
     formEl.querySelector("#pf-window").value = "4";
 
     if (onChange) onChange();
   });
 
-  // Delegate delete clicks (rendered list lives outside the form).
   document.addEventListener("click", (e) => {
     const btn = e.target.closest(".prediction .delete");
     if (!btn) return;
     const id = btn.dataset.id;
     if (!id) return;
-    const filtered = load().filter((p) => p.id !== id);
+    const before = load();
+    const filtered = before.filter((p) => p.id !== id);
     save(filtered);
+    log.info(`delete: removed ${id} (${before.length} -> ${filtered.length})`);
     if (onChange) onChange();
   });
 }
@@ -135,7 +154,8 @@ function currentPriceFor(ticker) {
 export function resolveExpired({ stockMap, history, now }) {
   currentStockMap = stockMap;
   const all = load();
-  let changed = false;
+  let changed = 0;
+  let skipped = 0;
 
   for (const p of all) {
     if (p.resolved) continue;
@@ -145,7 +165,7 @@ export function resolveExpired({ stockMap, history, now }) {
       stockMap.get(p.ticker)?.price ?? null;
 
     if (endPrice == null || p.startPrice == null || p.startPrice === 0) {
-      // Can't resolve yet (no end price). Leave as unresolved; will retry next refresh.
+      skipped++;
       continue;
     }
 
@@ -159,10 +179,16 @@ export function resolveExpired({ stockMap, history, now }) {
     p.actualPct = actualPct;
     p.endPrice = endPrice;
     p.hit = directionMatch && magnitudeMet;
-    changed = true;
+    changed++;
+    log.info(
+      `resolve: ${p.id} ${p.ticker} ${p.direction} actual=${actualPct.toFixed(2)}% hit=${p.hit}`,
+    );
   }
 
   if (changed) save(all);
+  log.debug(
+    `resolveExpired: total=${all.length} resolved=${changed} skipped=${skipped}`,
+  );
 }
 
 function priceAtOrAfter(series, t) {
@@ -252,4 +278,8 @@ export function renderPredictionLists({ openEl, buyEl, sellEl, bestEl }) {
       ? bestSorted.map((p) => predictionRow(p)).join("")
       : '<li class="empty">No hits yet.</li>';
   }
+  log.debug(
+    `renderPredictionLists: open=${open.length} buy=${buys.length} ` +
+      `sell=${sells.length} hits=${bestSorted.length}`,
+  );
 }

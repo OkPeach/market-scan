@@ -9,11 +9,21 @@ import { fileURLToPath } from "node:url";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
 
+function ts() {
+  return new Date().toISOString();
+}
+const log = {
+  info: (...a) => console.log(`${ts()} [fetch-news]`, ...a),
+  warn: (...a) => console.warn(`${ts()} [fetch-news] WARN`, ...a),
+  error: (...a) => console.error(`${ts()} [fetch-news] ERROR`, ...a),
+};
+
 const API_KEY = process.env.FINNHUB_API_KEY;
 if (!API_KEY) {
-  console.error("FINNHUB_API_KEY env var is required");
+  log.error("FINNHUB_API_KEY env var NOT set — aborting");
   process.exit(1);
 }
+log.info(`FINNHUB_API_KEY loaded OK (length=${API_KEY.length})`);
 
 const REQUEST_DELAY_MS = 1300; // ~50 req/min
 const MAX_ITEMS = 100;
@@ -71,9 +81,11 @@ function normalize(raw, ticker) {
 async function main() {
   const tickersPath = resolve(ROOT, "config/tickers.json");
   const newsPath = resolve(ROOT, "data/news.json");
+  log.info(`root=${ROOT}`);
 
   const tickersFile = await readJson(tickersPath, { tickers: [] });
   const tickers = tickersFile.tickers ?? [];
+  log.info(`loaded ${tickers.length} tickers from config`);
 
   const now = Date.now();
   const cutoff = now - WINDOW_MS;
@@ -84,24 +96,28 @@ async function main() {
   const toDate = isoDate(today);
 
   const items = [];
+  let generalCount = 0;
+  let perTickerCount = 0;
 
-  // General market news first (1 request).
   try {
     const gen = await fetchGeneralNews();
+    generalCount = gen.length;
     for (const r of gen) items.push(normalize(r, null));
+    log.info(`general news: ${generalCount} items`);
   } catch (err) {
-    console.warn("general news error:", err.message);
+    log.warn(`general news error: ${err.message}`);
   }
   if (tickers.length > 0) await sleep(REQUEST_DELAY_MS);
 
-  // Per-ticker news.
   for (let i = 0; i < tickers.length; i++) {
     const { symbol } = tickers[i];
     try {
       const list = await fetchCompanyNews(symbol, fromDate, toDate);
       for (const r of list) items.push(normalize(r, symbol));
+      perTickerCount += list.length;
+      log.info(`${symbol}: ${list.length} items`);
     } catch (err) {
-      console.warn(`company-news ${symbol}:`, err.message);
+      log.warn(`${symbol}: ${err.message}`);
     }
     if (i < tickers.length - 1) await sleep(REQUEST_DELAY_MS);
   }
@@ -130,10 +146,14 @@ async function main() {
     JSON.stringify({ timestamp: now, items: merged }, null, 2) + "\n",
   );
 
-  console.log(`wrote ${merged.length} news items`);
+  log.info(
+    `wrote news.json: ${merged.length} merged items ` +
+      `(general=${generalCount}, per-ticker=${perTickerCount}, ` +
+      `deduped=${seen.size}, within-24h=${merged.length})`,
+  );
 }
 
 main().catch((err) => {
-  console.error(err);
+  log.error(err.stack || err.message);
   process.exit(1);
 });
