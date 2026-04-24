@@ -75,6 +75,14 @@
     {
       "symbol": "SXR8",
       "name": ""
+    },
+    {
+      "symbol": "SP500",
+      "name": ""
+    },
+    {
+      "symbol": "GOLD",
+      "name": ""
     }
   ]
 }
