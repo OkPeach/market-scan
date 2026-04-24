@@ -1,6 +1,248 @@
 {
-  "timestamp": 1776988531063,
+  "timestamp": 1777001999590,
   "items": [
+    {
+      "id": 139871303,
+      "headline": "Xiaomi has delivered 26,000 units of upgraded SU7 series sedan",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68488a4e8712505615d789abd62be8609afc45d433f21186087fced2658bf42b",
+      "summary": "Xiaomi, a well-known maker of ‌smart consumer electronics in China, ‌said on Friday that it had ​delivered 26,000 units of its upgraded SU7 series, which launched in March. Xiaomi CEO Lei ‌Jun told ⁠media at an event at the Beijing Autoshow ⁠that the company had received 60,000 locked orders as of ​April 23 ​for ​the new generation ‌SU7 sedans and planned to launch its YU7 GT series at the end of May. With a huge following in China, ‌the Chinese electronic ​giant is taking ​on ​Tesla and pursuing premium ‌strategy in the ​EV market.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776994927000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139871277,
+      "headline": "Why Applied Digital Stock Jumped Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a11e557cbd3b79b281ed27df287a769abaacab6ad8e3c7596c7c10bb3992a7c6",
+      "summary": "Cloud titans are turning to the next-gen data center builder for their AI infrastructure needs.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776993670000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 7841799,
+      "headline": "Oil rises on concerns over escalating military tensions in the Middle East - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1hFdFBWbnRDYkJIN01UakRzSG9Nb2duY0Zoakh6M3NIcHU4NzU4VERXU2lYRktUT1ZfSWNvY2JJZWh1elpHSmgtQTJkdkYwM0VFbGlnX3dfaGROamM2dnVLcF9OQW5tRkFPYWlQR2hQZjZqTURyMFloZlBTOUNZcER1NkIyc0dzNmUwUFozeDdoYklaRzhoOWRxTGN2c1I0UHEwM2RrZEZsVTQ2QmZ6TUFQc2hxeDQ?oc=5",
+      "summary": "Oil rises on concerns over escalating military tensions in the Middle East  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1776993240000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139871311,
+      "headline": "Shifting Narrative For Smith Douglas Homes (SDHC) As Earnings Beat Meets Softer Orders And Guidance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bec505dfaaff9d10b0a7fd12d593f758710bb57152c214014dead40668c666a",
+      "summary": "Analysts have kept Smith Douglas Homes’ fair value estimate steady at $13.13, while some individual price targets have shifted, including cuts to $12 from $19 and to $11.50 from $14. These adjustments align with a more cautious tone around softer orders, a weaker Q1 guide, and questions about how recent results translate into future earnings power. As you read on, you will see how to track these evolving calls and what to watch as the story develops. Stay updated as the Fair Value for Smith...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776993008000,
+      "ticker": "BAC",
+      "category": "company"
+    },
+    {
+      "id": 139871284,
+      "headline": "Microsoft’s A$25b Australia Plan Puts AI CapEx And Cloud Usage In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96b3ee445c2a9d8917d54215a6fc0adf73253d082a8bfdd9a15625057441ff36",
+      "summary": "Microsoft, ticker NasdaqGS:MSFT, has announced an $18b investment in Australia to expand Azure AI and cloud infrastructure. The plan includes funding for cybersecurity initiatives to support national defenses. Microsoft also aims to provide AI-related skills training to 3 million Australians by 2028. This is Microsoft’s largest committed investment in Australia to date. For investors watching NasdaqGS:MSFT, this move adds fresh context to a company that has seen a 39.6% return over 3 years...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776993007000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 7841699,
+      "headline": "Dollar set for weekly gain on stalled US-Iran talks and Middle East uncertainty - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzk5d3dIR2hyS2ZlWmhpcWdmNlhidVA2ZktwSFYzcDFISmJLc0VxbUFHOXEwTEZTMV9Jdk1halA0NC10bkRJS3ZFNGdlamxPZE91bXEzS2pBeU0xcEF0bUEyODVnUmpzRHNlak9EWU9GY1NIRklURWJPbE5qVWo5ODFWempuSzFJMGkxckFCLVlIZllleVpLT2ppcFZIUGx6VkRDMFRPVFcwanFNbjhtdHZTLTMtMUk?oc=5",
+      "summary": "Dollar set for weekly gain on stalled US-Iran talks and Middle East uncertainty  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1776992820000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139871308,
+      "headline": "Getac Redefines Rugged Mobility with Launch of G140 Copilot+ PC, Powered by AMD Technology",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=917bfd8774ee4797dd4066d5aef060073675642db4d5ffd15ee9d67901eca21b",
+      "summary": "Getac Technology Corporation (Getac), a leading provider of rugged computing and mobile video solutions and a manufacturer with advanced in-house capabilities, today announced the launch of the new G140 tablet, a fully rugged Copilot+ PC[1].",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776992400000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139871310,
+      "headline": "Sam's Club just gave members a reason to ditch Costco",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99d20bc7dea6dbbf42ab5417713c489fdfe3691a68e92d5b4e565b402cbbf777",
+      "summary": "For years, Costco and Sam’s Club have been locked in a fierce battle for dominance in the warehouse club space. Both retailers have built loyal followings by offering bulk goods at competitive prices. But Costco has long held the upper hand. Costco's reputation for quality, strong customer ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776991020000,
+      "ticker": "COST",
+      "category": "company"
+    },
+    {
+      "id": 139871304,
+      "headline": "Gary Black Says Tesla's $25 Billion Spend Not A Surprise, Expects TSLA Valuation To Come Down Amid Self-Driving Roll Back",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=116b55b9d101e46d188f98ed40c2bde566fb7a8d1535942d4cda4b67df85ec85",
+      "summary": "Investor Gary Black of The Future Fund LLC has said he expects Tesla Inc.‘s value to decline in the coming days, following a slowdown in its self-driving progress. Tesla To Decline In Value? In a post on the social media platform X on Wednesday, the investor said he expects full-year 2026 earnings projections for Tesla to be raised to approximately $2.00 per share from earlier projections of $1.90 per share. However, Black said that Tesla’s valuation could take a hit, sharing that the automaker’",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776990663000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139871281,
+      "headline": "Where is Microsoft’s headquarters? Inside the tech giant’s corporate campus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66a1f3227b8a53758bc6a870dfbdda6fc417c779d1f9a9a8fa6184ddb5f1229d",
+      "summary": "While Apple (AAPL) may be known for its spaceship-shaped Cupertino headquarters and Amazon (AMZN) operates out of three glass-enclosed spheres in Seattle, Microsoft (MSFT) distinguishes itself with a leafy green base that leans more “futuristic college” than sterile design showpiece. Its recently ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776990569000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139871289,
+      "headline": "Amazon-Backed Nuclear Firm X-Energy Raises $1.02 Billion in IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1def2f891c681423d4f6923a93989dc329684b71c5708125843d17280b440d5a",
+      "summary": "(Bloomberg) -- X-Energy Inc., a nuclear energy firm that counts Amazon.com Inc. as a backer, raised $1.02 billion in an upsized US initial public offering that priced above the marketed range.Most Read from BloombergAnthropic’s Mythos Model Is Being Accessed by Unauthorized UsersInside Alex Cooper’s Unwell: Tears, Screaming and Employees Looking for the ExitMeta Tells Staff It Will Cut 10% of Jobs in Push for EfficiencyMicrosoft Offers Buyouts to About 7% of US WorkersTrump Encourages Companies",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776989515000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139871343,
+      "headline": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e979d234a4ecc2e9c38d13935afcfd383dc0e3a769efd563390ce3f3664a783c",
+      "summary": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776989485000,
+      "ticker": "DIS",
+      "category": "company"
+    },
+    {
+      "id": 139871278,
+      "headline": "Why Molina Healthcare Stock Rocketed 14% Higher Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3826d872b4ccd03122e618b073a346d11656f1abf66fd8668e931f4fe89b3bf3",
+      "summary": "Investors were prepared for the worst with the Medicaid specialist, but it surprised on the upside.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776989428000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139871346,
+      "headline": "Boeing Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ecb2bc3d634a83ac52fd81fc637f7e654b3928f0feb7740a7bfff764fba8b02",
+      "summary": "Boeing (NYSE:BA) executives said the company began 2026 with improved performance across its three major businesses, with higher revenue, progress on commercial production stability, and continued efforts to de-risk defense development programs. Management also said it has not seen a near-term impac",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776989250000,
+      "ticker": "BA",
+      "category": "company"
+    },
+    {
+      "id": 139871279,
+      "headline": "Oracle just made Supermicro’s story a lot more complicated",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd2be6b5977f8a2a506dae0481e2f58b58739b81287f41fe4b17b68560a61eaf",
+      "summary": "A reported order cancellation between Oracle (ORCL) and Super Micro Computer (SMCI) gave investors a new reason to question how durable some AI infrastructure relationships really are. Multiple market outlets, citing Bluefin Research, said Oracle canceled an order for 300 to 400 Nvidia GB300 NVL72 ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776988980000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139871328,
+      "headline": "Intel earnings signal recovery at US chip maker",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eeb7babf16d786b8eb5324f0925694de803a7872afb1064976a184cf4dace19b",
+      "summary": "Shares in Intel soared on Thursday after it smashed quarterly earnings expectations in what could be a sign that the US chip maker is on a path to recovery.Shares soared more than 19 percent in after-market trades.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776988506000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139871280,
+      "headline": "Review & Preview: Earnings Storm",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1118fa60c939a763e7773c24004bb4d380a8bd920176722f175e88c1516b6d10",
+      "summary": "Disappointing results from IBM and ServiceNow weighed on tech stocks. Chip stocks managed to still thrive, though.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776988500000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139870501,
+      "headline": "2 of Wall Street’s Favorite Stocks to Target This Week and 1 We Brush Off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c2df2f83fb04d16ba872b313a68517c867ed96ef66bce0c7f6616c25b330c2c",
+      "summary": "Wall Street has set ambitious price targets for the stocks in this article. While this suggests attractive upside potential, it’s important to remain skeptical because analysts face institutional pressures that can sometimes lead to overly optimistic forecasts.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776988163000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139870504,
+      "headline": "Tesla's Cybercab Pilot Production Is Underway. Is the Stock a Buy Ahead of a Potential Sales Surge?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c414dcc7412659be6ce99440db6aa2527f2a1205a52baecdd3742f14b709a497",
+      "summary": "Don't get too excited. It's going to take some time for production to ramp up.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776987420000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139870505,
+      "headline": "Why Intel Stock Is Gaining Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64c1935bb871e8893a0529068d61ceb2faace4ceab93d723c9c5a1cfe7f22dd4",
+      "summary": "Intel is serving up good news for shareholders.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776987131000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 7838380,
+      "headline": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc09RTW5BS211ZlFNcWU3bEN5YkZwUWdNcUd4NEhpeldpUEhOa2tpaFNuenNwSjR0azBNZ0xoS1hRNW12RTlnLW53SGJuRE5zTG0zOVhma3gwYXZfSFJZdl9tVjgta0N2VlQzU2FlZ1RFZE95czZmRUhrNzFMZ0hGRk4zVklOZE9DM28wMFhmSzV2bmZfZ3ZUamZWVE1kSVVBbTNr?oc=5",
+      "summary": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1776986636000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139870484,
+      "headline": "Why Honeywell Stock Tumbled on Thursday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7a5ccf5e1b8f1dd0f4b6133020063e7a536800823e21232d2423d4f6180fc28",
+      "summary": "The large industrial company posted its first-quarter results.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776986601000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 7840568,
       "headline": "Trump says US will not use nuclear weapon in Iran war - Reuters",
@@ -11,6 +253,138 @@
       "datetime": 1776986534000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 139870485,
+      "headline": "Avis Stock Is Plummeting After a Chaotic Week. Is It the Latest Meme Stock to Fall?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee5163fd52c478d4a84a1587321efadc8336c5c89cc9dde19c116e8c5c31c473",
+      "summary": "Despite the stock falling 48% today, Avis Budget is still up 129% over the last month.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776984795000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139871287,
+      "headline": "Meta informs staff of layoffs affecting 8,000 employees amid AI push",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddbbd98c95aa10d3bcd9d2689ff1169496f738e23dce0aba0609391e4f9b801a",
+      "summary": "As AI spending booms, Meta announces 8,000 layoffs while Microsoft offers voluntary retirement to thousands of employees amid tech reductions.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776984291000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139870506,
+      "headline": "Redwood Materials loses COO amid layoffs, restructuring",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70709375cc2f2b86878cdfb217e4df1d3fa76c816cd866683f3c7853c2e39cc1",
+      "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776984252000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139870507,
+      "headline": "Stock Market Today, April 23: Tesla Falls After Lifting 2026 Capex Guidance for AI and Robotics",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59ca1818ef605adcb22f12515da683c91fc7ed205228274e6cc54e60ac2cc1bd",
+      "summary": "Today, April 23, 2026, investors confront surging AI and robotics capex that reshapes expectations for free cash flow and autonomy execution.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776983808000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139870490,
+      "headline": "VeriSign Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9d255206836b1b68ddc4f6a184b9c900826a6bfb00cd4139eefef2f5128a820",
+      "summary": "VeriSign (NASDAQ:VRSN) reported what it called a strong start to 2026, citing record levels in its combined .com and .net domain name base and higher year-over-year revenue and earnings. Executives also announced a forthcoming .com wholesale price increase effective Nov. 1, 2026 and raised the compa",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776983773000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139870486,
+      "headline": "Intel Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fda7ad88af71b367da2651d8ba64f0275e20348285e6683df3df24955faa1d09",
+      "summary": "Intel (NASDAQ:INTC) executives said first-quarter results topped the high end of guidance as demand for the company’s products continued to run ahead of supply, led by strength in server CPUs tied to AI infrastructure build-outs. CEO Lip-Bu Tan said revenue, gross margin and earnings per share all e",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776983771000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139871574,
+      "headline": "Trump threatens tariff on UK over digital service tax",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d944a1bc3fdcc853aed252e83930ba7c0bc29044aff317f001e8969cecbe8a6a",
+      "summary": "STORY: :: Washington, D.C. / April 23, 2026 :: Trump threatens the UK with tariffs over its digital service tax which impacts U.S. firms Trump: We don't like it when they...",
+      "image": "",
+      "datetime": 1776983662000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139870511,
+      "headline": "Walmart and Target face new self-checkout retail theft problems",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a439f3c2c4d6079da093f150fc8017bb1e9336038752ab8a5a833e1cb33f2e1",
+      "summary": "Self-checkout takes work once done by retail employees and makes consumers do it. That's something many retail chains try to sell as a positive, rather than a spending cut. \"Self-checkout technology is typically positioned by retailers as a consumer service at the front end of stores that enables ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776983580000,
+      "ticker": "WMT",
+      "category": "company"
+    },
+    {
+      "id": 139870487,
+      "headline": "Prediction: Microsoft's April 29 Earnings Will Be the Most Important Tech Event of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8465bb9cf10f7e9fc124aaa5198c11d94ffcb4e02d4a3dcdbc780d923307a8a7",
+      "summary": "Microsoft has the scale to answer many key questions across an entire sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776982800000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139870488,
+      "headline": "Why Microsoft Stock Sank Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11b26381ad47cbb6ecfab0f52217d0a7745d1a7ec722349d139ebda855ffe556",
+      "summary": "Microsoft stock just saw another round of substantial sell-offs.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776981778000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139870502,
+      "headline": "Meta to lay off 10% of employees just days after announcing workplace tracking decision",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5b5f1ea05cec4b539c6fbbf66e57427f2b07d515a90b4608b9a8e812bac11e6",
+      "summary": "Earlier this week, social giant Meta Platforms made headlines after a memo to its employees said it would install software on employees' computers to train AI tools. Internally, it was understandably controversial, as there's no way to \"opt out\" of task tracking. Externally, it's likely to become a ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776981730000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139870516,
+      "headline": "Historic Artworks Receive Funding through BofA's Art Conservation Project™",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb4df5b03b9f8a78a7b1a51813addc6465225a02378936b500795d7d72e3ccf5",
+      "summary": "Bank of America announced today that 18 nonprofit cultural institutions across 10 countries will receive grants this year through the Bank of America Art Conservation Project™. The selected projects represent a wide range of artistic traditions and conservation needs, from fragile works on paper to paintings and objects requiring advanced preservation techniques.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776981600000,
+      "ticker": "BAC",
+      "category": "company"
     },
     {
       "id": 139869517,
@@ -32,6 +406,39 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776980817000,
       "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139870513,
+      "headline": "Costco (COST) Ascends While Market Falls: Some Facts to Note",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8dfaba48c6dfd62013674c52bcb898a88d281d3c00d451659cb0f8ebcf819e24",
+      "summary": "Costco (COST) concluded the recent trading session at $1, signifying a +1.06% move from its prior day's close.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776980705000,
+      "ticker": "COST",
+      "category": "company"
+    },
+    {
+      "id": 139870503,
+      "headline": "Here's Why Meta Platforms (META) Fell More Than Broader Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=faa2eb445e499c4a9d0e51609c82f93cb84e79a3bc4ac0137c26e87922d84154",
+      "summary": "In the most recent trading session, Meta Platforms (META) closed at $659.15, indicating a -2.31% shift from the previous trading day.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776980704000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139871186,
+      "headline": "General Mills: GLP-1 And Consumer Fears Are Overblown (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2d2925ee743ed774819254b9271f00e4869d0c2f6b0ec3136509703017dabaa7",
+      "summary": "General Mills (GIS) upgraded to Strong Buy: DCF shows upside, high yield, FY27 pivot, and limited GLP-1 risk despite headwinds. See more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/535109405/image_535109405.jpg?io=getty-c-w1536",
+      "datetime": 1776980548000,
+      "ticker": "WMT",
       "category": "company"
     },
     {
@@ -79,6 +486,17 @@
       "category": "company"
     },
     {
+      "id": 139871156,
+      "headline": "Intel Corporation (INTC) Q1 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c86cae042a057687e72f7f3f4a086621a4a4674b6b0287a6dd7377fb54e0c129",
+      "summary": "Intel Corporation (INTC) Q1 2026 Earnings Call April 23, 2026 5:00 PM EDTCompany ParticipantsJohn Pitzer - Corporate Vice President of Corporate Planning...",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1776979892000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 139869372,
       "headline": "Intel Needed A Lifeline. It Just Got One — And It's Got Elon Musk's Name On It",
       "source": "Yahoo",
@@ -101,6 +519,17 @@
       "category": "business"
     },
     {
+      "id": 139870535,
+      "headline": "Intel (INTC) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9fcef9f9604d9f38dc41e0a133def63dff377d6db0fb84eed0d32a01b1bb4bc",
+      "summary": "Although the revenue and EPS for Intel (INTC) give a sense of how its business performed in the quarter ended March 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776979801000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 7840669,
       "headline": "Trump says Israel-Lebanon ceasefire extended by three weeks",
       "source": "CNBC",
@@ -112,35 +541,13 @@
       "category": "top news"
     },
     {
-      "id": 7840355,
-      "headline": "Iran fast-boat swarms add to Hormuz threats for shipping - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUlMWGtuQjJnNndadUZGNlQwdlRWM2xyTUEtZUJoc202VzktYTR4QUpMWGVFNm5ZcTdnNHczcmNJNFNHdnNJQXJvQ3hYN0tLZ0ticDNhdWY0dmVINHFtNUg5NTkxUzJUdlhaeEZ3Z1o4azY0YWV1eTNrcV8tSWlOR2NDd09MOTRxUnQwYS1PTFRPODFYT0YycGxpcjZHVl9ieTQwSGNVRQ?oc=5",
-      "summary": "Iran fast-boat swarms add to Hormuz threats for shipping  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1776979739000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 7838380,
-      "headline": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc09RTW5BS211ZlFNcWU3bEN5YkZwUWdNcUd4NEhpeldpUEhOa2tpaFNuenNwSjR0azBNZ0xoS1hRNW12RTlnLW53SGJuRE5zTG0zOVhma3gwYXZfSFJZdl9tVjgta0N2VlQzU2FlZ1RFZE95czZmRUhrNzFMZ0hGRk4zVklOZE9DM28wMFhmSzV2bmZfZ3ZUamZWVE1kSVVBbTNr?oc=5",
-      "summary": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1776979690000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139869454,
-      "headline": "Intel earnings signal recovery at US chip maker",
+      "id": 139870537,
+      "headline": "Intel (INTC) Tops Q1 Earnings and Revenue Estimates",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=362bce4d28bee2aba5925689e80afa7b36fc0351bff9f54a12c202d43a4e85ff",
-      "summary": "Shares in Intel soared on Thursday after it smashed quarterly earnings expectations in what could be a sign that the US chip maker is on a path to recovery.Shares soared more than 15 percent in after-market trades.",
+      "url": "https://finnhub.io/api/news?id=2b6c678f0ff5450d488beb9f579350eec6199bbfb67241c1cd3c6e90484fcc5f",
+      "summary": "Intel (INTC) delivered earnings and revenue surprises of +2,032.35% and +10.09%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776979627000,
+      "datetime": 1776979503000,
       "ticker": "INTC",
       "category": "company"
     },
@@ -299,6 +706,17 @@
       "category": "company"
     },
     {
+      "id": 139870538,
+      "headline": "'Unprecedented Demand' Has Intel Stock Soaring After Its Latest Earnings Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9168f17c78efbcb494143b0c455dbbdf3bb2f76c3850fc187ece9ad08e00d592",
+      "summary": "Intel shares surged in extended trading Thursday after the chipmaker posted strong earnings and gave a better-than-expected outlook, with a boost from growing AI demand.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1776977743000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 139869340,
       "headline": "Zuckerberg cuts thousands of jobs to ‘offset’ AI spending spree",
       "source": "Yahoo",
@@ -341,6 +759,17 @@
       "datetime": 1776977186000,
       "ticker": null,
       "category": "top news"
+    },
+    {
+      "id": 139870905,
+      "headline": "SpaceX would get enhanced protection from Texas laws, filing says",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=644ebd4b2fbc5d7a8027b5108f4761a3a123ee024d36f6083eb141723d8e7c23",
+      "summary": "Elon Musk's SpaceX willcount on the enhanced protection of Texas law to potentiallyfend off any hostile bidder or activist investor pushing forchanges at the company, according to a regulatory...",
+      "image": "",
+      "datetime": 1776977059000,
+      "ticker": "TSLA",
+      "category": "company"
     },
     {
       "id": 139869460,
@@ -431,6 +860,17 @@
       "category": "company"
     },
     {
+      "id": 139870863,
+      "headline": "Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ff2f7605c31e81ffa83795b668f7a20c1dec7230656888906650df0611cdd441",
+      "summary": "Singapore istransforming from East-West gateway to neutral ground for the AIsector, with Chinese startups hoping to operate beyondgovernment reach while U.S. firms seek foreign talent withoutthe...",
+      "image": "",
+      "datetime": 1776976226000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
       "id": 139869361,
       "headline": "Meta AI introduces parental supervision feature for teen accounts",
       "source": "Yahoo",
@@ -494,6 +934,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776975943000,
       "ticker": "BA",
+      "category": "company"
+    },
+    {
+      "id": 139870830,
+      "headline": "Amazon-backed X-Energy raises over $1 billion in IPO",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=52afa169cbc3f44fc2b65f693bdfecb0828ef5cfe230542e714bb0f301cd8a19",
+      "summary": "Nuclear reactor developer X-Energy, which is backed by Amazon, said on Thursday it had raised $1.02 billion in its initial public offering in the United States. The Rockville,...",
+      "image": "",
+      "datetime": 1776975739000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -596,6 +1047,28 @@
       "category": "company"
     },
     {
+      "id": 139870730,
+      "headline": "Amazon-backed X-energy raises $1.02 billion in IPO",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2adaa9372591695838ab748e10eff666fdef8ab83fc99ebd42f20ffa0e2e5f1c",
+      "summary": "Nuclear reactor developer X-energy, which is backed by Amazon, said on Thursday it had raised $1.02 billion in its upsized initial public offering in the United States....",
+      "image": "",
+      "datetime": 1776974953000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139870774,
+      "headline": "Ford's Highly Touted BEV Czar Leaves, His Exit Won't Quickly Change Things",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c27eb06743ba063be59475caacfa0964fd3db0c3f05094615fc475766efe6ed7",
+      "summary": "Ford's EV ventures, including the Mustang Mach-e and F-150 Lightning, have underperformed, leading to steep losses. Read more on what's next for Ford's EV efforts.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187328281/image_2187328281.jpg?io=getty-c-w1536",
+      "datetime": 1776974938000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 139869342,
       "headline": "Kyndryl’s Expanded Google Cloud AI Partnership Might Change The Case For Investing In Kyndryl Holdings (KD)",
       "source": "Yahoo",
@@ -626,479 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776974712000,
       "ticker": "BAC",
-      "category": "company"
-    },
-    {
-      "id": 139869365,
-      "headline": "Lumen Technologies to Participate in Upcoming Investor Conferences",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d3cefa4f64907cbf3d588296b7fb1f18ed612e64221b50055c22d5646b65cd64",
-      "summary": "DENVER, April 23, 2026--Lumen Technologies (NYSE: LUMN), the trusted network for AI, will attend the following investor conferences during the second quarter of 2026:",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974700000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139869409,
-      "headline": "These 5 Stocks Pay You Even When You’re Sleeping",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0d51b5f40e898e361935ce3db15ff6815db6effcc01ad734e1d03993f01aab5f",
-      "summary": "Market volatility in 2026 has reminded investors that earned income alone is fragile. When tariff fears rattle equities and economic uncertainty clouds the outlook, dividend investors sleep better. Passive income from dividend stocks requires only that you own the right companies. A well-constructed dividend portfolio generates cash flow every quarter, whether markets rise or fall. ... These 5 Stocks Pay You Even When You’re Sleeping",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974695000,
-      "ticker": "KO",
-      "category": "company"
-    },
-    {
-      "id": 139869315,
-      "headline": "NVIDIA Explores Nuclear Powered AI Factories And Long Term Data Center Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cca3a464dd15e1f24afa02f76054eb1df75a69b9e1264bd813d8c3e36fcfce1",
-      "summary": "NVIDIA (NasdaqGS:NVDA) has formed an alliance with Oklo Inc. and Los Alamos National Laboratory to explore nuclear powered AI factories. The collaboration focuses on combining advanced nuclear reactors, AI models, and digital twins to support energy resilient data centers. The partners plan to use AI for fuel validation and materials research to support future nuclear powered compute infrastructure. NVIDIA, trading at around $202.5, has seen very large returns over the past 5 years and...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974682000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139869316,
-      "headline": "Palantir Earnings Could Ignite AI Stocks Before Nvidia",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9604e52a2d5ecee8ce6ae4c89db70f59fb9e1585c9df170a882facde3609a60c",
-      "summary": "One AI stock prints earnings May 4, three weeks before Nvidia. Oversold setup, bullish divergences, and squeeze fuel point to a breakout.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974622000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139869518,
-      "headline": "Novo Nordisk Expands GLP-1 Reach With Pediatric Oral Semaglutide Data",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=845a83827a63d408928d310f49db04824b4d5bce56a5e34f00dca7b5c694a0f5",
-      "summary": "Novo Nordisk (CPSE:NOVO B) reported strong phase 3 trial results for its oral semaglutide in children and adolescents with type 2 diabetes. The company plans to file for US and EU label expansions to include this pediatric population, using the oral version of its GLP-1 therapy already sold as Rybelsus. The data extend Novo Nordisk’s GLP-1 franchise into youth diabetes care as competitors work on alternative dosing options for similar drugs. Novo Nordisk, known for GLP-1 treatments such as...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974606000,
-      "ticker": "PFE",
-      "category": "company"
-    },
-    {
-      "id": 139869317,
-      "headline": "Intel forecasts second-quarter revenue above estimates, shares jump 15%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d4fe5107a0c0a72c3459e3ddf78b5454511cc86b0d4589ae4cc97bdf582dfa75",
-      "summary": "Intel forecast second-quarter revenue above Wall Street expectations on Thursday, underscoring booming demand for the company's server processors used for artificial intelligence in data centers.  Shares of Intel surged 15% in extended trading, adding $49 billion to its ‌market value and extending its 81% rebound so far this year.  Intel’s second-quarter adjusted per-share profit guidance of 20 cents handily beat expectations of 9 cents a share.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974534000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139869320,
-      "headline": "Nasdaq Slides. Earnings Fail to Save the Day.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=465a553370f8ebdd4a76a711768d167d918fb6116c9011c80734f53f476e46e2",
-      "summary": "The Nasdaq slipped from record highs on Thursday after the first big wave of tech earnings failed to save the day.  The Dow dropped 180 points, or 0.4%.  The S&P and Nasdaq finished Wednesday at closing highs.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974503000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139869367,
-      "headline": "Meta to cut 10% of staff as it pours billions into AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d69929e32ab6e8bb54d3b2e4791732fd0a67f2e46f9b53e25c888b2a8053e47a",
-      "summary": "Meta said on Thursday it plans to lay off roughly 10% of its workforce, or about 8,000 people, the latest in a string of tech industry layoffs fueled in part by artificial intelligence.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974301000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139869435,
-      "headline": "IBM Q1 earnings beat offset by softer software momentum, says Bank of America",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6019e5af402b0e36a79e4dccf799182df8e37f9412e3e71bb8d4ddb4ddcab772",
-      "summary": "Bank of America analysts have reiterated a constructive view on International Business Machines Corp (NYSE:IBM) following the company’s first-quarter results, which delivered a modest revenue and earnings beat but prompted a more nuanced read-through on underlying software momentum and margin...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974280000,
-      "ticker": "BAC",
-      "category": "company"
-    },
-    {
-      "id": 139869318,
-      "headline": "Nvidia CEO's New Word Crush: What Is Physical AI?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=554d30981b65356036ef9bdb452460e896d4be412e0372bf1b16c3a4a19aae8f",
-      "summary": "Nvidia CEO is a champion of physical AI. Investors better keep up or risk missing a multi-trillion-dollar market.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974223000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139869383,
-      "headline": "US Equity Indexes Fall as Growth Sectors Undermine Sentiment, Hormuz Standstill Continues",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c4a7963971263ac06e137ba850b452859572ba518d7abd0e4184b8314474b7a",
-      "summary": "US equity indexes traded lower ahead of Thursday's close, as technology and consumer discretionary s",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974216000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139869328,
-      "headline": "Why Microsoft is offering its first voluntary employee buyout",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe22bca947d3db2f7d4a30aab5496387d15d8ef2e5c2ed95b79b26aacc35a743",
-      "summary": "Microsoft (MSFT) is planning its first-ever voluntary employee buyout for up to 7% of its US workforce. Yahoo Finance Tech Editor Dan Howley discusses the news in the video above.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974088000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139867952,
-      "headline": "Warner Bros. stock edges lower after Paramount sale gets approved",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0aa29d7d631953bba0755981d4d5378157f07b13feeb6d607fed70022fc723cf",
-      "summary": "Market Domination Host Josh Lipton is joined by Yahoo Finance Senior Reporters Brooke DiPalma and Ines Ferré to take a closer look at Warner Bros. Discovery (WBD) after the media giant's shareholders approve its mega-merger with Paramount Skydance (PSKY).",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776974026000,
-      "ticker": "NFLX",
-      "category": "company"
-    },
-    {
-      "id": 139869345,
-      "headline": "SpaceX Is Going to Make Elon Musk a Tesla-Sized Boatload of Money",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=733097c6e743bf7169bbde8ad99a20ee5128d036e17ad396d52593f00e0e031a",
-      "summary": "Anyone concerned about Elon Musk’s compensation for running SpaceX can rest easy—he’ll do just fine.  Details of SpaceX’s confidential initial public offering registration statement continue to leak out as bankers and analysts meet with the company ahead of its IPO roadshow, during which those bankers will argue that SpaceX deserves a massive valuation of up to $2 trillion.  The point is, the SpaceX number is big.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973860000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139867702,
-      "headline": "This Under‑the‑Radar E-Commerce Stock Is Down from Its Highs -- and Might Be the Biggest Bargain in The Market Right Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71d21dcc01d521eb0912f55178e46fcc174fbcea3e9d90c65453a26e18322972",
-      "summary": "Etsy's high-growth days are over, but its stock looks dirt cheap at these levels.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973800000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139867665,
-      "headline": "Meta plans to cut about 8K jobs amid ramped-up AI spending",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4fe14748d890a6a0f088ae44fa493700986acf598959bfafe84c72d722951fe2",
-      "summary": "Meta (META) confirmed it will be cutting 10% of its workforce — about 8,000 employees. Yahoo Finance Tech Editor Dan Howley explains what we know so far.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973770000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139867727,
-      "headline": "Meta to cut 8,000 jobs as it charges into AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=682ff27a3380633b861c022b373376ae56ff0acefcdf91f458873cbcb7a9025b",
-      "summary": "Meta plans to lay off roughly 10% of its workforce as the technology giant steps up its spending on artificial intelligence.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973762000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139867767,
-      "headline": "Target helps fill gap left by shuttered competitor",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6051251aa32cf0c97e8718e9153f5732d36f368c823159df14dbbf075f5be328",
-      "summary": "For years, Target had a certain reputation. It was a store you could walk into expecting a fun, engaging shopping experience. To be clear, Target wasn't really known as a source of major savings. Walmart, one of its chief competitors, has long dominated in that arena. Target's strength, rather, was ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973620000,
-      "ticker": "WMT",
-      "category": "company"
-    },
-    {
-      "id": 139867728,
-      "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1527f3649a0089d6c5d38a03cf18b4b167b943d54777dd688679427df6f1931",
-      "summary": "Tech stocks were mixed late Thursday afternoon, with the State Street Technology Select Sector SPDR",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973544000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139867666,
-      "headline": "3 iShares India ETFs to Buy Before 2026 as Growth Powers Past the US",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4d1a61948ae3e35f2d5bdd76b2edccd90d5139d6d2c55ca7d2ce38f8fa91e0c8",
-      "summary": "India’s economy continues to outpace most of the developed world, with the IMF and World Bank projecting multi-year growth well above US real GDP, which registered 0.5% annualized in the third quarter of 2025. For US investors, the simplest way to gain diversified exposure to Indian equities is through a US-listed ETF, and three funds ... 3 iShares India ETFs to Buy Before 2026 as Growth Powers Past the US",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973381000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139869329,
-      "headline": "Microsoft is Making History by Offering Voluntary Retirement",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9b6def90a51be4e5e19ccfee30699ebae6b20e533cf82deceeb5965091bd3bf",
-      "summary": "For the first time in its 51-year history, Microsoft is offering its employees a soft landing rather than a hard exit.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973347000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7840247,
-      "headline": "Regeneron inks drug pricing deal with Trump, will offer new hearing-loss therapy for free",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/23/regeneron-inks-drug-pricing-deal-with-trump-will-offer-hearing-loss-therapy-for-free.html",
-      "summary": "Regeneron is the latest in a string of major drugmakers to make pricing concessions for new and existing medicines under agreements with Trump.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108296466-1776971900781-gettyimages-2272810843-aw1a7892_0njgvday.jpeg?v=1776971975&w=1920&h=1080",
-      "datetime": 1776973229000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 139867729,
-      "headline": "Jim Cramer Shares Why He’s a Fan of Meta (META) CEO Mark Zuckerberg",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6c504fd532b70a70b04c3cfb58baa883badf01398a0f919857d51dfdc8943e0",
-      "summary": "We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. Meta Platforms, Inc. (NASDAQ:META) is one of the stocks discussed by Jim Cramer. Social media giant Meta Platforms, Inc. (NASDAQ:META) is one of Cramer’s top stocks when it comes to going against the narrative. While the firm has come under […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973059000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139867846,
-      "headline": "Jim Cramer Reveals Potentially Hot Upcoming Pepsi (PEP) Product",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1661a68b94aebec13c4308a9edb1609f55ea8c3f50042c462e41a6c1445be60a",
-      "summary": "We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. PepsiCo, Inc. (NASDAQ:PEP) is one of the stocks discussed by Jim Cramer. Food and beverages firm PepsiCo, Inc. (NASDAQ:PEP)’s shares are up by 7.9% over the past year and by 8.9% year-to-date. Banking giant JPMorgan discussed the firm on April […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973032000,
-      "ticker": "PEP",
-      "category": "company"
-    },
-    {
-      "id": 139867685,
-      "headline": "Jim Cramer Makes Interesting Remarks About Adobe (ADBE)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=753b5e4acfc03903c887a38452db0b65fd3443a36ae7353ff2a30d2fc74debc2",
-      "summary": "We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. Adobe Inc (NASDAQ:ADBE) is one of the stocks discussed by Jim Cramer. Productivity software firm Adobe Inc (NASDAQ:ADBE)’s stock has struggled in today’s AI era. They are down by 29% over the past year and by 25.8% year-to-date. Amidst this […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973015000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139867703,
-      "headline": "Jim Cramer Shares Why Amazon.com (AMZN) Shares Are Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3194d2fbf4dc67e0ea4669d50fa490b69a987a2b9606cadf13d53bc08cfbf51",
-      "summary": "We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks discussed by Jim Cramer. Amazon.com, Inc. (NASDAQ:AMZN) is one of the largest eCommerce and cloud computing retailers in the world. Its shares are up by 44% over the past year and by […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776973001000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139867691,
-      "headline": "Meta plans 10% layoffs as AI spending soars: source",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7364ebb2d69d3880f5003c1ddada27443c4b379b07ba0d36fadea3fddc18e413",
-      "summary": "Meta plans to cut a tenth of its workforce, looking for productivity gains from its remaining workers as it invests heavily in artificial intelligence.Meta is locked in a bitter rivalry with other tech behemoths racing to invest heavily in AI, aiming to ensure the technology generates profits in the not-so-distant future.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972993000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139867667,
-      "headline": "Jim Cramer Couldn’t Stop Praising NVIDIA (NVDA) CEO Jensen Huang",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ba301e0fa6ac21b682999f8f824d20a44f3a0a203f2a4738a68537de153db5d",
-      "summary": "We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks discussed by Jim Cramer. NVIDIA Corporation (NASDAQ:NVDA) is a firm that Jim Cramer discusses almost daily in his morning appearance. Its shares are up by 102% over the past year and by […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972993000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139867668,
-      "headline": "Jim Cramer Spills The Beans on CoreWeave (CRWV) and Short Sellers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b31e15addd60684f7f5ccc6f56d934e69b3d9f68375985f11e19ff46fe8aaa3a",
-      "summary": "We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. CoreWeaveInc. (NASDAQ:CRWV) is one of the stocks discussed by Jim Cramer. AI infrastructure firm CoreWeaveInc. (NASDAQ:CRWV)’s shares are up by a strong 199% over the past year and by 45% year-to-date. Since April 9th, the stock is up by 25%. […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972955000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139867692,
-      "headline": "Meta slashes 8,000 jobs, or 10% of its workforce, as Microsoft offers buyouts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3d6da973d54e841b9a09575db91287a191c79b98f82f3b5547817dc291958eb0",
-      "summary": "Meta is laying off about 8,000 workers, or about 10% of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid AI-expert hires.  Also Thursday, Microsoft said it was offering voluntary buyouts to thousands of its U.S. employees.  While an alternative to the sudden layoffs removing tech workers from peers like Meta and Oracle, the savings are likely tied to a similar industry upheaval that is requiring huge spending on the costs of artificial intelligence.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972942000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139867693,
-      "headline": "Jim Cramer Reveals His Big U Turn on Microsoft (MSFT)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=816d056652aebede3792d915c5ae682dbf1b4b49b5b7f060f85c8f458eb60ba7",
-      "summary": "We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. Microsoft Corp (NASDAQ:MSFT) is one of the stocks discussed by Jim Cramer. Software giant Microsoft Corp (NASDAQ:MSFT)’s shares have struggled lately, as while they are up by 18% over the past year, they are down by 9.9% year-to-date. However, over […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972912000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139867669,
-      "headline": "AST SpaceMobile Is Impossible to Ignore Right Now. Here's What to Do With It.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=beb392d158fdadf91fcf209993f7269e3d5c08880fa99aaa49739e61b0394ea4",
-      "summary": "AST SpaceMobile's stock is up 280% over the past year but down 33% from its 52-week high.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972900000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139867686,
-      "headline": "Jim Cramer Was Shocked By Apple (AAPL) CEO’s Departure",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85de45f91d7be8fdd0fef4445788f8bd3c5d91d39e752c072e13682237824f68",
-      "summary": "We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. Apple Inc. (NASDAQ:AAPL) is one of the stocks discussed by Jim Cramer. Consumer electronics giant Apple Inc. (NASDAQ:AAPL) created quite a bit of a splash yesterday after it announced that CEO Tim Cook would be stepping down from his role. […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972888000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139867711,
-      "headline": "Alphabet set to report modest beat for Q1 driven by AI, Cloud growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28fa6dd058a4c5716fb1619992b0ed713f1337b50ebb5103a7ac14c7730a8397",
-      "summary": "Bank of America has reiterated its “Buy” rating on Google’s parent company Alphabet Inc (NASDAQ:GOOG) ahead of the company’s first quarter earnings report on April 29, highlighting artificial intelligence integration and resilient search demand as key drivers of near-term stock...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972600000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139867747,
-      "headline": "JPMorgan issues blunt warning as investors move to safety",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=670b9ba38603c745d86cc4900f8a520d203d4bece15ff73e5ed5a909c055e398",
-      "summary": "A wave of high-profile exploits is rattling investor confidence, as fresh losses expose structural weaknesses in decentralized finance just as institutions were beginning to scale exposure. The latest incidents have triggered billions in withdrawals, reigniting concerns about whether the sector’s ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972600000,
-      "ticker": "JPM",
-      "category": "company"
-    },
-    {
-      "id": 139867670,
-      "headline": "Chip stocks just added $3 trillion in market value — but are the most overextended in decades: Chart of the Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99301a8c9e34b0c7db014ce6c281e018f868af1c12551dceba75ffc5879c117d",
-      "summary": "The PHLX Semiconductor Index is on track for a 17-day winning streak, but the group is now the most overextended since 2000.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972342000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139867671,
-      "headline": "SOX continues rally as US stocks pull back: A closer look",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=12454b465b65e7470c6f532c83b9c64304cd67ceb315eefee439d358fd760e7b",
-      "summary": "While US stocks (^DJI, ^IXIC, ^GSPC) see red in Thursday's trading session, the PHLX Semiconductor Index (^SOX) is staying in positive territory for its 17th straight day. Yahoo Finance Markets and Data Editor Jared Blikre deep dives into the SOX's latest rally.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972112000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139867705,
-      "headline": "Why Meta is laying off 10% of its workforce",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=09fec9540254a815b3c4358bbf3c915d2e9032a01c36acd4c17423997349dfec",
-      "summary": "The social media giant is planning to slash about 10% of its workforce even as its digital ad revenue continues to climb.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972042000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139867672,
-      "headline": "Why Union Pacific Stock Popped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ccbc70941876753598828c3bb306933b44c9dbb84a0bbf10d98c989d0212d48",
-      "summary": "Rail remains a reliable and cost-effective means of freight transport.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776972022000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139867695,
-      "headline": "Microsoft Falls 4% as $110 Billion AI Bet Forces Historic Employee Buyout: What Investors Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5a8f91cab9b3d890a272378cddca86353b61b9becb5da8ef62498e619e2ca09",
-      "summary": "Shares of Microsoft (NASDAQ:MSFT) are down roughly 4% in Thursday afternoon trading, sliding to $415 from a prior close of $432.92. It’s the software giant’s worst session since early February, and the selloff is tied directly to a corporate first. Microsoft is launching the first-ever voluntary employee buyout program in its 51-year history, offering exit ... Microsoft Falls 4% as $110 Billion AI Bet Forces Historic Employee Buyout: What Investors Need to Know",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776971894000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139867673,
-      "headline": "Why American Express Fell Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1836d5fdb164355b1988108cbd2c391a0ae50d3b811c112803d26e435b32124",
-      "summary": "Despite a revenue and earnings beat, investors were hoping for better guidance amid a reescalation of the war in Iran.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776971778000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139867748,
-      "headline": "How The Fresenius SE KGaA (XTRA:FRE) Investment Story Is Evolving With Mixed Analyst Targets",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d220431b4244b17ab455c213156f8863ff838d364ec173c4d75aa2c5e50089e",
-      "summary": "The fair value estimate for Fresenius SE KGaA was trimmed slightly from €55.90 to €55.47 per share, a modest adjustment of about €0.43. This shift lines up with Street research that combines higher targets from bullish houses and €1 to €2 cuts from more cautious analysts, leaving the overall picture more balanced than before. As you read on, you will see how these different calls shape the evolving narrative around risk, reward, and what to watch next. Analyst Price Targets don't always...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776971244000,
-      "ticker": "JPM",
-      "category": "company"
-    },
-    {
-      "id": 139867741,
-      "headline": "No Products and No Revenue, but QuantumScape Is Ready to Take On the AI Boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35ed872651877fa6fc8f216549c046bfc05c292f40b94c6d444ec4607db70a36",
-      "summary": "QuantumScape (NYSE:QS), the pre-revenue solid-state battery developer, used its Q4 2025 report to pair a narrow earnings beat with a strategic pivot: chasing AI data centers, robotics, aviation and defense as new markets for a battery that has yet to power a single commercial electric vehicle. Q1 EPS of -$0.16 eased past the -$0.18 consensus. ... No Products and No Revenue, but QuantumScape Is Ready to Take On the AI Boom",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776971231000,
-      "ticker": "TSLA",
       "category": "company"
     }
   ]
