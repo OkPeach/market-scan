@@ -45,7 +45,7 @@ function formatTimestamp(ms) {
 async function loadAll() {
   log.info("loadAll: start");
   const t0 = performance.now();
-  const [stocks, news, history, tickers, longterm, longtermHistory] =
+  const [stocks, news, history, tickers, longterm, longtermHistory, predictions, predictionsHistory] =
     await Promise.all([
       loadJson("data/stocks.json", { timestamp: null, stocks: [] }),
       loadJson("data/news.json", { timestamp: null, items: [] }),
@@ -53,6 +53,8 @@ async function loadAll() {
       loadJson("config/tickers.json", { tickers: [] }),
       loadJson("data/longterm.json", { timestamp: null, tickers: {} }),
       loadJson("data/longterm-history.json", { snapshots: [] }),
+      loadJson("data/predictions.json", { timestamp: null, predictions: [] }),
+      loadJson("data/predictions-history.json", { snapshots: [] }),
     ]);
   const dt = (performance.now() - t0).toFixed(1);
   log.info(
@@ -61,9 +63,11 @@ async function loadAll() {
       `history=${Object.keys(history.history ?? {}).length} tickers, ` +
       `tickers=${tickers.tickers?.length ?? 0}, ` +
       `longterm=${Object.keys(longterm.tickers ?? {}).length}, ` +
-      `lt-snapshots=${longtermHistory.snapshots?.length ?? 0}`,
+      `lt-snapshots=${longtermHistory.snapshots?.length ?? 0}, ` +
+      `predictions=${predictions.predictions?.length ?? 0}, ` +
+      `pred-snapshots=${predictionsHistory.snapshots?.length ?? 0}`,
   );
-  return { stocks, news, history, tickers, longterm, longtermHistory };
+  return { stocks, news, history, tickers, longterm, longtermHistory, predictions, predictionsHistory };
 }
 
 // Filter stocks/history/news to only the visible watchlist (base minus hidden
@@ -117,12 +121,14 @@ async function refresh(state, { reason = "auto" } = {}) {
       stocks: view.stocks,
     });
 
+    const visibleSet = new Set(view.visible.map((t) => t.symbol));
     renderForecast({
       risersEl: document.getElementById("risers-list"),
       fallersEl: document.getElementById("fallers-list"),
-      stocks: view.stocks,
-      history: view.history,
-      news: view.news,
+      accuracyEl: document.getElementById("predictions-accuracy"),
+      predictionsFile: data.predictions,
+      predictionsHistory: data.predictionsHistory,
+      visibleSet,
     });
 
     renderLongterm({
