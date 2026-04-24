@@ -73,8 +73,10 @@ body {
 }
 
 body {
-  /* Ambient gradient + subtle accent glows give the surface some depth, like
-     iOS "blurry wallpaper behind glass". */
+  /* On desktop the body becomes a flex column at viewport height so the main
+     grid can fill the remaining space and each panel scrolls internally
+     instead of growing the page. The mobile fallback below restores natural
+     page scrolling. */
   min-height: 100vh;
   background:
     radial-gradient(1200px 600px at 85% -10%, rgba(10, 132, 255, 0.08), transparent 60%),
@@ -97,12 +99,13 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 10;
-  padding: 1rem 1.5rem;
+  padding: 0.6rem 0.9rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
+  gap: 0.7rem;
   flex-wrap: wrap;
+  flex-shrink: 0;
   background: rgba(0, 0, 0, 0.35);
   backdrop-filter: saturate(180%) blur(20px);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
@@ -111,15 +114,22 @@ a:hover {
 .site-header h1 {
   margin: 0;
   font-family: var(--font-display);
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 700;
   letter-spacing: -0.025em;
+  line-height: 1.1;
 }
 .site-header .tagline {
-  margin: 0.15rem 0 0;
+  margin: 0.1rem 0 0;
   color: var(--label-secondary);
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   letter-spacing: 0.01em;
+}
+@media (min-width: 1024px) {
+  .site-header h1 { font-size: 1.4rem; }
+}
+@media (max-width: 480px) {
+  .site-header .tagline { display: none; }
 }
 
 .refresh-btn {
@@ -164,26 +174,65 @@ a:hover {
   to   { transform: rotate(360deg); }
 }
 
-/* -------- Layout -------- */
+/* -------- Layout --------
+   Mobile-first: single column, natural page scroll, compact spacing.
+   ≥720px (small tablet): keep single column but loosen padding.
+   ≥1024px (tablet/laptop): 2-col with news + movers row, predictions/longterm
+   below. Page still scrolls naturally — viewports here are usually too short
+   to fit everything anyway.
+   ≥1280px (desktop): viewport-fit 3-col grid; each panel scrolls internally,
+   the page itself never scrolls.
+*/
 main {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
-  gap: 1.25rem;
-  padding: 1.5rem 1.5rem 2.5rem;
-  max-width: 1280px;
+  gap: 0.85rem;
+  padding: 0.85rem 0.9rem 1.25rem;
+  max-width: 1600px;
   margin: 0 auto;
+  width: 100%;
 }
-@media (min-width: 960px) {
+
+@media (min-width: 720px) {
   main {
-    grid-template-columns: 1.3fr 1fr;
-    grid-template-areas:
-      "news movers"
-      "predictions predictions";
-    gap: 1.5rem;
+    gap: 1rem;
+    padding: 1rem 1.25rem 1.75rem;
   }
-  #news-section      { grid-area: news; }
-  #movers-section    { grid-area: movers; }
+}
+
+@media (min-width: 1024px) {
+  main {
+    grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+    grid-template-areas:
+      "news        movers"
+      "predictions predictions"
+      "longterm    longterm";
+  }
+  #news-section        { grid-area: news; }
+  #movers-section      { grid-area: movers; }
   #predictions-section { grid-area: predictions; }
+  #longterm-section    { grid-area: longterm; }
+}
+
+@media (min-width: 1280px) {
+  /* Lock the whole page to the viewport so nothing overflows. */
+  html, body { height: 100%; overflow: hidden; }
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  main {
+    flex: 1;
+    min-height: 0;
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr) minmax(0, 1.35fr);
+    grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-areas:
+      "news movers      longterm"
+      "news predictions longterm";
+    gap: 1rem;
+    padding: 1rem 1.25rem;
+    max-width: none;
+  }
 }
 
 /* -------- Panels (glassy cards) -------- */
@@ -191,29 +240,42 @@ main {
   background: var(--surface-1);
   border: 1px solid var(--hairline);
   border-radius: var(--r-xl);
-  padding: 1.25rem 1.35rem 1.4rem;
+  padding: 0.9rem 1rem 1rem;
   min-width: 0;
   backdrop-filter: saturate(180%) blur(24px);
   -webkit-backdrop-filter: saturate(180%) blur(24px);
   box-shadow: var(--shadow-card);
+  display: flex;
+  flex-direction: column;
+  /* min-height:0 lets flex children shrink below their content size — needed
+     for internal scrolling in the viewport-fit layout. */
+  min-height: 0;
+}
+
+@media (min-width: 1280px) {
+  .panel { padding: 1rem 1.1rem 1.05rem; }
 }
 
 .panel-header {
+  flex-shrink: 0;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  gap: 0.75rem;
+  gap: 0.6rem;
   flex-wrap: wrap;
-  margin-bottom: 1rem;
-  padding-bottom: 0.75rem;
+  margin-bottom: 0.7rem;
+  padding-bottom: 0.55rem;
   border-bottom: 1px solid var(--hairline);
 }
 .panel-header h2 {
   margin: 0;
   font-family: var(--font-display);
-  font-size: 1.18rem;
+  font-size: 1.02rem;
   font-weight: 600;
   letter-spacing: -0.02em;
+}
+@media (min-width: 1280px) {
+  .panel-header h2 { font-size: 1.08rem; }
 }
 .hint {
   color: var(--label-tertiary);
@@ -234,10 +296,17 @@ main {
   display: flex;
   flex-direction: column;
   gap: 0;
-  max-height: 72vh;
+  /* Inside the panel flex column, take the remaining height and scroll. */
+  flex: 1;
+  min-height: 0;
   overflow-y: auto;
+  /* Phone fallback when natural page scroll is in play. */
+  max-height: 60vh;
   scrollbar-width: thin;
   scrollbar-color: var(--label-quaternary) transparent;
+}
+@media (min-width: 1024px) {
+  .news-list { max-height: none; }
 }
 .news-list::-webkit-scrollbar { width: 8px; }
 .news-list::-webkit-scrollbar-thumb {
@@ -318,10 +387,21 @@ main {
 .movers-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1.2rem;
+  gap: 0.85rem;
+  /* Scroll inside the panel on desktop. */
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--label-quaternary) transparent;
+}
+.movers-grid::-webkit-scrollbar { width: 8px; }
+.movers-grid::-webkit-scrollbar-thumb {
+  background: var(--label-quaternary);
+  border-radius: 999px;
 }
 @media (min-width: 520px) {
-  .movers-grid { grid-template-columns: 1fr 1fr; }
+  .movers-grid { grid-template-columns: 1fr 1fr; gap: 1rem; }
 }
 .movers-title {
   font-family: var(--font-display);
@@ -503,9 +583,13 @@ button.ghost.danger:hover:not(:disabled) {
   background: var(--surface-2);
   border: 1px solid var(--hairline);
   border-radius: var(--r-lg);
-  padding: 0.9rem 1rem;
-  margin-bottom: 1rem;
+  padding: 0.7rem 0.85rem;
+  margin-bottom: 0.7rem;
   animation: fadeIn 0.18s ease;
+  flex-shrink: 0;
+  /* When the panel itself is short, let the editor scroll internally too. */
+  max-height: 50vh;
+  overflow-y: auto;
 }
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(-4px); }
@@ -646,10 +730,20 @@ button.ghost.danger:hover:not(:disabled) {
 .forecast-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1.2rem;
+  gap: 0.85rem;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--label-quaternary) transparent;
+}
+.forecast-grid::-webkit-scrollbar { width: 8px; }
+.forecast-grid::-webkit-scrollbar-thumb {
+  background: var(--label-quaternary);
+  border-radius: 999px;
 }
 @media (min-width: 720px) {
-  .forecast-grid { grid-template-columns: 1fr 1fr; }
+  .forecast-grid { grid-template-columns: 1fr 1fr; gap: 1rem; }
 }
 .forecast-title {
   font-family: var(--font-display);
@@ -738,7 +832,7 @@ button.ghost.danger:hover:not(:disabled) {
 }
 
 /* -------- Long-term outlook -------- */
-.accuracy-wrap { margin-bottom: 0.9rem; }
+.accuracy-wrap { margin-bottom: 0.7rem; flex-shrink: 0; }
 .accuracy {
   display: flex;
   flex-direction: column;
@@ -773,7 +867,18 @@ button.ghost.danger:hover:not(:disabled) {
 
 .longterm-container {
   overflow-x: auto;
-  margin-bottom: 0.75rem;
+  overflow-y: auto;
+  margin-bottom: 0.6rem;
+  /* Take remaining height inside the panel-flex column. */
+  flex: 1;
+  min-height: 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--label-quaternary) transparent;
+}
+.longterm-container::-webkit-scrollbar { width: 8px; height: 8px; }
+.longterm-container::-webkit-scrollbar-thumb {
+  background: var(--label-quaternary);
+  border-radius: 999px;
 }
 
 .longterm-table {
@@ -922,13 +1027,14 @@ button.ghost.danger:hover:not(:disabled) {
 
 .disclaimer {
   margin: 0.5rem 0 0;
-  padding: 0.75rem 0.9rem;
-  font-size: 0.76rem;
-  line-height: 1.5;
+  padding: 0.55rem 0.7rem;
+  font-size: 0.72rem;
+  line-height: 1.45;
   color: var(--label-secondary);
   background: var(--surface-3);
   border: 1px solid var(--hairline);
   border-radius: var(--r-md);
+  flex-shrink: 0;
 }
 .disclaimer strong { color: var(--orange); }
 .disclaimer code {
@@ -943,14 +1049,15 @@ button.ghost.danger:hover:not(:disabled) {
 /* -------- Footer -------- */
 .site-footer {
   border-top: 1px solid var(--hairline);
-  padding: 1rem 1.5rem 1.5rem;
+  padding: 0.5rem 1rem;
   color: var(--label-tertiary);
-  font-size: 0.78rem;
+  font-size: 0.74rem;
   display: flex;
-  gap: 0.6rem;
+  gap: 0.55rem;
   align-items: center;
   flex-wrap: wrap;
   letter-spacing: 0;
+  flex-shrink: 0;
 }
 .site-footer .sep { opacity: 0.5; }
 #last-updated {
