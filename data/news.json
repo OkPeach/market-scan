@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777026874369,
+  "timestamp": 1777030984632,
   "items": [
     {
       "id": 139874212,
@@ -420,6 +420,17 @@
       "category": "company"
     },
     {
+      "id": 139874931,
+      "headline": "Swiss National Bank defends investment approach after calls to ditch Palantir stake",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d260968c6bb5221dad4bce6203b214cb825fad2d73b6e2f6dd2071ee4a8f58b0",
+      "summary": "Swiss National Bank ChairmanMartin Schlegel defended the central bank's investment approachon Friday, after campaigners from Minneapolis called on thecentral bank to offload its $1.1 billion...",
+      "image": "",
+      "datetime": 1777015100000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
       "id": 139873332,
       "headline": "Intel Corp (INTC) Q1 2026 Earnings Call Highlights: Surpassing Expectations with Strong AI and ...",
       "source": "Yahoo",
@@ -453,6 +464,50 @@
       "category": "company"
     },
     {
+      "id": 139874758,
+      "headline": "Tesla Begins Production of Cybercabs, Musk Says",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=28f5743fa86c45a08f5cddb41b3e945248117e211bd246b109f089fa2ebfb087",
+      "summary": "By Nicholas Miller Tesla has begun production on its Cybercab, a car without pedals or a steering wheel key to its vision for autonomous robotaxis, Chief Executive Elon Musk said. The company...",
+      "image": "",
+      "datetime": 1777013895000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139874756,
+      "headline": "MORNING BID AMERICAS-Schrödinger's ceasefire",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3e3c210bbf6c4a96ae4341155aabd7a7408adfa2085ea996ff918ae0213ffbdf",
+      "summary": "April 24 - Everything Mike Dolan and the ROI team are excited to read,watch and listen to over the weekend. From the Editor Hello Morning Bid...",
+      "image": "",
+      "datetime": 1777013847000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139874761,
+      "headline": "Why Palantir's Story Just Entered A New Phase",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6940c3afdebb3d1ea36995cee1fd0aba33d7a21cf2c8404e78a58bb174b90c54",
+      "summary": "Palantir has secured a Pentagon program of record, ensuring stable, long-cycle government revenue. Check out why PLTR stock is a strong buy.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219944504/image_2219944504.jpg?io=getty-c-w1536",
+      "datetime": 1777013508000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 139874656,
+      "headline": "The New Void Within Apple",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fd46a48c23a44b8cc0956ee2c7621d2c22d49cc4396d164f63a885b64e2c77a1",
+      "summary": "Apple AAPLâs AI leadership gap and Siri delays clash with privacy limitsâbut Apple Silicon enables on-device AI upside. Learn more about AAPL stock here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403433859/image_1403433859.jpg?io=getty-c-w1536",
+      "datetime": 1777012971000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 139873305,
       "headline": "Geely's Caocao to deploy thousands of fully customised robotaxis in 2027",
       "source": "Yahoo",
@@ -473,6 +528,28 @@
       "datetime": 1777012598000,
       "ticker": "MSFT",
       "category": "company"
+    },
+    {
+      "id": 139874658,
+      "headline": "Wall Street Breakfast Podcast: Intel Chips Fly High",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b517101035268f3f24ba0b71e31403354781590179a2a1c64eba7e95131e25f",
+      "summary": "Intel surges as Q1 results, guidance blow past Wall Street's forecast. U.S. soldier charged after allegedly earning $400,000 betting on Maduroâs removal. Nike cuts 1,400 jobs.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160010090/image_2160010090.jpg?io=getty-c-w1536",
+      "datetime": 1777012575000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 7843365,
+      "headline": "Forecast for strong El Nino fans worries about global crops as Iran war bites - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzg5eVU3QWlHUVUzTk5SWmZYTDFYSWVwUmJZZFdNRDZEVXNuTXpnOUQ2UzNFWFB4aEx4cmtpVy1fT0FOR2psRHRibTF2SU5UdWZNSmRISUdyX1RhbGFULXRCck5KNGR1eWROby11d3h5SWo3QWgzMTJxV2NPb2trdF9TWk1XYm13czdMUUEzdEtlSmJTc3MzSU15SFFlUkxLWU1obHJQRGU5N0FuMEFNd1ppSHNnZC1WU1p2T2JBZUtibnVmUjlzb255TG1wSkYtdVE?oc=5",
+      "summary": "Forecast for strong El Nino fans worries about global crops as Iran war bites  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777012260000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 7842516,
@@ -1022,83 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776996582000,
       "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 139872634,
-      "headline": "Intel CEO Lip Bu Tan crushed Wall Street targets on his 1-year anniversary: We are embracing our ‘paranoid’ roots",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e3d60cbbff1ee36763faabe2860e3cfe617e52c17be93415b868bf548f20a30",
-      "summary": "Changes in AI, including the rise of agentic AI, are rekindling demand for CPU chips, says Intel after a blowout quarter that sent shares up 22%.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776996112000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139871303,
-      "headline": "Xiaomi has delivered 26,000 units of upgraded SU7 series sedan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68488a4e8712505615d789abd62be8609afc45d433f21186087fced2658bf42b",
-      "summary": "Xiaomi, a well-known maker of ‌smart consumer electronics in China, ‌said on Friday that it had ​delivered 26,000 units of its upgraded SU7 series, which launched in March. Xiaomi CEO Lei ‌Jun told ⁠media at an event at the Beijing Autoshow ⁠that the company had received 60,000 locked orders as of ​April 23 ​for ​the new generation ‌SU7 sedans and planned to launch its YU7 GT series at the end of May. With a huge following in China, ‌the Chinese electronic ​giant is taking ​on ​Tesla and pursuing premium ‌strategy in the ​EV market.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776994927000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139871313,
-      "headline": "1 Software Stock with Exciting Potential and 2 Facing Challenges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=90292e9809dd0eca47c1e39ddf2cc2c2a43e056e8cc4a7b9a60ee57ca4fba603",
-      "summary": "Software is eating the world, and virtually no business is left untouched by it. In the past, the undeniable tailwinds fueling SaaS companies led to lofty valuation multiples that made it easier to raise capital. But this was a double-edged sword as the high prices exposed them to big drawdowns, and unfortunately, the industry has tumbled by 21.5% over the last six months. This drawdown is a stark contrast from the S&P 500’s 4.8% gain.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776994883000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 139871277,
-      "headline": "Why Applied Digital Stock Jumped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a11e557cbd3b79b281ed27df287a769abaacab6ad8e3c7596c7c10bb3992a7c6",
-      "summary": "Cloud titans are turning to the next-gen data center builder for their AI infrastructure needs.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776993670000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139872387,
-      "headline": "INTEL CORP : Jefferies reiterates its Neutral rating",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=3f0801ab718d6f9f1a0b906caa58fdc91c061ec87f5c1e0420afe7be4c237b62",
-      "summary": "Analyst Blayne Curtis from Jefferies research gives the stock a Neutral rating. The target price is being increased from USD 60 to USD 80.",
-      "image": "",
-      "datetime": 1776993626000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139872383,
-      "headline": "Amazon com : India to invest over INR 2800 crore (~USD 300M) to advance associate safety and wellbeing and strengthen its pan-India operations network",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=a180143dde6b3b1c5b15b338bd63ba8838d60b1dbd8665cd9537292c82a514c5",
-      "summary": "April 23, 2026, Bengaluru, India - Amazon India today announced that it plans to invest over INR 2800 crore to further strengthen associate safety, health, and financial wellbeing measures while...",
-      "image": "",
-      "datetime": 1776993487000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139871984,
-      "headline": "Tesla Vs GM: Which is the Best Investment as the Q1 Earnings Season Heats Up?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d64d10d662d3f1806bfa0afc7d3120ff1e790d6e0dc3830fa6ce045d55c344b9",
-      "summary": "Tesla and GM stock may be on investors' radars as potential buy-the-dip targets as the Q1 earnings season heats up, but which is the better investment?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776993300000,
-      "ticker": "TSLA",
       "category": "company"
     }
   ]
