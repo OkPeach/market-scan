@@ -13,9 +13,14 @@ couple of Node scripts that the workflows run.
   the same-day percentage move of the mentioned ticker.
 - **24h best/worst performers** — top 5 winners and losers from the watchlist
   with tiny Chart.js sparklines pulled from the rolling 24h price history.
-- **Predictions** — submit a buy/sell call with a target % move and a window.
-  Predictions are stored in `localStorage`, automatically resolved when the
-  window expires, and shown on per-direction leaderboards.
+- **24h predictions** — algorithmic forecast that blends same-day % change,
+  intraday momentum from the 24h price history, and news-attention boost.
+  Transparent scoring; top 5 bullish / bearish lists.
+- **Long-term outlook** — daily snapshot of Finnhub analyst consensus
+  (buy/hold/sell distribution), 12-month price targets, and next earnings
+  dates. Includes a *self-reported* 30-day direction hit rate computed from
+  `data/longterm-history.json` against the "always up" baseline so you can
+  judge whether the signal actually has an edge on your watchlist.
 
 ## Setup
 
@@ -30,10 +35,11 @@ couple of Node scripts that the workflows run.
 4. **Customize the watchlist.** Edit `config/tickers.json` to set the symbols
    you care about (around 25 works well with the free Finnhub rate limit).
 
-The two workflows in `.github/workflows/` run on a schedule (every 10 min for
-stocks, every 30 min for news) and can also be triggered manually from the
-*Actions* tab via "Run workflow". They commit updated files back to `main`
-using `stefanzweifel/git-auto-commit-action`.
+Three workflows in `.github/workflows/` run on a schedule (every 10 min for
+stocks, every 30 min for news, daily at 06:30 UTC for long-term data) and
+can also be triggered manually from the *Actions* tab via "Run workflow".
+They commit updated files back to `main` using
+`stefanzweifel/git-auto-commit-action`.
 
 ## Repo layout
 
@@ -48,16 +54,20 @@ using `stefanzweifel/git-auto-commit-action`.
 │   ├── predictions.js  # localStorage CRUD + leaderboard
 │   └── charts.js       # Chart.js sparklines
 ├── data/
-│   ├── stocks.json     # written by workflow every ~10 min
-│   ├── news.json       # written by workflow every ~30 min
-│   └── history.json    # rolling 24h price history
-├── config/tickers.json # editable watchlist
+│   ├── stocks.json            # written every ~10 min
+│   ├── news.json              # written every ~30 min
+│   ├── history.json           # rolling 24h price history
+│   ├── longterm.json          # analyst consensus / targets / next earnings
+│   └── longterm-history.json  # daily snapshots (for accuracy tracking)
+├── config/tickers.json        # editable watchlist
 ├── scripts/
 │   ├── fetch-stocks.mjs
-│   └── fetch-news.mjs
+│   ├── fetch-news.mjs
+│   └── fetch-longterm.mjs
 └── .github/workflows/
     ├── update-stocks.yml
-    └── update-news.yml
+    ├── update-news.yml
+    └── update-longterm.yml
 ```
 
 ## Running locally
@@ -76,7 +86,38 @@ run them with Node 20+:
 export FINNHUB_API_KEY=your_key_here
 node scripts/fetch-stocks.mjs
 node scripts/fetch-news.mjs
+node scripts/fetch-longterm.mjs
 ```
+
+## How trustworthy is the long-term outlook?
+
+As trustworthy as you can measure. The panel doesn't output a proprietary
+"prediction" — it surfaces three signals directly from Finnhub:
+
+1. **Analyst consensus.** The strong-buy / buy / hold / sell / strong-sell
+   distribution from the most recent month's reports. Shown as a bar, a
+   label, and a 3-month trend arrow.
+2. **12-month price target.** Mean/low/high from the analyst panel, with the
+   implied upside vs today's price.
+3. **Next earnings date.** The closest upcoming earnings event within 90
+   days — a known catalyst that matters more than short-term noise.
+
+A composite `6m score` is computed as
+`0.7 × target upside% + 0.3 × consensus × 10`, only when both inputs exist —
+it's never fabricated from a single signal.
+
+Because this is still a model, the page also **measures itself**. Every
+daily run snapshots the current score + price into
+`data/longterm-history.json`. The UI then walks that history, finds pairs of
+snapshots ~30 days apart, and reports the fraction of tickers whose score
+sign matched the subsequent actual price move. It also reports the "always
+up" baseline (% of tickers that went up regardless) so you can see whether
+the signal has real edge.
+
+This won't start producing meaningful accuracy numbers until the daily
+workflow has run for at least 32 days. That's the honest answer: you can
+only trust what you can verify, and the verification takes time.
+
 
 ## Force refreshing from the browser
 
