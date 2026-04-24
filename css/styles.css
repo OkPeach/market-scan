@@ -599,6 +599,49 @@ button.ghost.danger:hover:not(:disabled) {
   color: var(--label-secondary);
 }
 
+.force-refresh {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin: 0.6rem 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--hairline);
+}
+.force-refresh .actions-link {
+  margin-left: auto;
+  font-size: 0.78rem;
+  color: var(--label-secondary);
+}
+.force-refresh .actions-link:hover { color: var(--blue); }
+
+.gh-form {
+  background: var(--surface-3);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-md);
+  padding: 0.85rem;
+  margin-top: 0.5rem;
+  animation: fadeIn 0.18s ease;
+}
+.gh-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+.gh-grid .field-wide { grid-column: 1 / -1; }
+.gh-grid .field label small {
+  color: var(--label-tertiary);
+  font-weight: 400;
+  margin-left: 0.35rem;
+  font-size: 0.85em;
+}
+.gh-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
 /* -------- Forecast (site predictions) -------- */
 .forecast-grid {
   display: grid;
