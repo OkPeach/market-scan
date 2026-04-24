@@ -1,6 +1,83 @@
 {
-  "timestamp": 1777048445690,
+  "timestamp": 1777053245938,
   "items": [
+    {
+      "id": 7844781,
+      "headline": "Clock ticks on Spirit Airlines as bondholders weigh Trump bailout. Here's what could happen next",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/spirit-airlines-trump-bailout.html",
+      "summary": "President Trump has said the government could buy Spirit.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108063980-1731706719266-gettyimages-2171702447-lax_airplanes_040.jpeg?v=1731706850&w=1920&h=1080",
+      "datetime": 1777051746000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7844779,
+      "headline": "P&G's solid quarter, confident outlook proves why the stock deserves a spot in our portfolio",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/pg-solid-quarter-proves-why-the-stock-deserves-a-spot-in-our-portfolio.html",
+      "summary": "P&G was able to do this despite increased commodity prices due to the Iran war.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107228796-16820124152023-04-20t170239z_662865409_rc2gi0azj08i_rtrmadp_0_procter-gamble-discounts.jpeg?v=1682077018&w=1920&h=1080",
+      "datetime": 1777051233000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139878497,
+      "headline": "In today's session, there are S&P500 stocks with remarkable trading volume.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=9819814261086ec721e2117025399611e07ea1b53ef6fa6d7aa8c9c42c691489",
+      "summary": "Let's have a look at what is happening on the US markets on Friday. Below you can find the S&P500 stocks with an unusual volume in today's session.",
+      "image": "https://www.chartmill.com/images/uploads/CM_Unusual_Volume_Small_free_b9d2e60841.webp",
+      "datetime": 1777050302000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 7844669,
+      "headline": "Intel's blowout quarter showcases the exact reason why we took a stake in Arm",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/intels-blowout-quarter-showcases-the-exact-reason-why-we-took-a-stake-in-arm.html",
+      "summary": "Intel's quarter is a sign for what's to come in CPU demand",
+      "image": "https://image.cnbcfm.com/api/v1/image/108281726-1774286929697-045_2649mxf01_40_15_09still001.jpg?v=1774287066&w=1920&h=1080",
+      "datetime": 1777049559000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139878285,
+      "headline": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=57220348ff675d1190361a6b28358a99d1b138a67d54f2e64bde9ca71fa0bb26",
+      "summary": "Stay updated with the movement of S&P500 stocks in today's session. Discover which S&P500 stocks are making waves on Friday.",
+      "image": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
+      "datetime": 1777048503000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 7844039,
+      "headline": "S&P 500, Nasdaq shrug off war gloom as Intel powers chip rally - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFI0QnNnNVVVckNHY3RrNk9MQTd1aS1ZRzFVZ2FzZEIycjhqSjdndzdyYkdXdGNPSThqc1lrSURHeUdQQk9JLW1KTHlUWkZweGxibG1YRVJhN2F6b0dhb0loZGo1NUtWU3FOeVNIcG1oWDY2QnppRXdVTkh5LTE4MkZoaGxWNmFTQ3JoQkxGWWRVb0c2TjRSTnMxUzA3cHp5ZDc2N1d1Z2tMOThqcFE?oc=5",
+      "summary": "S&P 500, Nasdaq shrug off war gloom as Intel powers chip rally  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777048344000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7844566,
+      "headline": "Witkoff and Kushner to travel to Pakistan soon for Iran talks, US official says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnRtYjdSX1VzSl9JWXpscUtCNFZyRkFxaUVFQ0lfODNDUmVhOFk3aGZwUVJDNDAzcjNKa0Q5eGxIeHlDb0NMRU4zS1B6S3FTUFAzMjUxTVhFakktYUtzMlZibmhrUFhVb29KdUZzUHNSZjBLSnpUQ2M2V2g4SUx4OWZkblZNZ1huSVdIMkpENXdVUU0xWjhOQVhsczVTMEZTWE9hS0JIX2xTWGd0ZUdwUHZMYw?oc=5",
+      "summary": "Witkoff and Kushner to travel to Pakistan soon for Iran talks, US official says  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777047709000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 7843821,
       "headline": "Eni says market underestimating Iran war's impact on energy prices - Reuters",
@@ -728,6 +805,17 @@
       "category": "company"
     },
     {
+      "id": 7843823,
+      "headline": "Only five ships pass through Strait of Hormuz in 24 hours - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDY0N3lOeDVoY0FHTVd3cGV4VkJRTV9EekNzUWxQdFFlNTdESVFFZGQtaEpUYVUzV0hNOHdfNjdPU01acWxGUnRvVXc0ZXNkclVQR2VJcDM0QU1YQXFibEY0QmFuODhIRU9pWFhuTW40TFM2UHcweXBHYkFtR1BnSngwRHl4aDR5MU5EdzN0bzZJRnVpalRqQUY1YzA3NlZQT3o4bVlmTng?oc=5",
+      "summary": "Only five ships pass through Strait of Hormuz in 24 hours  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777040085000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139877548,
       "headline": "Meta faces new pressure as states push social media restrictions",
       "source": "Yahoo",
@@ -814,17 +902,6 @@
       "datetime": 1777039567000,
       "ticker": "META",
       "category": "company"
-    },
-    {
-      "id": 7844039,
-      "headline": "S&P 500 and Nasdaq rise on fresh hopes of US-Iran talks, Intel boost - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFI0QnNnNVVVckNHY3RrNk9MQTd1aS1ZRzFVZ2FzZEIycjhqSjdndzdyYkdXdGNPSThqc1lrSURHeUdQQk9JLW1KTHlUWkZweGxibG1YRVJhN2F6b0dhb0loZGo1NUtWU3FOeVNIcG1oWDY2QnppRXdVTkh5LTE4MkZoaGxWNmFTQ3JoQkxGWWRVb0c2TjRSTnMxUzA3cHp5ZDc2N1d1Z2tMOThqcFE?oc=5",
-      "summary": "S&P 500 and Nasdaq rise on fresh hopes of US-Iran talks, Intel boost  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777039566000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139877459,
@@ -1003,6 +1080,17 @@
       "category": "company"
     },
     {
+      "id": 7844567,
+      "headline": "South African rand edges up as investors track US-Iran talks, await local month-end data - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSG1XajN6QlJTb0NpQ0NUbkRCa0NKU2owUTB3d1ZYaVBHYXF1UVQxLXRwSUhLanlpRVVQVjVrMk4taWxBdGpuZ0c3Y0NiVkVtRGotM1dGSmJGVmFucFp6NGxQVmhJUmdQUS03TllyY3QxQ1ZiaExLT1BuZWZuWDJ5ZW8tY3VrbWdsaVlZZ0VUYkI2azhpc0ZJdE9zbFp4TFFaSm1vQUE0Z3VMVDZncFBYQ3dnTlVrQjkybE5JOGp5UjNJQQ?oc=5",
+      "summary": "South African rand edges up as investors track US-Iran talks, await local month-end data  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777037962000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139876306,
       "headline": "Tesla Just Disclosed That Its Pure Profit Center Will Dry Up Fast",
       "source": "Yahoo",
@@ -1011,94 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777037872000,
       "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139876210,
-      "headline": "Oklo stock surges for a second day in a row — here's why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16c98ad8c2e181e55c5c9ae6f2e3059c39b5c2535756bced0b15b6abfb0765d6",
-      "summary": "Oklo stock jumped for a second day in a row after  the company on Thursday announced a partnership with chipmaker Nvidia  and Los Alamos National Laboratory to work on next generation nuclear power.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777037845000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139876329,
-      "headline": "DA Davidson lifts AMD rating, says CPU demand entering ‘unprecedented’ phase",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2a75adc23da307d03797b37f64f6c62225146f58fc628616779c68262a105ae",
-      "summary": "Investing.com -- Advanced Micro Devices (AMD) has been upgraded by DA Davidson on Friday, with the firm raising its rating to Buy from Neutral and lifting the price target to $375 from $220.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777037693000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139876231,
-      "headline": "Adobe Summit: AI Monetization Push, Semrush Acquisition Nears Close, $25B Buyback Unveiled",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3c65ad41b86b5c4a9fdea8101c5b6a345bcb022213f824bfd07d34e4744c760",
-      "summary": "Adobe (NASDAQ:ADBE) executives used an investor session held alongside the company’s Summit event to outline how artificial intelligence is being embedded across its product portfolio and monetized through a mix of subscription, consumption and outcome-based pricing, while also providing an update o",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777037654000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139876307,
-      "headline": "Elon Musk's Tesla Invested $2 Billion Into SpaceX, Q1 2026 Earnings Show",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0335435e5a0a3cc068a2e1aee8b2251cfdf30f529bea1bb4fe304d0b1b5fb88b",
-      "summary": "Tesla Inc.‘s ties to Elon Musk-led SpaceX just got deeper with a new investment in the commercial space flight company amid Terafab collaboration. $2 Billion Investment In its quarterly earnings report released on Wednesday, the EV giant shared its investment in SpaceX. The EV giant’s report showed a $2 billion charge due to its “SpaceX equity investment.” The company also expanded on why its collaboration with the company mattered. Don't Miss: A single bad hire can set a startup back years. Her",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777037472000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139877751,
-      "headline": "Wall Street Analysts See ServiceNow (NOW) as a Buy: Should You Invest?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58d3c45b7536cebe87cc049e9c8f65aa6242fe07f000210fdae23d4794533dee",
-      "summary": "Based on the average brokerage recommendation (ABR), ServiceNow (NOW) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777037403000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 139876211,
-      "headline": "Ironclad Honored in Fast Company's Annual List of the World's Most Innovative Companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=204d24afcee5b40b49b73ebbc3b7d1b722ca169630df3a0d68f446a75d6e7abf",
-      "summary": "Ironclad, the AI contracting company accelerating business with every contract, is proud to have been named to Fast Company's prestigious list of the World's Most Innovative Companies of 2026, joining the ranks of Google, Nvidia, Adidas, and Walmart. This year's list shines a spotlight on businesses that are shaping industry and culture through their innovations.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777037400000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139876363,
-      "headline": "Intel stock soars on Q1 earnings. Is this too good to be true?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8a06ab4f93ab228a5af9885799e984b1bc1bb34f83f3e1ff39f61a1f32f0d08",
-      "summary": "US stock futures (ES=F, NQ=F, YM=F) are mixed on Friday morning, especially as Intel shares (INTC) soar by as much as 25% on its first quarter earnings results and second quarter guidance. Morning Brief Host Julie Hyman and Yahoo Finance Head of News Myles Udland assess Intel's latest stock moves and what could be next for the computer hardware and chip company.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777037366000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139876212,
-      "headline": "Is Qualcomm The Next AI Stock To Surge?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1b6108a644c099ba0396a095ed21b17e023c3630748eccfa4716e932e9fdf3f",
-      "summary": "Qualcomm (QCOM) is down nearly 23% year-to-date, weighed down by a pair of well-documented headwinds - Apple's (AAPL) shift away from Qualcomm modems and the smartphone memory shortage.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777037365000,
-      "ticker": "AAPL",
       "category": "company"
     }
   ]
