@@ -1,88 +1,27 @@
-// Algorithmic 24h forecast.
+// 24h predictions panel.
 //
-// For each ticker with quote + 24h history + news, we compute a signed
-// "outlook score" that blends three signals:
+// The composite score is now computed server-side in
+// scripts/compute-predictions.mjs. This module only renders the result and
+// computes a client-side accuracy widget from predictions-history.json.
 //
-//   base     = today's % change vs previous close  (from Finnhub /quote.dp)
-//   momentum = % delta between the recent half and the earlier half of the
-//              24h price history — negative when losing steam, positive when
-//              gaining steam, even if the overall change is still red/green.
-//   news     = log(1 + newsCount) * 0.2 — diminishing attention premium.
-//
-// Alignment: news amplifies the base signal only when momentum points the
-// same way, otherwise it's damped (mixed signals = lower conviction).
-//
-//   score = base * (1 + |momentum| * alignment * 0.3) * (1 + newsBoost)
-//
-// Top positive scores → "predicted to rise"
-// Top negative scores → "predicted to fall"
+// Each prediction row in predictions.json looks like:
+//   {
+//     ticker, name, price,
+//     base,            // today's %change from previous close
+//     momentum,        // recent-half minus earlier-half % of 24h history
+//     stddev,          // rolling %-return stddev (null if not enough history)
+//     usedFallbackStddev: bool,
+//     zBase, zMom,     // vol-normalized z-scores (in sigma units)
+//     sentimentScore,  // null, or normalized [-1, +1] from /news-sentiment
+//     sentimentBuzz,   // null or ~[0, 1]
+//     newsCount,
+//     newsSignal,      // contribution to composite
+//     score            // composite (unit: roughly sigma)
+//   }
 
 import { createLogger } from "./logger.js";
 
 const log = createLogger("predictions");
-
-function computeMomentum(series) {
-  if (!Array.isArray(series) || series.length < 4) return 0;
-  const n = series.length;
-  const half = Math.floor(n / 2);
-  const earlier = series.slice(0, half);
-  const recent = series.slice(half);
-  const avg = (arr) => arr.reduce((a, p) => a + p.p, 0) / arr.length;
-  const e = avg(earlier);
-  const r = avg(recent);
-  if (!e) return 0;
-  return ((r - e) / e) * 100;
-}
-
-function newsCountByTicker(news) {
-  const counts = {};
-  for (const item of news ?? []) {
-    if (item && item.ticker) {
-      counts[item.ticker] = (counts[item.ticker] ?? 0) + 1;
-    }
-  }
-  return counts;
-}
-
-export function computePredictions({ stocks, history, news }) {
-  const newsCounts = newsCountByTicker(news);
-  const out = [];
-
-  for (const s of stocks ?? []) {
-    const base = Number.isFinite(s.changePct) ? s.changePct : 0;
-    const momentum = computeMomentum(history?.[s.ticker]);
-    const newsN = newsCounts[s.ticker] ?? 0;
-    const newsBoost = Math.log(1 + newsN) * 0.2;
-
-    // Alignment: 1 if both signals point the same way, 0.4 otherwise.
-    const signsMatch = Math.sign(base) === Math.sign(momentum) && base !== 0 && momentum !== 0;
-    const alignment = signsMatch ? 1 : 0.4;
-
-    const score = base * (1 + Math.abs(momentum) * alignment * 0.3) * (1 + newsBoost);
-
-    out.push({
-      ticker: s.ticker,
-      name: s.name,
-      price: s.price,
-      base,
-      momentum,
-      newsCount: newsN,
-      score,
-    });
-  }
-  return out;
-}
-
-function fmtPct(n) {
-  if (n == null || !Number.isFinite(n)) return "—";
-  const sign = n > 0 ? "+" : "";
-  return `${sign}${n.toFixed(2)}%`;
-}
-
-function fmtPrice(n) {
-  if (n == null || !Number.isFinite(n)) return "—";
-  return n.toFixed(2);
-}
 
 function esc(s) {
   return String(s ?? "")
@@ -93,58 +32,188 @@ function esc(s) {
     .replace(/'/g, "&#39;");
 }
 
+function fmtPct(n, digits = 2) {
+  if (n == null || !Number.isFinite(n)) return "—";
+  const sign = n > 0 ? "+" : "";
+  return `${sign}${n.toFixed(digits)}%`;
+}
+
+function fmtSigma(n, digits = 2) {
+  if (n == null || !Number.isFinite(n)) return "—";
+  const sign = n > 0 ? "+" : "";
+  return `${sign}${n.toFixed(digits)}σ`;
+}
+
+function fmtPrice(n) {
+  if (n == null || !Number.isFinite(n)) return "—";
+  return n.toFixed(2);
+}
+
 function reasonTags(p) {
   const tags = [];
-  if (Math.abs(p.base) >= 0.1) {
+  if (Math.abs(p.base) >= 0.05) {
     tags.push(
       `<span class="tag ${p.base >= 0 ? "pos" : "neg"}">${fmtPct(p.base)} today</span>`,
     );
   }
-  if (Math.abs(p.momentum) >= 0.1) {
+  if (p.stddev != null) {
+    tags.push(
+      `<span class="tag neutral" title="30-point rolling stddev of %-returns in the 24h price series">${p.stddev.toFixed(2)}% vol</span>`,
+    );
+  } else if (p.usedFallbackStddev) {
+    tags.push(
+      `<span class="tag neutral" title="Not enough history — using 1.5% fallback vol">fallback vol</span>`,
+    );
+  }
+  if (Math.abs(p.momentum) >= 0.05) {
     const dir = p.momentum >= 0 ? "↗" : "↘";
     const cls = p.momentum >= 0 ? "pos" : "neg";
-    tags.push(`<span class="tag ${cls}">${dir} ${fmtPct(p.momentum)} momentum</span>`);
+    tags.push(
+      `<span class="tag ${cls}" title="Recent half vs earlier half of 24h history">${dir} ${fmtPct(p.momentum)}</span>`,
+    );
   }
-  if (p.newsCount > 0) {
+  if (p.sentimentScore != null) {
+    const sCls = p.sentimentScore > 0.05 ? "pos" : p.sentimentScore < -0.05 ? "neg" : "neutral";
+    const label = p.sentimentScore > 0 ? "bullish" : p.sentimentScore < 0 ? "bearish" : "neutral";
+    tags.push(
+      `<span class="tag ${sCls}" title="companyNewsScore from /news-sentiment (weekly bullish/bearish aggregate)">
+         ${label} ${(p.sentimentScore * 100).toFixed(0)}%
+       </span>`,
+    );
+  } else if (p.newsCount > 0) {
     tags.push(
       `<span class="tag neutral">${p.newsCount} news item${p.newsCount === 1 ? "" : "s"}</span>`,
     );
   }
-  return tags.join(" ");
+  return tags.join("");
 }
 
 function forecastRow(p, kind) {
   const scoreCls = kind === "up" ? "pos" : "neg";
-  const scoreTxt = fmtPct(p.score);
+  const tooltip = [
+    `zBase: ${p.zBase?.toFixed(2) ?? "—"}σ`,
+    `zMom:  ${p.zMom?.toFixed(2) ?? "—"}σ`,
+    `news:  ${p.newsSignal?.toFixed(2) ?? "—"}`,
+    p.stddev != null ? `stddev: ${p.stddev.toFixed(2)}%` : "stddev: fallback",
+  ].join("\n");
   return `
-    <li class="forecast">
+    <li class="forecast" title="${esc(tooltip)}">
       <div class="forecast-head">
         <span class="ticker">${esc(p.ticker)}</span>
         <span class="name" title="${esc(p.name ?? "")}">${esc(p.name ?? "")}</span>
         <span class="price">${fmtPrice(p.price)}</span>
-        <span class="score ${scoreCls}">${scoreTxt}</span>
+        <span class="score ${scoreCls}">${fmtSigma(p.score)}</span>
       </div>
       <div class="forecast-reasons">${reasonTags(p)}</div>
     </li>
   `;
 }
 
-export function renderForecast({ risersEl, fallersEl, stocks, history, news }) {
+// --- 24h self-reported accuracy --------------------------------------------
+
+// For each pair of snapshots roughly 24h apart (±2h), count how often the
+// prediction score's sign matched the subsequent actual 24h price move.
+// Also reports the "always up" baseline (fraction of tickers that went up
+// regardless of prediction) so the hit rate can be judged against noise.
+export function computeAccuracy(history, hoursBack = 24) {
+  const snaps = Array.isArray(history?.snapshots) ? history.snapshots : [];
+  if (snaps.length < 2) return null;
+  const msWindow = hoursBack * 60 * 60 * 1000;
+  const tolMs = 2 * 60 * 60 * 1000;
+
+  let pairs = 0;
+  let hits = 0;
+  let upMoves = 0;
+
+  for (let i = 0; i < snaps.length; i++) {
+    const later = snaps[i];
+    let earlier = null;
+    for (let j = i - 1; j >= 0; j--) {
+      const dt = later.t - snaps[j].t;
+      if (dt >= msWindow - tolMs && dt <= msWindow + tolMs) {
+        earlier = snaps[j];
+        break;
+      }
+      if (dt > msWindow + tolMs) break;
+    }
+    if (!earlier) continue;
+
+    for (const [sym, e] of Object.entries(earlier.tickers ?? {})) {
+      const l = later.tickers?.[sym];
+      if (!l || e.price == null || l.price == null || e.score == null) continue;
+      if (e.price === 0) continue;
+      const move = l.price - e.price;
+      if (move === 0) continue;
+      pairs++;
+      if (Math.sign(move) > 0) upMoves++;
+      if (Math.sign(e.score) === Math.sign(move)) hits++;
+    }
+  }
+
+  if (pairs === 0) return null;
+  return {
+    hoursBack,
+    pairs,
+    hitRate: hits / pairs,
+    baselineUp: upMoves / pairs,
+  };
+}
+
+function renderAccuracy(acc) {
+  if (!acc) {
+    return `
+      <div class="accuracy empty">
+        Not enough 24h history yet — accuracy appears once the stocks
+        workflow has run for ≥ 25 hours.
+      </div>
+    `;
+  }
+  const rate = (acc.hitRate * 100).toFixed(1);
+  const base = (acc.baselineUp * 100).toFixed(1);
+  const edge = (acc.hitRate - acc.baselineUp) * 100;
+  const edgeCls = edge > 2 ? "pos" : edge < -2 ? "neg" : "neutral";
+  return `
+    <div class="accuracy">
+      <div class="accuracy-main">
+        <span class="accuracy-rate">${rate}%</span>
+        <span class="accuracy-label">24h direction hit rate (${acc.pairs} predictions)</span>
+      </div>
+      <div class="accuracy-edge ${edgeCls}">
+        ${edge > 0 ? "+" : ""}${edge.toFixed(1)} pts vs "always up" baseline (${base}%)
+      </div>
+    </div>
+  `;
+}
+
+// ---------------------------------------------------------------------------
+
+export function renderForecast({
+  risersEl,
+  fallersEl,
+  accuracyEl,
+  predictionsFile,
+  predictionsHistory,
+  visibleSet,
+}) {
   if (!risersEl || !fallersEl) {
     log.warn("renderForecast: missing list elements");
     return;
   }
 
-  if (!stocks || stocks.length === 0) {
+  const all = Array.isArray(predictionsFile?.predictions) ? predictionsFile.predictions : [];
+  const visible = visibleSet && visibleSet.size
+    ? all.filter((p) => visibleSet.has(p.ticker))
+    : all;
+
+  if (visible.length === 0) {
     const empty = '<li class="empty">No data yet — waiting for first workflow run.</li>';
     risersEl.innerHTML = empty;
     fallersEl.innerHTML = empty;
+    if (accuracyEl) accuracyEl.innerHTML = renderAccuracy(null);
     return;
   }
 
-  const preds = computePredictions({ stocks, history, news });
-  const sorted = preds.slice().sort((a, b) => b.score - a.score);
-
+  const sorted = visible.slice().sort((a, b) => b.score - a.score);
   const risers = sorted.filter((p) => p.score > 0).slice(0, 5);
   const fallers = sorted
     .filter((p) => p.score < 0)
@@ -158,6 +227,11 @@ export function renderForecast({ risersEl, fallersEl, stocks, history, news }) {
   fallersEl.innerHTML = fallers.length
     ? fallers.map((p) => forecastRow(p, "down")).join("")
     : '<li class="empty">No bearish signals right now.</li>';
+
+  if (accuracyEl) {
+    const acc = computeAccuracy(predictionsHistory, 24);
+    accuracyEl.innerHTML = renderAccuracy(acc);
+  }
 
   log.info(
     `renderForecast: risers=[${risers.map((p) => p.ticker).join(",")}] ` +

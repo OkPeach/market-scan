@@ -30,5 +30,5 @@ jobs:
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "data: update news"
-          file_pattern: data/news.json
+          commit_message: "data: update news + sentiment"
+          file_pattern: data/news.json data/sentiment.json

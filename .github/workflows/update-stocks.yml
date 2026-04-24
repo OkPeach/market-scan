@@ -27,8 +27,17 @@ jobs:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: node scripts/fetch-stocks.mjs
 
+      - name: Compute 24h predictions
+        # No API calls; pure computation over the JSON we just wrote plus the
+        # last sentiment snapshot from update-news.
+        run: node scripts/compute-predictions.mjs
+
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "data: update stocks"
-          file_pattern: data/stocks.json data/history.json
+          commit_message: "data: update stocks + predictions"
+          file_pattern: >-
+            data/stocks.json
+            data/history.json
+            data/predictions.json
+            data/predictions-history.json

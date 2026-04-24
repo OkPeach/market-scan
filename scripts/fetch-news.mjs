@@ -63,6 +63,24 @@ async function fetchGeneralNews() {
   return Array.isArray(data) ? data : [];
 }
 
+// /news-sentiment aggregates bullish/bearish tone from the past week of news
+// articles for a given company. Returns companyNewsScore in [0, 1]. This
+// endpoint has variable availability across Finnhub plans — we let 401/403/
+// 404 fall through and degrade to the count-based fallback in
+// compute-predictions.mjs rather than aborting the whole run.
+async function fetchSentiment(symbol) {
+  const url = `https://finnhub.io/api/v1/news-sentiment?symbol=${encodeURIComponent(symbol)}&token=${API_KEY}`;
+  const res = await fetch(url);
+  if (res.status === 401 || res.status === 403 || res.status === 404) {
+    return { unavailable: true, status: res.status };
+  }
+  if (!res.ok) throw new Error(`sentiment ${symbol}: ${res.status}`);
+  const data = await res.json();
+  // Finnhub returns an empty object for unknown tickers.
+  if (!data || Object.keys(data).length === 0) return null;
+  return data;
+}
+
 function normalize(raw, ticker) {
   // Finnhub news: { category, datetime (sec), headline, id, image, related, source, summary, url }
   return {
@@ -81,6 +99,7 @@ function normalize(raw, ticker) {
 async function main() {
   const tickersPath = resolve(ROOT, "config/tickers.json");
   const newsPath = resolve(ROOT, "data/news.json");
+  const sentimentPath = resolve(ROOT, "data/sentiment.json");
   log.info(`root=${ROOT}`);
 
   const tickersFile = await readJson(tickersPath, { tickers: [] });
@@ -150,6 +169,72 @@ async function main() {
     `wrote news.json: ${merged.length} merged items ` +
       `(general=${generalCount}, per-ticker=${perTickerCount}, ` +
       `deduped=${seen.size}, within-24h=${merged.length})`,
+  );
+
+  // --- Sentiment pass -------------------------------------------------------
+  log.info("fetching /news-sentiment per ticker");
+  const sentimentTickers = {};
+  let okSent = 0;
+  let unavailable = 0;
+  let emptyCount = 0;
+  let endpointUnavailable = false;
+
+  for (let i = 0; i < tickers.length; i++) {
+    const { symbol } = tickers[i];
+    try {
+      const data = await fetchSentiment(symbol);
+      if (data?.unavailable) {
+        endpointUnavailable = true;
+        unavailable++;
+        if (unavailable === 1) {
+          log.warn(
+            `/news-sentiment returned ${data.status} — endpoint may not be ` +
+              `available on this plan; skipping for remaining tickers`,
+          );
+        }
+        // No point retrying for every remaining ticker once we know.
+        break;
+      }
+      if (!data) {
+        emptyCount++;
+      } else {
+        // Finnhub companyNewsScore is in [0, 1]; normalize to [-1, +1].
+        const raw = Number.isFinite(data.companyNewsScore) ? data.companyNewsScore : null;
+        const normalized = raw == null ? null : (raw - 0.5) * 2;
+        sentimentTickers[symbol] = {
+          companyNewsScore: raw,
+          normalizedScore: normalized,
+          buzz: data.buzz?.buzz ?? null,
+          articlesInLastWeek: data.buzz?.articlesInLastWeek ?? null,
+          weeklyAverage: data.buzz?.weeklyAverage ?? null,
+          bullishPercent: data.sentiment?.bullishPercent ?? null,
+          bearishPercent: data.sentiment?.bearishPercent ?? null,
+          sectorAverageNewsScore: data.sectorAverageNewsScore ?? null,
+        };
+        okSent++;
+      }
+    } catch (err) {
+      log.warn(`sentiment ${symbol}: ${err.message}`);
+    }
+    if (i < tickers.length - 1) await sleep(REQUEST_DELAY_MS);
+  }
+
+  await writeFile(
+    sentimentPath,
+    JSON.stringify(
+      {
+        timestamp: now,
+        endpointAvailable: !endpointUnavailable,
+        tickers: sentimentTickers,
+      },
+      null,
+      2,
+    ) + "\n",
+  );
+
+  log.info(
+    `wrote sentiment.json: ok=${okSent} empty=${emptyCount} ` +
+      `unavailable=${unavailable} (endpoint ${endpointUnavailable ? "BLOCKED" : "OK"})`,
   );
 }
 

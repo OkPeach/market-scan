@@ -13,9 +13,14 @@ couple of Node scripts that the workflows run.
   the same-day percentage move of the mentioned ticker.
 - **24h best/worst performers** — top 5 winners and losers from the watchlist
   with tiny Chart.js sparklines pulled from the rolling 24h price history.
-- **24h predictions** — algorithmic forecast that blends same-day % change,
-  intraday momentum from the 24h price history, and news-attention boost.
-  Transparent scoring; top 5 bullish / bearish lists.
+- **24h predictions** — vol-normalized z-score forecast. Combines same-day
+  % change divided by rolling 24h return stddev (so a 2% move in COST isn't
+  treated the same as a 2% move in TSLA), a momentum z-score with alignment
+  damping, and directional news sentiment from Finnhub's `/news-sentiment`
+  endpoint when available (with a count-based fallback otherwise). The
+  composite is computed server-side every 10 min, and each run appends a
+  snapshot to `data/predictions-history.json` so the UI can show a live
+  24h direction hit rate against an "always up" baseline.
 - **Long-term outlook** — daily snapshot of Finnhub analyst consensus
   (buy/hold/sell distribution), 12-month price targets, and next earnings
   dates. Includes a *self-reported* 30-day direction hit rate computed from
@@ -54,15 +59,19 @@ They commit updated files back to `main` using
 │   ├── predictions.js  # localStorage CRUD + leaderboard
 │   └── charts.js       # Chart.js sparklines
 ├── data/
-│   ├── stocks.json            # written every ~10 min
-│   ├── news.json              # written every ~30 min
-│   ├── history.json           # rolling 24h price history
-│   ├── longterm.json          # analyst consensus / targets / next earnings
-│   └── longterm-history.json  # daily snapshots (for accuracy tracking)
-├── config/tickers.json        # editable watchlist
+│   ├── stocks.json             # quotes, written every ~10 min
+│   ├── history.json            # rolling 24h price history
+│   ├── news.json               # news feed, every ~30 min
+│   ├── sentiment.json          # /news-sentiment per ticker, every ~30 min
+│   ├── predictions.json        # server-computed 24h forecast, every ~10 min
+│   ├── predictions-history.json # hourly-ish snapshots (24h accuracy)
+│   ├── longterm.json           # analyst consensus / targets / next earnings
+│   └── longterm-history.json   # daily snapshots (long-term accuracy)
+├── config/tickers.json         # editable watchlist
 ├── scripts/
 │   ├── fetch-stocks.mjs
 │   ├── fetch-news.mjs
+│   ├── compute-predictions.mjs
 │   └── fetch-longterm.mjs
 └── .github/workflows/
     ├── update-stocks.yml
