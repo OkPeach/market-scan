@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777026442118,
+  "timestamp": 1777026874369,
   "items": [
     {
       "id": 139874212,
@@ -145,6 +145,17 @@
       "category": "company"
     },
     {
+      "id": 7843262,
+      "headline": "No US-Iran peace talks in sight, but Islamabad maintains security lockdown - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXJ6Nm9tWE44d0taSkVfZFF4bURscDEtYUtXR2Z4bUxqNWhiYklBNGVHLTFkcFVIeURvNVpDOWZIV0NkY0pBWUl6MkZGRDFQX3p1TERzOFlqU2pHS1Utakc1YTU5QUJJbDBLRmNyNERSZE1feEtjUTRIZjNGMlhyT21BNTlCUHBSWlNTYmhnSWZxU1IyR3Q1QnZRZ2lxc3Z6Y24xbm55bm9ReEozWFdzal94d2hEbGFlY3V3bzlB?oc=5",
+      "summary": "No US-Iran peace talks in sight, but Islamabad maintains security lockdown  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777021905000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139874313,
       "headline": "Intuit, Freshworks, and Q2 Holdings Shares Are Falling, What You Need To Know",
       "source": "Yahoo",
@@ -209,6 +220,17 @@
       "datetime": 1777020893000,
       "ticker": "TSLA",
       "category": "company"
+    },
+    {
+      "id": 7842004,
+      "headline": "World stocks, oil on edge as US-Iran deadlock weighs - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGFfSlR2bzRVYUJjekt5UlU3ZFlaLWc1aXI2SXFmMEhaUWhuYVFEN0hFNC00QzlOZ0d3eGFqUEt5RGcxS2JLVTZsVFNKZUlxM0Ytd05mRVBTdy1Fc3E1MUNSeGZOOWNaWlh1WS1sYS1MN3pwX0ZJWVlyRXZBbXlBWEV4eEZVcUMzWnRFWA?oc=5",
+      "summary": "World stocks, oil on edge as US-Iran deadlock weighs  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777020879000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139874284,
@@ -472,6 +494,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777011900000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139874560,
+      "headline": "Intel Just Gifted AMD Its Strongest Buy Signal Yet",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=95b011a362651a4094eb74c6ac0a8e592cf0343f4524a30b66eb17083c237971",
+      "summary": "Advanced Micro Devices' x86-based EPYC CPUs are further set for robust demand, accounting for 41.3% of the DC CPU market share. Learn more about AMD stock here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1483145252/image_1483145252.jpg?io=getty-c-w1536",
+      "datetime": 1777011785000,
+      "ticker": "AMD",
       "category": "company"
     },
     {
@@ -904,6 +937,17 @@
       "category": "company"
     },
     {
+      "id": 7843263,
+      "headline": "Gold on track for first weekly decline in five as Iran war drags on - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEFIY0JLcmhrNFBuMl8xVktiWk1URGhzb18zQnBUXzB1aTJaMTU2cHFMbmRsam1EMFZHTHd1UVJ4eWVrRTkwaUM5U3lEdDhLc3FwQWhEQzVrd05WTVk4b1lqLTVsekE3VjRDUy1ka0k4NGVMZFRsOVJoQ3JzMG9pbDFHSmg5dGQySUFlS1h6aURnQndyZnhKbkczcDRnXzRJRmtkcmhpVnROdE5f?oc=5",
+      "summary": "Gold on track for first weekly decline in five as Iran war drags on  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1776999180000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139871973,
       "headline": "Oil extends gains, stocks sink as peace talk hopes fade",
       "source": "Yahoo",
@@ -924,17 +968,6 @@
       "datetime": 1776998723000,
       "ticker": "MSFT",
       "category": "company"
-    },
-    {
-      "id": 7842004,
-      "headline": "World stocks, oil on edge as US-Iran deadlock weighs - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGFfSlR2bzRVYUJjekt5UlU3ZFlaLWc1aXI2SXFmMEhaUWhuYVFEN0hFNC00QzlOZ0d3eGFqUEt5RGcxS2JLVTZsVFNKZUlxM0Ytd05mRVBTdy1Fc3E1MUNSeGZOOWNaWlh1WS1sYS1MN3pwX0ZJWVlyRXZBbXlBWEV4eEZVcUMzWnRFWA?oc=5",
-      "summary": "World stocks, oil on edge as US-Iran deadlock weighs  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1776998160000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139871971,
@@ -1066,39 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1776993300000,
       "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 7841799,
-      "headline": "Oil rises on concerns over escalating military tensions in the Middle East - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1hFdFBWbnRDYkJIN01UakRzSG9Nb2duY0Zoakh6M3NIcHU4NzU4VERXU2lYRktUT1ZfSWNvY2JJZWh1elpHSmgtQTJkdkYwM0VFbGlnX3dfaGROamM2dnVLcF9OQW5tRkFPYWlQR2hQZjZqTURyMFloZlBTOUNZcER1NkIyc0dzNmUwUFozeDdoYklaRzhoOWRxTGN2c1I0UHEwM2RrZEZsVTQ2QmZ6TUFQc2hxeDQ?oc=5",
-      "summary": "Oil rises on concerns over escalating military tensions in the Middle East  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1776993240000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139872348,
-      "headline": "INTEL CORP : Receives a Sell rating from JP Morgan",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=ed0f89cb9c818dcfe325a2be1676d172eddec657b48c22b782017a5167cf467b",
-      "summary": "JP Morgan is negative on the stock with a Sell rating. The target price has been raised from USD 35 to USD 45.",
-      "image": "",
-      "datetime": 1776993092000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139871284,
-      "headline": "Microsoft’s A$25b Australia Plan Puts AI CapEx And Cloud Usage In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96b3ee445c2a9d8917d54215a6fc0adf73253d082a8bfdd9a15625057441ff36",
-      "summary": "Microsoft, ticker NasdaqGS:MSFT, has announced an $18b investment in Australia to expand Azure AI and cloud infrastructure. The plan includes funding for cybersecurity initiatives to support national defenses. Microsoft also aims to provide AI-related skills training to 3 million Australians by 2028. This is Microsoft’s largest committed investment in Australia to date. For investors watching NasdaqGS:MSFT, this move adds fresh context to a company that has seen a 39.6% return over 3 years...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1776993007000,
-      "ticker": "MSFT",
       "category": "company"
     }
   ]
