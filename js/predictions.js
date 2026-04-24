@@ -1,285 +1,166 @@
-// Predictions: localStorage CRUD, expiry resolution, leaderboards.
+// Algorithmic 24h forecast.
+//
+// For each ticker with quote + 24h history + news, we compute a signed
+// "outlook score" that blends three signals:
+//
+//   base     = today's % change vs previous close  (from Finnhub /quote.dp)
+//   momentum = % delta between the recent half and the earlier half of the
+//              24h price history — negative when losing steam, positive when
+//              gaining steam, even if the overall change is still red/green.
+//   news     = log(1 + newsCount) * 0.2 — diminishing attention premium.
+//
+// Alignment: news amplifies the base signal only when momentum points the
+// same way, otherwise it's damped (mixed signals = lower conviction).
+//
+//   score = base * (1 + |momentum| * alignment * 0.3) * (1 + newsBoost)
+//
+// Top positive scores → "predicted to rise"
+// Top negative scores → "predicted to fall"
 
 import { createLogger } from "./logger.js";
 
 const log = createLogger("predictions");
-//
-// Schema:
-// {
-//   id: string,
-//   ticker: string,
-//   direction: "buy" | "sell",
-//   targetPct: number,        // target % move from start price
-//   windowHours: number,
-//   createdAt: number,        // ms epoch
-//   expiresAt: number,        // ms epoch
-//   startPrice: number,       // captured from current quote at submit time
-//   resolved: boolean,
-//   actualPct: number | null, // signed % move from startPrice to endPrice
-//   endPrice: number | null,
-//   hit: boolean | null,      // direction matched and |actualPct| >= targetPct
-// }
 
-const STORAGE_KEY = "market-scan/predictions/v1";
-const LEADERBOARD_WINDOW_MS = 24 * 60 * 60 * 1000;
-
-function load() {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return [];
-    const parsed = JSON.parse(raw);
-    return Array.isArray(parsed) ? parsed : [];
-  } catch (err) {
-    log.warn("load: failed to parse localStorage, starting empty:", err.message);
-    return [];
-  }
+function computeMomentum(series) {
+  if (!Array.isArray(series) || series.length < 4) return 0;
+  const n = series.length;
+  const half = Math.floor(n / 2);
+  const earlier = series.slice(0, half);
+  const recent = series.slice(half);
+  const avg = (arr) => arr.reduce((a, p) => a + p.p, 0) / arr.length;
+  const e = avg(earlier);
+  const r = avg(recent);
+  if (!e) return 0;
+  return ((r - e) / e) * 100;
 }
 
-function save(predictions) {
-  try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(predictions));
-    log.debug(`save: ${predictions.length} predictions persisted`);
-  } catch (err) {
-    log.warn("save: could not persist predictions:", err.message);
+function newsCountByTicker(news) {
+  const counts = {};
+  for (const item of news ?? []) {
+    if (item && item.ticker) {
+      counts[item.ticker] = (counts[item.ticker] ?? 0) + 1;
+    }
   }
+  return counts;
 }
 
-function uid() {
-  return (
-    Date.now().toString(36) + Math.random().toString(36).slice(2, 8)
-  );
+export function computePredictions({ stocks, history, news }) {
+  const newsCounts = newsCountByTicker(news);
+  const out = [];
+
+  for (const s of stocks ?? []) {
+    const base = Number.isFinite(s.changePct) ? s.changePct : 0;
+    const momentum = computeMomentum(history?.[s.ticker]);
+    const newsN = newsCounts[s.ticker] ?? 0;
+    const newsBoost = Math.log(1 + newsN) * 0.2;
+
+    // Alignment: 1 if both signals point the same way, 0.4 otherwise.
+    const signsMatch = Math.sign(base) === Math.sign(momentum) && base !== 0 && momentum !== 0;
+    const alignment = signsMatch ? 1 : 0.4;
+
+    const score = base * (1 + Math.abs(momentum) * alignment * 0.3) * (1 + newsBoost);
+
+    out.push({
+      ticker: s.ticker,
+      name: s.name,
+      price: s.price,
+      base,
+      momentum,
+      newsCount: newsN,
+      score,
+    });
+  }
+  return out;
 }
 
 function fmtPct(n) {
-  if (n == null || Number.isNaN(n)) return "—";
+  if (n == null || !Number.isFinite(n)) return "—";
   const sign = n > 0 ? "+" : "";
   return `${sign}${n.toFixed(2)}%`;
 }
 
-function fmtRelative(ms) {
-  const diff = ms - Date.now();
-  const sign = diff >= 0 ? "in " : "";
-  const suffix = diff >= 0 ? "" : " ago";
-  const abs = Math.abs(diff);
-  const min = Math.round(abs / 60000);
-  if (min < 60) return `${sign}${min}m${suffix}`;
-  const h = Math.round(min / 60);
-  if (h < 24) return `${sign}${h}h${suffix}`;
-  const d = Math.round(h / 24);
-  return `${sign}${d}d${suffix}`;
+function fmtPrice(n) {
+  if (n == null || !Number.isFinite(n)) return "—";
+  return n.toFixed(2);
 }
 
-export function initPredictionForm({ formEl, onChange }) {
-  if (!formEl) {
-    log.warn("initPredictionForm: no form element");
-    return;
-  }
-  log.info("initPredictionForm: wired");
-
-  formEl.addEventListener("submit", (e) => {
-    e.preventDefault();
-    const ticker = formEl.querySelector("#pf-ticker").value;
-    const direction = formEl.querySelector("#pf-direction").value;
-    const targetPct = parseFloat(formEl.querySelector("#pf-target").value);
-    const windowHours = parseInt(formEl.querySelector("#pf-window").value, 10);
-
-    log.info(
-      `submit: ticker=${ticker} dir=${direction} target=${targetPct}% window=${windowHours}h`,
-    );
-
-    if (!ticker || !direction || !Number.isFinite(targetPct) || !Number.isFinite(windowHours)) {
-      log.warn("submit: invalid form values, ignoring");
-      return;
-    }
-
-    const startPrice = currentPriceFor(ticker);
-    if (startPrice == null) {
-      log.warn(`submit: no current price for ${ticker}, cannot record`);
-      alert(
-        `No current price available for ${ticker} yet. Wait for the next data refresh.`,
-      );
-      return;
-    }
-
-    const now = Date.now();
-    const prediction = {
-      id: uid(),
-      ticker,
-      direction,
-      targetPct,
-      windowHours,
-      createdAt: now,
-      expiresAt: now + windowHours * 60 * 60 * 1000,
-      startPrice,
-      resolved: false,
-      actualPct: null,
-      endPrice: null,
-      hit: null,
-    };
-
-    const all = load();
-    all.push(prediction);
-    save(all);
-    log.info(
-      `submit: recorded prediction ${prediction.id} (startPrice=${startPrice})`,
-    );
-
-    formEl.querySelector("#pf-target").value = "1";
-    formEl.querySelector("#pf-window").value = "4";
-
-    if (onChange) onChange();
-  });
-
-  document.addEventListener("click", (e) => {
-    const btn = e.target.closest(".prediction .delete");
-    if (!btn) return;
-    const id = btn.dataset.id;
-    if (!id) return;
-    const before = load();
-    const filtered = before.filter((p) => p.id !== id);
-    save(filtered);
-    log.info(`delete: removed ${id} (${before.length} -> ${filtered.length})`);
-    if (onChange) onChange();
-  });
+function esc(s) {
+  return String(s ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
 }
 
-// Cached snapshot of the most recent stock map, set by resolveExpired so
-// the form can read a current price during submit without an extra param.
-let currentStockMap = new Map();
-function currentPriceFor(ticker) {
-  const s = currentStockMap.get(ticker);
-  return s?.price ?? null;
-}
-
-export function resolveExpired({ stockMap, history, now }) {
-  currentStockMap = stockMap;
-  const all = load();
-  let changed = 0;
-  let skipped = 0;
-
-  for (const p of all) {
-    if (p.resolved) continue;
-    if (now < p.expiresAt) continue;
-
-    const endPrice = priceAtOrAfter(history[p.ticker], p.expiresAt) ??
-      stockMap.get(p.ticker)?.price ?? null;
-
-    if (endPrice == null || p.startPrice == null || p.startPrice === 0) {
-      skipped++;
-      continue;
-    }
-
-    const actualPct = ((endPrice - p.startPrice) / p.startPrice) * 100;
-    const directionMatch =
-      (p.direction === "buy" && actualPct > 0) ||
-      (p.direction === "sell" && actualPct < 0);
-    const magnitudeMet = Math.abs(actualPct) >= p.targetPct;
-
-    p.resolved = true;
-    p.actualPct = actualPct;
-    p.endPrice = endPrice;
-    p.hit = directionMatch && magnitudeMet;
-    changed++;
-    log.info(
-      `resolve: ${p.id} ${p.ticker} ${p.direction} actual=${actualPct.toFixed(2)}% hit=${p.hit}`,
+function reasonTags(p) {
+  const tags = [];
+  if (Math.abs(p.base) >= 0.1) {
+    tags.push(
+      `<span class="tag ${p.base >= 0 ? "pos" : "neg"}">${fmtPct(p.base)} today</span>`,
     );
   }
-
-  if (changed) save(all);
-  log.debug(
-    `resolveExpired: total=${all.length} resolved=${changed} skipped=${skipped}`,
-  );
+  if (Math.abs(p.momentum) >= 0.1) {
+    const dir = p.momentum >= 0 ? "↗" : "↘";
+    const cls = p.momentum >= 0 ? "pos" : "neg";
+    tags.push(`<span class="tag ${cls}">${dir} ${fmtPct(p.momentum)} momentum</span>`);
+  }
+  if (p.newsCount > 0) {
+    tags.push(
+      `<span class="tag neutral">${p.newsCount} news item${p.newsCount === 1 ? "" : "s"}</span>`,
+    );
+  }
+  return tags.join(" ");
 }
 
-function priceAtOrAfter(series, t) {
-  if (!Array.isArray(series) || series.length === 0) return null;
-  // Find the first sample at or after t.
-  for (const pt of series) {
-    if (pt.t >= t) return pt.p;
-  }
-  // Otherwise fall back to the most recent sample (best available).
-  return series[series.length - 1].p;
-}
-
-function predictionRow(p, { withDelete = false } = {}) {
-  const dirClass = p.direction === "buy" ? "buy" : "sell";
-  const dirLabel = p.direction.toUpperCase();
-  const ticker = `<span class="ticker-badge">${p.ticker}</span>`;
-  const dir = `<span class="dir-tag ${dirClass}">${dirLabel}</span>`;
-  const target = `target ${fmtPct(p.targetPct)} / ${p.windowHours}h`;
-  const start = `start ${p.startPrice?.toFixed(2) ?? "—"}`;
-
-  let outcome;
-  let cls = "prediction";
-  if (p.resolved) {
-    cls += p.hit ? " hit" : " miss";
-    outcome = `${fmtPct(p.actualPct)} ${p.hit ? "✓" : "✗"}`;
-  } else {
-    outcome = `expires ${fmtRelative(p.expiresAt)}`;
-  }
-
-  const del = withDelete
-    ? `<button class="delete" data-id="${p.id}" title="Delete">×</button>`
-    : "";
-
+function forecastRow(p, kind) {
+  const scoreCls = kind === "up" ? "pos" : "neg";
+  const scoreTxt = fmtPct(p.score);
   return `
-    <li class="${cls}">
-      <span>${ticker} ${dir}</span>
-      <span class="meta">${target} · ${start}</span>
-      <span class="outcome">${outcome} ${del}</span>
+    <li class="forecast">
+      <div class="forecast-head">
+        <span class="ticker">${esc(p.ticker)}</span>
+        <span class="name" title="${esc(p.name ?? "")}">${esc(p.name ?? "")}</span>
+        <span class="price">${fmtPrice(p.price)}</span>
+        <span class="score ${scoreCls}">${scoreTxt}</span>
+      </div>
+      <div class="forecast-reasons">${reasonTags(p)}</div>
     </li>
   `;
 }
 
-function renderList(el, items, opts) {
-  if (!el) return;
-  if (items.length === 0) return; // keep existing empty placeholder
-  el.innerHTML = items.map((p) => predictionRow(p, opts)).join("");
-}
-
-export function renderPredictionLists({ openEl, buyEl, sellEl, bestEl }) {
-  const all = load();
-  const now = Date.now();
-  const cutoff = now - LEADERBOARD_WINDOW_MS;
-
-  const open = all
-    .filter((p) => !p.resolved)
-    .sort((a, b) => a.expiresAt - b.expiresAt);
-
-  const recent = all.filter((p) => p.resolved && p.createdAt >= cutoff);
-  const buys = recent.filter((p) => p.direction === "buy");
-  const sells = recent.filter((p) => p.direction === "sell");
-
-  const accuracy = (p) =>
-    p.actualPct == null ? -Infinity : Math.abs(p.actualPct);
-  const sortByAccuracy = (a, b) => accuracy(b) - accuracy(a);
-
-  const bestSorted = recent
-    .filter((p) => p.hit)
-    .sort(sortByAccuracy);
-
-  if (openEl) {
-    openEl.innerHTML = open.length
-      ? open.map((p) => predictionRow(p, { withDelete: true })).join("")
-      : '<li class="empty">No open predictions.</li>';
+export function renderForecast({ risersEl, fallersEl, stocks, history, news }) {
+  if (!risersEl || !fallersEl) {
+    log.warn("renderForecast: missing list elements");
+    return;
   }
-  if (buyEl) {
-    buyEl.innerHTML = buys.length
-      ? buys.sort(sortByAccuracy).map((p) => predictionRow(p)).join("")
-      : '<li class="empty">No resolved buy predictions yet.</li>';
+
+  if (!stocks || stocks.length === 0) {
+    const empty = '<li class="empty">No data yet — waiting for first workflow run.</li>';
+    risersEl.innerHTML = empty;
+    fallersEl.innerHTML = empty;
+    return;
   }
-  if (sellEl) {
-    sellEl.innerHTML = sells.length
-      ? sells.sort(sortByAccuracy).map((p) => predictionRow(p)).join("")
-      : '<li class="empty">No resolved sell predictions yet.</li>';
-  }
-  if (bestEl) {
-    bestEl.innerHTML = bestSorted.length
-      ? bestSorted.map((p) => predictionRow(p)).join("")
-      : '<li class="empty">No hits yet.</li>';
-  }
-  log.debug(
-    `renderPredictionLists: open=${open.length} buy=${buys.length} ` +
-      `sell=${sells.length} hits=${bestSorted.length}`,
+
+  const preds = computePredictions({ stocks, history, news });
+  const sorted = preds.slice().sort((a, b) => b.score - a.score);
+
+  const risers = sorted.filter((p) => p.score > 0).slice(0, 5);
+  const fallers = sorted
+    .filter((p) => p.score < 0)
+    .slice(-5)
+    .reverse();
+
+  risersEl.innerHTML = risers.length
+    ? risers.map((p) => forecastRow(p, "up")).join("")
+    : '<li class="empty">No bullish signals right now.</li>';
+
+  fallersEl.innerHTML = fallers.length
+    ? fallers.map((p) => forecastRow(p, "down")).join("")
+    : '<li class="empty">No bearish signals right now.</li>';
+
+  log.info(
+    `renderForecast: risers=[${risers.map((p) => p.ticker).join(",")}] ` +
+      `fallers=[${fallers.map((p) => p.ticker).join(",")}]`,
   );
 }
