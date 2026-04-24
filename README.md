@@ -78,6 +78,25 @@ node scripts/fetch-stocks.mjs
 node scripts/fetch-news.mjs
 ```
 
+## Force refreshing from the browser
+
+The **Edit watchlist** panel has a **Force refresh tickers** button that
+commits your local watchlist edits back to `config/tickers.json` and
+re-dispatches both workflows. It needs a GitHub **fine-grained personal
+access token** scoped to *this* repo only, with:
+
+- `Contents: Read and write`
+- `Actions:  Read and write`
+
+Create one at
+[github.com/settings/personal-access-tokens/new](https://github.com/settings/personal-access-tokens/new),
+paste it into the *Repo settings* sub-panel, and save. The owner/repo are
+auto-detected when served from `*.github.io`.
+
+The token is stored in a cookie on your device (SameSite=Lax). Any JavaScript
+running on this origin can read it, so keep the token narrowly scoped and
+short-lived. Use the **Clear saved** button when you're done.
+
 ## Notes
 
 - The Finnhub free tier is rate-limited (~60 requests/minute). The fetch
