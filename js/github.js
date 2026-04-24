@@ -20,6 +20,7 @@ const C_TOKEN = "ms_gh_token";
 export const WORKFLOWS = {
   stocks: "update-stocks.yml",
   news: "update-news.yml",
+  longterm: "update-longterm.yml",
 };
 
 export function autoDetectRepo() {

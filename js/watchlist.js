@@ -365,6 +365,7 @@ export function initWatchlistEditor({
 
       await ghTriggerWorkflow(WORKFLOWS.stocks);
       await ghTriggerWorkflow(WORKFLOWS.news);
+      await ghTriggerWorkflow(WORKFLOWS.longterm);
 
       // If we committed a change, reset the local overrides so the UI starts
       // showing the repo as source-of-truth again.

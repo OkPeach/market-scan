@@ -3,6 +3,7 @@
 import { renderMovers } from "./stocks.js";
 import { renderNews } from "./news.js";
 import { renderForecast } from "./predictions.js";
+import { renderLongterm } from "./longterm.js";
 import { initWatchlistEditor, getVisibleTickers } from "./watchlist.js";
 import { createLogger } from "./logger.js";
 
@@ -44,20 +45,25 @@ function formatTimestamp(ms) {
 async function loadAll() {
   log.info("loadAll: start");
   const t0 = performance.now();
-  const [stocks, news, history, tickers] = await Promise.all([
-    loadJson("data/stocks.json", { timestamp: null, stocks: [] }),
-    loadJson("data/news.json", { timestamp: null, items: [] }),
-    loadJson("data/history.json", { history: {} }),
-    loadJson("config/tickers.json", { tickers: [] }),
-  ]);
+  const [stocks, news, history, tickers, longterm, longtermHistory] =
+    await Promise.all([
+      loadJson("data/stocks.json", { timestamp: null, stocks: [] }),
+      loadJson("data/news.json", { timestamp: null, items: [] }),
+      loadJson("data/history.json", { history: {} }),
+      loadJson("config/tickers.json", { tickers: [] }),
+      loadJson("data/longterm.json", { timestamp: null, tickers: {} }),
+      loadJson("data/longterm-history.json", { snapshots: [] }),
+    ]);
   const dt = (performance.now() - t0).toFixed(1);
   log.info(
     `loadAll: done in ${dt}ms — stocks=${stocks.stocks?.length ?? 0}, ` +
       `news=${news.items?.length ?? 0}, ` +
       `history=${Object.keys(history.history ?? {}).length} tickers, ` +
-      `tickers=${tickers.tickers?.length ?? 0}`,
+      `tickers=${tickers.tickers?.length ?? 0}, ` +
+      `longterm=${Object.keys(longterm.tickers ?? {}).length}, ` +
+      `lt-snapshots=${longtermHistory.snapshots?.length ?? 0}`,
   );
-  return { stocks, news, history, tickers };
+  return { stocks, news, history, tickers, longterm, longtermHistory };
 }
 
 // Filter stocks/history/news to only the visible watchlist (base minus hidden
@@ -117,6 +123,14 @@ async function refresh(state, { reason = "auto" } = {}) {
       stocks: view.stocks,
       history: view.history,
       news: view.news,
+    });
+
+    renderLongterm({
+      containerEl: document.getElementById("longterm-container"),
+      accuracyEl: document.getElementById("longterm-accuracy"),
+      longterm: data.longterm,
+      history: data.longtermHistory,
+      visibleTickers: view.visible,
     });
 
     document.getElementById("last-updated").textContent = formatTimestamp(
