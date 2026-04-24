@@ -71,6 +71,10 @@
     {
       "symbol": "SP",
       "name": ""
+    },
+    {
+      "symbol": "INX",
+      "name": ""
     }
   ]
 }
