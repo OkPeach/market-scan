@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777069393779,
+  "timestamp": 1777072212765,
   "items": [
     {
       "id": 139881798,
@@ -55,6 +55,17 @@
       "datetime": 1777066380000,
       "ticker": "AMD",
       "category": "company"
+    },
+    {
+      "id": 7845213,
+      "headline": "Iran to make offer aimed at satisfying US demands, Trump says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1IdW84VV9hWU1fLV9oenFqamNXZkFsUHZQN19mMllqRzFLOEhRMUI3NHpaVHJKV1NlN3ZETFA2SkJBOHpsV1I2RXRkaHZFZkdERW4zZk5Hc3JJeHlwdUg0aVNNbHRvX21ZWVdjdmd1ekZqcFBBU0M0WVhnaDVSNWNnUEh2RllnOHRyRFpBemdxX1NFOXBNZFMxSTFwRnk3a1dONVJzaDk3YUc5RFlNTUVNZlRMemVZ?oc=5",
+      "summary": "Iran to make offer aimed at satisfying US demands, Trump says  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777066283000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139881679,
@@ -486,17 +497,6 @@
       "category": "company"
     },
     {
-      "id": 7845213,
-      "headline": "Iran to make offer aimed at satisfying US demands, Trump tells Reuters - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1IdW84VV9hWU1fLV9oenFqamNXZkFsUHZQN19mMllqRzFLOEhRMUI3NHpaVHJKV1NlN3ZETFA2SkJBOHpsV1I2RXRkaHZFZkdERW4zZk5Hc3JJeHlwdUg0aVNNbHRvX21ZWVdjdmd1ekZqcFBBU0M0WVhnaDVSNWNnUEh2RllnOHRyRFpBemdxX1NFOXBNZFMxSTFwRnk3a1dONVJzaDk3YUc5RFlNTUVNZlRMemVZ?oc=5",
-      "summary": "Iran to make offer aimed at satisfying US demands, Trump tells Reuters  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777060349000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139880885,
       "headline": "US Equity Indexes Mixed as Intel Boosts Technology, Trump's Peace Envoys Set to Travel to Pakistan",
       "source": "Yahoo",
@@ -541,17 +541,6 @@
       "category": "company"
     },
     {
-      "id": 7841799,
-      "headline": "Oil prices end volatile session mixed but up sharply for the week on supply worries - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1hFdFBWbnRDYkJIN01UakRzSG9Nb2duY0Zoakh6M3NIcHU4NzU4VERXU2lYRktUT1ZfSWNvY2JJZWh1elpHSmgtQTJkdkYwM0VFbGlnX3dfaGROamM2dnVLcF9OQW5tRkFPYWlQR2hQZjZqTURyMFloZlBTOUNZcER1NkIyc0dzNmUwUFozeDdoYklaRzhoOWRxTGN2c1I0UHEwM2RrZEZsVTQ2QmZ6TUFQc2hxeDQ?oc=5",
-      "summary": "Oil prices end volatile session mixed but up sharply for the week on supply worries  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777058817000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139880472,
       "headline": "The U.S. is up $26 billion on its Intel trade",
       "source": "Yahoo",
@@ -583,17 +572,6 @@
       "datetime": 1777058491000,
       "ticker": "META",
       "category": "company"
-    },
-    {
-      "id": 7842209,
-      "headline": "Iran's foreign minister arrives in Pakistan, raising hopes for US peace talks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnpNOVBIV2pyZjNCd1lNdTlINmtvbWFHTV95NDh6U1pyOXZ1bWlDZzgydUtJS3FsWjBpNmowRjJ6ZkEtb3FsUXRfSzJaWVRFcHQ4WEtFUHlYMlpvdmctRHZaXy1fY25USE15NVR2M0gxd2pZcHd5ZlVNdW1kVXhma2RJRHo0cWhKemtsTV9iQmswbVhmd3F4aTM2dlFzdlgzMnhoMVh1VUJfdXVKdXVMM1RTMHpZLUh2?oc=5",
-      "summary": "Iran's foreign minister arrives in Pakistan, raising hopes for US peace talks  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777058389000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139880475,
@@ -1100,6 +1078,28 @@
       "datetime": 1777053275000,
       "ticker": null,
       "category": "top news"
+    },
+    {
+      "id": 139880557,
+      "headline": "Nvidia Stock Is Racing for a Record High. Why It’s Getting a Massive Boost From Intel.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7caa2ded93626bf0af451550b7ca3544e33e5cde754498d5b4d5802f549166e7",
+      "summary": "Nvidia stock was surging Friday, with shares of the artificial-intelligence giant briefly climbing past $210.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777053240000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 7843931,
+      "headline": "Pentagon chief Hegseth says US blockade on Iran 'going global' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkQzQXpoTkYtYjNKYU1xUWFVcGEzQlVuVktfZGVBM0pHU3dxMTNPME5WcmcyNkZ5YnZrd19UYm1lYmstaUZITUhZX1VaNktlY0NqRDdldHVlWHJ3MC1XU3loQXUxQnRwQ016U0Z5Uy1DLW1GY1ZmdWdfUlJsYXU0cmNWc2UzN0RMdk15S1hCZUJNOFNxTUx0LUN2bGdhZ2d4dkxBOE1aR2xQN2p4VzNpRVJR?oc=5",
+      "summary": "Pentagon chief Hegseth says US blockade on Iran 'going global'  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777052625000,
+      "ticker": null,
+      "category": "business"
     }
   ]
 }
