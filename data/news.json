@@ -1,14 +1,124 @@
 {
-  "timestamp": 1777107803342,
+  "timestamp": 1777112598672,
   "items": [
     {
-      "id": 7847343,
-      "headline": "US negotiators to go to Islamabad, but Iran says no direct talks - Reuters",
+      "id": 139885972,
+      "headline": "Intel (INTC) Stock Trades Up, Here Is Why",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d3c9d13efe148009b0bc44c809d48c4ae222f898a688104e169de02767838bf",
+      "summary": "Shares of computer processor maker Intel (NASDAQ:INTC) jumped 24.2% in the morning session after the company reported much stronger-than-expected first-quarter 2026 financial results, beating Wall Street's estimates for revenue, profit, and future guidance.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777110563000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139885942,
+      "headline": "Want Safe Income While the Market Wobbles? Buy This Dividend Stock With $5,000.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63ee46ab20a5d03cc639d7e33553c60af3ed33de82d37ada10b554f00f737517",
+      "summary": "TJX stock provides a combination of income and market-beating growth.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777109700000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139885951,
+      "headline": "Foundayo’s Slow Start And Amazon Entry Test Eli Lilly Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee47cb904f925dd850be5efcba48b2bd87acc136010d097ff63445a9c5ac4b0e",
+      "summary": "Eli Lilly’s new oral obesity pill, Foundayo, is seeing slower initial prescription uptake than early expectations in its first weeks on the market. Recent data suggests Foundayo’s launch trails the early momentum seen in Novo Nordisk’s oral Wegovy pill. Amazon has entered the GLP-1 obesity and diabetes treatment space with a clinical and pharmacy program, adding fresh competition. Eli Lilly (NYSE:LLY) is coming into this news after a sharp multiyear share price run, with the stock up about...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777107979000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139885943,
+      "headline": "Is Tilray a Textbook Example of a Value Trap?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db702066814b43ded4c813c167820076ae2af94a8a65317950bda7ff0db42e9a",
+      "summary": "Tilray doesn't fit squarely into the value trap or value stock categories.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777107840000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139885962,
+      "headline": "DA Davidson analyst resets AMD stock price target for 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c186d6c7f38c7c340a413684921bbda272b2df564498a39fa2aed630ed85d6de",
+      "summary": "Something just shifted in the semiconductor market. And one analyst who had been sitting on the sidelines on AMD just made one of the most aggressive calls on the stock this year. The trigger was not AMD's own earnings. It was a rival's. And what that rival revealed about the CPU market changes the ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777107780000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139885944,
+      "headline": "3 Dividend Stocks Built to Last a Lifetime and Pay You the Whole Way",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=548f5bbb0af7ae6b0ea9da5e5b982e13792f197fc218008e6d6c00f25aaf11f8",
+      "summary": "These consumer staples giants are built to keep paying year after year.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777106100000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139885945,
+      "headline": "Wall Street Says the Stock Market's Return in 2026 Will Beat the 30-Year Average",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56ed64dc0c7173da59315f83fc64bb0654950be446d0d6c8f14a849785918ef2",
+      "summary": "The S&P 500 has returned 8.3% annually over the last 30 years. Wall Street expects a much higher return in 2026.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777105920000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139885946,
+      "headline": "Is the AI Gold Rush Still On? A Historical Look at Amazon's AWS Offers a Compellingly Clear Answer.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d7b3990b686a200e237a70112b1384d0c0eb04641e3ce5d7d7cb67a87b25596",
+      "summary": "Amazon has been one of the early AI winners.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777105800000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139885947,
+      "headline": "Will There Be a Stock Market Crash Under President Donald Trump? One Forecasting Tool With 155 Years of History in Its Sails Offers an Answer.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4b4cc2d694f092873bf580cc15b311b35739beb9d3b75d0a6373c3493336710",
+      "summary": "This measure has an immaculate track record of predicting big moves for stocks.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777105560000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139885948,
+      "headline": "Meet the Biggest Threat to Nvidia in AI Chips. It's Not AMD, Intel, or Broadcom.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44492c9b9fbf814ecbe345e2cb552b9e83eca9196603ecfcb4ab8322b534496d",
+      "summary": "Alphabet is enjoying strong demand for the AI processors it designed in-house.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777104480000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 7847946,
+      "headline": "Turkey may consider role in Hormuz demining after Iran-US deal, minister says - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1l3OXozS3NuMlR6czlyeGgtU3lnQ25mMEUxT3c0SUFHTzgwTXAzdmxiX2E1YjVkVVU3UjZoTHd2VHFDNzI2ZjQwUlRJQ2dfWG9aU3B2dndDQ29lSmxwMWlReWl6Znk3U0tuOWthNzRmZE9WcmZwYWY4TEFyYU52Z21RSzdocWZ0bldKbzRZb1ZsS0hYMy1aV2s4MVljdGl3US04QXozQU90RTg?oc=5",
-      "summary": "US negotiators to go to Islamabad, but Iran says no direct talks  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQak1SNlRWX3RCamRXXzF4SlNtTmNjaUt1UW1kVkZxcjhwbEtMMkdaRGlqa1pNanFGZTJqNzI0VWt2ZnZOOFk2LTd3VHJGNDNLeTMxVlFNTkZjZ2hrWGN3X0hSZTlrb0VRWllCSk02V2VoYUZwczdRc3ZLbkVwYkVzWWdleDI2SmRFOXBJSHh3NE9MNlBFM0gxdjFsN0lfVjRrZXZGMmMwUlNGNHhmallibGN2RW9nMkJ3VlpNdEtaMENoNU5qTGc?oc=5",
+      "summary": "Turkey may consider role in Hormuz demining after Iran-US deal, minister says  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777102608000,
+      "datetime": 1777104012000,
       "ticker": null,
       "category": "business"
     },
@@ -33,6 +143,17 @@
       "datetime": 1777100400000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7848047,
+      "headline": "Iran says it has hanged agent working for Israel over sabotage in protests - Tasnim - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFRNQmhxQ0NZTHpUX3RUb3FIUDFDMVRkNUptZjZkRWg4LTJzd1JLN3Q1Z2gtME5Bc3RHYzB3dFJ4TkFra1pvVU9iMzFfeEV4YlB1bnhJM1ZHdi1sYl8zWGJvZFcxaURLa1FpdGpSLUo5NDRiQjR2N2NFMlMwZVBJTENiRlFHZWtxUWxlckZENlRaYXNtbHQxYlB3cjktUlZtcGZ3VmhjSUFybXFyY3J1eENlQXZNS1k3cDRnQ1F0VUNraVR6ekUw?oc=5",
+      "summary": "Iran says it has hanged agent working for Israel over sabotage in protests - Tasnim  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777100218000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139885320,
@@ -121,6 +242,17 @@
       "datetime": 1777094400000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7847343,
+      "headline": "US negotiators to go to Islamabad, but Iran says no direct talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1l3OXozS3NuMlR6czlyeGgtU3lnQ25mMEUxT3c0SUFHTzgwTXAzdmxiX2E1YjVkVVU3UjZoTHd2VHFDNzI2ZjQwUlRJQ2dfWG9aU3B2dndDQ29lSmxwMWlReWl6Znk3U0tuOWthNzRmZE9WcmZwYWY4TEFyYU52Z21RSzdocWZ0bldKbzRZb1ZsS0hYMy1aV2s4MVljdGl3US04QXozQU90RTg?oc=5",
+      "summary": "US negotiators to go to Islamabad, but Iran says no direct talks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777093920000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139884587,
@@ -967,138 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777062900000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881815,
-      "headline": "Trump wants to save Spirit Airlines. Republicans don't.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1c1ddf8b2c3a8cbef91109f5733084139ac96cacaa4e47979eae35cb16d4e35a",
-      "summary": "President Trump wants the US government to buy Spirit Airlines (FLYYQ). Yahoo Finance Washington Correspondent Ben Werschkul breaks down the details in the video above.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777062866000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139881816,
-      "headline": "US Government Stake in Intel Has Jumped 300% to $36 Billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a47c195284e22685d955157e3baa4f66f472bd968e3daa83da6315b3657576f",
-      "summary": "(Bloomberg) -- The value of the US government stake in Intel Corp. has increased fourfold to hit a value of about $36 billion after the chipmaker’s financial outlook showed a resurgence in sales. Most Read from BloombergUS Reduces Marijuana Restrictions in Lift to Ailing IndustryMeta Tells Staff It Will Cut 10% of Jobs in Push for EfficiencyGoogle Plans to Invest Up to $40 Billion in AnthropicInside Alex Cooper’s Unwell: Tears, Screaming and Employees Looking for the ExitAnthropic’s Mythos Model",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777062823000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139881693,
-      "headline": "The White House Just Closed Its Investigation of Fed Chair Powell. Here's What It Means for Markets.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=76480eef46afaeaa8af2aa1aea28a47f9b0a5e6ed7f0bf73740c0b3932e18e5c",
-      "summary": "Avoiding a succession crisis at the Fed will be a relief to financial markets.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777062622000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881778,
-      "headline": "Why Palantir Stock Is Slumping in 2026—and Why It Could Bounce Back",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=80ff7fc1f509e8e35bcc17c6e7b63eee29a0304451e0433209f9b605659b2fc8",
-      "summary": "Palantir stock is down 20% in 2026 as investors worry AI could disrupt software names. This firm remains bullish on Palantir.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777062480000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 139881694,
-      "headline": "Why Newmont Mining Rallied on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7dd5fc92ed9149fe8dc2ee60058ff47256e04a55cc3aafb4d78153577a06888",
-      "summary": "Newmont's first quarter earnings were strong, and management continues to reward shareholders.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777062336000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881736,
-      "headline": "US Equity Indexes Mixed This Week as Surging Technology Fails to Outweigh Iran Geopolitics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc961e4eb4498c2bcc6a8376cd7e1378666c5e98f16306feb5281f6a6bc28a9c",
-      "summary": "US equity indexes closed mixed this week, as quarterly earnings helped the technology sector top cha",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777061957000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139881700,
-      "headline": "Interchange Capital Partners Initiates Position in Strive Asset Management, According to Recent SEC Filing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=67f772636fc78931c545259ce6b1a5f15a1c93074b946ccccfceebb26552b921",
-      "summary": "Strive Asset Management (ASST) combines an asset management platform with a capital strategy centered on building Bitcoin exposure per share. Investors are watching whether that structure can create value beyond Bitcoin exposure.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777061607000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139881737,
-      "headline": "Crypto Has Another Positive Week As Investor Sentiment Improves",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8160884aac4ceb1a3ec554e112aa4c9d4bdfc0d01c3e5032be0173f61a826c31",
-      "summary": "Cryptocurrencies enjoyed another positive week as the ceasefire between the U.S. and Iran held and investor sentime...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777061400000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139881718,
-      "headline": "2 Stocks About to Benefit Enormously From the SpaceX IPO Boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6e5dc311be8070ef98d483ec7dba198c87eb2b6e5eb72b39823e4e2db9326710",
-      "summary": "These companies own or plan to own a respectable stake in SpaceX.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777061340000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139881859,
-      "headline": "Analysts reset ServiceNow stock price target after earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e06b47c666af04617444accebf81f01f7ab6624242c7f755fa75a19c43c9080a",
-      "summary": "ServiceNow (NOW) just delivered the kind of results in the first quarter that usually send a stock higher. Revenue and earnings beat estimates, subscription growth exceeded 20%, and management raised full-year guidance. Yet shares plummeted 18% in a single day. Investors are concerned about how AI ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777061160000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 139881704,
-      "headline": "Autodesk announces nomination of Omar Abbosh to board",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd3e4d101d854166472724ca7c12c83f9b549d5b9cee0bb8d942959a56a352c8",
-      "summary": "Autodesk, Inc. (NASDAQ: ADSK) today announced its Board of Directors has nominated Omar Abbosh as a new independent director for election by shareholders at the company's annual general meeting.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777061100000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139881710,
-      "headline": "Amazon loses $150M after drones hit its data centers — and insurance won’t cover their losses. What it means for you",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf6fac86fc976af672b5604880c8fa6de041b06dcc162d6e18c6e0305ad8e818",
-      "summary": "As cloud infrastructure becomes critical to everyday life, tensions as far away as Bahrain and the United Arab Emirates could ripple into higher costs and weaker protections for consumers.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777061100000,
-      "ticker": "AMZN",
       "category": "company"
     }
   ]
