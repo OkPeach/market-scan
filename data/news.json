@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777118630941,
+  "timestamp": 1777124728739,
   "items": [
     {
       "id": 139886496,
@@ -11,6 +11,17 @@
       "datetime": 1777117800000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7847343,
+      "headline": "US negotiators to go to Islamabad, but Iran says no direct talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1l3OXozS3NuMlR6czlyeGgtU3lnQ25mMEUxT3c0SUFHTzgwTXAzdmxiX2E1YjVkVVU3UjZoTHd2VHFDNzI2ZjQwUlRJQ2dfWG9aU3B2dndDQ29lSmxwMWlReWl6Znk3U0tuOWthNzRmZE9WcmZwYWY4TEFyYU52Z21RSzdocWZ0bldKbzRZb1ZsS0hYMy1aV2s4MVljdGl3US04QXozQU90RTg?oc=5",
+      "summary": "US negotiators to go to Islamabad, but Iran says no direct talks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777117598000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139886519,
@@ -167,6 +178,17 @@
       "category": "company"
     },
     {
+      "id": 139887055,
+      "headline": "AT&T: Get Paid To Wait, But 3 Reasons The Stock Could Go Nowhere Near-Term",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e78fb8a13162711b95adc21d2829b7eeae9828233df6a1f9fce0a164783161d",
+      "summary": "",
+      "image": "",
+      "datetime": 1777108500000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 139885951,
       "headline": "Foundayo’s Slow Start And Amazon Entry Test Eli Lilly Valuation",
       "source": "Yahoo",
@@ -197,6 +219,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777107780000,
       "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139887027,
+      "headline": "Why I'm Still Very Bullish Into AMD Earnings",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9ce14772fb87926d51d779d1f7658b1b42664ec81d45d214011e30e9db7f7c8e",
+      "summary": "AMD holds ~41% server CPU share and generated $5.4B in Q4 data center revenue. CPU demand outpaces supply as AI shifts CPU-to-GPU ratios. See more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1450615744/image_1450615744.jpg?io=getty-c-w1536",
+      "datetime": 1777107600000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139887026,
+      "headline": "ServiceNow: Post-Earnings Meltdown Is Well Overdone",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b63219d08d23bf8e0b1e44ec15e29b29a96660aea33a56321adc3643422a04ac",
+      "summary": "",
+      "image": "",
+      "datetime": 1777107600000,
+      "ticker": "NOW",
       "category": "company"
     },
     {
@@ -255,6 +299,17 @@
       "category": "company"
     },
     {
+      "id": 139886659,
+      "headline": "How To Invest $100,000 Today: 5 Strategies For Success",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1ba1a6c0ddc5e8d4395311d98bd349726abf05b2bfb160096204c6e8558e69d8",
+      "summary": "The market environment is challenging, to say the least. Click here to read more about five different investment strategies.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1742213566/image_1742213566.jpg?io=getty-c-w1536",
+      "datetime": 1777104300000,
+      "ticker": "GLD",
+      "category": "company"
+    },
+    {
       "id": 7847946,
       "headline": "Turkey may consider role in Hormuz demining after Iran-US deal, minister says - Reuters",
       "source": "Reuters",
@@ -305,7 +360,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFRNQmhxQ0NZTHpUX3RUb3FIUDFDMVRkNUptZjZkRWg4LTJzd1JLN3Q1Z2gtME5Bc3RHYzB3dFJ4TkFra1pvVU9iMzFfeEV4YlB1bnhJM1ZHdi1sYl8zWGJvZFcxaURLa1FpdGpSLUo5NDRiQjR2N2NFMlMwZVBJTENiRlFHZWtxUWxlckZENlRaYXNtbHQxYlB3cjktUlZtcGZ3VmhjSUFybXFyY3J1eENlQXZNS1k3cDRnQ1F0VUNraVR6ekUw?oc=5",
       "summary": "Iran says it has hanged agent working for Israel over sabotage in protests - Tasnim  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777100160000,
+      "datetime": 1777100218000,
       "ticker": null,
       "category": "business"
     },
@@ -396,17 +451,6 @@
       "datetime": 1777094400000,
       "ticker": "NVDA",
       "category": "company"
-    },
-    {
-      "id": 7847343,
-      "headline": "US negotiators to go to Islamabad, but Iran says no direct talks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1l3OXozS3NuMlR6czlyeGgtU3lnQ25mMEUxT3c0SUFHTzgwTXAzdmxiX2E1YjVkVVU3UjZoTHd2VHFDNzI2ZjQwUlRJQ2dfWG9aU3B2dndDQ29lSmxwMWlReWl6Znk3U0tuOWthNzRmZE9WcmZwYWY4TEFyYU52Z21RSzdocWZ0bldKbzRZb1ZsS0hYMy1aV2s4MVljdGl3US04QXozQU90RTg?oc=5",
-      "summary": "US negotiators to go to Islamabad, but Iran says no direct talks  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777093920000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139884587,
@@ -1055,50 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777064715000,
       "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139881682,
-      "headline": "Persian Gulf Oil Output Is Down 57%. These Are the Energy Stocks Built for This Moment.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e958447f0a36fdf0b2978cb3cadc58502e38e37eed089412b54c13f996d42fc",
-      "summary": "The world is relying on emergency stockpiles to fill in the gap.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777064700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881683,
-      "headline": "Is Ralliant Corporation (RAL) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e87f1a1cd141181e58c703f7f71d100fb66aa9a1f8d462e4ce465572a980204",
-      "summary": "Is RAL a good stock to buy? We came across a bullish thesis on Ralliant Corporation on Old Rope Research’s Substack. In this article, we will summarize the bulls’ thesis on RAL. Ralliant Corporation’s share was trading at $46.58 as of April 20th. RAL’s trailing and forward P/E were 34.79 and 29.50 respectively according to Yahoo Finance. Ralliant Corporation (RAL) is a […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777064377000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881807,
-      "headline": "Is ACM Research, Inc. (ACMR) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e95dd68e658fd9b728e97859f045b574b871cb5f8ff77bd923af398172ea66d1",
-      "summary": "Is ACMR a good stock to buy? We came across a bullish thesis on ACM Research, Inc. on Thinking Tech Stocks’s Substack. In this article, we will summarize the bulls’ thesis on ACMR. ACM Research, Inc.’s share was trading at $49.69 as of April 21st. ACMR’s trailing and forward P/E were 36.94 and 30.40, respectively according to Yahoo Finance. ACM Research, […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777064289000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139881684,
-      "headline": "Intel Stock Surges 24% to Record High on Earnings. AI Will Have to Drive It Higher.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b398bb8e004fd6da7c3ad9418f6e8b40b782ded2b4f24d61a092e027c653171c",
-      "summary": "Intel shares were up sharply in premarket trading Friday after the chip maker reported strong first-quarter results.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063980000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
