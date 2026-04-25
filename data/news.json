@@ -1,6 +1,72 @@
 {
-  "timestamp": 1777096355825,
+  "timestamp": 1777102830709,
   "items": [
+    {
+      "id": 7847343,
+      "headline": "US negotiators to go to Islamabad, but Iran says no direct talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1l3OXozS3NuMlR6czlyeGgtU3lnQ25mMEUxT3c0SUFHTzgwTXAzdmxiX2E1YjVkVVU3UjZoTHd2VHFDNzI2ZjQwUlRJQ2dfWG9aU3B2dndDQ29lSmxwMWlReWl6Znk3U0tuOWthNzRmZE9WcmZwYWY4TEFyYU52Z21RSzdocWZ0bldKbzRZb1ZsS0hYMy1aV2s4MVljdGl3US04QXozQU90RTg?oc=5",
+      "summary": "US negotiators to go to Islamabad, but Iran says no direct talks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777099439000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139884586,
+      "headline": "Is GameStop Stock Going to $0?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=161f21afedbf72eef1a9a29a9316ef0a02ca731a50574ec308cb330f8db25145",
+      "summary": "GameStop's cost-cutting and collectibles push can only go so far.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777094400000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139884587,
+      "headline": "The Best Time to Buy Artificial Intelligence (AI) Growth Stocks on the Nasdaq Was Last Month. The Second-Best Time Is Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee7450b0ad2b10f6f986ef04f4fd596b65cc9cf75ac37371c38d1f33d0417b79",
+      "summary": "The stock market's rally in recent weeks has been fierce.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777092600000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139884588,
+      "headline": "China warns of global supply chain disruption as U.S. chip export bills advance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32b67294af8425e458325e18c7c36c7dd2087f336d94c9d735859f0fb97bb468",
+      "summary": "Investing.com -- Beijing has issued a stern warning regarding new legislative efforts in the U.S. Congress, asserting that proposed bipartisan export-control bills targeting the semiconductor sector threaten to severely destabilize global supply chains.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777092543000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139884589,
+      "headline": "The Best Artificial Intelligence (AI) Growth Stocks to Buy as the Nasdaq Hits a New All-Time High",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bf7829efc3a6b78af5c0a2c654c686859fbfccd421f126554fb1a41e5712c32",
+      "summary": "These AI stocks are still buys with the Nasdaq hitting new highs.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777091700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139884590,
+      "headline": "Nvidia at $5 Trillion: Buy, Sell, or Hold?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44095e2bb2c637a63d0a5af8ee5c4aa3d0a468f6827d8310883067cbdc553875",
+      "summary": "Nvidia is down just 2% from its all-time high.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777088932000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 139883958,
       "headline": "Microsoft Corp. (MSFT) Well-Positioned with Overseas AI Infrastructure and Cybersecurity Investments",
@@ -65,6 +131,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777087594000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139885134,
+      "headline": "Microsoft And Meta Earnings Previews",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=663b64b2089b217bff515e8328c0accbda9775239a012cc796c5be42b25cf49c",
+      "summary": "Will Meta Platforms and Microsoft maintain their capex guidance this year? Click here to read more.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2267136067/image_2267136067.jpg?io=getty-c-w1536",
+      "datetime": 1777087200000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -1022,83 +1099,6 @@
       "image": "",
       "datetime": 1777059337000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139880553,
-      "headline": "1 High-Flying Stock with Impressive Fundamentals and 2 That Underwhelm",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec2c55bf566d814e9b943c946ed916bb4f97f6c2b26d0ab25edbb60847c3357a",
-      "summary": "Expensive stocks typically earn their valuations through superior growth rates that other companies simply can’t match. The flip side though is that these lofty expectations make them particularly susceptible to drawdowns when market sentiment shifts.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777059203000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139880471,
-      "headline": "Kalshi Taps Pyth Network To Settle Bets On Gold, Oil, Wheat And More",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69bb373488266dd5337894e22fbb128160c6e860d5209bf36a09a9c9edb93a0b",
-      "summary": "Kalshi has selected Pyth Network as the resolution source for its Commodities Hub, a dedicated section for event contracts tied to gold, silver, Brent crude, natural gas, copper, corn, soybeans and wheat. Pyth price data will power contract resolutions, and Pyth Pro, the network’s institutional data tier, will provide direct feeds to Kalshi’s market makers, according to a press release. The Commodities Hub on Kalshi covers event contracts across physical markets. Second Major Prediction Market T",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777059079000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139882745,
-      "headline": "U.S. judge dismisses Elon Musk's fraud claims in lawsuit against OpenAI and Sam Altman, plans to proceed to trial on Musk's other claims",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=a90c4fa10f2a2d210254ba6a63e650902962acb0d6616311156ea20a3bb969df",
-      "summary": "U.S. judge dismisses Elon Musk's fraud claims in lawsuit against OpenAI and Sam Altman, plans to proceed to trial on Musk's other claims...",
-      "image": "",
-      "datetime": 1777058898000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139880472,
-      "headline": "The U.S. is up $26 billion on its Intel trade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=701f9cccf1717a38a5bf1a8c1eff710dba93b5ea4c01f61b00ce3e909b5a3d8e",
-      "summary": "Investing.com -- The United States government's investment in Intel is currently roughly $26 billion in the green, based on the company's share price on Friday..",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777058788000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880473,
-      "headline": "Uber and Joby Aviation Confirm Air Taxis Launch in Dubai by 2026 -- Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f658dcf4b74616822b1066b30e2611fef8914d74d60700cdb6090da670b8e7a4",
-      "summary": "Joby appears to be on the verge of a major commercialization milestone, and Uber is helping it get there.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777058700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880474,
-      "headline": "Meta Layoffs: Is the Facebook Parent Getting Ready for Another \"Year of Efficiency\"?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3774e779c1ef89d748bb90f1eebc7709da930fbc8cba16fa79866107712899a6",
-      "summary": "Meta's first mass layoffs set off a surge in the stock. Will we see a repeat?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777058491000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139880475,
-      "headline": "NVIDIA (NVDA) Partners With Oklo, LANL to Develop Nuclear-Powered AI Factories",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f0641ddf87c01bc104e041bd4722e8bbe47040a81d2e75555188a688829ff03",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the best NASDAQ growth stocks to buy and hold forever. On April 23, NVIDIA entered into a strategic agreement with Oklo Inc. and Los Alamos National Laboratory/LANL to integrate its AI and accelerated computing infrastructure with advanced nuclear technology. The collaboration focuses on developing nuclear-powered AI factories, combining NVIDIA’s […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777058155000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
