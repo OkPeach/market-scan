@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777128735663,
+  "timestamp": 1777132150989,
   "items": [
     {
       "id": 139887277,
@@ -200,6 +200,17 @@
       "category": "company"
     },
     {
+      "id": 139887737,
+      "headline": "AMD Bulls Went Too Far, Too Fast",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8ceac3a402c44921d9204888b46a16b928ef6042d49704d6c2c2fe87938d806a",
+      "summary": "AMD delivered strong Q4 FY2025 results, with revenue up 34% YoY and significant growth in Data Center and Client segments. Learn more on AMD stock here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303597163/image_1303597163.jpg?io=getty-c-w1536",
+      "datetime": 1777115308000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
       "id": 139886515,
       "headline": "Tesla Robotaxis And Optimus Shift Focus To AI Revenue After 2027",
       "source": "Yahoo",
@@ -211,6 +222,17 @@
       "category": "company"
     },
     {
+      "id": 139887707,
+      "headline": "Tech Heavyweights To Report Next Week, Fed Rate Decision Also In Focus",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=243e7598cd3a10648c457f839370db2fb2933ffa9e1403774f2e65d86e43a4d1",
+      "summary": "Wall Street Week Ahead: key earnings (Apple, Microsoft), Fed decision, GDP & jobs, IPOs and dividends. Read here for more details.",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1777114800000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 139887285,
       "headline": "Here's How Much Microsoft Stock Is Expected to Move After Earnings",
       "source": "Yahoo",
@@ -219,6 +241,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777114800000,
       "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139887676,
+      "headline": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6478f5ba2859bb52b43cd4580784213cd9a221b2116f022c75bb628e7562af13",
+      "summary": "",
+      "image": "",
+      "datetime": 1777114665000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -514,7 +547,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFRNQmhxQ0NZTHpUX3RUb3FIUDFDMVRkNUptZjZkRWg4LTJzd1JLN3Q1Z2gtME5Bc3RHYzB3dFJ4TkFra1pvVU9iMzFfeEV4YlB1bnhJM1ZHdi1sYl8zWGJvZFcxaURLa1FpdGpSLUo5NDRiQjR2N2NFMlMwZVBJTENiRlFHZWtxUWxlckZENlRaYXNtbHQxYlB3cjktUlZtcGZ3VmhjSUFybXFyY3J1eENlQXZNS1k3cDRnQ1F0VUNraVR6ekUw?oc=5",
       "summary": "Iran says it has hanged agent working for Israel over sabotage in protests - Tasnim  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777100218000,
+      "datetime": 1777100160000,
       "ticker": null,
       "category": "business"
     },
@@ -1067,39 +1100,6 @@
       "datetime": 1777070720000,
       "ticker": null,
       "category": "top news"
-    },
-    {
-      "id": 139882694,
-      "headline": "Why Charter Communications Stock Plummeted Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=617a9bbe6158a1f28a2379236462c8f2fb4feb91341846431d59831ede3f9a72",
-      "summary": "Charter's recent quarterly report has caused investors to seriously rethink the stock.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777070179000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139882700,
-      "headline": "Amazon-backed X-Energy surges 27% in Nasdaq debut",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=35fb04dc2ef33415b0fac4191ad711beb53dd5422c52f067790e20a7a6c84eff",
-      "summary": "Shares of X-Energy, a nuclear energy company, closed their first day of trading at $29.20, 27% above the IPO share price of $23. X-Energy is the first major advanced nuclear developer to reach public markets via a traditional IPO. The company’s path to its Friday debut on the Nasdaq included a SPAC merger agreement with an Ares-backed blank-check firm that was not consummated. The company, which develops nuclear reactors and new nuclear cooling technologies, raised $1.02 billion in proceeds from",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777069398000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139882725,
-      "headline": "Bank of America resets Intel stock price target after earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=40cad2479658cc11a356eb6386f539149940c371a1337546dde887571f390dbe",
-      "summary": "Intel (INTC) stock is up about 123% year to date, at the time of writing, Friday morning, April 24, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 index (SPY) is up about 4% in the same period. Following the Q1 earnings report on April 23, the stock is soaring 22% and trading near $82, ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777068420000,
-      "ticker": "INTC",
-      "category": "company"
     }
   ]
 }
