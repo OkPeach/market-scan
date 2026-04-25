@@ -1,6 +1,204 @@
 {
-  "timestamp": 1777139227782,
+  "timestamp": 1777143879033,
   "items": [
+    {
+      "id": 7849881,
+      "headline": "Iran talks, Jerome Powell and the White House Correspondents' Dinner - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWx5a2x6Zkd3TlVGa3RfNC1tWjlidXBuV2E2YVFJQzAxTTFkaUZoRGtPdVo5Mkd5LWV2a2JWOUJWQzV4SWRPTjdpSTdkVHFWLTdLc25RSi1oVTZmMWRWendLWktNRFg1enI2VWJiX05XLWRoNFRxN1ZQVHM0cl93OXJXVUtoZUxTalJOS1R1RmRYWEwzTWxVRUFoNndFUXp6WFNhWHUzX0xTR1ZWajNsVllXQVNFbkIteV9ablJTdw?oc=5",
+      "summary": "Iran talks, Jerome Powell and the White House Correspondents' Dinner  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777142056000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139888927,
+      "headline": "3 Cloud Computing ETFs to Buy as Enterprise AI Spending Accelerates in 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e775a60128ebfe3fa6e6f479b1b8db504067dafa1034f80cfaad9dd7ab0af98",
+      "summary": "Enterprise digital transformation remains the primary driver of demand for public and hybrid cloud services. Companies continue shifting workloads to the cloud, and AI‑driven infrastructure spending has added another layer of momentum. The profit engine behind software, IT services, and cloud platforms has expanded meaningfully over the past few years as that migration continues. The ... 3 Cloud Computing ETFs to Buy as Enterprise AI Spending Accelerates in 2026",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777138626000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139888932,
+      "headline": "'AI Can Write Code, But It Can't Climb A 12-Foot Ladder': Lowe's CEO Draws A Line — OpenAI Chair Is Not Convinced That AI Runs All Consumer Decisions",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52092589bb7f25e1d38feccd674650fc73be68713d7ac0c0226579c1ffcfab7d",
+      "summary": "Lowe’s (NYSE:LOW) CEO Marvin Ellison is downplaying fears that AI technology would lead to huge job losses for the U.S. economy. As technology companies increase their exposure to artificial intelligence, there are fears of a huge worker displacement. U.S. ‘Big...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777138276000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139888914,
+      "headline": "Is This Tech Giant the Next Potential Winner in the GLP-1 Weight Loss Boom?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=325ece676c11acf82c87dd7ddfc572d5fdc91cb64a950d26fce7f3bb0cac6a6f",
+      "summary": "The weight loss drug market may reach almost $100 billion in a few years.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777137900000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139888928,
+      "headline": "Why I'm Staying on the Sidelines Headed Into Microsoft's Earnings Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d05053378acc3c61e7985ab6053a3f93e8c170609576824cbf864cd3dfbdba4",
+      "summary": "The software giant has rallied ahead of next week's report.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777137660000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139888915,
+      "headline": "Dow Jones Futures: Iran Talks Shelved; Apple, Amazon, Google Lead Earnings Wave",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78c0ed323449a46a240119fc1fbb6cb0b84487d18ed0d37419c4654156c97973",
+      "summary": "The stock market is at highs but results and spending for Apple, Amazon, Google and more will be key. Iran talks were called off.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777137041000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139888925,
+      "headline": "A Look At Skyworks Solutions (SWKS) Valuation After Barclays Upgrade And Apple Device Delay",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af560326493368a9ea603ffa40d1de1c7de518132fa722552746d8e7a47b77c8",
+      "summary": "Analyst upgrade and Apple timing shift move Skyworks Solutions (SWKS) Skyworks Solutions (SWKS) shares climbed after Barclays upgraded the stock, noting expectations that a delay in new low end Apple devices could extend demand for Skyworks components in current iPhone models. See our latest analysis for Skyworks Solutions. Beyond the upgrade, the stock has been rebuilding momentum, with a 1 month share price return of 13.28% and a 1 year total shareholder return of 7.97%, although the 5 year...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777136710000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139888916,
+      "headline": "Billionaire Bill Ackman Has 38% of His Hedge Fund's $15 Billion Stock Portfolio Invested in 3 Magnificent Artificial Intelligence (AI) Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=693e07935045f56a170b9888cd19b541f41a8d14453e0c7369b8793d73c4d9ed",
+      "summary": "Bill Ackman's Pershing Square portfolio holds three members of the \"Magnificent Seven\" among its largest positions.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777136700000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139888934,
+      "headline": "Amazon Camp Stove Lawsuit Puts Marketplace Safety And Margins Under Scrutiny",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e432502be8087195c428b54dabb97e0b526f902f617c8d7fc53469cc4b8f6918",
+      "summary": "A new lawsuit in Washington state claims Amazon (NasdaqGS:AMZN) knowingly sold a defective camp stove that caused severe burns to a customer. The complaint alleges Amazon continued to list and promote the stove as a \"Best Seller\" despite multiple reports of gas leaks, uncontrolled flames, and construction issues. Plaintiffs argue Amazon breached its duty of reasonable care by actively recommending the product and failing to warn buyers about reported hazards. For investors watching...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777136670000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139888917,
+      "headline": "Why Beyond Meat Stock Surged This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc32492ef6216d137822f15358eb2b7b3975a3cb889a169b183577ad189ccc34",
+      "summary": "Beyond stock has been on an uptrend lately, but shares are still down 99% over the last five years.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777136162000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139888935,
+      "headline": "The climate tech IPO window could finally be cracking open",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e902ee23cda0e1c76c7aa73cd068da6043b5073404fd07d36dda5ae0f4dd61cd",
+      "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777134780000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139888918,
+      "headline": "3 Artificial Intelligence (AI) Stocks That Are Expected to Grow at Faster Rates Than Nvidia Over the Next Couple of Years, According to Analysts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d8cc145adf5f2a3e91132083c4ed687358629e2d5c45042738fdcbcf1fac7b5",
+      "summary": "These stocks are projected to grow their sales by more than 30% annually for the next couple of years.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777134000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139888919,
+      "headline": "This Animal Health Stock Is Trading at Its Lowest P/E Ratio Ever",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bffde99f153e2e6d2f3865f38ef5cb903512c8f15e07db436408505118bb6376",
+      "summary": "The selling has gone too far -- and I'll shout it from the mountaintops.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777133520000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139888981,
+      "headline": "Assessing Microchip Technology (MCHP) Valuation As Earnings Approach And New Intel Timing Modules Launch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a771b2e0d4638600b04dafa6b2e08607d34ee60854eba5de5dc19f1b86fff20b",
+      "summary": "Microchip Technology (MCHP) is back in focus as investors watch for its upcoming fiscal fourth quarter earnings and react to new high precision timing modules developed with Intel for data center and 5G vRAN workloads. See our latest analysis for Microchip Technology. That backdrop of product launches and partnerships has coincided with a sharp pick up in momentum, with a 30 day share price return of 37.26% and a 1 year total shareholder return of 96.45% pointing to strong recent gains from a...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777133237000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139888936,
+      "headline": "Amazon and Walmart hit by $12.8 billion theft surge",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96b98392383a0d7c2b147d701bdba88ee27bab88fd57701234252dd2b1e0de01",
+      "summary": "As someone who orders from Amazon almost daily, I lose track of which order should arrive when. Most packages come the next day, while some take an entire two days for delivery. If something went missing, it might take a few days before I noticed, if I noticed at all, because, unless it's an item I ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777133220000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139888948,
+      "headline": "Why Is Hims & Hers Health (HIMS) Stock Soaring Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb2c8253189c416a19f1934d8168a4f1b3136dac3466e947e57ed57be5f85208",
+      "summary": "Shares of telehealth company Hims & Hers Health (NYSE:HIMS) jumped 9.6% in the afternoon session after JPMorgan initiated coverage on the company with a 'Buy'-equivalent 'Overweight' rating and a $35 price target.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777133123000,
+      "ticker": "HIMS",
+      "category": "company"
+    },
+    {
+      "id": 139888920,
+      "headline": "The Optical AI Boom’s Biggest Winners: 3 Under-the-Radar Stocks Fueling the Revolution",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de0db740ffa39862cf4335ced949e64818317450672dca3b6d5de2968b5e0364",
+      "summary": "Artificial intelligence isn’t just a software story anymore — it’s an infrastructure arms race. Data centers are hitting physical limits as power consumption and heat climb alongside AI workloads. That’s where optical photonics steps in. Instead of electrons crawling through copper wire, photons race through fiber or waveguides at the speed of light. The payoff? ... The Optical AI Boom’s Biggest Winners: 3 Under-the-Radar Stocks Fueling the Revolution",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777132863000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139888921,
+      "headline": "Here's Why I Wouldn't Touch (XRP) Ripple With a 10-Foot Pole",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b20e85b78c4b2ac2e4ce983d8e69fd2ce3c6375d3884a34f05d5d8b53003702",
+      "summary": "XRP may not be the high upside crypto many investors think it is.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777132860000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 7849480,
       "headline": "Trump says he canceled US negotiators' trip to Pakistan for Iran talks, Fox News reports - Reuters",
@@ -11,6 +209,17 @@
       "datetime": 1777132696000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 139888942,
+      "headline": "PepsiCo (PEP): The Best Slow Growth Stock to Buy According to Analysts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf2986566327d5d450e354e70d5280bf17929e9ecd3b748ad0f16ff16e2eb2ce",
+      "summary": "PepsiCo, Inc. (NASDAQ:PEP) is one of the 10 Best Slow Growth Stocks to Buy According to Analysts. On April 22, 2026, PepsiCo, Inc. (NASDAQ:PEP) announced a multi-year collaboration with Google Cloud (GOOG) to enhance its digital infrastructure and use the Gemini Enterprise Agent Platform to help teams translate insights into action at scale. The company […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777132628000,
+      "ticker": "GOOGL",
+      "category": "company"
     },
     {
       "id": 7849376,
@@ -87,6 +296,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777130700000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139888959,
+      "headline": "The Market Needed a Strong Earnings Season. It Got Chip Stocks Instead.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=468c3b3cf583cca69d464cc2056e84ab5a0291da21a627d271f8ebce2d965e12",
+      "summary": "Without semiconductors, earnings season might have been a dud—and the indexes likely would be struggling to notch gains.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777130700000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139888926,
+      "headline": "The Highest-Paid CEO Is a Furniture Salesman",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32dfec0ae13f2953dd901ad17b77cdac0e501a0894213c9ca4d609bcf9fb2c9f",
+      "summary": "The median annual pay of large company CEOs hit $29.4 million last year, a record high, up 23.2%. It’s still one big fat guessing game.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777130280000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -869,237 +1100,6 @@
       "datetime": 1777105560000,
       "ticker": "NVDA",
       "category": "company"
-    },
-    {
-      "id": 139888391,
-      "headline": "Wall Street is getting bullish on neoclouds. These stocks hold more risk than other AI plays",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=3bb201c07f2d33b01b11934f4a615e048b048659c9a7d784f32d341266c66f15",
-      "summary": "Neoclouds emerged as stopgaps to address the GPU shortage, but their economics are fragile, McKinsey has warned.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108015020-1722525971131-gettyimages-1468360413-20230222065.jpeg?v=1776861677&w=1920&h=1080",
-      "datetime": 1777104777000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139885948,
-      "headline": "Meet the Biggest Threat to Nvidia in AI Chips. It's Not AMD, Intel, or Broadcom.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=44492c9b9fbf814ecbe345e2cb552b9e83eca9196603ecfcb4ab8322b534496d",
-      "summary": "Alphabet is enjoying strong demand for the AI processors it designed in-house.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777104480000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139886659,
-      "headline": "How To Invest $100,000 Today: 5 Strategies For Success",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1ba1a6c0ddc5e8d4395311d98bd349726abf05b2bfb160096204c6e8558e69d8",
-      "summary": "The market environment is challenging, to say the least. Click here to read more about five different investment strategies.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1742213566/image_1742213566.jpg?io=getty-c-w1536",
-      "datetime": 1777104300000,
-      "ticker": "GLD",
-      "category": "company"
-    },
-    {
-      "id": 139888122,
-      "headline": "Benzinga Bulls And Bears: UnitedHealth, Capital One, Lululemon — And Markets Extend Rally",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=6e702884066a7061ca61c542c0b2c0b0b1920c2897a5a1237821369181674747",
-      "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
-      "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Bulls-and-Bears-1.jpeg?width=2048&height=1536",
-      "datetime": 1777104075000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 7847946,
-      "headline": "Turkey may consider role in Hormuz demining after Iran-US deal, minister says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQak1SNlRWX3RCamRXXzF4SlNtTmNjaUt1UW1kVkZxcjhwbEtMMkdaRGlqa1pNanFGZTJqNzI0VWt2ZnZOOFk2LTd3VHJGNDNLeTMxVlFNTkZjZ2hrWGN3X0hSZTlrb0VRWllCSk02V2VoYUZwczdRc3ZLbkVwYkVzWWdleDI2SmRFOXBJSHh3NE9MNlBFM0gxdjFsN0lfVjRrZXZGMmMwUlNGNHhmallibGN2RW9nMkJ3VlpNdEtaMENoNU5qTGc?oc=5",
-      "summary": "Turkey may consider role in Hormuz demining after Iran-US deal, minister says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777104012000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139888392,
-      "headline": "Investors are bullish on neoclouds but skeptics question their financing",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=a965f2185438759d37aa339e4b24fabec409fcedd0ec7d38cfcd1fe2b5c1e6fd",
-      "summary": "Investors are bullish on the emerging crop of companies known as neoclouds, which focus on AI-dedicated computing infrastructure, even as industry insiders warn it will take longer for these ventures to become profitable than markets currently expect. CNBC’s Tobias Burns reports on the enthusiasm for neoclouds and the concerns surrounding them.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108175719-1753278713046-gettyimages-2220780194-just_super2025-6-16dfffsssssssf.jpeg?v=1766498529&w=1920&h=1080",
-      "datetime": 1777104001000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139888487,
-      "headline": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=e3faff57a4ac925b3087e4498196efb0d795eadad635b114e862380fa5130af7",
-      "summary": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and  how it integrates into Tesla's Full Self-Driving (Supervised).",
-      "image": "https://image.cnbcfm.com/api/v1/image/108297030-1777050362594-DJI_20010202142620_0007_D00_13_46_20Still002.jpg?v=1777050894&w=1920&h=1080",
-      "datetime": 1777104001000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139888488,
-      "headline": "Trying out xAI's Grok chatbot in a Tesla while driving in New York City",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=bf84341d26b76b0befe6ae55619ed2445137b4bc3ef13a6bd6208362740484c5",
-      "summary": "Tesla began rolling out xAI's Grok AI chatbot in its cars in July 2025, which is still in beta mode. Tesla is not the only automaker adding AI assistants to vehicles. Volvo, Rivian, Mercedes, BMW and others are all integrating AI into their cars even though the tech is still in its infancy. CNBC's Rob Ferris takes a ride with attorney and Tesla Model Y owner Mike Nelson in New York City to see how he uses Grok and to find out how it integrates into Tesla's Full Self-Driving (Supervised).",
-      "image": "https://image.cnbcfm.com/api/v1/image/108297023-1777049905683-260415_cn_23_tech_grok_dirty00_00_07_22Still001.jpg?v=1777050114&w=1920&h=1080",
-      "datetime": 1777103941000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139885311,
-      "headline": "3 Reasons Investors Love Nvidia (NVDA)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0185d65a50d803cc3e1efd2ac69f13fc3a882ba17abb3c6aad23e9ba463dbd8",
-      "summary": "Nvidia has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 7.1% to $199.50 per share while the index has gained 5%.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777101923000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139886399,
-      "headline": "Forget Gold, Farmland Could Be The Smarter Diversifier",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=15249a1195f9b6118e744b76fff0747979d275bf5671894da4bbc3d4f050352f",
-      "summary": "Farmland may beat gold as a stable hedge: diversification plus income for stronger long-term returns. Read here for a detailed investment analysis.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2240772294/image_2240772294.jpg?io=getty-c-w1536",
-      "datetime": 1777101300000,
-      "ticker": "GLD",
-      "category": "company"
-    },
-    {
-      "id": 139885312,
-      "headline": "Pony.ai Announces New Generation Autonomous Driving Compute Platform Built on NVIDIA DRIVE Hyperion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91c3ef08ff99dd6c7e73e8aca82ef84cbc00538e0196abd3c2c9af8b3bd26e1f",
-      "summary": "Pony AI Inc. (\"Pony.ai\") (NASDAQ: PONY; HKEX: 2026) today announced its new generation autonomous driving domain controller, a high-performance compute system designed for both Pony.ai's L4 autonomous driving platform and a broader set of customer applications across autonomous mobility. Developed in collaboration with NVIDIA, the new controller is built on the NVIDIA DRIVE Hyperion platform and powered by NVIDIA DRIVE AGX Thor with NVIDIA NVLink, supporting Pony.ai's next phase of commercializa",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777100400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7848047,
-      "headline": "Iran says it has hanged agent working for Israel over sabotage in protests - Tasnim - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFRNQmhxQ0NZTHpUX3RUb3FIUDFDMVRkNUptZjZkRWg4LTJzd1JLN3Q1Z2gtME5Bc3RHYzB3dFJ4TkFra1pvVU9iMzFfeEV4YlB1bnhJM1ZHdi1sYl8zWGJvZFcxaURLa1FpdGpSLUo5NDRiQjR2N2NFMlMwZVBJTENiRlFHZWtxUWxlckZENlRaYXNtbHQxYlB3cjktUlZtcGZ3VmhjSUFybXFyY3J1eENlQXZNS1k3cDRnQ1F0VUNraVR6ekUw?oc=5",
-      "summary": "Iran says it has hanged agent working for Israel over sabotage in protests - Tasnim  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777100160000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139885320,
-      "headline": "Alphabet Next: Google Cloud Says 75% of Customers Use AI as Pichai Targets $175B-$185B CapEx",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c15ffe054afee84740e4846ec8fa8983c5204685f2f7788922f0e79c2be0c0e3",
-      "summary": "Google Cloud used its Next conference to highlight what CEO Thomas Kurian described as a shift from experimentation to scaled deployment of artificial intelligence, telling attendees that “nearly 75% of Google Cloud customers now leverage our AI products to power their businesses.” Kurian said the f",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777096990000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139884652,
-      "headline": "Marvell Shares Rise on Reports of Talks with Alphabet Inc’s (GOOGL) Google to Create Two AI Chips",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a30888b64c05cfe706d4178145f0d9d44091baa494b0be026844b1e8847fb082",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 20, 2026, Reuters reported that Marvell Technology’s stock went up about 5% after The Information revealed that Alphabet Inc. (NASDAQ:GOOGL)’s Google is in talks with the chip manufacturer to produce two AI-focused chips. The story […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777096657000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139884653,
-      "headline": "Is Broadcom Inc. (AVGO) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d3a8b4408a0840563987072f83371109980eadf0f9ca26fe9cdc83c4b7d3f0ce",
-      "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 20, 2026, CNBC reported that Broadcom Inc. (NASDAQ:AVGO) shares dipped roughly 2%. On the other hand, Marvell Technology shares rose nearly 6% after The Information revealed the firm would assist Google in designing two new […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777096649000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139885321,
-      "headline": "Apple Inc. (AAPL) Appointed John Ternus as CEO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a12fc06752681e0dae9077cc5d7f360c2b9415d575ae7bc4613d7d78fa6aa4c5",
-      "summary": "Apple Inc. (NASDAQ:AAPL) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 21, Reuters reported that Apple Inc. (NASDAQ:AAPL) appointed John Ternus as CEO, showing a renewed focus on hardware and adding AI to existing devices rather than introducing a specific AI product. Ternus, a 25-year veteran […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777096643000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139885322,
-      "headline": "Microsoft (MSFT) Must Face a UK lawsuit Over Cloud Computing Licenses",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3c2f9a248375a4765e39636afdfe67320b9fcfac1cbbb79b3bd82accde6d6f24",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 21, 2026, Reuters reported that Microsoft Corporation (NASDAQ:MSFT) had to deal with a mass lawsuit in the United Kingdom alleging that it overcharged businesses for Windows Server licenses on alternative cloud platforms. It happened right […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777096634000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139884690,
-      "headline": "California Claims that Amazon’s (AMZN) Collusion Drove up Consumer Prices, Citing New Evidence",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3a895b0c68786182a6dd2dc830186aa39de8ec9705b2d28eca8329cba519aa2",
-      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 20, 2026, Reuters reported that California accused Amazon.com, Inc. (NASDAQ:AMZN) of collaborating with retailers to drive up consumer prices, referring to newly released evidence in a 3-1/2-year antitrust action led by Attorney General Rob Bonta. […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777096624000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139885313,
-      "headline": "Nvidia’s (NVDA) Solid Bond with Gamers is Fracturing over AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c13ace05cdfe86c4950253d3de07f93e1975d8bfcf28b21eeebc08ec9cbad9e",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 18, 2026, CNBC reported that NVIDIA Corporation (NASDAQ:NVDA)’s transition to artificial intelligence is straining its connection with gamers, as data center goods dominate performance and strategy. The data center revenue now makes up 91.5% of […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777096617000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139884586,
-      "headline": "Is GameStop Stock Going to $0?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=161f21afedbf72eef1a9a29a9316ef0a02ca731a50574ec308cb330f8db25145",
-      "summary": "GameStop's cost-cutting and collectibles push can only go so far.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777094400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7847343,
-      "headline": "Trump cancels envoys' trip to Islamabad - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1l3OXozS3NuMlR6czlyeGgtU3lnQ25mMEUxT3c0SUFHTzgwTXAzdmxiX2E1YjVkVVU3UjZoTHd2VHFDNzI2ZjQwUlRJQ2dfWG9aU3B2dndDQ29lSmxwMWlReWl6Znk3U0tuOWthNzRmZE9WcmZwYWY4TEFyYU52Z21RSzdocWZ0bldKbzRZb1ZsS0hYMy1aV2s4MVljdGl3US04QXozQU90RTg?oc=5",
-      "summary": "Trump cancels envoys' trip to Islamabad  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777093920000,
-      "ticker": null,
-      "category": "business"
     }
   ]
 }
