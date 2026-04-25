@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777102830709,
+  "timestamp": 1777107803342,
   "items": [
     {
       "id": 7847343,
@@ -8,9 +8,108 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1l3OXozS3NuMlR6czlyeGgtU3lnQ25mMEUxT3c0SUFHTzgwTXAzdmxiX2E1YjVkVVU3UjZoTHd2VHFDNzI2ZjQwUlRJQ2dfWG9aU3B2dndDQ29lSmxwMWlReWl6Znk3U0tuOWthNzRmZE9WcmZwYWY4TEFyYU52Z21RSzdocWZ0bldKbzRZb1ZsS0hYMy1aV2s4MVljdGl3US04QXozQU90RTg?oc=5",
       "summary": "US negotiators to go to Islamabad, but Iran says no direct talks  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777099439000,
+      "datetime": 1777102608000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 139885311,
+      "headline": "3 Reasons Investors Love Nvidia (NVDA)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0185d65a50d803cc3e1efd2ac69f13fc3a882ba17abb3c6aad23e9ba463dbd8",
+      "summary": "Nvidia has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 7.1% to $199.50 per share while the index has gained 5%.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777101923000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139885312,
+      "headline": "Pony.ai Announces New Generation Autonomous Driving Compute Platform Built on NVIDIA DRIVE Hyperion",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91c3ef08ff99dd6c7e73e8aca82ef84cbc00538e0196abd3c2c9af8b3bd26e1f",
+      "summary": "Pony AI Inc. (\"Pony.ai\") (NASDAQ: PONY; HKEX: 2026) today announced its new generation autonomous driving domain controller, a high-performance compute system designed for both Pony.ai's L4 autonomous driving platform and a broader set of customer applications across autonomous mobility. Developed in collaboration with NVIDIA, the new controller is built on the NVIDIA DRIVE Hyperion platform and powered by NVIDIA DRIVE AGX Thor with NVIDIA NVLink, supporting Pony.ai's next phase of commercializa",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777100400000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139885320,
+      "headline": "Alphabet Next: Google Cloud Says 75% of Customers Use AI as Pichai Targets $175B-$185B CapEx",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c15ffe054afee84740e4846ec8fa8983c5204685f2f7788922f0e79c2be0c0e3",
+      "summary": "Google Cloud used its Next conference to highlight what CEO Thomas Kurian described as a shift from experimentation to scaled deployment of artificial intelligence, telling attendees that “nearly 75% of Google Cloud customers now leverage our AI products to power their businesses.” Kurian said the f",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777096990000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139884652,
+      "headline": "Marvell Shares Rise on Reports of Talks with Alphabet Inc’s (GOOGL) Google to Create Two AI Chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a30888b64c05cfe706d4178145f0d9d44091baa494b0be026844b1e8847fb082",
+      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 20, 2026, Reuters reported that Marvell Technology’s stock went up about 5% after The Information revealed that Alphabet Inc. (NASDAQ:GOOGL)’s Google is in talks with the chip manufacturer to produce two AI-focused chips. The story […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777096657000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139884653,
+      "headline": "Is Broadcom Inc. (AVGO) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3a8b4408a0840563987072f83371109980eadf0f9ca26fe9cdc83c4b7d3f0ce",
+      "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 20, 2026, CNBC reported that Broadcom Inc. (NASDAQ:AVGO) shares dipped roughly 2%. On the other hand, Marvell Technology shares rose nearly 6% after The Information revealed the firm would assist Google in designing two new […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777096649000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139885321,
+      "headline": "Apple Inc. (AAPL) Appointed John Ternus as CEO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a12fc06752681e0dae9077cc5d7f360c2b9415d575ae7bc4613d7d78fa6aa4c5",
+      "summary": "Apple Inc. (NASDAQ:AAPL) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 21, Reuters reported that Apple Inc. (NASDAQ:AAPL) appointed John Ternus as CEO, showing a renewed focus on hardware and adding AI to existing devices rather than introducing a specific AI product. Ternus, a 25-year veteran […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777096643000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139885322,
+      "headline": "Microsoft (MSFT) Must Face a UK lawsuit Over Cloud Computing Licenses",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c2f9a248375a4765e39636afdfe67320b9fcfac1cbbb79b3bd82accde6d6f24",
+      "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 21, 2026, Reuters reported that Microsoft Corporation (NASDAQ:MSFT) had to deal with a mass lawsuit in the United Kingdom alleging that it overcharged businesses for Windows Server licenses on alternative cloud platforms. It happened right […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777096634000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139884690,
+      "headline": "California Claims that Amazon’s (AMZN) Collusion Drove up Consumer Prices, Citing New Evidence",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3a895b0c68786182a6dd2dc830186aa39de8ec9705b2d28eca8329cba519aa2",
+      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 20, 2026, Reuters reported that California accused Amazon.com, Inc. (NASDAQ:AMZN) of collaborating with retailers to drive up consumer prices, referring to newly released evidence in a 3-1/2-year antitrust action led by Attorney General Rob Bonta. […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777096624000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139885313,
+      "headline": "Nvidia’s (NVDA) Solid Bond with Gamers is Fracturing over AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c13ace05cdfe86c4950253d3de07f93e1975d8bfcf28b21eeebc08ec9cbad9e",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the 8 Best AI Stocks to Buy According to Billionaire Ken Griffin. On April 18, 2026, CNBC reported that NVIDIA Corporation (NASDAQ:NVDA)’s transition to artificial intelligence is straining its connection with gamers, as data center goods dominate performance and strategy. The data center revenue now makes up 91.5% of […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777096617000,
+      "ticker": "NVDA",
+      "category": "company"
     },
     {
       "id": 139884586,
@@ -54,6 +153,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777091700000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139885459,
+      "headline": "OpenAI chief apologizes for not reporting shooting suspect to police",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7c5d8136b5517c1110f02de908d4dad8e40ff5caf0a2ed3fd2d9b4dcf2d0af61",
+      "summary": "OpenAI Chief Sam Altman apologizedto the Canadian community of Tumbler Ridge for failing to alertpolice about a banned account linked to Jesse Van Rootselaar,who police say killed eight people in a...",
+      "image": "",
+      "datetime": 1777090403000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139885422,
+      "headline": "Weekly Commentary: Warsh In His Own Words",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=425f4289055cb620512172272a1a46cb350a9c6af95cab6afbc6aae5440e4d83",
+      "summary": "Ten-year Treasury yields rose five bps to 4.30%, outperforming other vulnerable bond markets. Read more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/459229485/image_459229485.jpg?io=getty-c-w1536",
+      "datetime": 1777089630000,
+      "ticker": "GLD",
       "category": "company"
     },
     {
@@ -473,17 +594,6 @@
       "datetime": 1777069398000,
       "ticker": "AMZN",
       "category": "company"
-    },
-    {
-      "id": 7844039,
-      "headline": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFI0QnNnNVVVckNHY3RrNk9MQTd1aS1ZRzFVZ2FzZEIycjhqSjdndzdyYkdXdGNPSThqc1lrSURHeUdQQk9JLW1KTHlUWkZweGxibG1YRVJhN2F6b0dhb0loZGo1NUtWU3FOeVNIcG1oWDY2QnppRXdVTkh5LTE4MkZoaGxWNmFTQ3JoQkxGWWRVb0c2TjRSTnMxUzA3cHp5ZDc2N1d1Z2tMOThqcFE?oc=5",
-      "summary": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777069313000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139882725,
@@ -989,116 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777061100000,
       "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 7845934,
-      "headline": "US legal adviser says Iran war justified by Tehran's 'aggression' over decades - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYndFZFlfaWpNb280TmdmNnBDMWREd3dLYWhYbDhsMmkzb0FrNVVIVDZLWmlYOXZSVW9JX2RxLWRoR3g3UVZUWVBaenBOcGlSTDJ3RWgteTBFR2h5Q2VhQVJRaWZMbE5TcHNFU0ZXSnJlYnh2U2FZRlVEdG9oSloxcnhiVWV5S2lPYkR1eXdyRzdPSkZwS1dlNzFRMU5kUFRfdFhVNUl1Q09Qa08zcVd2OFkwZmdVc2piWmVWdEdVY0lBNzIwVEhxSA?oc=5",
-      "summary": "US legal adviser says Iran war justified by Tehran's 'aggression' over decades  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777061089000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139881730,
-      "headline": "3 Stocks Under $10 We Think Twice About",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e410a343a24dccdfac6d00e0b814eafc490a449e6047e73204e3493e25f6f34b",
-      "summary": "Investors can certainly boost their returns by concentrating on stocks trading between $1 and $10. However, a disciplined approach is necessary because many of these businesses are speculative and lack the underlying fundamentals to support their prices.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777060643000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139881705,
-      "headline": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3465bcff37395171a82699e875d09ee6868ec7c7f9f819ef566b7c352a74a4aa",
-      "summary": "Tech stocks were higher late Friday afternoon, with the State Street Technology Select Sector SPDR E",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777060533000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139880470,
-      "headline": "Here's What to Do if the Market Crashes Right After You Retire",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f39cb6b5eef639ca5a7f13ada7985bb97c50657769df48ccc176d6332877e90",
-      "summary": "It's an unfortunate scenario you can plan for.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777060380000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881732,
-      "headline": "Beijing Bans Its Tech Companies From Accepting American Investment",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8fc4b37ea82d4f257bd349ee8869e4410a97b7f8719ab583a72fee6c4b0ee3c",
-      "summary": "Beijing is doing what Washington has done for ages: Ban foreign capital into its tech ecosystem citing national security risk.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777060375000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139880885,
-      "headline": "US Equity Indexes Mixed as Intel Boosts Technology, Trump's Peace Envoys Set to Travel to Pakistan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=583f1214b1f3e560c11c4fd289ee32ad7ad30c676bd70f9beaa3650e2f2d37dc",
-      "summary": "US equity indexes traded mixed on Friday as Intel's (INTC) blowout Q1 results galvanized the tech se",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777060295000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139882660,
-      "headline": "IAUI: Built For A Slower Gold Market",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ba3b0096d22f00aa6d106adad78c0ce44c177c42fc4265a02f36d5089a857cdf",
-      "summary": "",
-      "image": "",
-      "datetime": 1777060056000,
-      "ticker": "GLD",
-      "category": "company"
-    },
-    {
-      "id": 139880552,
-      "headline": "Software, semis, & BofA's 'perfect portfolio': Charts of the Day",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f7b4fe50265e04c25ed49775c1ecab2cd7ba95fe36f9afc6d4565a384e408e1",
-      "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at the software sector (IGV), semiconductor sector (SOXX), and Bank of America's (BAC) \"permanent portfolio\" through the years.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777059920000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139883394,
-      "headline": "Intel Just Hit a New All-Time High. Does INTC Stock Have More Room to Run?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd1131f10802a98d93f98b5a8123d00f511c22274192c423fb53775bce5d204e",
-      "summary": "Intel shares are soaring on better-than-expected Q1 earnings and upbeat future guidance. Evercore ISI analysts recommend buying INTC stock into the post-earnings strength.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777059900000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139882744,
-      "headline": "US judge dismisses Musk's fraud claims in OpenAI case, plans to proceed to trial",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=6ac1ce4903794e56bbc53e09269b37cbce6266e150f1f13db6dd6b79dbb82ba5",
-      "summary": "A U.S. judge on Friday dismissed Elon Musk's fraud claims in his lawsuit accusing OpenAI and co-founder Sam Altman of betraying OpenAI's original mission, but plans to proceed to trial on Musk's...",
-      "image": "",
-      "datetime": 1777059337000,
-      "ticker": "MSFT",
       "category": "company"
     }
   ]
