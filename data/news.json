@@ -1,6 +1,138 @@
 {
-  "timestamp": 1777075601339,
+  "timestamp": 1777088487949,
   "items": [
+    {
+      "id": 139883400,
+      "headline": "Intel Corp. (INTC) Soars to All-Time High as Revenues Climb on AI Demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af8080f181cf696830f5392c96868211175541d590926921fdefbd72581f1a7b",
+      "summary": "Intel Corp. (NASDAQ:INTC) is one of the 10 High-Flying Stocks With Double-Digit Returns. Intel climbed to a new all-time high on Friday, as investors gobbled up shares after reporting robust revenues in the first quarter of the year. At the intra-day session, the stock surged to its highest price of $85.22 before trimming gains to […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777081124000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139883396,
+      "headline": "Arm Holdings (ARM) Soars to All-Time High on Strong CPU Demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2fe3da7f077878860c95539416965099890a35f625d0f1743ac8442df6d7356",
+      "summary": "Arm Holdings plc (NASDAQ:ARM) is one of the 10 High-Flying Stocks With Double-Digit Returns. Arm Holdings climbed to a new all-time high on Friday after a seven-day winning streak, as investors took heart from bullish coverage for the CPU market, supported by Intel Corp.’s strong earnings performance in the first quarter of the year. In […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777080575000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139883397,
+      "headline": "Advanced Micro (AMD) Gets 70% Upgrade, Hits All-Time High",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b6fe6121ecac0d4c1100554cd285d4b846e000638af862cf5ee36da9b9aa3ff",
+      "summary": "Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the 10 High-Flying Stocks With Double-Digit Returns. Advanced Micro Devices extended its winning streak to a 4th consecutive day on Friday to hit a new all-time high, after an investment firm turned bullish for its stock, raising its rating and price target by 70 percent. In a […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777080265000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139883383,
+      "headline": "BEACN Announces Financial Results for Year Ended December 31, 2025",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=add8580f49f62b651745b3144a8482809a47995b7288875d826ad2ed8fdd0083",
+      "summary": "Not for distribution to United States Newswire Services or for dissemination in the United States VICTORIA, BC / ACCESS Newswire / April 24, 2026 / BEACN Wizardry & Magic Inc. (TSXV:BECN) (\"BEACN\" or the \"Company\") announces its annual financial statements ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777079400000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139883374,
+      "headline": "Does Intel's Post Q1 Surge Signal a Turnaround Worth Buying Into?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=908a852a3adac37378c40f0c13bf3af53c1478c3426af43828065198bcec8d4e",
+      "summary": "Delivering a strong Q1 report yesterday evening, Intel's stock surged 23% in Friday's trading session and is now sitting on monstrous gains of +300% in the last year.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777077180000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139883377,
+      "headline": "Apple, Amazon, Others Not Seeking Tariff Refunds To Avoid Offending Trump? The President Says He'll 'Remember' Them",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71c1feb24ed4618d485fdd7304e346d2f75e55e4dd348667342f5b9df67800d9",
+      "summary": "President Donald Trump weighed in as major corporations, including Apple Inc. and Amazon Inc., reportedly avoided seeking tariff reimbursements. According to CNBC’s Andrew Ross Sorkin, several major companies opting not to claim tariff refunds may reflect a desire to avoid “offending” Trump and possibly to sidestep political backlash. When he asked about the issue during an interview on Tuesday, Trump said, “I think it’s brilliant if they don’t do that, if they don’t do that, they got to know me",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777077080000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139883375,
+      "headline": "Why Intel Stock Skyrocketed Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da81f50363a4574a28fee48969e66d222bc09c80b9a1e9a5e24427cc7aeafa3b",
+      "summary": "The venerable chipmaker is finding its way in an AI-driven world.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777076703000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139883391,
+      "headline": "Meta’s AWS Graviton5 Bet Rewrites AI Costs And Supplier Balance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44fc7f6d1b206e8e1eedad9f0ce26721a93d436bd0bac11242b454919828b66f",
+      "summary": "Meta Platforms (NasdaqGS:META) has agreed a multi year deal with Amazon Web Services to deploy tens of millions of AWS Graviton5 CPU chips. The CPUs are intended to support next generation agentic AI workloads and reduce reliance on GPU only infrastructure. The agreement signals a shift in Meta's AI compute mix toward CPU heavy architectures and tighter collaboration with a major cloud provider. Meta Platforms comes into this move with its shares at $675.05 and a 23.7% return over the past...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777076171000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139883430,
+      "headline": "Why Poet Technologies Stock Skyrocketed Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d98c06dc13b77ed3f6b9129dd49ef0532185d8bac5176b2caf779d52ee6d8285",
+      "summary": "Poet stock just climbed more than 120% over the last week.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777075687000,
+      "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 139883020,
+      "headline": "JP Morgan Initiates Coverage of Hims & Hers Health (HIMS) with Overweight Recommendation",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=1af29caf61ca6dec4d190f9e049cfd5e3abd1da0ee52474dabdd811e715234c9",
+      "summary": "",
+      "image": "",
+      "datetime": 1777075482000,
+      "ticker": "HIMS",
+      "category": "company"
+    },
+    {
+      "id": 139883376,
+      "headline": "Review & Preview: Dot-Com Glory Days",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a34ec8a709374131f36c92239d2ed88c9b0cd36e44c07e693803b859a51e80c",
+      "summary": "Intel soared 24% to its first record close since August 2000. The rally says everything you need to know about today’s market.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777074900000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139882718,
+      "headline": "Related Digital secures financing for $16 billion Oracle data center in Michigan",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f626417f43af3f23603996b1a9d33aca0ad51e85ef28ac87fe219d4686b884e1",
+      "summary": "Data center developer Related Digital ‌said on Friday ‌it has secured financing for ​a $16 billion data center campus it is building in Michigan for Oracle. The ‌financing includes ⁠equity from Related Digital and funds ⁠affiliated with Blackstone, and fixed-rate, long term ​debt financing ​anchored ​by PIMCO-managed funds ‌and accounts, the company said. OpenAI, Oracle and Related Digital in October announced the project of ‌a more than ​1 gigawatt ​data ​center in Saline ‌Township, Michigan, as part ​of ​their push to expand U.S. AI infrastructure ​capacity.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777074046000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
     {
       "id": 139882690,
       "headline": "Why Comcast Stock Dived by Almost 13% Today",
@@ -10,6 +142,39 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777073901000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139883380,
+      "headline": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e8e1e18c508c35df9b40e1302e8b970d1ee7b2a56eb8088f983aec4545b64a8",
+      "summary": "A U.S. judge on Friday dismissed Elon Musk's fraud claims in ‌his lawsuit accusing OpenAI and co-founder ‌Sam Altman of betraying OpenAI's original mission, but plans ​to proceed to trial on Musk's breach of charitable trust and unjust enrichment claims.  Jury selection is scheduled to begin on Monday, and opening arguments are ⁠expected on Tuesday.  Musk had said dismissing his fraud and constructive fraud claims, which he proposed, ​would streamline ​the case and ​keep jurors focused on ‌his goal of ensuring that OpenAI benefit humanity rather than be a \"wealth machine.\"",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777073761000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139883381,
+      "headline": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab3d20008f2a30962460321e5530aa789a13fbc365d416374d27f8c59f4a2918",
+      "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777073531000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139883379,
+      "headline": "Mag 7 Earnings Take the Spotlight: What to Expect",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c84a3a5879878add02010b8ab862a88627a38661d433fb23511d0e968fa86b3",
+      "summary": "The earnings focus this week is on the Magnificent 7 group of mega-cap Tech companies, with Amazon, Alphabet, Microsoft, and Meta reporting results on Wednesday, April 29th, and Apple doing the same the day after.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777073400000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -244,15 +409,15 @@
       "category": "company"
     },
     {
-      "id": 7845527,
-      "headline": "US imposes sanctions on Chinese teapot refinery for buying Iranian oil - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek5hSnM4QjlRSWpSdFcySk5iQ21HM1lVVVdpTEV6dkwwenNIOExENnBrTFhGNHJVT0NyR3hmMEQyMTkyWTF0RHhRdnhqRUxDOEtOdGtoVE1aTE02eWtZMFRpQnduVG5nc0RCMmZXRUhOd3Uxbk15bGVNeVZnOVY5eWNZUWFMMElWUG94Zm1PenByTGd1SlE3QTI3WWVQOFh1ZHo4ZzRoOWtTUUhQNjBPLVk3ZkRHZw?oc=5",
-      "summary": "US imposes sanctions on Chinese teapot refinery for buying Iranian oil  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777064777000,
-      "ticker": null,
-      "category": "business"
+      "id": 139883172,
+      "headline": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=43fc51aaaac63558ea35698b646fa6196dc5d4b876c2f95aab66762830cc6369",
+      "summary": "The U.S. State Department has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI startup DeepSeek, to steal intellectual property from...",
+      "image": "",
+      "datetime": 1777065498000,
+      "ticker": "MSFT",
+      "category": "company"
     },
     {
       "id": 139881707,
@@ -618,17 +783,6 @@
       "category": "business"
     },
     {
-      "id": 139882742,
-      "headline": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=dc06beb3d2cfa0eb25331c24b1e3545ce994bc33fff07fd7e6e43151e8d8d71d",
-      "summary": "A U.S. judge on Friday dismissed Elon Musk's fraud claims in his lawsuit accusing OpenAI and co-founder Sam Altman of betraying OpenAI's original mission, but plans to proceed to trial on Musk's...",
-      "image": "",
-      "datetime": 1777060698000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
       "id": 139881730,
       "headline": "3 Stocks Under $10 We Think Twice About",
       "source": "Yahoo",
@@ -703,6 +857,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777059920000,
       "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139883394,
+      "headline": "Intel Just Hit a New All-Time High. Does INTC Stock Have More Room to Run?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd1131f10802a98d93f98b5a8123d00f511c22274192c423fb53775bce5d204e",
+      "summary": "Intel shares are soaring on better-than-expected Q1 earnings and upbeat future guidance. Evercore ISI analysts recommend buying INTC stock into the post-earnings strength.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777059900000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -915,6 +1080,17 @@
       "category": "top news"
     },
     {
+      "id": 7845527,
+      "headline": "US imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek5hSnM4QjlRSWpSdFcySk5iQ21HM1lVVVdpTEV6dkwwenNIOExENnBrTFhGNHJVT0NyR3hmMEQyMTkyWTF0RHhRdnhqRUxDOEtOdGtoVE1aTE02eWtZMFRpQnduVG5nc0RCMmZXRUhOd3Uxbk15bGVNeVZnOVY5eWNZUWFMMElWUG94Zm1PenByTGd1SlE3QTI3WWVQOFh1ZHo4ZzRoOWtTUUhQNjBPLVk3ZkRHZw?oc=5",
+      "summary": "US imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777055640000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139880507,
       "headline": "Bank of America resets Google stock forecast ahead of earnings",
       "source": "Yahoo",
@@ -922,182 +1098,6 @@
       "summary": "Alphabet (GOOGL) has grown over time from a search engine into a hyperscaler. The company classifies its two revenue streams as Google Cloud and Google Services. The stock has gained about 8% year to date as of Friday morning, April 24, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 ...",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777055580000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139881765,
-      "headline": "Semiconductor Stocks Are on a Historic Winning Streak. Why It’s Time to Cash In.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e61fbe154b85443979bc7e91088c92e764c0ae9c338cb5b2f105a1225b6b1202",
-      "summary": "The iShares Semiconductor ETF has surged nearly 50% since late March, leaving valuations stretched and raising the risk of a pullback.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777055520000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139882769,
-      "headline": "US State Dept orders global warning about alleged China AI thefts by DeepSeek, others",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=3a34af9fabff7a9ea86d8254b6e2d37e15bb0d771674591498ebabf1a909d0a5",
-      "summary": "The U.S. State Department has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI startup DeepSeek, to steal intellectual property from...",
-      "image": "",
-      "datetime": 1777055444000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139880605,
-      "headline": "Investing.com’s stocks of the week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea8399c81cbb110fda4cd853c480bdb24eac72e4de4d729e9fe520e8a2da68eb",
-      "summary": "Investing.com -- The S&P 500 and Nasdaq are on track to close out the week higher, as a three-week extension of the Israel-Lebanon ceasefire and reports of Iran's foreign minister traveling to Pakistan for talks offered some relief from geopolitical uncertainty.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777055351000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139880494,
-      "headline": "Meta, Microsoft Cuts Could Hit 23,000 Jobs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce83eef94f12b553cfddf75d22047b92cb17ab158f5e169754df3f2c31243773",
-      "summary": "Meta and Microsoft are planning layoffs or announcing buyouts that could affect as many as 23,000 jobs as they pivot spending to artificial intelligence. Bloomberg's Brody Ford and Riley Griffin join Ed Ludlow on \"Bloomberg Tech\" to break down the wider impact the cuts could have on the tech workforce.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777055334000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7845935,
-      "headline": "US sanctions wallets tied to Iran, freezing $344 million in cryptocurrency, Bessent says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDBZYWR4aWdWVkxGWk5sV1V2Y2pyeGw4dFV5R2tGMnpPckFNZ3JKb1FOdG9Nd3B1blVWY2VYbFV5TjRRQ2ZwbmNnXy13Y29xeEZRUjZDa0ZuU0pVV0EyNEZTV2lIbHRrWkgzOV9tNUJtTDJVVVJwdzE0bE52ZTRRcnpYUm1zZjFfV1FPaldhbFl1LVd2cUhDc0k2V0YtTHNvLVppMy1jM3Z4WmV6WEtGUHJEWUEzQnlEdFhzR1VxWWhpc3FSZDFzaU0xSTBLdw?oc=5",
-      "summary": "US sanctions wallets tied to Iran, freezing $344 million in cryptocurrency, Bessent says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777055237000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139880479,
-      "headline": "The Dow Is Down While the Nasdaq-100 Soars. Blame the Chips.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b9b5efa3a18b9f5c025e5023559024b07e5c7e190fc08dda4b45df539050a74",
-      "summary": "The major indexes are telling very different stories today. A surprise earnings beat from a longtime underdog explains the split.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777055214000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880495,
-      "headline": "Is Microsoft Corporation (MSFT) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=609780f9c5f1cad9945946a106612e68a85fc9835f78f0efebdba687d036901d",
-      "summary": "Is MSFT a good stock to buy? We came across a bullish thesis on Microsoft Corporation on Compounding Your Wealth’s Substack by Sergey. In this article, we will summarize the bulls’ thesis on MSFT. Microsoft Corporation’s share was trading at $411.22 as of April 15th. MSFT’s trailing and forward P/E were 24.60 and 20.45 respectively according to […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777055188000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139880480,
-      "headline": "Is Synopsys, Inc. (SNPS) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36c3f3420261e5f096d643912f0adeae5da46b2b015aac01b0c190caa83487f9",
-      "summary": "Is SNPS a good stock to buy? We came across a bullish thesis on Synopsys, Inc. on MMMT Wealth’s Substack by Oliver | MMMT Wealth. In this article, we will summarize the bulls’ thesis on SNPS. Synopsys, Inc.’s share was trading at $438.45 as of April 15th. SNPS’s trailing and forward P/E were 64.28 and 28.99 respectively […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777055074000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880522,
-      "headline": "Is AppLovin Corporation (APP) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d94d8b382e8f893bb7e4f03ac3f3acd3cc396129781a4d064a895015d27ed035",
-      "summary": "Is APP a good stock to buy? We came across a bullish thesis on AppLovin Corporation on Accrued Interest’s Substack by Simeon McMillan. In this article, we will summarize the bulls’ thesis on APP. AppLovin Corporation’s share was trading at $466.09 as of April 16th. APP’s trailing and forward P/E were 46.42 and 30.21 respectively according to […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054963000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139881738,
-      "headline": "ETFs to Watch as Tesla Shares Slump Despite Q1 Earnings Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cf6a655178b02e97fcb58701a81b6af4b4d2b79772e8b82df3561082b96ea18",
-      "summary": "TSLA slides despite a Q1 earnings beat as a $5B capex hike tied to AI and Robotaxi ambitions rattles sentiment, pushing investors toward ETF consideration.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054860000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139881824,
-      "headline": "Bet on These 5 Low-Leverage Stocks as Oil Prices Continue to Rise",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=400fda8d6f4066d22314234917523a7c5be9fc65832842522c43f9c9d4bf2312",
-      "summary": "Low-leverage stocks like NVIDIA gain appeal as oil prices surge and volatility spikes, offering stability and growth amid geopolitical and rate uncertainty.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054860000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 139882006,
-      "headline": "Tempus AI Nears Profitability as Operating Leverage Emerges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c75552f09c252d11ae6ca1db0e5513ae628d0ec6c74061772a50aea31c6f830d",
-      "summary": "TEM nears profitability as gross profit surges and EBITDA turns positive, but persistent GAAP losses keep focus on long-term operating leverage.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054800000,
-      "ticker": "HIMS",
-      "category": "company"
-    },
-    {
-      "id": 139880523,
-      "headline": "This Stock Is My Biggest Bet Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7168c7bca5576b2de5fb96022c0a61a57bfe23708f42dad87f7fc098078544f1",
-      "summary": "I can’t stop buying Meta Platforms (NASDAQ:META), and every pullback in 2026 has pushed me to add more. The stock trades at $659.15 this week, essentially flat year-to-date after a 2.62% weekly dip, and the market’s hesitation looks like my opportunity. Here are the three reasons I keep wiring money into this position. Reason 1: ... This Stock Is My Biggest Bet Right Now",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054773000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139880481,
-      "headline": "Why Arm Holdings Took Off on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7b1869bc3c63d71e6dadbd2dee6067c17b80450c12fb6d71b86e737d48a6b1d",
-      "summary": "Intel's earnings confirmed massive demand for CPUs for agentic AI.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054705000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880482,
-      "headline": "Why Shares of Tractor Supply Stock Slumped 17.9% This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=648b0ebad2f97a8ad71e442e8180062af9a78a3253f43e5e81c033787660a1fb",
-      "summary": "The rural lifestyle retailer missed on both earnings and revenue.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054518000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880483,
-      "headline": "Nvidia market cap back above $5T, Alphabet to invest $40B in Anthropic",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1cf90fd93a4ab6e0839f132b3bf417da30dc8a5e961c5b94990427c4472be351",
-      "summary": "Yahoo Finance Anchor Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute, including Bloomberg's reports that Alphabet (GOOG, GOOGL) plans to invest $40 billion into Anthropic (ANTH.PVT) and Nvidia's (NVDA) market cap crossing back above $5 trillion. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054147000,
       "ticker": "GOOGL",
       "category": "company"
     }
