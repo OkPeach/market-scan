@@ -1,6 +1,314 @@
 {
-  "timestamp": 1777132150989,
+  "timestamp": 1777136046085,
   "items": [
+    {
+      "id": 7849376,
+      "headline": "3 forces that drove another historic – yet volatile – week for the S&P 500",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/25/3-forces-that-drove-another-historic-yet-volatile-week-for-the-sp-500.html",
+      "summary": "The Iran war wasn't the only focus. Corporate earnings and a split between hardware and software stocks caught our attention as well.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108295605-1776882436050-gettyimages-2271950406-AFP_A8NJ9Y9.jpeg?v=1776882487&w=1920&h=1080",
+      "datetime": 1777132509000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139887879,
+      "headline": "Dave Ramsey Says Most People Will Not Save Money Even After They Get A Raise Or Pay Off Their Car. Here's Why",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c95f4f292545dc7f6462ab6e9b7a0dc25897d1fdee1b11b70557d5d84ff19ea0",
+      "summary": "Getting a raise or finally paying off a car feels like a financial turning point. But according to personal finance expert Dave Ramsey, those moments rarely change anything on their own. “Most people will not save money when they get...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777131967000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139887858,
+      "headline": "Why Micron (MU) Stock Is Trading Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae3de04a64ea40e0d846782f80eaccd90171b1ffa6c09e9e1ef0eaaea02a7c46",
+      "summary": "Shares of memory chips maker Micron (NASDAQ:MU) jumped 3.2% in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777131683000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887889,
+      "headline": "EV Stock Showdown: Rivian or Lucid -- Which Is the Smarter Long-Term Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a35353c4e5198e658c62208a6dc36b4dd2669a4ed9d5bfbdf138713a638bccd0",
+      "summary": "Rivian and Lucid are both start-ups attempting to build EV companies, but one is executing better than the other.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777131300000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139887859,
+      "headline": "Vishay Intertechnology (VSH) Stock Trades Up, Here Is Why",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63555a4b81937726beedddc17b74959331d03c11c340c9d108c32bd66fefb2c9",
+      "summary": "Shares of semiconductor manufacturer Vishay Intertechnology (NYSE:VSH) jumped 3.8% in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777131203000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887860,
+      "headline": "Amtech and Penguin Solutions Shares Skyrocket, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6d07b05efd7771f247b219e828bf43f3ae35561bbf3cbae6b64b21abd7f7476",
+      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777130723000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887861,
+      "headline": "1 Small‑Cap Sports‑Data Stock That Could 5X as Prediction Markets Explode",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b8f8fceac3742608eedeeb111cce44c0cbd13d166d9958c0638116c79a9d7d5",
+      "summary": "Genius Sports stock has been absolutely hammered this year, but investors may be missing the prediction markets growth potential.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777130700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887862,
+      "headline": "Allegro MicroSystems and Monolithic Power Systems Shares Skyrocket, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=466d73f5348431fe7c3a5e2bfe6d927c12eb0e742696daee0bb974a33d9d252e",
+      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777130243000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887863,
+      "headline": "Amkor, FormFactor, and Himax Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5dde54a3c8d5ff2f8e3a02287992efbe6c39d068baf597c72658979be585c854",
+      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777129763000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887864,
+      "headline": "Assessing Lumentum Holdings (LITE) Valuation After Nvidia’s US$2b AI Data Center Optics Partnership",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cd0835cf51fb53b349543ea985520f3c31e518132c83e2bbb26d738689f0fc4",
+      "summary": "Nvidia’s new multiyear partnership with Lumentum Holdings (LITE), including a reported US$2b investment in manufacturing and R&D for AI data center optics, has pushed the stock firmly into focus for many investors. See our latest analysis for Lumentum Holdings. The Nvidia partnership headlines sit on top of an already very strong run, with a 30 day share price return of 13.44% and year to date share price return of 128.34%. The 1 year total shareholder return is extremely high, pointing to...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777129551000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887865,
+      "headline": "The Only Reason to Consider Owning Roku for Less Than 3 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62d85f54132713655a07c8e0ef5a8d3b98e7048c0b9afabc588da8fe7b185320",
+      "summary": "After a trailing three-year return of 97%, investors are ready for this streaming platform to have another impressive showing.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777129500000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887866,
+      "headline": "Why Is Nvidia (NVDA) Stock Soaring Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=602109058bf18ca0398a90ff564e40e19c3336cd128689c364f05d040cd83f1a",
+      "summary": "Shares of leading designer of graphics chips Nvidia (NASDAQ:NVDA) jumped 5% in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777129283000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887867,
+      "headline": "Chicago Capital Slashes Its Alkami Technology Position by 1.6 Million Shares",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7cf5e2cf54562ed3737f5ab98606683a9afaa9023ee09a0a12accef2b7142c17",
+      "summary": "Alkami Technology delivers cloud-based digital banking solutions to U.S. financial institutions, serving both retail and business clients.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777129160000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139887868,
+      "headline": "Lattice Semiconductor (LSCC) Stock Is Up, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce58efa1e3a99d523969cb3100e6dd4041efdfb1ec1af8180828c74f54236be8",
+      "summary": "Shares of semiconductor designer Lattice Semiconductor (NASDAQ:LSCC) jumped 3.9% in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777128803000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887869,
+      "headline": "XLK Charges One Penny Less Than VGT Per $100 Invested. Here Is Why That Is Not the Reason to Choose It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff42f4ef89a428676d75c08f90144e89ccfcf2bc3ac4b0f44a5c9eb88c80f50c",
+      "summary": "Competing asset managers tend to offer very similar ETF lineups, especially when it comes to sector funds. Whether you’re looking at Vanguard, iShares, or State Street, you’ll usually find a full set of ETFs covering all 11 official sector classifications. On the surface, many of these funds look nearly identical, which makes the choice seem ... XLK Charges One Penny Less Than VGT Per $100 Invested. Here Is Why That Is Not the Reason to Choose It.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777128705000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887870,
+      "headline": "Nova and IPG Photonics Shares Are Soaring, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23903e8debd8f5b6510b0cc1934a00ccb8d57141d741593aba767d09b0e54ff0",
+      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777128323000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887871,
+      "headline": "1 Reason I'd Still Buy Amazon Stock Hand Over Fist and Never Sell",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7459ca3751cc944cea364ce7593a6155db62ee755fbef82d0af032d0728468e0",
+      "summary": "Amazon is a top stock to buy for the long haul.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777128300000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139887872,
+      "headline": "Semtech, Entegris, and Impinj Shares Skyrocket, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f324ade891a5bd546b569d50acf21b34cf4999d882c0d213a934f093f6d712e7",
+      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777127843000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887890,
+      "headline": "Elon Musk makes shocking admission about Tesla",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2349289993f1bc87f33dacdd5a63ca52292f1793369bc0768d7dc0050f952dac",
+      "summary": "For years, Tesla sold millions of cars with a promise attached: Pay extra for Full Self-Driving, and your vehicle would eventually drive itself. Software updates would get it there. The hardware was ready. On April 23, Elon Musk finally said out loud what Tesla owners had suspected for a long time. ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777127820000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139887873,
+      "headline": "Is Pfizer's 6% Dividend Yield Safe? Here's What Investors Need to Know.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a5aec7d35b07d02d74a6b5410751e2b6c6632946737e761d698795dc5d64cb2",
+      "summary": "Pfizer's vaccine business cooled off, and it is on its back foot in the GLP-1 race, but don't count the drug giant out.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777127700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887874,
+      "headline": "Kulicke and Soffa and KLA Corporation Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9bfbd40a5ae7220486e56a761abab4eaec5bc93de223196ee5c2511644b5f7a",
+      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777127363000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887875,
+      "headline": "Buy These 3 Vanguard Index Funds and You Could Beat the S&P 500 Over the Next 5 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33b227c3bb439b8ec3600f41c4bde57bfd71f3d0c637f7b9c3d63e9f10a4ad0e",
+      "summary": "Can you outperform the S&P 500 with index funds? History says yes, if you pick the right ones.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777127220000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887876,
+      "headline": "Power Integrations and Teradyne Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4b7d79b7e540ccee2dcb1d789839b94d4e24a1aa7be5b7b0da8613abffafede",
+      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777126883000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887878,
+      "headline": "Prediction: This Fallen AI Stock Could Be the Comeback Story of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58de30c9b0db74f0ec0ede69f7d5d39b5898076d0ec8bcbd844384f05ce247d0",
+      "summary": "Microsoft has struggled in 2026.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777126800000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139887903,
+      "headline": "Applied Materials and Photronics Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=75c06dbe30b02a0b6e3aba4a98b0d8444004e5823e9536cb86bb1ac516a5903a",
+      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777126403000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139887877,
+      "headline": "Goldman Sachs reassesses Apple stock ahead of earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5787179a0f555d1849aa9069e9ff0d40caea3a36b1bb63dae6d1fff64e8d8ae4",
+      "summary": "Apple is heading into its April 30 earnings report, with investors focused on iPhone demand, outlooks, and what’s next for its AI strategy under its upcoming new CEO. The iPhone maker's stock has lagged this year, down about 0.64% year to date compared with a 4.67% gain for the S&P 500 index, ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777126020000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139887925,
+      "headline": "'I Would Not Be Thinking About Long-Term,' 'Ramsey Show' Host Tells $90K Earner Dating Jobless Boyfriend Who Won't Take A Lower-Paying Job",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c701e5e0bcff454e2ada1d846333d27c48a3ef534e474446e4e31b70eab3cb7",
+      "summary": "Financial stress doesn't always come from your own paycheck. Sometimes, it's who you're tied to. Noelle, a 25-year-old Oregon woman, called \"The Ramsey Show\" as her boyfriend's three-month stretch of unemployment left her questioning the relationship and their finances. She...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777126020000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139887926,
+      "headline": "SoundHound AI: Could the Stock 10X by 2030?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=826d62afa7657c2ce8b6756d3d319c5801659946dd5bf247c2d00224128dcbc0",
+      "summary": "The AI-powered voice recognition company faces numerous existential challenges.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777125600000,
+      "ticker": "INTC",
+      "category": "company"
+    },
     {
       "id": 139887277,
       "headline": "The SpaceX IPO Could Make Millionaires. Here's What Investors Need to Know.",
@@ -10,6 +318,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777124700000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139887882,
+      "headline": "Solar Panels and Batteries Are Changing Life in Brazil’s Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6db79a89a2a481138569fbed70649624d3d13a55eeb5a99144c54eb4108739cc",
+      "summary": "(Bloomberg) -- Brazil’s Amazon teems with plant and animal life and is critical to the health of the planet as a storehouse of carbon dioxide. The nation also has the cleanest national grid among G20 countries, thanks to abundant hydropower, much of it originating in the Amazon.Most Read from BloombergGoogle Plans to Invest Up to $40 Billion in AnthropicUS Reduces Marijuana Restrictions in Lift to Ailing IndustryInside Alex Cooper’s Unwell: Tears, Screaming and Employees Looking for the ExitMeta",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777123818000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -109,6 +428,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777118764000,
       "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139888049,
+      "headline": "Alphabet Is Getting Ready For War",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=03457fd5f7595b54bce7f414d7eebc594d38a2bf50b299d3e2c37cac5a8f8bc8",
+      "summary": "Alphabet pivots to enterprise AI with Gemini Enterprise, Workspace Intelligence & TPUs. Preview key Q1 catalystsâAI capex, Cloud growth & efficiency.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249616790/image_1249616790.jpg?io=getty-c-w1536",
+      "datetime": 1777118757000,
+      "ticker": "GOOGL",
       "category": "company"
     },
     {
@@ -310,6 +640,17 @@
       "category": "company"
     },
     {
+      "id": 139888176,
+      "headline": "Pony AI Advances L4 Ambitions With Nvidia-Based Autonomous Driving Controller",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a0221ba61004cc6e3f1d6499891d319300a083888e08f521c2d58d2c375455c2",
+      "summary": "Pony AI Inc. shares edged higher after unveiling a next-gen Nvidia-powered L4 autonomous driving controller, signaling continued tech progress despite mixed momentum signals.",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Apex--North-Carolina---April-23-2025-Pon.jpeg?width=2048&height=1536",
+      "datetime": 1777111898000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
       "id": 139886502,
       "headline": "Why Unusual Machines Stock Rocketed Higher This Week",
       "source": "Yahoo",
@@ -497,6 +838,17 @@
       "category": "company"
     },
     {
+      "id": 139888122,
+      "headline": "Benzinga Bulls And Bears: UnitedHealth, Capital One, Lululemon — And Markets Extend Rally",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6e702884066a7061ca61c542c0b2c0b0b1920c2897a5a1237821369181674747",
+      "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Bulls-and-Bears-1.jpeg?width=2048&height=1536",
+      "datetime": 1777104075000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
       "id": 7847946,
       "headline": "Turkey may consider role in Hormuz demining after Iran-US deal, minister says - Reuters",
       "source": "Reuters",
@@ -641,10 +993,10 @@
     },
     {
       "id": 7847343,
-      "headline": "Iran says it won't accept 'maximalist demands' as Islamabad hosts peace push - Reuters",
+      "headline": "Iran says it will not accept 'maximalist' US demands as Pakistan pursues peace - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1l3OXozS3NuMlR6czlyeGgtU3lnQ25mMEUxT3c0SUFHTzgwTXAzdmxiX2E1YjVkVVU3UjZoTHd2VHFDNzI2ZjQwUlRJQ2dfWG9aU3B2dndDQ29lSmxwMWlReWl6Znk3U0tuOWthNzRmZE9WcmZwYWY4TEFyYU52Z21RSzdocWZ0bldKbzRZb1ZsS0hYMy1aV2s4MVljdGl3US04QXozQU90RTg?oc=5",
-      "summary": "Iran says it won't accept 'maximalist demands' as Islamabad hosts peace push  Reuters",
+      "summary": "Iran says it will not accept 'maximalist' US demands as Pakistan pursues peace  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777093920000,
       "ticker": null,
@@ -684,6 +1036,17 @@
       "category": "company"
     },
     {
+      "id": 139888143,
+      "headline": "Gary Vaynerchuk Says 'Every Brand On Earth' Should Be Doing This— Or Risk Wasting 93 Cents Of Every Marketing Dollar Spent",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6802a861ce526390ac5067bb10e28f6e9e254277b88be7936c8dee23cdebb1b6",
+      "summary": "Gary Vaynerchuk warns Fortune 500 brands are overspending on outdated marketing tactics, urging a shift toward mid-funnel strategies and organic social media content.",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Dublin--Ireland---15-February-2017-Ceo-O.jpeg?width=2048&height=1536",
+      "datetime": 1777091006000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
       "id": 139885459,
       "headline": "OpenAI chief apologizes for not reporting shooting suspect to police",
       "source": "Finnhub",
@@ -703,6 +1066,17 @@
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/459229485/image_459229485.jpg?io=getty-c-w1536",
       "datetime": 1777089630000,
       "ticker": "GLD",
+      "category": "company"
+    },
+    {
+      "id": 139888172,
+      "headline": "Musk's OpenAI Feud Intensifies As Court Dismisses Fraud Charges But Clears Path For High-Stakes Trial Over Non-Profit Shift",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fa4be7e1e571818ac3b17ecfcd71fa7814dd635a7315c0612dc3512395a6b04b",
+      "summary": "A U.S. judge dismissed Elon Musk&#39;s fraud claims against OpenAI but allowed key allegations over its shift to a for-profit model.",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Paris--France---June-16--2023-Elon-Musk-.jpeg?width=2048&height=1536",
+      "datetime": 1777089572000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -726,380 +1100,6 @@
       "datetime": 1777088634000,
       "ticker": "MSFT",
       "category": "company"
-    },
-    {
-      "id": 139883965,
-      "headline": "Elon Musk Says Optimus V3 Unveil To Be Closer To Robot's Production As Rivals 'Copy' Everything Tesla Does",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69d5d97939c0d8be90ca02f07fa93bfbaab45ecdd81ee6ccc1311897dffeebad",
-      "summary": "Tesla Inc. CEO Elon Musk on Wednesday accused rivals in the Humanoid Robot space of copying the EV giant’s robotics technology. Frame-By-Frame Analysis During the earnings call with investors, Musk was asked about the progress of the next generation of Optimus robots. “We've found out our competitors literally do a frame-by-frame analysis and copy everything we're doing,” Musk said, while also outlining that Tesla wants to “push the Optimus 3 unveil maybe closer to production,” which would be ar",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777087869000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139883961,
-      "headline": "Jim Cramer Believes “Alphabet’s Going to $400”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a400d341a2cbd6bd48e6b5d4745ad8011cdf96a285d9b0fd0cfbec8b27e2c7ce",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL) was among Jim Cramer’s stock calls as he suggested that many red-hot stocks can keep making investors money. When a caller inquired about the stock, Cramer said, “I think Alphabet’s going to $400. I think you… win on Alphabet.” Alphabet Inc. (NASDAQ:GOOGL) provides technology-related products and services, including search, advertising, cloud computing, […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777087609000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139883990,
-      "headline": "Jim Cramer on ServiceNow: “This Stock’s Been Crushed By AI Displacement Worries”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=08211add983a2f7c483af6d443876b814d8c989da25bec793b2563713ade30fd",
-      "summary": "ServiceNow, Inc. (NYSE:NOW) was among Jim Cramer’s stock calls as he suggested that many red-hot stocks can keep making investors money. Cramer mentioned that the stock was hit recently after reporting its quarterly results because the report and guidance updates failed to get investors “excited.” After the close, we got results from ServiceNow, the cloud […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777087600000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 139883955,
-      "headline": "Jim Cramer Notes Stocks Like Marvell Are “All on Fire”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b4d8256429269aad0b2e2d6bdcf7a4a8b13fc7a7f60559282f692d482117c1c",
-      "summary": "Marvell Technology, Inc. (NASDAQ:MRVL) was among Jim Cramer’s stock calls as he suggested that many red-hot stocks can keep making investors money. Discussing stocks that he missed out on, Cramer said: Next, data centers are filled with networking software and hardware. Remember, the data center is stuffed with a huge number of chips from NVIDIA, […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777087596000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139883956,
-      "headline": "Jim Cramer Says He Shouldn’t Have Missed AMD and Intel",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d56f853ab3bb36df0ebdd5e1d57d3e9fe061f4e66761bf98489bff5ee642c473",
-      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) was among Jim Cramer’s stock calls as he suggested that many red-hot stocks can keep making investors money. Discussing stocks that he “couldn’t land” that have been going up recently, Cramer mentioned the company and said: Next up, central processing units, CPUs. You need to power agentic AI. These AI […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777087594000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139885134,
-      "headline": "Microsoft And Meta Earnings Previews",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=663b64b2089b217bff515e8328c0accbda9775239a012cc796c5be42b25cf49c",
-      "summary": "Will Meta Platforms and Microsoft maintain their capex guidance this year? Click here to read more.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2267136067/image_2267136067.jpg?io=getty-c-w1536",
-      "datetime": 1777087200000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139883957,
-      "headline": "AI chip surge pushes Taiwan, South Korea past UK in global market rankings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8349421c37c459088927b6d09abfa13d25f1ba24a0904ca7ed54482f0805249e",
-      "summary": "Investing.com -- A seismic reshuffling of global equity markets is underway as the artificial intelligence boom catapults Taiwan and South Korea past major European nations.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777087099000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139883969,
-      "headline": "Why AMD Stock Surged Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f20c400ec39cdaabe37344eb3533d948c714da0534a518e5c121fb2f1ea006d",
-      "summary": "A rival's success suggests the semiconductor industry is on the verge of another boom.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777083911000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139883985,
-      "headline": "3 Market-Beating Stocks to Research Further",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21ab9146d80c977c6eba311737aa493577263c96befd3ae830be6010e82bdf9f",
-      "summary": "The best-performing stocks typically have robust sales growth, increasing margins, and rising returns on capital, and those that can maintain this trifecta year in and year out often become the legends of the investing world.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777083683000,
-      "ticker": "HIMS",
-      "category": "company"
-    },
-    {
-      "id": 139883960,
-      "headline": "X-Energy (XE) Climbs 36% on Market Debut on Nuclear Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b84972c41d7503b1afaf1be47e5d52cd9020ca851b424855a4eb7249200ee88f",
-      "summary": "X-Energy Inc. (NASDAQ:XE) is one of the 10 High-Flying Stocks With Double-Digit Returns. Amazon-backed X-Energy soared by as much as 36 percent in its first day as a publicly listed company, as investors gobbled up its shares amid the strong optimism and rosy prospects for the nuclear sector. X-Energy Inc. (NASDAQ:XE) opened the day immediately, […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777082603000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139883400,
-      "headline": "Intel Corp. (INTC) Soars to All-Time High as Revenues Climb on AI Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af8080f181cf696830f5392c96868211175541d590926921fdefbd72581f1a7b",
-      "summary": "Intel Corp. (NASDAQ:INTC) is one of the 10 High-Flying Stocks With Double-Digit Returns. Intel climbed to a new all-time high on Friday, as investors gobbled up shares after reporting robust revenues in the first quarter of the year. At the intra-day session, the stock surged to its highest price of $85.22 before trimming gains to […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777081124000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139884484,
-      "headline": "Nvidia market cap surges past 5 trillion dollars",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=79e8c150810727426bad15a5d4220da6311096039fd66d321a1ec8a908ec8483",
-      "summary": "Nvidia has reached a new milestone on Wall Street, with its market capitalization now exceeding 5 trillion dollars following a record close for its stock at $208.27 . This performance comes amid...",
-      "image": "",
-      "datetime": 1777080883000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139883396,
-      "headline": "Arm Holdings (ARM) Soars to All-Time High on Strong CPU Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2fe3da7f077878860c95539416965099890a35f625d0f1743ac8442df6d7356",
-      "summary": "Arm Holdings plc (NASDAQ:ARM) is one of the 10 High-Flying Stocks With Double-Digit Returns. Arm Holdings climbed to a new all-time high on Friday after a seven-day winning streak, as investors took heart from bullish coverage for the CPU market, supported by Intel Corp.’s strong earnings performance in the first quarter of the year. In […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777080575000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139883397,
-      "headline": "Advanced Micro (AMD) Gets 70% Upgrade, Hits All-Time High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b6fe6121ecac0d4c1100554cd285d4b846e000638af862cf5ee36da9b9aa3ff",
-      "summary": "Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the 10 High-Flying Stocks With Double-Digit Returns. Advanced Micro Devices extended its winning streak to a 4th consecutive day on Friday to hit a new all-time high, after an investment firm turned bullish for its stock, raising its rating and price target by 70 percent. In a […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777080265000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139883383,
-      "headline": "BEACN Announces Financial Results for Year Ended December 31, 2025",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=add8580f49f62b651745b3144a8482809a47995b7288875d826ad2ed8fdd0083",
-      "summary": "Not for distribution to United States Newswire Services or for dissemination in the United States VICTORIA, BC / ACCESS Newswire / April 24, 2026 / BEACN Wizardry & Magic Inc. (TSXV:BECN) (\"BEACN\" or the \"Company\") announces its annual financial statements ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777079400000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139883374,
-      "headline": "Does Intel's Post Q1 Surge Signal a Turnaround Worth Buying Into?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=908a852a3adac37378c40f0c13bf3af53c1478c3426af43828065198bcec8d4e",
-      "summary": "Delivering a strong Q1 report yesterday evening, Intel's stock surged 23% in Friday's trading session and is now sitting on monstrous gains of +300% in the last year.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777077180000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139883377,
-      "headline": "Apple, Amazon, Others Not Seeking Tariff Refunds To Avoid Offending Trump? The President Says He'll 'Remember' Them",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71c1feb24ed4618d485fdd7304e346d2f75e55e4dd348667342f5b9df67800d9",
-      "summary": "President Donald Trump weighed in as major corporations, including Apple Inc. and Amazon Inc., reportedly avoided seeking tariff reimbursements. According to CNBC’s Andrew Ross Sorkin, several major companies opting not to claim tariff refunds may reflect a desire to avoid “offending” Trump and possibly to sidestep political backlash. When he asked about the issue during an interview on Tuesday, Trump said, “I think it’s brilliant if they don’t do that, if they don’t do that, they got to know me",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777077080000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139884226,
-      "headline": "Semi Stocks Boost The S&P 500",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c8b1363e7c0efaa79f2ae090db0cc3a87a22a04bc53b15cf6fe40a9d2893701e",
-      "summary": "Since the March 30th low, one of the best-performing areas of the stock market has been semiconductors.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214693325/image_2214693325.jpg?io=getty-c-w1536",
-      "datetime": 1777077000000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139883375,
-      "headline": "Why Intel Stock Skyrocketed Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da81f50363a4574a28fee48969e66d222bc09c80b9a1e9a5e24427cc7aeafa3b",
-      "summary": "The venerable chipmaker is finding its way in an AI-driven world.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777076703000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139883391,
-      "headline": "Meta’s AWS Graviton5 Bet Rewrites AI Costs And Supplier Balance",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=44fc7f6d1b206e8e1eedad9f0ce26721a93d436bd0bac11242b454919828b66f",
-      "summary": "Meta Platforms (NasdaqGS:META) has agreed a multi year deal with Amazon Web Services to deploy tens of millions of AWS Graviton5 CPU chips. The CPUs are intended to support next generation agentic AI workloads and reduce reliance on GPU only infrastructure. The agreement signals a shift in Meta's AI compute mix toward CPU heavy architectures and tighter collaboration with a major cloud provider. Meta Platforms comes into this move with its shares at $675.05 and a 23.7% return over the past...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777076171000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139883430,
-      "headline": "Why Poet Technologies Stock Skyrocketed Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d98c06dc13b77ed3f6b9129dd49ef0532185d8bac5176b2caf779d52ee6d8285",
-      "summary": "Poet stock just climbed more than 120% over the last week.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777075687000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 139883020,
-      "headline": "JP Morgan Initiates Coverage of Hims & Hers Health (HIMS) with Overweight Recommendation",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=1af29caf61ca6dec4d190f9e049cfd5e3abd1da0ee52474dabdd811e715234c9",
-      "summary": "",
-      "image": "",
-      "datetime": 1777075482000,
-      "ticker": "HIMS",
-      "category": "company"
-    },
-    {
-      "id": 139883376,
-      "headline": "Review & Preview: Dot-Com Glory Days",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a34ec8a709374131f36c92239d2ed88c9b0cd36e44c07e693803b859a51e80c",
-      "summary": "Intel soared 24% to its first record close since August 2000. The rally says everything you need to know about today’s market.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777074900000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139883992,
-      "headline": "This Week's Market Wrap: Strong Earnings, Ceasefire Uncertainty, And Creeping Inflation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a8e709f83485f7ea819169cd26523a4fefcdfd125d4448ec7a08a7523eb6b2fb",
-      "summary": "Semiconductor strength led by Intel and Texas Instruments drove index-level gains, while weak guidance and capex concerns punished software and select industrial names.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182036952/image_2182036952.jpg?io=getty-c-w1536",
-      "datetime": 1777074900000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139882718,
-      "headline": "Related Digital secures financing for $16 billion Oracle data center in Michigan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f626417f43af3f23603996b1a9d33aca0ad51e85ef28ac87fe219d4686b884e1",
-      "summary": "Data center developer Related Digital ‌said on Friday ‌it has secured financing for ​a $16 billion data center campus it is building in Michigan for Oracle. The ‌financing includes ⁠equity from Related Digital and funds ⁠affiliated with Blackstone, and fixed-rate, long term ​debt financing ​anchored ​by PIMCO-managed funds ‌and accounts, the company said. OpenAI, Oracle and Related Digital in October announced the project of ‌a more than ​1 gigawatt ​data ​center in Saline ‌Township, Michigan, as part ​of ​their push to expand U.S. AI infrastructure ​capacity.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777074046000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139882690,
-      "headline": "Why Comcast Stock Dived by Almost 13% Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=311d9cd1f2a04cd3f886db63a9d0de8d5282d47cf60f914e73f8a0aeabf41200",
-      "summary": "It was hit by an analyst's recommendation downgrade.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777073901000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139883380,
-      "headline": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e8e1e18c508c35df9b40e1302e8b970d1ee7b2a56eb8088f983aec4545b64a8",
-      "summary": "A U.S. judge on Friday dismissed Elon Musk's fraud claims in ‌his lawsuit accusing OpenAI and co-founder ‌Sam Altman of betraying OpenAI's original mission, but plans ​to proceed to trial on Musk's breach of charitable trust and unjust enrichment claims.  Jury selection is scheduled to begin on Monday, and opening arguments are ⁠expected on Tuesday.  Musk had said dismissing his fraud and constructive fraud claims, which he proposed, ​would streamline ​the case and ​keep jurors focused on ‌his goal of ensuring that OpenAI benefit humanity rather than be a \"wealth machine.\"",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777073761000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139883381,
-      "headline": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ab3d20008f2a30962460321e5530aa789a13fbc365d416374d27f8c59f4a2918",
-      "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777073531000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139883379,
-      "headline": "Mag 7 Earnings Take the Spotlight: What to Expect",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c84a3a5879878add02010b8ab862a88627a38661d433fb23511d0e968fa86b3",
-      "summary": "The earnings focus this week is on the Magnificent 7 group of mega-cap Tech companies, with Amazon, Alphabet, Microsoft, and Meta reporting results on Wednesday, April 29th, and Apple doing the same the day after.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777073400000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139882691,
-      "headline": "Why AppFolio Stock Skyrocketed Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fb8d92b3f07fb7cf08f1cbfb55a077f0658a3aa237122001aa98fb9b3bfa4139",
-      "summary": "AppFolio just delivered some good news for shareholders.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777072760000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139882692,
-      "headline": "Consumer Sentiment Plunges To All-Time Lows on Iran War. Why Are Markets At Record Highs?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f88ebd54c081b7fce4d8ac6b60135f419063e3f59f2f81387c3c1b1e40b0d5d",
-      "summary": "A new survey shows consumers continuing to sour on the economy. Should investors be worried?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777072735000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139882693,
-      "headline": "Attorney, 62, Has $3.5M Saved For Retirement But Can't Accept 'No Money Coming In, All Money Going Out' — Dave Ramsey Says That's $350K A Year Income",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=060e106f57fa166d8d6ca89d15b4b069aeffba1d0dec50539682bfe8e8a24c0d",
-      "summary": "There's a strange twist that doesn't get talked about enough in personal finance. Building wealth is hard. Spending it can be even harder. On “The Ramsey Show,” a 62-year-old attorney named Steve called in with a problem that sounds almost...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777071662000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139882696,
-      "headline": "Elon Musk vs. Sam Altman, Mag 7 earnings, Fed meeting: What to Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b4917d3062442d30ae005e434a5a79d447d905bcdbc885715192ace917b38c85",
-      "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come next week, including the start of the trial between OpenAI (OPAI.PVT) co-founders Sam Altman and Elon Musk; earnings results from Magnificent Seven tech companies Alphabet (GOOG, GOOGL), Microsoft (MSFT), Amazon (AMZN), Meta Platforms (META), and Apple (AAPL); and the Federal Reserve's latest interest rate decision to come at its April FOMC meeting.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777071600000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 7845933,
-      "headline": "How the restaurant group behind NYC's Carbone is overcoming young people shunning alcohol",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/24/how-the-restaurant-group-behind-nycs-carbone-is-overcoming-young-people-shunning-alcohol.html",
-      "summary": "Major Food Group CEO Mario Carbone said younger consumers are spending less on alcohol and more on experiences, which is playing into his company's strategy.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107076251-1655306130769-IMG_0154.jpg?v=1655306185&w=1920&h=1080",
-      "datetime": 1777070720000,
-      "ticker": null,
-      "category": "top news"
     }
   ]
 }
