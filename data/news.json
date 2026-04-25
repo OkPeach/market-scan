@@ -1,6 +1,149 @@
 {
-  "timestamp": 1777116167627,
+  "timestamp": 1777118630941,
   "items": [
+    {
+      "id": 139886496,
+      "headline": "Down Nearly 60% From Its Peak, Is It Finally Time to Buy Joby Aviation?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a669baca9046f5cd430241c3d79a5589f311901613f5b707831fc4be29f65c2d",
+      "summary": "The eVTOL maker's business hasn't taken off yet.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777117800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139886519,
+      "headline": "How Netflix Could Perform in a Mild vs. a Severe Recession",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=105ef7a7ebfb4951efafa434ef417df9fd99410dd519f721acb9cfc0ca677f25",
+      "summary": "Because of how well this company and stock have fared in the past, investors might completely be ignoring the downside.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777117380000,
+      "ticker": "NFLX",
+      "category": "company"
+    },
+    {
+      "id": 139886497,
+      "headline": "Alphabet's Google Could Supercharge This Artificial Intelligence (AI) Stock That Has Soared 78% in 2026. Here's Why You Should Buy It Hand Over Fist Before It Is Too Late.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a727c5f68dc9c3e3263cfdfbf101b900a17130e1e0013d7be318ffc098a80fb",
+      "summary": "Google's Tensor Processing Units (TPUs) are gaining impressive traction in the AI chip market, and that's great news for this chip designer.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777116540000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139886498,
+      "headline": "The Best Stocks to Buy With $10,000 Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=400708a8c307cb208183a7efd3698b06cf86c6e2ddfb94f3b79b240c47fb804c",
+      "summary": "These three stocks have solid catalysts ahead.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777116300000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139886515,
+      "headline": "Tesla Robotaxis And Optimus Shift Focus To AI Revenue After 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffefd221b154158fb37d0045e3162491d43a5d5bbedf99b084e7d2614d9bc465",
+      "summary": "Tesla has started production of its Cybercab robotaxi and is preparing for mass-scale manufacturing of its Optimus humanoid robot. Elon Musk has signaled that meaningful revenue from robotaxis and autonomy may not arrive until 2027. Tesla now expects that millions of its vehicles will need hardware retrofits to enable unsupervised autonomy. Tesla, traded as NasdaqGS:TSLA, is leaning further into its identity as an AI and robotics company with the operational launch of Cybercab production...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777115080000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139886499,
+      "headline": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6477f18a608b4ab30369e1645201610de8116c68b6f09ab516ce3e01dfc9b24",
+      "summary": "We may be less than three weeks away from a material shift to the central bank's and Wall Street's narratives.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777114560000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139886506,
+      "headline": "The USPS Got a ‘Free Lunch’ for Decades. That’s Over Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=653ac681841da12790ea3bb924ff8efa3ce1766145e20609c827bd118fe360d3",
+      "summary": "On a recent episode of NerdWallet’s Smart Money Podcast titled USPS’ Cash Crisis Hits More Than Your Mailbox, Plus The Debt Settlement Trap to Avoid, the guest framed the U.S. Postal Service’s predicament in economist’s terms: “I like to describe it as there is no free lunch. Economists love to say that, but for a ... The USPS Got a ‘Free Lunch’ for Decades. That’s Over Now",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777113399000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139886500,
+      "headline": "2 Dividend Stocks Worth Buying More Of, Even At Today's Prices",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfcf7cf37e7b8eaf65d33c645aa7bcc321574289c85ea351288d7b5fb307a178",
+      "summary": "The key isn't a high starting yield, but room for sustainable dividend growth.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777113300000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139886503,
+      "headline": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=161871d786742c4aac12410a2bd385ebe627b466542174ed0eed43674343eb16",
+      "summary": "The stock market brims with optimism ahead of a huge surge of AI hyperscaler earnings, amid an historical transition at the Federal Reserve.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777113058000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139886501,
+      "headline": "The Fintech Stock That Could Disrupt the Credit-Scoring Business Over the Next Decade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec28a32893ca093ca536969755c19b9627672efe5b26cd97e91b5576cb642acd",
+      "summary": "After decades with little to no evolution, an enterprising young outfit is offering an obvious upgrade.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777112340000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139886502,
+      "headline": "Why Unusual Machines Stock Rocketed Higher This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18a49a47cb85908729db28b6adc44d634658c7f39adc5b8af8c8d3261e7be1d8",
+      "summary": "It's not unusual for growth stocks to jump when companies announce large purchase orders.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777111500000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139886510,
+      "headline": "A Look At Cadence Design Systems (CDNS) Valuation After New TSMC Partnership And Agentic AI Reveal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8410aa0ab3e6350e2e85a880714044d1e28887f4938b623d53ecd14fd1cb67c7",
+      "summary": "Cadence Design Systems (CDNS) is back in focus after expanding its partnership with TSMC to support AI focused chips on leading process nodes, alongside fresh attention on its agentic AI design tools unveiled at CadenceLive 2026. See our latest analysis for Cadence Design Systems. The recent TSMC and Google AI alliances appear to have coincided with stronger momentum, with a 30 day share price return of 18.30% and a 1 year total shareholder return of 14.94%, building on a 5 year total...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777111387000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139886518,
+      "headline": "AMD (AMD) Shares Skyrocket, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0cf03e791a74a8bf6211bf218e73245918b9b65436f5ca5a671dd6aaa77abaa1",
+      "summary": "Shares of computer processor maker AMD (NASDAQ:AMD) jumped 14.6% in the morning session after peer, Intel reported better-than-expected results and a positive outlook signaling robust demand for chips used in data centers and for artificial intelligence tasks. This news boosted investor confidence across the industry.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777111043000,
+      "ticker": "AMD",
+      "category": "company"
+    },
     {
       "id": 139885972,
       "headline": "Intel (INTC) Stock Trades Up, Here Is Why",
@@ -134,6 +277,17 @@
       "category": "company"
     },
     {
+      "id": 139886399,
+      "headline": "Forget Gold, Farmland Could Be The Smarter Diversifier",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=15249a1195f9b6118e744b76fff0747979d275bf5671894da4bbc3d4f050352f",
+      "summary": "Farmland may beat gold as a stable hedge: diversification plus income for stronger long-term returns. Read here for a detailed investment analysis.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2240772294/image_2240772294.jpg?io=getty-c-w1536",
+      "datetime": 1777101300000,
+      "ticker": "GLD",
+      "category": "company"
+    },
+    {
       "id": 139885312,
       "headline": "Pony.ai Announces New Generation Autonomous Driving Compute Platform Built on NVIDIA DRIVE Hyperion",
       "source": "Yahoo",
@@ -151,7 +305,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFRNQmhxQ0NZTHpUX3RUb3FIUDFDMVRkNUptZjZkRWg4LTJzd1JLN3Q1Z2gtME5Bc3RHYzB3dFJ4TkFra1pvVU9iMzFfeEV4YlB1bnhJM1ZHdi1sYl8zWGJvZFcxaURLa1FpdGpSLUo5NDRiQjR2N2NFMlMwZVBJTENiRlFHZWtxUWxlckZENlRaYXNtbHQxYlB3cjktUlZtcGZ3VmhjSUFybXFyY3J1eENlQXZNS1k3cDRnQ1F0VUNraVR6ekUw?oc=5",
       "summary": "Iran says it has hanged agent working for Israel over sabotage in protests - Tasnim  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777100218000,
+      "datetime": 1777100160000,
       "ticker": null,
       "category": "business"
     },
@@ -944,160 +1098,6 @@
       "summary": "Intel shares were up sharply in premarket trading Friday after the chip maker reported strong first-quarter results.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777063980000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881685,
-      "headline": "Meta’s loss is Thinking Machines’ gain",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=943581bd3c1fbb5ca32824ceb54568ea874318a078cbe79e1b746f6c65ab1b66",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063927000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 7845523,
-      "headline": "Special Forces Sgt. in Polymarket Maduro raid bet case released; Kalshi says it blocked him",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/24/special-forces-van-dyke-polymarket-bets-maduro-raid-kalshi.html",
-      "summary": "Sgt. Gannon Ken Van Dyke was involved in planning the U.S. raid to capture Nicolás Maduro even as he made bets that paid off from that raid, an indictment says.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108296877-1777038905299-Prediction_Markets_Explainer-26099732446186-AP.jpg?v=1777038976&w=1920&h=1080",
-      "datetime": 1777063923000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 139882702,
-      "headline": "Polymarket tries to show it can play by the rules",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65d7c9fec5a0800c1b7831f352f225f4daf2af0f2aa653c8e9cea4c1e5b17305",
-      "summary": "The case against a soldier charged with trading on classified information is offering Polymarket a chance to come in from the cold.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063874000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139881686,
-      "headline": "Warren Buffett Quietly Sold 75% of His Biggest Holding. This Is Where the Money Went.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dabc0b6188143335b40456f1b143d3bb5343aa8b37decdb015df210305d1286e",
-      "summary": "The Oracle of Omaha sold Apple and bought Chubb.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063800000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139881687,
-      "headline": "An Intel Skeptic on Reasons to Doubt the Stock’s Huge Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bedf9458432e5839b28f3e283d27a5b1fbc706274f825f50fedbfef040714c89",
-      "summary": "Intel still runs the risk of missing the AI boom, just as it missed the mobile revolution before it.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881688,
-      "headline": "VAST Data CEO discusses AI startup's new $30B valuation",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d17d75288808886e99aa21544e4dd6960a146c49a7dfcceb2a0ea80c904d8c3c",
-      "summary": "Private AI infrastructure company VAST Data has powered ahead to a new valuation of $30 billion after raising over $1 billion in its latest Series B funding round. VAST Data founder and CEO Renen Hallak speaks with Asking for a Trend's Josh Lipton about this news, where he plans to put the money to work, and who could be his firm's biggest rivals in the next phase of the AI Revolution and major data center projects.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063783000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881811,
-      "headline": "S&P 500 Posts Fourth Consecutive Weekly Gain, Hits New Highs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fbc6ec29288fc3280496a22e80554543cc7692570ab27a6dcee5d54ca2f24ed5",
-      "summary": "The Standard & Poor's 500 index rose 0.55% this week to another round of fresh highs, led by the ene",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063603000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139881698,
-      "headline": "2 Reasons Investors Should Be Excited for the New Apple CEO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=360566a1e74de1ee3eb1038b8062a5b5033f107dd3b03671db4a532e9855e09d",
-      "summary": "John Ternus has been named to succeed Tim Cook as Apple's CEO, beginning in September.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063440000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139881689,
-      "headline": "Dow Jones Futures: Apple, Amazon, Google Lead Earnings Wave For AI-Led Stock Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9d21eb957c793049697fc8e6c67ff6c0fafdc7040780d576bd69dd3071b9870",
-      "summary": "The stock market is at highs but results and spending plans for Apple, Amazon, Google and more will be key for the AI-led rally",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063322000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139881690,
-      "headline": "Nasdaq, S&P 500 Touch All-Time Highs as Intel Lifts Tech, Stage Set for Iran Peace Talks This Weekend",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5322933bcbf57271dec18968a69156fea460975982e40e6f5fe4c6337dcac6fb",
-      "summary": "The Nasdaq Composite and the S&P 500 hit records on Friday as Intel's (INTC) blowout Q1 results galv",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063257000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881734,
-      "headline": "Thanks to high gas prices, interest in EVs is soaring",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e280ca7460ee50d58d5451b4a23b484fdc4cd18c2a9aee6c2119b277e55a0b4",
-      "summary": "According to Cars.com, interest in electric vehicles (EVs) increased by 25% over the last month — likely a result of higher gas prices. Yahoo Finance Senior Autos Reporter Pras Subramanian breaks down the details.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063199000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139881691,
-      "headline": "Nvidia Rallies. Why Intel, Hyperscalers May Be The Reason.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9fca48a6ad85e34a64dd2b40b4193c49d58410168fa346186c2f94e8e3eaf11e",
-      "summary": "Nvidia stock rallied Friday, boosted by Intel's upbeat quarterly report and ahead of much-anticipated reports from AI giants.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777063040000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139881735,
-      "headline": "Are Robotaxis Coming to a City Near You?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1e5fe19de6345e387dba6cea3a3981ef9a3cbad706c2c111ba499bf56fa72ad3",
-      "summary": "Tesla is expanding its robotaxi offerings, plus serial acquirer QXO has made a transformative $17 billion acquisition of TopBuild to create the second-largest player in the construction industry.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777062919000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139881692,
-      "headline": "Nvidia Stock Finally Closed at a Record High. Why It’s Getting a Massive Boost From Intel.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b64f5015a67a0616796a6f0f4931f15dd3fc89215bc54e858a9b6d81695411a7",
-      "summary": "Nvidia stock was surging Friday, with shares of the artificial-intelligence giant briefly climbing past $210.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777062900000,
       "ticker": "NVDA",
       "category": "company"
     }
