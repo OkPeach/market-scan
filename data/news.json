@@ -1,6 +1,149 @@
 {
-  "timestamp": 1777072212765,
+  "timestamp": 1777075601339,
   "items": [
+    {
+      "id": 139882690,
+      "headline": "Why Comcast Stock Dived by Almost 13% Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=311d9cd1f2a04cd3f886db63a9d0de8d5282d47cf60f914e73f8a0aeabf41200",
+      "summary": "It was hit by an analyst's recommendation downgrade.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777073901000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139882691,
+      "headline": "Why AppFolio Stock Skyrocketed Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb8d92b3f07fb7cf08f1cbfb55a077f0658a3aa237122001aa98fb9b3bfa4139",
+      "summary": "AppFolio just delivered some good news for shareholders.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777072760000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139882692,
+      "headline": "Consumer Sentiment Plunges To All-Time Lows on Iran War. Why Are Markets At Record Highs?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f88ebd54c081b7fce4d8ac6b60135f419063e3f59f2f81387c3c1b1e40b0d5d",
+      "summary": "A new survey shows consumers continuing to sour on the economy. Should investors be worried?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777072735000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139882693,
+      "headline": "Attorney, 62, Has $3.5M Saved For Retirement But Can't Accept 'No Money Coming In, All Money Going Out' — Dave Ramsey Says That's $350K A Year Income",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=060e106f57fa166d8d6ca89d15b4b069aeffba1d0dec50539682bfe8e8a24c0d",
+      "summary": "There's a strange twist that doesn't get talked about enough in personal finance. Building wealth is hard. Spending it can be even harder. On “The Ramsey Show,” a 62-year-old attorney named Steve called in with a problem that sounds almost...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777071662000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139882696,
+      "headline": "Elon Musk vs. Sam Altman, Mag 7 earnings, Fed meeting: What to Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4917d3062442d30ae005e434a5a79d447d905bcdbc885715192ace917b38c85",
+      "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come next week, including the start of the trial between OpenAI (OPAI.PVT) co-founders Sam Altman and Elon Musk; earnings results from Magnificent Seven tech companies Alphabet (GOOG, GOOGL), Microsoft (MSFT), Amazon (AMZN), Meta Platforms (META), and Apple (AAPL); and the Federal Reserve's latest interest rate decision to come at its April FOMC meeting.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777071600000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 7845933,
+      "headline": "How the restaurant group behind NYC's Carbone is overcoming young people shunning alcohol",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/how-the-restaurant-group-behind-nycs-carbone-is-overcoming-young-people-shunning-alcohol.html",
+      "summary": "Major Food Group CEO Mario Carbone said younger consumers are spending less on alcohol and more on experiences, which is playing into his company's strategy.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107076251-1655306130769-IMG_0154.jpg?v=1655306185&w=1920&h=1080",
+      "datetime": 1777070720000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139882694,
+      "headline": "Why Charter Communications Stock Plummeted Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=617a9bbe6158a1f28a2379236462c8f2fb4feb91341846431d59831ede3f9a72",
+      "summary": "Charter's recent quarterly report has caused investors to seriously rethink the stock.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777070179000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139882700,
+      "headline": "Amazon-backed X-Energy surges 27% in Nasdaq debut",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35fb04dc2ef33415b0fac4191ad711beb53dd5422c52f067790e20a7a6c84eff",
+      "summary": "Shares of X-Energy, a nuclear energy company, closed their first day of trading at $29.20, 27% above the IPO share price of $23. X-Energy is the first major advanced nuclear developer to reach public markets via a traditional IPO. The company’s path to its Friday debut on the Nasdaq included a SPAC merger agreement with an Ares-backed blank-check firm that was not consummated. The company, which develops nuclear reactors and new nuclear cooling technologies, raised $1.02 billion in proceeds from",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777069398000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 7844039,
+      "headline": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFI0QnNnNVVVckNHY3RrNk9MQTd1aS1ZRzFVZ2FzZEIycjhqSjdndzdyYkdXdGNPSThqc1lrSURHeUdQQk9JLW1KTHlUWkZweGxibG1YRVJhN2F6b0dhb0loZGo1NUtWU3FOeVNIcG1oWDY2QnppRXdVTkh5LTE4MkZoaGxWNmFTQ3JoQkxGWWRVb0c2TjRSTnMxUzA3cHp5ZDc2N1d1Z2tMOThqcFE?oc=5",
+      "summary": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777069313000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139882725,
+      "headline": "Bank of America resets Intel stock price target after earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40cad2479658cc11a356eb6386f539149940c371a1337546dde887571f390dbe",
+      "summary": "Intel (INTC) stock is up about 123% year to date, at the time of writing, Friday morning, April 24, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 index (SPY) is up about 4% in the same period. Following the Q1 earnings report on April 23, the stock is soaring 22% and trading near $82, ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777068420000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139882695,
+      "headline": "Stock Market Today, April 24: Intel Surges After Q1 Earnings Beat Expectations",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f999dbb38b3018e961d0b69a6e7792cc32559f1249c7683dcfcc2673186a760",
+      "summary": "AI-fueled earnings strength and fresh government backing put this chip giant at the center of the market’s focus, today, April 24, 2026.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777068150000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139882717,
+      "headline": "Palantir is reportedly helping the IRS investigate financial crimes",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=debd66094523f0c4326b752a79d47b0e989246fe5ddfe14f88ffec370d7e4a14",
+      "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777067624000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 139882698,
+      "headline": "Regulators modify, and then approve We Energies' new electric rate for data centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8876263c114826e252ac7fd4ca9c6c3bd53e20e244a76feec4a9370460e7affc",
+      "summary": "The Public Service Commission made a series of changes to strengthen protections for existing We Energies customers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777067508000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
     {
       "id": 139881798,
       "headline": "S&P 500, Nasdaq notch record closing highs on tech, Iran hopes",
@@ -33,6 +176,17 @@
       "datetime": 1777066980000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7842004,
+      "headline": "Tech boosts US stocks to record close, oil dips on signs of Iran peace progress - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGFfSlR2bzRVYUJjekt5UlU3ZFlaLWc1aXI2SXFmMEhaUWhuYVFEN0hFNC00QzlOZ0d3eGFqUEt5RGcxS2JLVTZsVFNKZUlxM0Ytd05mRVBTdy1Fc3E1MUNSeGZOOWNaWlh1WS1sYS1MN3pwX0ZJWVlyRXZBbXlBWEV4eEZVcUMzWnRFWA?oc=5",
+      "summary": "Tech boosts US stocks to record close, oil dips on signs of Iran peace progress  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777066541000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139881678,
@@ -187,6 +341,17 @@
       "datetime": 1777063923000,
       "ticker": null,
       "category": "top news"
+    },
+    {
+      "id": 139882702,
+      "headline": "Polymarket tries to show it can play by the rules",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=65d7c9fec5a0800c1b7831f352f225f4daf2af0f2aa653c8e9cea4c1e5b17305",
+      "summary": "The case against a soldier charged with trading on classified information is offering Polymarket a chance to come in from the cold.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777063874000,
+      "ticker": "GOOGL",
+      "category": "company"
     },
     {
       "id": 139881686,
@@ -365,17 +530,6 @@
       "category": "company"
     },
     {
-      "id": 7844039,
-      "headline": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFI0QnNnNVVVckNHY3RrNk9MQTd1aS1ZRzFVZ2FzZEIycjhqSjdndzdyYkdXdGNPSThqc1lrSURHeUdQQk9JLW1KTHlUWkZweGxibG1YRVJhN2F6b0dhb0loZGo1NUtWU3FOeVNIcG1oWDY2QnppRXdVTkh5LTE4MkZoaGxWNmFTQ3JoQkxGWWRVb0c2TjRSTnMxUzA3cHp5ZDc2N1d1Z2tMOThqcFE?oc=5",
-      "summary": "S&P 500, Nasdaq close at records on tech lift, Iran peace talk hopes  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777062117000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139881736,
       "headline": "US Equity Indexes Mixed This Week as Surging Technology Fails to Outweigh Iran Geopolitics",
       "source": "Yahoo",
@@ -453,6 +607,28 @@
       "category": "company"
     },
     {
+      "id": 7845934,
+      "headline": "US legal adviser says Iran war justified by Tehran's 'aggression' over decades - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYndFZFlfaWpNb280TmdmNnBDMWREd3dLYWhYbDhsMmkzb0FrNVVIVDZLWmlYOXZSVW9JX2RxLWRoR3g3UVZUWVBaenBOcGlSTDJ3RWgteTBFR2h5Q2VhQVJRaWZMbE5TcHNFU0ZXSnJlYnh2U2FZRlVEdG9oSloxcnhiVWV5S2lPYkR1eXdyRzdPSkZwS1dlNzFRMU5kUFRfdFhVNUl1Q09Qa08zcVd2OFkwZmdVc2piWmVWdEdVY0lBNzIwVEhxSA?oc=5",
+      "summary": "US legal adviser says Iran war justified by Tehran's 'aggression' over decades  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777061089000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139882742,
+      "headline": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=dc06beb3d2cfa0eb25331c24b1e3545ce994bc33fff07fd7e6e43151e8d8d71d",
+      "summary": "A U.S. judge on Friday dismissed Elon Musk's fraud claims in his lawsuit accusing OpenAI and co-founder Sam Altman of betraying OpenAI's original mission, but plans to proceed to trial on Musk's...",
+      "image": "",
+      "datetime": 1777060698000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 139881730,
       "headline": "3 Stocks Under $10 We Think Twice About",
       "source": "Yahoo",
@@ -508,6 +684,17 @@
       "category": "company"
     },
     {
+      "id": 139882660,
+      "headline": "IAUI: Built For A Slower Gold Market",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba3b0096d22f00aa6d106adad78c0ce44c177c42fc4265a02f36d5089a857cdf",
+      "summary": "",
+      "image": "",
+      "datetime": 1777060056000,
+      "ticker": "GLD",
+      "category": "company"
+    },
+    {
       "id": 139880552,
       "headline": "Software, semis, & BofA's 'perfect portfolio': Charts of the Day",
       "source": "Yahoo",
@@ -516,6 +703,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777059920000,
       "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139882744,
+      "headline": "US judge dismisses Musk's fraud claims in OpenAI case, plans to proceed to trial",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6ac1ce4903794e56bbc53e09269b37cbce6266e150f1f13db6dd6b79dbb82ba5",
+      "summary": "A U.S. judge on Friday dismissed Elon Musk's fraud claims in his lawsuit accusing OpenAI and co-founder Sam Altman of betraying OpenAI's original mission, but plans to proceed to trial on Musk's...",
+      "image": "",
+      "datetime": 1777059337000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -538,6 +736,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777059079000,
       "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139882745,
+      "headline": "U.S. judge dismisses Elon Musk's fraud claims in lawsuit against OpenAI and Sam Altman, plans to proceed to trial on Musk's other claims",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a90c4fa10f2a2d210254ba6a63e650902962acb0d6616311156ea20a3bb969df",
+      "summary": "U.S. judge dismisses Elon Musk's fraud claims in lawsuit against OpenAI and Sam Altman, plans to proceed to trial on Musk's other claims...",
+      "image": "",
+      "datetime": 1777058898000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -728,6 +937,17 @@
       "category": "company"
     },
     {
+      "id": 139882769,
+      "headline": "US State Dept orders global warning about alleged China AI thefts by DeepSeek, others",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3a34af9fabff7a9ea86d8254b6e2d37e15bb0d771674591498ebabf1a909d0a5",
+      "summary": "The U.S. State Department has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI startup DeepSeek, to steal intellectual property from...",
+      "image": "",
+      "datetime": 1777055444000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 139880605,
       "headline": "Investing.com’s stocks of the week",
       "source": "Yahoo",
@@ -748,6 +968,17 @@
       "datetime": 1777055334000,
       "ticker": "MSFT",
       "category": "company"
+    },
+    {
+      "id": 7845935,
+      "headline": "US sanctions wallets tied to Iran, freezing $344 million in cryptocurrency, Bessent says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDBZYWR4aWdWVkxGWk5sV1V2Y2pyeGw4dFV5R2tGMnpPckFNZ3JKb1FOdG9Nd3B1blVWY2VYbFV5TjRRQ2ZwbmNnXy13Y29xeEZRUjZDa0ZuU0pVV0EyNEZTV2lIbHRrWkgzOV9tNUJtTDJVVVJwdzE0bE52ZTRRcnpYUm1zZjFfV1FPaldhbFl1LVd2cUhDc0k2V0YtTHNvLVppMy1jM3Z4WmV6WEtGUHJEWUEzQnlEdFhzR1VxWWhpc3FSZDFzaU0xSTBLdw?oc=5",
+      "summary": "US sanctions wallets tied to Iran, freezing $344 million in cryptocurrency, Bessent says  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777055237000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139880479,
@@ -869,237 +1100,6 @@
       "datetime": 1777054147000,
       "ticker": "GOOGL",
       "category": "company"
-    },
-    {
-      "id": 139880484,
-      "headline": "Nvidia, Intel and AMD Lead Chip Stocks as AI Wave Lifts Sector",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b82dcb13c4068576da4c283de187ab86859d1fa65b1d51087170834db36d1dff",
-      "summary": "Nvidia, AMD Lead Semiconductor Rally as AI Frenzy Accelerates",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054117000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880485,
-      "headline": "3 Small-Cap Value ETFs Poised to Outperform in 2026 as Fed Rate Cuts Accelerate Returns",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd54ef2fd663b0b05592a95eb4833c07acde28bdb33cbcd22ba4582e22dba4f3",
-      "summary": "Small-cap value spent years playing second fiddle to large-cap growth, especially as everyone piled into just a few tech giants. But the vibe heading into the middle of 2026 is shifting. The Federal Reserve has been active, cutting rates down to the 3.50% to 3.75% range over the last year. Even with the 10-year Treasury ... 3 Small-Cap Value ETFs Poised to Outperform in 2026 as Fed Rate Cuts Accelerate Returns",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054114000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880486,
-      "headline": "Cadence’s Expanded AI Alliances With TSMC, NVIDIA and Google Might Change The Case For Investing In Cadence Design Systems (CDNS)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b1f7ba6b265f33e5fda91562395dd4ba9cc50ceb8d6bfbbb3211ec389c873f1",
-      "summary": "In April 2026, Cadence Design Systems expanded its long-running collaboration with TSMC and deepened alliances with NVIDIA and Google to bring agentic AI, advanced IP, and certified design flows to leading-edge nodes such as N3, N2, A16, and A14 for AI and high-performance computing chips. These moves position Cadence’s AI agents and cloud-ready design stack at the center of next-generation semiconductor and digital-twin workflows across major ecosystem partners. Next, we will examine how...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054065000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139879811,
-      "headline": "Want $1 Million in Retirement? 3 Index Funds to Start Buying in April.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a59ba667a7f8e1fe939ca37ed75da44ee2fd3e0f66464b569c46211dd54b67d",
-      "summary": "A $1 million retirement portfolio isn't as elusive as it seems. Proper planning and these three ETFs will get you on your way today.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054039000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880510,
-      "headline": "Google Stock Rises After Massive $40B AI Bet on Anthropic",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48583a5d1f9356ba920a7a9a15dfec581ba06dab83ed1fa71fe8407ecfe44805",
-      "summary": "Google Stock Pops on Landmark Anthropic Investment Plan",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054032000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139880488,
-      "headline": "2 Chip Stocks That Have Gone Parabolic This Month. Should Investors Buy These High Flyers?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e22c7da547e52380b744ca6d3ec40bd1d418849cdcd772eb6ea118278f3d850f",
-      "summary": "These two surprising semiconductor stocks have surged in April as the AI chip boom continues to broaden.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777054020000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880526,
-      "headline": "Will Tesla’s US$25 Billion AI and Robotaxi Bet in 2026 Change Tesla's (TSLA) Narrative",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=882f5f5ee43ad206337be9d0d758f9028d061633be5a60773d24afb0416d7dcd",
-      "summary": "Tesla reported first-quarter 2026 results with revenue of US$22.39 billion and net income of US$477 million, beating profit expectations while confirming a sharp ramp-up in spending on AI, robotaxis, humanoid robots, and chip manufacturing. The company has begun early Cybercab robotaxi production and committed to more than US$25 billion of 2026 capital expenditure, signalling a decisive shift from pure EV manufacturing toward AI-enabled services and robotics. We’ll now examine how Tesla’s...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053999000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139879815,
-      "headline": "These S&P500 stocks are the most active in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=ffebaf1162c5aa1168206f7723b164d26a548bc749f224badca189376094cd73",
-      "summary": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session. Stay updated with the stocks that are capturing market interest and driving market movements.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Most_Active_Stocks_Small_free_fec0650b7f.webp",
-      "datetime": 1777053902000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 7845528,
-      "headline": "SLB, Baker Hughes see oil exploration spending rising as Iran war disrupts supply - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEpmM2NKdXByaTdEU0VJT3BLTU1mTjdvQ0trRnhNdkdVZW1FLWhLQU43a0h2SUxkMXNqd2ptdEpCd0J0MVgySXlFOWRkUTBkTkxEZklraXlXT3FnWFJicHVsMi1BUk9rbkRsb0h6T1FrbEZ2eWF4My1aeTQ5VncwUkVHd2luLTFvQ0NNdmEwbFVsUVN2WTJLX2lPQkVfWU1hSGNKWnpuRXZQUzE0WVVfM1dENHJ2NUxBaERlRlJFU1RuSnRTeVRyVA?oc=5",
-      "summary": "SLB, Baker Hughes see oil exploration spending rising as Iran war disrupts supply  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777053865000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139880527,
-      "headline": "Tesla's Unsold EVs Pile Up, Fastest-Growing Business Shrinks 40% — Elon Musk Must Explain Tonight",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1cc3cfce5f98bd47e5fd2a1ff5b079a4cd8c7259d1522367837ddb5fdc442b4a",
-      "summary": "Tonight, after the U.S. markets close, Elon Musk has a conference call to make. Tesla‘s first-quarter financial results are due, and the number of lingering questions ahead of that call is starting to look like the number of cars piling up on Tesla’s lots. Let’s Start With The Cars Tesla built 408,386 vehicles in the first three months of 2026. It delivered 358,023. Both numbers are straight from Tesla’s own first-quarter production and delivery release, filed with the SEC in early April. The ga",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053675000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139880490,
-      "headline": "Qualcomm Stock Jumps 11% – Here’s Why It’s Still Down 13% in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fdba1ac833edf895fe932f5b083c1f424665dd0b4b723850bb9200f63458d764",
-      "summary": "Shares of Qualcomm (NASDAQ:QCOM) are surging in Friday midday trading, up roughly 11% as the semiconductor complex catches fire. The stock last changed hands near $148.28, after closing Thursday at $133.95. That’s a sharp one-day reversal for one of the weakest large-cap chip names of the year. Today’s catalyst is sector-wide rather than company-specific. Intel ... Qualcomm Stock Jumps 11% – Here’s Why It’s Still Down 13% in 2026",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053617000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139880511,
-      "headline": "Google to invest up to $40B in Anthropic in cash and compute",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cae90c8e07dd3832ad112432dd93d34a78034c29ccb37b1bcaae6807f7e28554",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053603000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139879814,
-      "headline": "These stocks are the most active in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=76a884cb1f138bf6e5707c4ac11e3ca6d6236dd9fd200a05943227f2d6cf09a6",
-      "summary": "Let's have a look at what is happening on the US markets on Friday. Below you can find the most active stocks in today's session.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Most_Active_Stocks_Small_free_fec0650b7f.webp",
-      "datetime": 1777053600000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139881676,
-      "headline": "Tech Up After Intel Earnings -- Tech Roundup",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=34bf98e2cf851c2d441c42ae6ba5189ca4b504470a5bd834747010c68a78b607",
-      "summary": "Shares of technology companies rose after Intel reported surprisingly strong artificial-intelligence related demand. The giant chip maker, which received an $8 billion life-line investment from the...",
-      "image": "",
-      "datetime": 1777053374000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139879721,
-      "headline": "Stock Market Today: Nasdaq Eyes New Highs As Magnificent Seven Earnings Loom (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e8ca3174dcab8de9137e3f775aa1a0250ef111bde832a7c5431a8fdc39863ab",
-      "summary": "Stock Market Today: The Dow Jones index slips Friday while surging Intel stock lifted the Nasdaq higher. AI stocks AMD and Arm jump.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053365000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880500,
-      "headline": "Amazon Reports Earnings on Wednesday—Here's How Much the Stock Is Expected to Move",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbbab7e46599465d81955d1aa30c48331e7272dccff3cacb145e2dff2138834a",
-      "summary": "Amazon is set to report earnings after the closing bell on Wednesday, with the stock seen potentially rallying to new record highs following the report.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053358000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139880491,
-      "headline": "Apple vs. Microsoft: One Quietly Grew Its Dividend 900% in 10 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5d72ed2b791bb0defdfa5d3a6ddfbc976f195fa1742ed21e4f6c1e22758af51f",
-      "summary": "Apple (NASDAQ: AAPL) and Microsoft (NASDAQ: MSFT) just delivered holiday-quarter results that put two very different capital-return philosophies on display. Apple leaned on the iPhone cycle and record services to print $143.76B in revenue. Microsoft leaned on Azure and a surging enterprise backlog. Both beat, both guided higher, and both reward shareholders. How they do ... Apple vs. Microsoft: One Quietly Grew Its Dividend 900% in 10 Years",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053346000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139879418,
-      "headline": "Equities Mostly Rise Intraday as Intel Rallies; Oil Falls Amid US-Iran Peace Talk Hopes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e62b7433db18c6682fc92e108c1de6765e87968371f4c6aac44c84e9f5bf9e7",
-      "summary": "US benchmark equity indexes were mostly higher intraday amid Intel's (INTC) post-earnings rally, whi",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053294000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 7844894,
-      "headline": "Analysis: The threat to the Fed's independence isn't over",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/24/fed-kevin-warsh-jerome-powell.html",
-      "summary": "President Donald Trump has waged a long campaign to rein in the Fed. Prosecutors' decision to drop an investigation into Jerome Powell isn't the end.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108184985-1775663111312-108184985-17550293932025-08-12t200529z_164997573_rc2u5ga1ckmt_rtrmadp_0_usa-trump-cherizier.jpeg?v=1775663214&w=1920&h=1080",
-      "datetime": 1777053275000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 139880557,
-      "headline": "Nvidia Stock Is Racing for a Record High. Why It’s Getting a Massive Boost From Intel.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7caa2ded93626bf0af451550b7ca3544e33e5cde754498d5b4d5802f549166e7",
-      "summary": "Nvidia stock was surging Friday, with shares of the artificial-intelligence giant briefly climbing past $210.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777053240000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 7843931,
-      "headline": "Pentagon chief Hegseth says US blockade on Iran 'going global' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkQzQXpoTkYtYjNKYU1xUWFVcGEzQlVuVktfZGVBM0pHU3dxMTNPME5WcmcyNkZ5YnZrd19UYm1lYmstaUZITUhZX1VaNktlY0NqRDdldHVlWHJ3MC1XU3loQXUxQnRwQ016U0Z5Uy1DLW1GY1ZmdWdfUlJsYXU0cmNWc2UzN0RMdk15S1hCZUJNOFNxTUx0LUN2bGdhZ2d4dkxBOE1aR2xQN2p4VzNpRVJR?oc=5",
-      "summary": "Pentagon chief Hegseth says US blockade on Iran 'going global'  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777052625000,
-      "ticker": null,
-      "category": "business"
     }
   ]
 }
