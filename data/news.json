@@ -1,6 +1,127 @@
 {
-  "timestamp": 1777151227110,
+  "timestamp": 1777154597335,
   "items": [
+    {
+      "id": 139890021,
+      "headline": "Prediction: Artificial Intelligence (AI) Stocks Will Lead the Nasdaq to New Highs. Here Are the 3 Best to Buy Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f0bfe172350341a2d4574a1fca67fa7cc712437909fa3944218b71049933ec7",
+      "summary": "The Nasdaq has had a huge rally, but it could just be getting started.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777152900000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139890041,
+      "headline": "Elon Musk Says Cybercab Is Rolling Off The Line, But What Do Prediction Markets Say?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b02d63781b9a7fc6eac55938db9425887ee66b403c039fbebed54d3ad82536fe",
+      "summary": "Elon Musk is telling investors the Cybercab is finally rolling off the line. Prediction market traders are pricing in a much slower story than the one Tesla is selling. Tesla Inc. has started manufacturing the two-seat driverless sedan, Musk said Friday on X, fulfilling a long-promised production timeline as the company’s global sales slump and the stock sits down 17% year-to-date. The Cybercab was unveiled two years ago without a steering wheel or pedals, a design that will need exemptions from",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777152670000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139890035,
+      "headline": "Could Amazon Be the 1 Consumer‑Tech Stock That Helps Turn $50,000 Into $1 Million by 2036?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=502e7ed84ae880310168c28b95fc52edd16cfc988fe340a97a5c318369f6abde",
+      "summary": "In the past decade, this \"Magnificent Seven\" stock has seen its price rise almost 700%.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777152300000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139890022,
+      "headline": "The Smartest Growth Stocks to Buy With $500 Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eae02349d350bacee5fb71810e97f178ccd772ceb58753df2226d59d5e269b1d",
+      "summary": "These fast-growing companies have delivered impressive gains for investors so far in 2026, and they can continue to soar.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777152000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139890023,
+      "headline": "Is It Too Late To Consider Nvidia (NVDA) After Its Strong One Year Rally?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f17987df5b43b812ac918b11b1e451ca59c3b31d3264dd1e33594be8e5c7cd24",
+      "summary": "If you have ever wondered whether NVIDIA's share price truly reflects its underlying worth, this article is for you. NVIDIA recently closed at US$208.27, with returns of 3.3% over 7 days, 21.6% over 30 days, 10.3% year to date, 87.7% over 1 year and a very large 3 year and 5 year return. Recent headlines continue to focus on NVIDIA's central role in graphics processing units and AI related hardware, which keeps attention on how the market values its growth prospects. At the same time,...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777151122000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139890024,
+      "headline": "2 Mining Stocks to Play the Mining Shortage",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bf29bc6a7b9645b1d51a46c8c079a6fddb0f9dac43d0374c3eff6c43c7de23b",
+      "summary": "Alcoa and Teck Resources are mining companies positioning themselves to benefit from the gallium shortage outside of China..",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777151100000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139890032,
+      "headline": "Michael Burry buys beaten-down mega tech stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec1ad03e53d2c32e0e48db7307a8f74375cb3f99d62cf49833023e92e31d55a3",
+      "summary": "When Michael Burry makes a move, people pay attention. Not because he is always right, but because he tends to act before the crowd catches on. And what he just did in the software sector is exactly the kind of contrarian bet his reputation was built on. The stock he bought is one of the biggest ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777150980000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139890025,
+      "headline": "The Best Artificial Intelligence (AI) Growth Stock on the Nasdaq That Morningstar Says Is Still Undervalued",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae8d3fbfca58020c713248bf74cbb40ed533034ae0133ed8336050898318216f",
+      "summary": "The \"Great Rotation\" made this AI company an attractive buy.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777149300000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139890036,
+      "headline": "Ex-Stepdad Gets $135K 401(k) But Pushes For 27-Year-Old's $419K Inheritance Too — Dave Ramsey Says, 'You Do Not Owe This Guy A Dime'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f12498b6cd962aec64f6bc0ebfbba53378cae0b55e65aca26a809928c71c930",
+      "summary": "A family tie from the past resurfaced with a demand that had no clear place in the present. Karen, 27, called \"The Ramsey Show\" from Huntsville, Alabama, after inheriting $419,000 from a woman who became an important part of her...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777149066000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139890042,
+      "headline": "Ross Gerber Slams Elon Musk's Tesla For Phasing Out 'Best EV Ever' Amid Optimus Push: 'This Is Just Wrong'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b54d4a0f8a0283a149966bba1ccaaac796dc21ccc3339cfa262fc1c664150d8",
+      "summary": "Investor Ross Gerber of Gerber Kawasaki slammed Tesla Inc. on Thursday for winding down production of the premium Model S and Model X vehicles as the EV giant shifts towards robots. Best EV Ever In a post on the social media platform X, Gerber quoted a post by influencer Sawyer Merritt that shared details about the Model S ‘Signature’ edition. “They are spending money to take this production line down,” he said. Gerber hailed the Model S as the “best EV ever made.” Don't Miss: A single bad hire",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777149065000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139890026,
+      "headline": "SpaceX Is Going Public at a $1.75 Trillion Valuation. Here Is 1 Stock to Buy Before It Does.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2dd9b28d895572b0810bc79df3af639573de5aee5c31c0193dee9011ee1c89e1",
+      "summary": "It's official: SpaceX is looking to IPO this summer.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777148700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 7849881,
       "headline": "Iran talks, Jerome Powell and the White House Correspondents' Dinner - Reuters",
@@ -11,6 +132,17 @@
       "datetime": 1777147851000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 139890027,
+      "headline": "Adobe Is Buying Back $25 Billion of Its Shares. Will It Halt the Price Decline?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b1257258302356c659517128405b800eadbd779f7b3593db3d0fb639ade397f",
+      "summary": "Adobe announced another measure to halt the long decline of its share price.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777147020000,
+      "ticker": "NVDA",
+      "category": "company"
     },
     {
       "id": 139889482,
@@ -464,6 +596,17 @@
       "category": "company"
     },
     {
+      "id": 139890072,
+      "headline": "Intel Earnings Confirm CPU Demand Is Outpacing Supply, But Does the Company Really Have an Edge?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a05a91058928ebfaf5334b6ba2386d4f45fb200b6e69d0e93c0a95e077a72a3",
+      "summary": "Donald Trump's investment in Intel was timely, but can Intel solve its execution problem?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777131002000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 139887860,
       "headline": "Amtech and Penguin Solutions Shares Skyrocket, What You Need To Know",
       "source": "Yahoo",
@@ -728,6 +871,17 @@
       "category": "company"
     },
     {
+      "id": 139890043,
+      "headline": "Roth Capital Analysts: What Matters Most for Tesla Stock Now Isn’t Tesla… It’s SpaceX",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36d3dbf04d2cab9c0604b4dd9ea67aa384336160973160084e6ea75b7673806e",
+      "summary": "Analysts at Roth Capital believe Tesla’s narrative is shifting. Right now, it’s SpaceX that’s commanding the spotlight.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777125602000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 139887926,
       "headline": "SoundHound AI: Could the Stock 10X by 2030?",
       "source": "Yahoo",
@@ -944,160 +1098,6 @@
       "summary": "Taiwan Semiconductor is among several stocks that already have earnings out of the way. The fifth stock, Walmart, won't report for weeks.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777118400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139886496,
-      "headline": "Down Nearly 60% From Its Peak, Is It Finally Time to Buy Joby Aviation?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a669baca9046f5cd430241c3d79a5589f311901613f5b707831fc4be29f65c2d",
-      "summary": "The eVTOL maker's business hasn't taken off yet.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777117800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139886519,
-      "headline": "How Netflix Could Perform in a Mild vs. a Severe Recession",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=105ef7a7ebfb4951efafa434ef417df9fd99410dd519f721acb9cfc0ca677f25",
-      "summary": "Because of how well this company and stock have fared in the past, investors might completely be ignoring the downside.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777117380000,
-      "ticker": "NFLX",
-      "category": "company"
-    },
-    {
-      "id": 139886497,
-      "headline": "Alphabet's Google Could Supercharge This Artificial Intelligence (AI) Stock That Has Soared 78% in 2026. Here's Why You Should Buy It Hand Over Fist Before It Is Too Late.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a727c5f68dc9c3e3263cfdfbf101b900a17130e1e0013d7be318ffc098a80fb",
-      "summary": "Google's Tensor Processing Units (TPUs) are gaining impressive traction in the AI chip market, and that's great news for this chip designer.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777116540000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139886498,
-      "headline": "The Best Stocks to Buy With $10,000 Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=400708a8c307cb208183a7efd3698b06cf86c6e2ddfb94f3b79b240c47fb804c",
-      "summary": "These three stocks have solid catalysts ahead.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777116300000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139887737,
-      "headline": "AMD Bulls Went Too Far, Too Fast",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8ceac3a402c44921d9204888b46a16b928ef6042d49704d6c2c2fe87938d806a",
-      "summary": "AMD delivered strong Q4 FY2025 results, with revenue up 34% YoY and significant growth in Data Center and Client segments. Learn more on AMD stock here.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303597163/image_1303597163.jpg?io=getty-c-w1536",
-      "datetime": 1777115308000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139886515,
-      "headline": "Tesla Robotaxis And Optimus Shift Focus To AI Revenue After 2027",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ffefd221b154158fb37d0045e3162491d43a5d5bbedf99b084e7d2614d9bc465",
-      "summary": "Tesla has started production of its Cybercab robotaxi and is preparing for mass-scale manufacturing of its Optimus humanoid robot. Elon Musk has signaled that meaningful revenue from robotaxis and autonomy may not arrive until 2027. Tesla now expects that millions of its vehicles will need hardware retrofits to enable unsupervised autonomy. Tesla, traded as NasdaqGS:TSLA, is leaning further into its identity as an AI and robotics company with the operational launch of Cybercab production...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777115080000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139887707,
-      "headline": "Tech Heavyweights To Report Next Week, Fed Rate Decision Also In Focus",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=243e7598cd3a10648c457f839370db2fb2933ffa9e1403774f2e65d86e43a4d1",
-      "summary": "Wall Street Week Ahead: key earnings (Apple, Microsoft), Fed decision, GDP & jobs, IPOs and dividends. Read here for more details.",
-      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "datetime": 1777114800000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139887285,
-      "headline": "Here's How Much Microsoft Stock Is Expected to Move After Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=271a4e135cee238f9bf9b8a0f37d4c839cda3964cdd75125f28c372a5655a308",
-      "summary": "Microsoft is set to report earnings Wednesday afternoon, with the stock seen potentially hitting its highest point in months following the report.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777114800000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139887676,
-      "headline": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6478f5ba2859bb52b43cd4580784213cd9a221b2116f022c75bb628e7562af13",
-      "summary": "",
-      "image": "",
-      "datetime": 1777114665000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139886499,
-      "headline": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a6477f18a608b4ab30369e1645201610de8116c68b6f09ab516ce3e01dfc9b24",
-      "summary": "We may be less than three weeks away from a material shift to the central bank's and Wall Street's narratives.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777114560000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139886506,
-      "headline": "The USPS Got a ‘Free Lunch’ for Decades. That’s Over Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=653ac681841da12790ea3bb924ff8efa3ce1766145e20609c827bd118fe360d3",
-      "summary": "On a recent episode of NerdWallet’s Smart Money Podcast titled USPS’ Cash Crisis Hits More Than Your Mailbox, Plus The Debt Settlement Trap to Avoid, the guest framed the U.S. Postal Service’s predicament in economist’s terms: “I like to describe it as there is no free lunch. Economists love to say that, but for a ... The USPS Got a ‘Free Lunch’ for Decades. That’s Over Now",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777113399000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139886500,
-      "headline": "2 Dividend Stocks Worth Buying More Of, Even At Today's Prices",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dfcf7cf37e7b8eaf65d33c645aa7bcc321574289c85ea351288d7b5fb307a178",
-      "summary": "The key isn't a high starting yield, but room for sustainable dividend growth.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777113300000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139886503,
-      "headline": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=161871d786742c4aac12410a2bd385ebe627b466542174ed0eed43674343eb16",
-      "summary": "The stock market brims with optimism ahead of a huge surge of AI hyperscaler earnings, amid an historical transition at the Federal Reserve.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777113058000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139886501,
-      "headline": "The Fintech Stock That Could Disrupt the Credit-Scoring Business Over the Next Decade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec28a32893ca093ca536969755c19b9627672efe5b26cd97e91b5576cb642acd",
-      "summary": "After decades with little to no evolution, an enterprising young outfit is offering an obvious upgrade.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777112340000,
       "ticker": "NVDA",
       "category": "company"
     }
