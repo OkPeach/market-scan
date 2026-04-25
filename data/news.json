@@ -1,6 +1,116 @@
 {
-  "timestamp": 1777088487949,
+  "timestamp": 1777096355825,
   "items": [
+    {
+      "id": 139883958,
+      "headline": "Microsoft Corp. (MSFT) Well-Positioned with Overseas AI Infrastructure and Cybersecurity Investments",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fcaeedf2bd76b94a79810f2fa9d0d38a60f57b4a7aef9464eb15822c3d94cd7",
+      "summary": "Microsoft Corp. (NASDAQ:MSFT) is one of the 10 best cybersecurity stocks to invest in according to analysts. The company’s multi-year overseas investments in AI infrastructure and cybersecurity are supporting a bullish case on the stock. On April 3, Microsoft Corp. (NASDAQ:MSFT) unveiled a $10 billion investment in Japan for the period from 2026 to 2029, […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777088634000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139883965,
+      "headline": "Elon Musk Says Optimus V3 Unveil To Be Closer To Robot's Production As Rivals 'Copy' Everything Tesla Does",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69d5d97939c0d8be90ca02f07fa93bfbaab45ecdd81ee6ccc1311897dffeebad",
+      "summary": "Tesla Inc. CEO Elon Musk on Wednesday accused rivals in the Humanoid Robot space of copying the EV giant’s robotics technology. Frame-By-Frame Analysis During the earnings call with investors, Musk was asked about the progress of the next generation of Optimus robots. “We've found out our competitors literally do a frame-by-frame analysis and copy everything we're doing,” Musk said, while also outlining that Tesla wants to “push the Optimus 3 unveil maybe closer to production,” which would be ar",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777087869000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139883961,
+      "headline": "Jim Cramer Believes “Alphabet’s Going to $400”",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a400d341a2cbd6bd48e6b5d4745ad8011cdf96a285d9b0fd0cfbec8b27e2c7ce",
+      "summary": "Alphabet Inc. (NASDAQ:GOOGL) was among Jim Cramer’s stock calls as he suggested that many red-hot stocks can keep making investors money. When a caller inquired about the stock, Cramer said, “I think Alphabet’s going to $400. I think you… win on Alphabet.” Alphabet Inc. (NASDAQ:GOOGL) provides technology-related products and services, including search, advertising, cloud computing, […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777087609000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139883990,
+      "headline": "Jim Cramer on ServiceNow: “This Stock’s Been Crushed By AI Displacement Worries”",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08211add983a2f7c483af6d443876b814d8c989da25bec793b2563713ade30fd",
+      "summary": "ServiceNow, Inc. (NYSE:NOW) was among Jim Cramer’s stock calls as he suggested that many red-hot stocks can keep making investors money. Cramer mentioned that the stock was hit recently after reporting its quarterly results because the report and guidance updates failed to get investors “excited.” After the close, we got results from ServiceNow, the cloud […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777087600000,
+      "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 139883955,
+      "headline": "Jim Cramer Notes Stocks Like Marvell Are “All on Fire”",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b4d8256429269aad0b2e2d6bdcf7a4a8b13fc7a7f60559282f692d482117c1c",
+      "summary": "Marvell Technology, Inc. (NASDAQ:MRVL) was among Jim Cramer’s stock calls as he suggested that many red-hot stocks can keep making investors money. Discussing stocks that he missed out on, Cramer said: Next, data centers are filled with networking software and hardware. Remember, the data center is stuffed with a huge number of chips from NVIDIA, […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777087596000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139883956,
+      "headline": "Jim Cramer Says He Shouldn’t Have Missed AMD and Intel",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d56f853ab3bb36df0ebdd5e1d57d3e9fe061f4e66761bf98489bff5ee642c473",
+      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) was among Jim Cramer’s stock calls as he suggested that many red-hot stocks can keep making investors money. Discussing stocks that he “couldn’t land” that have been going up recently, Cramer mentioned the company and said: Next up, central processing units, CPUs. You need to power agentic AI. These AI […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777087594000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139883957,
+      "headline": "AI chip surge pushes Taiwan, South Korea past UK in global market rankings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8349421c37c459088927b6d09abfa13d25f1ba24a0904ca7ed54482f0805249e",
+      "summary": "Investing.com -- A seismic reshuffling of global equity markets is underway as the artificial intelligence boom catapults Taiwan and South Korea past major European nations.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777087099000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139883969,
+      "headline": "Why AMD Stock Surged Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f20c400ec39cdaabe37344eb3533d948c714da0534a518e5c121fb2f1ea006d",
+      "summary": "A rival's success suggests the semiconductor industry is on the verge of another boom.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777083911000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139883985,
+      "headline": "3 Market-Beating Stocks to Research Further",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21ab9146d80c977c6eba311737aa493577263c96befd3ae830be6010e82bdf9f",
+      "summary": "The best-performing stocks typically have robust sales growth, increasing margins, and rising returns on capital, and those that can maintain this trifecta year in and year out often become the legends of the investing world.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777083683000,
+      "ticker": "HIMS",
+      "category": "company"
+    },
+    {
+      "id": 139883960,
+      "headline": "X-Energy (XE) Climbs 36% on Market Debut on Nuclear Demand",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b84972c41d7503b1afaf1be47e5d52cd9020ca851b424855a4eb7249200ee88f",
+      "summary": "X-Energy Inc. (NASDAQ:XE) is one of the 10 High-Flying Stocks With Double-Digit Returns. Amazon-backed X-Energy soared by as much as 36 percent in its first day as a publicly listed company, as investors gobbled up its shares amid the strong optimism and rosy prospects for the nuclear sector. X-Energy Inc. (NASDAQ:XE) opened the day immediately, […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777082603000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
     {
       "id": 139883400,
       "headline": "Intel Corp. (INTC) Soars to All-Time High as Revenues Climb on AI Demand",
@@ -10,6 +120,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777081124000,
       "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139884484,
+      "headline": "Nvidia market cap surges past 5 trillion dollars",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=79e8c150810727426bad15a5d4220da6311096039fd66d321a1ec8a908ec8483",
+      "summary": "Nvidia has reached a new milestone on Wall Street, with its market capitalization now exceeding 5 trillion dollars following a record close for its stock at $208.27 . This performance comes amid...",
+      "image": "",
+      "datetime": 1777080883000,
+      "ticker": "NVDA",
       "category": "company"
     },
     {
@@ -68,6 +189,17 @@
       "category": "company"
     },
     {
+      "id": 139884226,
+      "headline": "Semi Stocks Boost The S&P 500",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8b1363e7c0efaa79f2ae090db0cc3a87a22a04bc53b15cf6fe40a9d2893701e",
+      "summary": "Since the March 30th low, one of the best-performing areas of the stock market has been semiconductors.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214693325/image_2214693325.jpg?io=getty-c-w1536",
+      "datetime": 1777077000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
       "id": 139883375,
       "headline": "Why Intel Stock Skyrocketed Today",
       "source": "Yahoo",
@@ -120,6 +252,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777074900000,
       "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139883992,
+      "headline": "This Week's Market Wrap: Strong Earnings, Ceasefire Uncertainty, And Creeping Inflation",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a8e709f83485f7ea819169cd26523a4fefcdfd125d4448ec7a08a7523eb6b2fb",
+      "summary": "Semiconductor strength led by Intel and Texas Instruments drove index-level gains, while weak guidance and capex concerns punished software and select industrial names.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182036952/image_2182036952.jpg?io=getty-c-w1536",
+      "datetime": 1777074900000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -956,149 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777058155000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880476,
-      "headline": "Why Northrup Grumman Stock Sank This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8897c92bf604f0decd0b23167b42e61da093d6df0f8d8195aaf1eb3364547970",
-      "summary": "Despite budget increases, the contractor is facing uncertainty about future profitability for innovative projects.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777058082000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880505,
-      "headline": "Elastic Expands Google Alliance As New Tools Target Regulated Cloud Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2258092c610f0cf93dbe2ec26434e3545aea853c54430c7dde3fb055ee6eb491",
-      "summary": "Elastic (NYSE:ESTC) expanded its partnership with Google, integrating as the security layer for Google Distributed Cloud air-gapped environments. The company introduced native Prometheus metrics ingestion and PromQL support in Kibana to simplify observability workflows. Elastic launched agent-native MCP Apps for Security, Observability, and Search, embedding Elastic workflows into popular AI and coding platforms. Elastic (NYSE:ESTC) operates at the intersection of search, security, and...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777057518000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139880231,
-      "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=57fbda71592450f4e8d0911b7cbafc725583ff04126ea6c1144a6361c7a1f787",
-      "summary": "Curious about the S&P500 stocks that are in motion on Friday? Join us as we explore the top movers within the S&P500 index during today's session.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
-      "datetime": 1777057503000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139881755,
-      "headline": "One AI Stock Outpacing NVIDIA & Palantir - Why It's a Better Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6e20eea4d5a248e7dfd15615300c857473c1f041ecbb93d72d70553020ec6ad8",
-      "summary": "Micron's AI memory surge, pricing power and lower valuation challenge rivals, making MU a standout pick as demand and margins accelerate.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777057200000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 139880498,
-      "headline": "Anthropic says Google to pump $40 bn into AI startup",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=747be40a53f6cf43c341c36eda0740a20ca25e371ce2b9c74a75bbb85a136b91",
-      "summary": "Google is planning to invest up to $40 billion in Anthropic, the artificial intelligence firm confirmed Friday, expanding a long-standing alliance between the two companies.An Anthropic representative confirmed to AFP that the agreement sees an initial $10 billion investment from Google.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777056795000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139880499,
-      "headline": "Truist is Bullish on Amazon.com, Inc. (AMZN)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f3fc8f2e00ed2ba4b4e0c7afe9b7b3ce8b0013762399acfbaa334a03e45dd261",
-      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the 10 Best Performing Dow Stocks So Far in 2026. On April 17, 2026, Truist lifted its target price for Amazon.com, Inc. (NASDAQ:AMZN) to $285 from $280. The analysts kept their Buy rating before Q1 earnings. Truist expects its AWS business to grow faster than the expansion in e-commerce […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777056740000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139880478,
-      "headline": "Super Micro Computer Stock Jumps 9% Despite Oracle Canceling $1.4B Contract: What’s Really Driving the Move?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7821bd7abd9aee263f5913ab5b79103386586df8b779ab60d37f2c0b747b43d",
-      "summary": "Shares of Super Micro Computer (NASDAQ:SMCI) are up 9% in midday trading Friday, climbing to $29.06 from Thursday’s close of $26.75. The rally is striking given a challenging news cycle. SMCI stock is bouncing hard even after Oracle (NYSE:ORCL) reportedly canceled a contract estimated between $1.1 billion and $1.4 billion. The Oracle headline hit Thursday, ... Super Micro Computer Stock Jumps 9% Despite Oracle Canceling $1.4B Contract: What’s Really Driving the Move?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777056418000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139880493,
-      "headline": "Whether It's 'Disruption' or 'Renormalization,' AI Is Killing Tech Jobs—And It's Not Done Yet",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51af10bd20b5d4f94bc1addb85ca7eaf0c88cff10b413fbfde447abb3ceed623",
-      "summary": "Meta and Microsoft each confirmed plans to reduce headcount next month as they continue their aggressive investments in artificial intelligence.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777056410000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7844999,
-      "headline": "Witkoff and Kushner headed to Pakistan for Iran talks, White House says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2o2MElWYkdYMmwtWVN2eDdIVjlUTlJvWF9OcXl0WWFVNFVlZ2Q2Vzd5WHpKb2NSNzNTZm5xNzAzTVQ2czkybGtaandhNHdWeDZjd1NON0FUOUVaak5FcHhuaUd5dzhNZ0lGOUxDV01ZRzdlWUtuYnl5aE1wbUkwaVo4V2Z1el96NXdCUjQ5WnVyUHJkaG5XekJsWGpOWFJ1bFNkOEctZVBGcncxOHAxX3FuY3I?oc=5",
-      "summary": "Witkoff and Kushner headed to Pakistan for Iran talks, White House says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777056107000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 7845319,
-      "headline": "SLB seeks to pass on costs as Iran war disrupts supply chains - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHRLMnNmYmdLUlZ4U3lXNWUxemJUcXhHdDJoYjBjZXpBVmN4UktHTjlqTVZ6Y09NU3E5MnNNd2syQk41eXQxUFBEY09PMk1GOFE0NVNhUDBzQlhFV2VxNThtZ09ydk50cFdpNjBqYVYtMlN2VUtRYlJ0bXFuV01pSHpycEdmWXpIcmpCYWdVR1dzMGZnRXdyVUVNTmNRSnZnUEh6ZXhXYWdoUnFlUGlxbFZxdS1iMVVDUW9oYlFSaGVoZw?oc=5",
-      "summary": "SLB seeks to pass on costs as Iran war disrupts supply chains  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777055974000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 7845100,
-      "headline": "We're raising our price target on chipmaker Arm after its blistering rally",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/24/were-raising-our-price-target-on-chipmaker-arm-after-its-blistering-rally-.html",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108282352-1774374295227-gettyimages-2267714027-ARM_EVERYWHERE.jpeg?v=1777055543&w=1920&h=1080",
-      "datetime": 1777055886000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 7845527,
-      "headline": "US imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek5hSnM4QjlRSWpSdFcySk5iQ21HM1lVVVdpTEV6dkwwenNIOExENnBrTFhGNHJVT0NyR3hmMEQyMTkyWTF0RHhRdnhqRUxDOEtOdGtoVE1aTE02eWtZMFRpQnduVG5nc0RCMmZXRUhOd3Uxbk15bGVNeVZnOVY5eWNZUWFMMElWUG94Zm1PenByTGd1SlE3QTI3WWVQOFh1ZHo4ZzRoOWtTUUhQNjBPLVk3ZkRHZw?oc=5",
-      "summary": "US imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777055640000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139880507,
-      "headline": "Bank of America resets Google stock forecast ahead of earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7966261988d5333da08afbc90bd9756b7ca9bdbe420c4e5a27f59b02b857a535",
-      "summary": "Alphabet (GOOGL) has grown over time from a search engine into a hyperscaler. The company classifies its two revenue streams as Google Cloud and Google Services. The stock has gained about 8% year to date as of Friday morning, April 24, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777055580000,
-      "ticker": "GOOGL",
       "category": "company"
     }
   ]
