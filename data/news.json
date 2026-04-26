@@ -1,6 +1,138 @@
 {
-  "timestamp": 1777231779860,
+  "timestamp": 1777233995732,
   "items": [
+    {
+      "id": 139896257,
+      "headline": "Is SentinelOne, Inc. (S) A Good Stock To Buy Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1da0023b1857ae400d0a15132d3de3f6cc7cad1ac157c3324a05a85e65a46271",
+      "summary": "Is S a good stock to buy? We came across a bullish thesis on SentinelOne, Inc. on r/ValueInvesting by PerformanceProof6161. In this article, we will summarize the bulls’ thesis on S. SentinelOne, Inc.’s share was trading at $14.32 as of April 20th. S’s forward P/E was 42.19 according to Yahoo Finance. SentinelOne, Inc. operates as a cybersecurity provider in the United States and […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777232893000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139896258,
+      "headline": "Microsoft vs. Broadcom: Which AI Stock Is a Better Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=539f371f63a31a39ce15d23d76970d68cb0c57e5b77eef4afff8109eea49bb58",
+      "summary": "Both of these tech titans are riding the artificial intelligence wave, but one of them seems like a better long-term investment than the other.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777231560000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139896251,
+      "headline": "Dow Jones Futures Loom After Iran Talks Shelved; Apple, Amazon, Google Lead Earnings Wave",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=038fe6a3f80708473d31322d5521e9ec6db308f361b3dc72c647979917bfe1a9",
+      "summary": "The stock market is at highs but results and spending for Apple, Amazon, Google and more will be key. Iran talks were called off.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777230920000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139896263,
+      "headline": "Alphabet to invest $40 billion in thriving AI company",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f5a2fd86304951107b4b96241336522ccab291f80339c49f16c8e93131665a2",
+      "summary": "Four days ago, Amazon made a move that sent a signal across the AI industry. Now Google parent Alphabet (GOOGL) has answered with something even larger. And the company at the center of both bets -- Anthropic -- is one and the same. The scale of what is happening around Anthropic right now is ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777230780000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139896252,
+      "headline": "The Biggest Risk Facing This \"Magnificent Seven\" Trillion-Dollar Stock Is Something Investors Shouldn't Worry About Yet",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ade0bbefa761ccc3c00d67aaf66a36d4171a04cb876f094b58583bed8c8b427",
+      "summary": "Even the most dominant companies face uncertainty, a reality that the best investors know to be true.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777230600000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139896332,
+      "headline": "US Treasury Adds Venmo for Debt Donations as Strategic Bitcoin Reserve Bill Stalls",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b52ca3d6476c836672a2396f82e4f94719890082269adad08a5043eeb26ef82c",
+      "summary": "US Treasury now accepts Venmo donations toward the $39T debt as the Strategic Bitcoin Reserve bill stalls in Senate.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777229523000,
+      "ticker": "PYPL",
+      "category": "company"
+    },
+    {
+      "id": 139896253,
+      "headline": "Down 30% From Its All-Time High, Is Now the Perfect Buying Opportunity for Palantir's Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a184c6f07f62525331eb72713d6b5cffe09e56c1cab3312c33606f9bfa3894af",
+      "summary": "Palantir hasn't rallied to all-time highs like its peers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777229400000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139896274,
+      "headline": "The Key Metric Every Tesla Investor Is Focusing On",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73edf0b1d7e9789066df1f9fa34701ffef30c64e3e63755ad3c1a200d282a8e4",
+      "summary": "Growing capital spending commitments and uncertainty about the timing of future robotaxi revenue are the main points of debate around the leading electric vehicle company's stock now.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777228500000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139896260,
+      "headline": "Elon Musk vs. OpenAI: Kalshi Traders Push Odds to 45% as Trial Date Approaches",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33ca06bbe6484d9c286a8c3fe6a63ce6ef527dbfb2a459f461baf122b2fff43d",
+      "summary": "On Sunday, prediction market Kalshi traders kept repricing the contract on whether Elon Musk wins his lawsuit against OpenAI, with the market swinging between near coin-flip levels and deeper doubt as the April 28, 2026 trial date closes in. The prediction markets are signaling a toss-up in Elon Musk’s legal battle against OpenAI. On Kalshi, traders have pushed the odds to nearly 45%, suggesting growing belief that Musk could prevail in his lawsuit against the AI company he co-founded. The chopp",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777227370000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139896254,
+      "headline": "This Monster Dividend Stock Boasts the Free Cash Flow to Mint Millionaires",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9035a36e832b161572be497fe6986fdbfa8cb19adbc006c47baefa741e726c3a",
+      "summary": "Verizon is a dividend darling, and more importantly, it has the means to support long-term payout growth.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777226700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139896324,
+      "headline": "Is NOW (PSE:NOW) Pricing In Too Much After Recent Share Price Volatility?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b1f6914a2e46c3b33fd3f47f38c56a5883b91a420f6e2ce49d1cb858d97fa89",
+      "summary": "Wondering whether NOW at a last close of ₱0.56 actually offers value, or if the price is telling you to be cautious? This article focuses squarely on what that share price might imply. The stock has been volatile, with a 1.8% gain over the past 30 days, a 20.0% decline year to date and a 36.6% return over the last year, along with deeper 3 year and 5 year declines of 63.4% and 79.8%. Recent coverage around NOW has focused on its position in the local software space and how investors are...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777226663000,
+      "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 139896261,
+      "headline": "Veteran analyst delivers surprise message on tech stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=333873b60087bf154b6949db6c4a33c9ec7c92732d2c5409de69b69640acfcc5",
+      "summary": "Dan Ives just made a massive call that cuts straight through the noise on tech stock volatility. In an appearance on CNBC this week, the Wedbush tech analyst delivered an urgent message, layering his unshaken AI thesis onto a powerful signal. Despite the market’s sluggishness, Ives predicts tech ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777226580000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
     {
       "id": 139895789,
       "headline": "Nvidia Just Did This For the First Time Since October. Here's What Happens Next, According to History.",
@@ -967,138 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777196100000,
       "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139893479,
-      "headline": "Don't Buy Shiba Inu Until This Happens",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65ea1be370e93c31bf98ec25197d17dff8680047346447a4bb6a31c59e6cd123",
-      "summary": "If other companies can pivot into AI, why can't Shiba Inu?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777195920000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139894623,
-      "headline": "FEPI: A Battle-Tested 25% Yielder To Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=752911961f9010189260f8b5577fb70197bcd56529089a797463c6897fe9f635",
-      "summary": "",
-      "image": "",
-      "datetime": 1777194900000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139894622,
-      "headline": "Microsoft Q3 Preview: Why I See Upside Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=8d0489cb9964f4d93b546924258d67b0ea127977b4b3bc7d1f57e61df7c39be1",
-      "summary": "CapEx fever is breaking, with Microsoft's management guiding for a sequential decline in Q3 2026 CapEx as spending normalizes. Read why MSFT stock is a Strong Buy.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247146086/image_2247146086.jpg?io=getty-c-w1536",
-      "datetime": 1777194900000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139894831,
-      "headline": "NASA advisor turned $65 billion founder says ex-Intel CEO Andy Grove helped him get out of a crisis: ‘That’s a lesson I will take to my grave’",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d84d7a05b279efb8b2fde4a7ed79ba47d8dceab02b9cb1889b8a49e701da4d9e",
-      "summary": "Bloom Energy CEO K.R. Sridhar tapped former Intel CEO Andy Grove for wisdom during a company crisis—and he learned employees are the best kept secret in reversing course.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777194600000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139894595,
-      "headline": "Astera Labs: The Story Just Re-Entered The Bubble Phase (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6a75f4d22d6b57d1ef7e0926a419c39eadb7da54427fc9b83748d0bdf3b91568",
-      "summary": "",
-      "image": "",
-      "datetime": 1777194000000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139893488,
-      "headline": "The $1.75 Trillion Launch: Is SpaceX's IPO a Generational Buy -- or the Ultimate Bubble?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4e6b4b5928caaa6d8fe06e8aaaf56190ae8457669079935df8e4abd16fcfc04e",
-      "summary": "SpaceX could be a failure to launch after its historic IPO. But don't bet against this space pioneer.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777192440000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139893482,
-      "headline": "John Ternus Will Become Apple's New CEO in September. Is Now a Good Time to Buy the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a47ba94b8a135bcfd015450bcbe8cccde99ec7bc28a139dcb12da6505f23e7d",
-      "summary": "Investors may focus on the company's AI and product strategy.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777191900000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139894354,
-      "headline": "Intel: The Unlikely Turnaround Story",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1bf2b0c9c701dce177268b65fe4d51b21c9f9029e082e690b2e0a4ee03a8c3d8",
-      "summary": "Intel is positioned for long-term growth through advanced manufacturing, U.S. government support, and potential to capture market share. Learn why INTC stock is a buy.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1002010996/image_1002010996.jpg?io=getty-c-w1536",
-      "datetime": 1777191791000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139893480,
-      "headline": "Are You Reinvesting Your RMD in 2026? Here Are Your Best Options",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5d9b797275637ef3ce04deba53eff4c4540f5c48df47ed59e415d3bb338db47",
-      "summary": "There's at least one good RMD reinvestment option for every retiree.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777190640000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139893485,
-      "headline": "Snowflake Aims To Become AI Control Plane With New Enterprise Features",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a268bea4c33ebafe3172b74ec74c3e367ed923af3d4e9bfdf26f6f25245ea5b",
-      "summary": "Snowflake (NYSE:SNOW) has expanded Snowflake Intelligence and Cortex Code with new features aimed at supporting an agentic enterprise model. The updates focus on allowing both technical and non technical users to automate workflows and personalize experiences using AI. Snowflake now connects more directly with tools such as Salesforce, Google Workspace, and Slack, extending its reach across enterprise systems. For investors following NYSE:SNOW, this development sits at the intersection of...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777190562000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139894145,
-      "headline": "‘You feel radicalized’: A Meta AI exec watched agents beat her top workers. Now she’s built a nonprofit to help Gen Z find jobs before they disappear",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=74dc082644adbbd3d9e980d002f75f3e77a5d3dd58c89aac9eac53b9bf8b4ccc",
-      "summary": "Gen Z is facing AI-driven layoffs and fewer entry-level jobs. Former Meta and Salesforce AI head Clara Shih says young workers can future-proof their careers by learning how to use AI agents.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777190400000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139893481,
-      "headline": "The SpaceX and OpenAI IPOs Are Imminent. History Says the Stocks Will Do This When They Start Trading.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd7947809b0ac9de6a6b9c6e30ee09585106637ce7084851510903d8af855a78",
-      "summary": "SpaceX and OpenAI are preparing for blockbuster IPOs, but history says buying the stocks immediately is a risky move.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777190100000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
