@@ -1,6 +1,171 @@
 {
-  "timestamp": 1777223486006,
+  "timestamp": 1777226828396,
   "items": [
+    {
+      "id": 139895789,
+      "headline": "Nvidia Just Did This For the First Time Since October. Here's What Happens Next, According to History.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f16b4d49a44ad56692383d2e16e5b5013fc44f79ee6be17d6c4fc099a4f1426",
+      "summary": "Is Nvidia once again the ticket to an AI win?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777225800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139895841,
+      "headline": "HSBC resets Intel price target for the rest of 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=500c0cbc1215d471d0abc113283a250e0af6062c14e46064b28c1fcf44e565e8",
+      "summary": "Intel just delivered one of the most surprising earnings beats in the semiconductor sector this year. Revenue came in at $13.58 billion, well above the $12.32 billion analysts had expected. EPS hit $0.29, beating the consensus estimate of $0.01 by $0.28, according to Intel's Q1 press release. ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777225014000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139895790,
+      "headline": "Could a $25,000 Investment in Netflix Still Offer Generational Wealth?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e62e90957d84bf3b697a0087213fee7e8a5dae62876e01f16d4ff21df51cc866",
+      "summary": "An investment in Netflix can still be profitable, but times have changed.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777224780000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139895799,
+      "headline": "Popular Side Hustles Have Been Done To Death, But What 'Boring' Side Hustles Are Surprisingly Profitable, But Rarely Get Attention?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34e2b1e82143adaddfd8859453fb762ec5d8f29223814e321134ebd9f5234f82",
+      "summary": "Scroll through social media and you’ll see the same side hustle ideas on repeat: dropshipping, flipping sneakers, starting a YouTube channel. But many people are finding steady income in work that isn’t flashy at all. In fact, some of the...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777224670000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139895843,
+      "headline": "Lithium Americas Is the Worst-Performing Trump Stock — Is It a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3523cb0d8b613cdb2fb0c1315bc4ae0fa08cb385617d04bb0c44ba62f780a863",
+      "summary": "Government intervention in the market isn’t new, but the scale and scope of recent U.S. investments into strategic industries has few modern parallels. From semiconductors to rare earth minerals to defense systems, the Trump administration has directed billions into companies tied to national security and supply chain independence. Some of those bets are already paying ... Lithium Americas Is the Worst-Performing Trump Stock — Is It a Buy?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777224121000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139895791,
+      "headline": "Why This Cheap Warren Buffett Stock Isn't a No-Brainer Buying Opportunity in April",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f965060075a20db51261a3c9e9c01ee50f127be6f0aeb9097d7399f323056b7a",
+      "summary": "Even at a low forward price-to-earnings ratio of 8.7, this business merits a critical eye from investors.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777223100000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139895804,
+      "headline": "The Bull Case For Alphabet (GOOGL) Could Change Following Massive AI Bet On Anthropic Partnership",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=492ca4c44b71a9b752e37c2cfa4fcc3f30c137998df9cfd657ff330500f1d911",
+      "summary": "Alphabet’s Google confirmed it will invest up to US$40.00 billion in AI startup Anthropic, starting with US$10.00 billion in cash and up to US$30.00 billion tied to performance milestones, while deepening cloud and chip supply commitments across its rapidly expanding AI infrastructure footprint. This large-scale Anthropic commitment, combined with rising AI-focused capex and new TPU chips, underlines how central enterprise AI and cloud workloads have become to Google’s long-term business...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777223098000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139895800,
+      "headline": "Amazon’s (AMZN) Project Kuiper Could Add To Valuation After SpaceX IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0164e15fca3acd1fc5236acd891efbbe62d14f76133eedc6a15ef14b7e8f32d9",
+      "summary": "Amazon.com Inc. (NASDAQ:AMZN) is one of the 10 Best Stocks to Buy Before SpaceX IPO. On April 19, Barclays analysts backed Amazon to outperform other mega-cap tech stocks. In a note to analysts, the investment bank showed confidence in Amazon Web Services’ (AWS) ability to lead the company’s growth on the back of artificial intelligence […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777222435000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139895792,
+      "headline": "What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cdaaaaefbae76c15a3d4809e855017cee1175c18c187002dae0c5d2f57ad791",
+      "summary": "These companies are flourishing, and their shares are at attractive price levels.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777222200000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7854416,
+      "headline": "Cramer: Why all the money flowing to AI stocks is a problem — and how it can be fixed",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/26/cramer-the-money-to-ai-stocks-is-a-problem-and-how-it-can-be-fixed.html",
+      "summary": "Just as anything peripherally involved with the data center is blessed, anything even tangentially associated with pharma is a nightmare.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108291439-1776202127048-gettyimages-2217198328-MEMPHISMUSK.jpeg?v=1776202200&w=1920&h=1080",
+      "datetime": 1777222020000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139895801,
+      "headline": "Guggenheim Boosts Sirius XM (SIRI) Outlook, Rosenblatt Sees Major Upside Potential",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3aa120cfff02b7efba5c05344f5d1c1d53914c1098270a14125acaf8d2b58ed",
+      "summary": "Sirius XM Holdings Inc. (NASDAQ:SIRI) is included among the 10 Best May Dividend Stocks to Buy. On April 24, Guggenheim Partners raised its price recommendation on Sirius XM Holdings Inc. (NASDAQ:SIRI) to $34 from $29. It reiterated a Buy rating. The firm said it is updating its model ahead of Q1 earnings expected next week. […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777221968000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139895793,
+      "headline": "From Iran War Panic to New Peaks: How U.S. Indexes Rallied Right Through the Fear",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b477f13e6b4e9a6de24fb3912970973ff418ffebe0b096d63a54f2ca810647d",
+      "summary": "The market seems mostly unfazed by the latest flare-up in the Middle East. Here's what investors need to know.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777221300000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7854216,
+      "headline": "Trump tells Fox News Iran can call US if it wants to negotiate - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEwzUWFuMXB1eXNPcm15bzZCcEpvTlJuZVFibEpGVXo4MnVmZEtQdUFiSl9ERURqWGxEZkhCNTF3N1dRVmhaZVJnWGtoWldyV3BvY0xFOEgzZXZncTJVQXl0VXJYV0JfZzhtT09hN0tucmdaZHpRcnBVU2RxekZRcjFmN1pUTGc2X3Y0WnZNM2hQMm94QmVrTDFoZGFDeXlnYUt5cFZXSXlhOVpGeWdhOUtaWQ?oc=5",
+      "summary": "Trump tells Fox News Iran can call US if it wants to negotiate  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777221248000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139895794,
+      "headline": "Gas Prices Jumped 21% in March. Here's How That Could Raise Your Social Security Benefit Next Year.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=260876d30a55d749a15369d58ee33d814cf5a79fd943a0a25402660e6309affd",
+      "summary": "Social Security benefits get a bump nearly every year. The upcoming one could be a doozy.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777219500000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139895795,
+      "headline": "NVIDIA’s Company Wide Codex Rollout Puts AI Use And Valuation In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b17addb0336b2d50210226a6df987e9854627fe036175dfce5516a41bdb32981",
+      "summary": "NVIDIA (NasdaqGS:NVDA) is rolling out OpenAI's Codex AI coding agent, powered by GPT-5.5, across its global workforce. More than 10,000 employees are already using the agent across engineering, product, sales, marketing, finance, and operations. The deployment runs on NVIDIA's GB200 NVL72 computers with public backing from Jensen Huang and Sam Altman. The initiative positions NVIDIA as a large scale internal adopter of AI agents, potentially serving as a reference case for enterprise...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777219463000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 139895288,
       "headline": "The Nasdaq Is on Fire. Here Are the 2 Best Artificial Intelligence (AI) Growth Stocks That Still Look Cheap.",
@@ -33,17 +198,6 @@
       "datetime": 1777218362000,
       "ticker": "AAPL",
       "category": "company"
-    },
-    {
-      "id": 7854216,
-      "headline": "Trump tells Fox News Iran can call US if it wants to negotiate - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEwzUWFuMXB1eXNPcm15bzZCcEpvTlJuZVFibEpGVXo4MnVmZEtQdUFiSl9ERURqWGxEZkhCNTF3N1dRVmhaZVJnWGtoWldyV3BvY0xFOEgzZXZncTJVQXl0VXJYV0JfZzhtT09hN0tucmdaZHpRcnBVU2RxekZRcjFmN1pUTGc2X3Y0WnZNM2hQMm94QmVrTDFoZGFDeXlnYUt5cFZXSXlhOVpGeWdhOUtaWQ?oc=5",
-      "summary": "Trump tells Fox News Iran can call US if it wants to negotiate  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777217757000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139895290,
@@ -277,6 +431,39 @@
       "category": "company"
     },
     {
+      "id": 139895797,
+      "headline": "Investors Protecting Stocks at Record Eye Bets on Higher Rates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0d87d4834df22cde13911b27c48601e479ac8c56231dfef3b609821ba112039",
+      "summary": "(Bloomberg) -- As stocks hit record after record, some investors are taking to heart the saying: Hedge when you can, not when you must.Most Read from BloombergThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandGunman Detained, Trump Evacuated After Shooting at Press DinnerTrump Scraps US Trip for Iran Talks, Leaving Ceasefire in LimboThe Hottest Phone for Kids Right Now Is a $100 LandlineGoogle Plans to Invest Up to $40 Billion in AnthropicInvestors have been snapping up calls on techno",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777212000000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139895788,
+      "headline": "Earnings Calendar for the Week: A Star-Studded Lineup on the Markets",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2a9735161b630862aed107c76efe1ec32d80a926852f30e06854bb80ca71380d",
+      "summary": "Welcome to the corporate earnings calendar for the week of April 27 to May 1, 2026.The highlights this week include results from Microsoft, Exxon Mobil, LVMH, Alphabet, TotalEnergies, Airbus, Meta...",
+      "image": "",
+      "datetime": 1777211486000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139895796,
+      "headline": "Wall Street Brunch: Five Of The Mag 7 Ride Into Earnings Town",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4ff30bcd4ac5159dd432a24ae1e180ca4efcab66797c085c8d7e4fcdf418f971",
+      "summary": "Five of Magnificent 7 report in a packed week. Powellâs last FOMC decision as chief comes as Warsh faces vote. Berkshire meets without Buffett after steep underperformance.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170649971/image_2170649971.jpg?io=getty-c-w1536",
+      "datetime": 1777211462000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 139894791,
       "headline": "Amazon Stock: Buy, Sell, or Hold?",
       "source": "Yahoo",
@@ -428,6 +615,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777206664000,
       "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139895798,
+      "headline": "More than 90,000 tech workers have been laid off this year. But here’s why companies like Microsoft are offering voluntary buyouts instead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=009a275951e62eb472b58a0ecc41e71c43defd161e2d8686928556d60f21a74b",
+      "summary": "Buyouts target specific kinds of employees, says employment lawyer Domenique Camacho Moran.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777206600000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -901,204 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777188180000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139892917,
-      "headline": "Archer Aviation Is Still Under $7. Here's Whether Long-Term Investors Should Pounce.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=844472b423e0299596cd825fddc5f8ca3eb319f42274405fd69b5f6b4b86f515",
-      "summary": "Archer Aviation trades at half the value of Joby, but the gap between the two is narrowing. Should you buy while it's still trading under $7?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777187400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139892925,
-      "headline": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy With $5,000 and Hold for the Long Term",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6065a03658f323bc0c6d038a87029e5587375c2df959b7ffffdfd324d80b087c",
-      "summary": "Alphabet's vast cash position and profits give the company a lot of time to test out ventures and see them to completion.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777186140000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139892924,
-      "headline": "AI is boosting output rather than cutting jobs: analyst",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c756e9bfd2d96b1aadfbe83b19695abb9e3b23774e55d3769c2ee998bf37c81a",
-      "summary": "Investing.com -- The rapid integration of Artificial Intelligence into the U.S. workforce has long sparked fears of mass job displacement. However, new research from Morgan Stanley suggests a more constructive reality: AI is currently acting as a catalyst for growth rather than a replacement for human capital.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777185909000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139893773,
-      "headline": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=7c61ab97f427d2aeced7e3234a43cb92e2c151e088653ef1309ddb12753f009c",
-      "summary": "Track the weekâs biggest market catalysts: Magnificent 7 earnings, Fed decision, and key stock reportsâplus income insights on variable-distribution CEFs.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1651064790/image_1651064790.jpg?io=getty-c-w1536",
-      "datetime": 1777185206000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139893002,
-      "headline": "Is PayPal’s New NFL Peer‑to‑Peer Deal Reshaping The Investment Case For PayPal Holdings (PYPL)?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23e6480a00d52cc3dc03aed26881c6a5d3360112a39d0ada1c7f2dd8e89ba2a6",
-      "summary": "In April 2026, PayPal Holdings announced a new partnership making it the NFL’s official peer-to-peer payments partner, integrating its app across the league’s ecosystem and offering fans features like instant money transfers and access to sweepstakes for tickets and exclusive experiences. This deal, combined with Michael Burry’s recently disclosed increased position in PayPal, has sharpened investor focus on how the company’s peer-to-peer capabilities and broader payments platform fit into...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777183387000,
-      "ticker": "PYPL",
-      "category": "company"
-    },
-    {
-      "id": 7853292,
-      "headline": "Egypt economic outlook trimmed slightly due to Iran war: Reuters poll - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGxHY0FYUlpRV2MtNVBUZXFZaGRDTVNKMEJhRXNkN09BWGtIVVlKYmw4RVJsSkp0T3U5dFVRbC11NzBVdmRUakwyOFJBRnhTYW95ZmpvSWE2MXp4NnlyVzhOdGh5OVRFdU9oTVlYZ1FkSHJ6bEJsZHFEYlpYLTNoNVUzV19od0d3aUlRdS1MY1JIVTFUU3hKN0YzcnZ0c3lwdUV6dHBHRkpHdw?oc=5",
-      "summary": "Egypt economic outlook trimmed slightly due to Iran war: Reuters poll  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777183380000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139892241,
-      "headline": "The Mistakes I Keep Seeing ETF Investors Make With \"Set It and Forget It\" Funds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8f7adc7fbcbf9b4764e667e493505f8b67c45a1aa7eca1495719fa45c3472c6",
-      "summary": "Long-term buy-and-hold doesn't mean ignoring your portfolio altogether. Avoid this and other common pitfalls to maximize your portfolio's potential.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777182600000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139892207,
-      "headline": "SpaceX IPO: 2 Things Every Investor Should Understand Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ba198146225300c596d042adf7876fbcc898c9d930900733d40bc4f95a466ea3",
-      "summary": "The SpaceX IPO could upend multiple industries.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777181100000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139892208,
-      "headline": "3 Under-the-Radar Chip Stocks With Massive Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b8d34c22eb24c5162f80942b05ed48285bb65df36a250456cfa2d1e6f36974b3",
-      "summary": "Nvidia isn't the only way to invest in AI computing.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777180800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7852190,
-      "headline": "Iran executes man linked to militant group, Tasnim reports - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk9ZaV9UamZwMHMtUjVTbUNYbWNzdmVnZHluM2RDSEVFZmJLbWk1N2M4djNRRExINlN0SVFtY25LWnE3YVRqVTNUaWJ1WVRpdkpETlNsQV9zek95aVBvQ2xKV3VtRVgtUFFVZmlnTUNNbnBjclNhX3dWX19fV2haeThCb3JmX1V6UHNrZlY3cHdiZU5zVUVLeG45LXdLV0xzYkE?oc=5",
-      "summary": "Iran executes man linked to militant group, Tasnim reports  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777178220000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139892209,
-      "headline": "$1,000 and the Right Dividend Stock: This Is the One to Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1cba343a70c1d7e8fe9e97e043738d8d43ff06a6f04f431bbc306dc7f62b05a3",
-      "summary": "Among other wonderful traits, it boasts a hefty 5% dividend yield.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777178100000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139891686,
-      "headline": "Nvidia Needs to Watch Out for This Custom Chip Designer (Hint: It's Not Broadcom)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c88f8baa87af045a775cbad0c6d804024cfacb5f6aeb2664b32543d10949c13f",
-      "summary": "Amazon has already rolled out several successful generations of custom chips.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777175400000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139891697,
-      "headline": "Meta Employee Tracking For AI Training Raises Privacy And Valuation Questions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=37f9f67331f869614316c8273b2c75e67029909729e85e2c3cbee824d94e5f99",
-      "summary": "Meta Platforms is rolling out computer tracking software to employees as part of its Model Capability Initiative to train AI agents on white collar tasks. The system records keystrokes, mouse movements, and screen activity with no opt out, raising internal concerns about privacy and digital surveillance. This internal AI data collection effort aims to support more capable automation tools for office work, potentially affecting Meta's culture and regulatory risk profile. For investors...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777172839000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139891687,
-      "headline": "Better Growth Investment to Buy With $500: Ethereum vs. Strategy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=213bbb6eccd7ac932bb1fc86879d9353a7140012579093b990e8011dfa6a7abf",
-      "summary": "These two assets take very different approaches to generating value.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777171800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7853705,
-      "headline": "US intercepts sanctioned merchant vessel in Arabian Sea, Central Command says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVd1MEJ3aWtsdUtHQ3QyVUdlbzFXSllSUjJvX0pYVFFGLUZ4YjRSZDIwWVhSUmtKdXl6cDlEZ1J5dTBfT0I3dkRhWWNPOFpVb3cxd0E1Rnh5VVlMZjBjdkE1OVd5ZnpBckZtRF9XZEMwU1lpNXFVejRPVWZNSUlldGxyY1EtZ1pCZDBibHl3ZzZ1WEliM01oTGktNlpqN1B3bktVTmJGSThIUWRQV0sxVlNzalJfRmk5RlhZbmtpTS1mLUhFVUE?oc=5",
-      "summary": "US intercepts sanctioned merchant vessel in Arabian Sea, Central Command says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777170060000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139891688,
-      "headline": "A $25 Billion Buyback, Even Bigger Expectations: Netflix Faces Investor Doubts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=319309440d3f3cfa1f94678b971741ed7cc0de324ec19b8dd8f1beed4a89249f",
-      "summary": "Netflix could still be an investment to consider for long-term investors, but it's in a rough patch at the present moment.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777170000000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139891689,
-      "headline": "Nokia Alliances With Orange And RUCKUS Test AI Network Rerating",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd7ba7da18ea1a6a13baa8a712c4437e9cb9e08f9dfc2a4893ff572f68b6efe3",
-      "summary": "Nokia Oyj (HLSE:NOKIA) is expanding its AI driven network offering through new alliances with Orange SA and RUCKUS Networks. With Orange, Nokia plans to co develop AI powered 5G radio access network technologies using its anyRAN software and NVIDIA AI infrastructure. With RUCKUS Networks, Nokia is providing early access to an integrated Wi Fi 7 and Fiber Optical LAN solution aimed at high bandwidth enterprise use cases. Nokia enters these agreements with its share price at €8.946 and a...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777169176000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139891691,
-      "headline": "Dan Ives sends a blunt message to investors fleeing Oracle stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7f5797e494b1bf6d69fc0489e8f3351248a128faf1ac15c0b50add8edb94a4c",
-      "summary": "Wall Street has a short memory and an even shorter fuse. When a stock cracks, conviction tends to follow price, not the other way around. Investors who loved a company at $300 will quietly hate it at $145, even when the underlying business has barely budged. That pattern has been playing out in ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777168980000,
-      "ticker": "MSFT",
       "category": "company"
     }
   ]
