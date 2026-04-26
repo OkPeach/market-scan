@@ -1,9 +1,9 @@
 {
-  "timestamp": 1777239454302,
+  "timestamp": 1777241254792,
   "meta": {
-    "stocksTimestamp": 1777239428856,
-    "newsTimestamp": 1777237623963,
-    "sentimentTimestamp": 1777237623963,
+    "stocksTimestamp": 1777241229247,
+    "newsTimestamp": 1777241117670,
+    "sentimentTimestamp": 1777241117670,
     "tickersWithSentiment": 0,
     "tickersWithStddev": 17,
     "fallbackStddevPct": 1.5
@@ -31,7 +31,7 @@
       "price": 347.81,
       "base": 13.9128,
       "momentum": 0.0041820115998508715,
-      "stddev": 0.0018183414777539523,
+      "stddev": 0.001818341477753952,
       "usedFallbackStddev": false,
       "zBase": 39.75085714285715,
       "zMom": 0.01194860457100249,
@@ -78,16 +78,16 @@
       "name": "",
       "price": 90.17,
       "base": 6.3576,
-      "momentum": 0.01613114621879112,
+      "momentum": 0.016131146218775358,
       "stddev": 0.007013257300162453,
       "usedFallbackStddev": false,
       "zBase": 18.164571428571428,
-      "zMom": 0.04608898919654606,
+      "zMom": 0.04608898919650103,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 2,
       "newsSignal": 0.5493061443340548,
-      "score": 18.745311136071255
+      "score": 18.74531113607101
     },
     {
       "ticker": "TSM",
@@ -117,9 +117,9 @@
       "zMom": 0.019954117999905777,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 34,
-      "newsSignal": 1.7776740307447068,
-      "score": 13.491396699552533
+      "newsCount": 33,
+      "newsSignal": 1.7631802623080808,
+      "score": 13.482700438490557
     },
     {
       "ticker": "AMZN",
@@ -143,7 +143,7 @@
       "price": 675.03,
       "base": 2.4092,
       "momentum": 0.0021547863866131886,
-      "stddev": 0.0009369156379395038,
+      "stddev": 0.0009369156379395037,
       "usedFallbackStddev": false,
       "zBase": 6.8834285714285715,
       "zMom": 0.006156532533180539,
@@ -165,9 +165,9 @@
       "zMom": 0.00978720775243836,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 15,
-      "newsSignal": 1.3862943611198906,
-      "score": 6.94538890902036
+      "newsCount": 14,
+      "newsSignal": 1.354025100551105,
+      "score": 6.926027352679088
     },
     {
       "ticker": "GOOGL",
@@ -175,15 +175,15 @@
       "price": 344.4,
       "base": 1.6259,
       "momentum": 0.0042234188575613575,
-      "stddev": 0.0018363448587709037,
+      "stddev": 0.0018363448587709035,
       "usedFallbackStddev": false,
       "zBase": 4.645428571428571,
       "zMom": 0.01206691102160388,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 11,
-      "newsSignal": 1.2424533248940002,
-      "score": 5.4077173583335645
+      "newsCount": 9,
+      "newsSignal": 1.151292546497023,
+      "score": 5.353020891295378
     },
     {
       "ticker": "PYPL",
@@ -191,7 +191,7 @@
       "price": 50.48,
       "base": 1.4673,
       "momentum": 0.0288142918887647,
-      "stddev": 0.012526353100945227,
+      "stddev": 0.012526353100945225,
       "usedFallbackStddev": false,
       "zBase": 4.192285714285715,
       "zMom": 0.08232654825361344,
@@ -206,16 +206,16 @@
       "name": "",
       "price": 143.09,
       "base": 1.0737,
-      "momentum": 0.010165248826261906,
+      "momentum": 0.010165248826242044,
       "stddev": 0.004419675307615026,
       "usedFallbackStddev": false,
       "zBase": 3.067714285714286,
-      "zMom": 0.02904356807503402,
+      "zMom": 0.02904356807497727,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 1,
-      "newsSignal": 0.34657359027997264,
-      "score": 3.302387650489839
+      "newsCount": 0,
+      "newsSignal": 0,
+      "score": 3.094443496321803
     },
     {
       "ticker": "TSLA",
@@ -229,9 +229,9 @@
       "zMom": 0.011043965335743755,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 5,
-      "newsSignal": 0.8958797346140275,
-      "score": 2.516634772483671
+      "newsCount": 7,
+      "newsSignal": 1.0397207708399179,
+      "score": 2.6029393942192054
     },
     {
       "ticker": "GLD",
@@ -254,16 +254,16 @@
       "name": "Netflix Inc.",
       "price": 92.44,
       "base": -0.4094,
-      "momentum": 0.01573502222570458,
+      "momentum": 0.015735022225735328,
       "stddev": 0.006841055086866245,
       "usedFallbackStddev": false,
       "zBase": -1.1697142857142857,
-      "zMom": 0.04495720635915595,
+      "zMom": 0.044957206359243794,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 0,
       "newsSignal": 0,
-      "score": -1.176024736097179
+      "score": -1.1760247360971912
     },
     {
       "ticker": "AAPL",
@@ -271,15 +271,15 @@
       "price": 271.06,
       "base": -0.8668,
       "momentum": 0.005366138325625808,
-      "stddev": 0.0023331815888265354,
+      "stddev": 0.002333181588826536,
       "usedFallbackStddev": false,
       "zBase": -2.476571428571429,
       "zMom": 0.01533182378750231,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 9,
-      "newsSignal": -1.151292546497023,
-      "score": -3.1719033992784453
+      "newsCount": 12,
+      "newsSignal": -1.2824746787307684,
+      "score": -3.250612678618692
     }
   ],
   "risers": [
@@ -305,7 +305,7 @@
       "price": 347.81,
       "base": 13.9128,
       "momentum": 0.0041820115998508715,
-      "stddev": 0.0018183414777539523,
+      "stddev": 0.001818341477753952,
       "usedFallbackStddev": false,
       "zBase": 39.75085714285715,
       "zMom": 0.01194860457100249,
@@ -352,16 +352,16 @@
       "name": "",
       "price": 90.17,
       "base": 6.3576,
-      "momentum": 0.01613114621879112,
+      "momentum": 0.016131146218775358,
       "stddev": 0.007013257300162453,
       "usedFallbackStddev": false,
       "zBase": 18.164571428571428,
-      "zMom": 0.04608898919654606,
+      "zMom": 0.04608898919650103,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 2,
       "newsSignal": 0.5493061443340548,
-      "score": 18.745311136071255
+      "score": 18.74531113607101
     }
   ],
   "fallers": [
@@ -371,31 +371,31 @@
       "price": 271.06,
       "base": -0.8668,
       "momentum": 0.005366138325625808,
-      "stddev": 0.0023331815888265354,
+      "stddev": 0.002333181588826536,
       "usedFallbackStddev": false,
       "zBase": -2.476571428571429,
       "zMom": 0.01533182378750231,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 9,
-      "newsSignal": -1.151292546497023,
-      "score": -3.1719033992784453
+      "newsCount": 12,
+      "newsSignal": -1.2824746787307684,
+      "score": -3.250612678618692
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc.",
       "price": 92.44,
       "base": -0.4094,
-      "momentum": 0.01573502222570458,
+      "momentum": 0.015735022225735328,
       "stddev": 0.006841055086866245,
       "usedFallbackStddev": false,
       "zBase": -1.1697142857142857,
-      "zMom": 0.04495720635915595,
+      "zMom": 0.044957206359243794,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 0,
       "newsSignal": 0,
-      "score": -1.176024736097179
+      "score": -1.1760247360971912
     }
   ]
 }
