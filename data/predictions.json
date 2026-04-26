@@ -1,9 +1,9 @@
 {
-  "timestamp": 1777201428226,
+  "timestamp": 1777204374701,
   "meta": {
-    "stocksTimestamp": 1777201403751,
-    "newsTimestamp": 1777200794691,
-    "sentimentTimestamp": 1777200794691,
+    "stocksTimestamp": 1777204350228,
+    "newsTimestamp": 1777203938565,
+    "sentimentTimestamp": 1777203938565,
     "tickersWithSentiment": 0,
     "tickersWithStddev": 17,
     "fallbackStddevPct": 1.5
@@ -31,7 +31,7 @@
       "price": 347.81,
       "base": 13.9128,
       "momentum": -0.004181836714954365,
-      "stddev": 0.0017745195807886002,
+      "stddev": 0.0017745195807886,
       "usedFallbackStddev": false,
       "zBase": 39.75085714285715,
       "zMom": -0.011948104899869616,
@@ -78,32 +78,32 @@
       "name": "",
       "price": 90.17,
       "base": 6.3576,
-      "momentum": -0.016128544499710667,
+      "momentum": -0.016128544499694912,
       "stddev": 0.006844238311017537,
       "usedFallbackStddev": false,
       "zBase": 18.164571428571428,
-      "zMom": -0.04608155571345905,
+      "zMom": -0.04608155571341404,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 2,
       "newsSignal": 0.5493061443340548,
-      "score": 18.594601320407477
+      "score": 18.59460132040738
     },
     {
       "ticker": "TSM",
       "name": "",
       "price": 402.46,
       "base": 5.1743,
-      "momentum": -0.003614006080561944,
+      "momentum": -0.003614006080576067,
       "stddev": 0.0015335637448848302,
       "usedFallbackStddev": false,
       "zBase": 14.783714285714286,
-      "zMom": -0.010325731658748413,
+      "zMom": -0.010325731658788764,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 0,
       "newsSignal": 0,
-      "score": 14.802032605710352
+      "score": 14.802032605710425
     },
     {
       "ticker": "NVDA",
@@ -190,32 +190,32 @@
       "name": "",
       "price": 50.48,
       "base": 1.4673,
-      "momentum": -0.028805991646250292,
+      "momentum": -0.028805991646236224,
       "stddev": 0.01222446890602948,
       "usedFallbackStddev": false,
       "zBase": 4.192285714285715,
-      "zMom": -0.08230283327500085,
+      "zMom": -0.08230283327496064,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 1,
       "newsSignal": 0.34657359027997264,
-      "score": 4.441634307515782
+      "score": 4.441634307515762
     },
     {
       "ticker": "PLTR",
       "name": "",
       "price": 143.09,
       "base": 1.0737,
-      "momentum": -0.010164215608473928,
+      "momentum": -0.010164215608454069,
       "stddev": 0.004313161455155925,
       "usedFallbackStddev": false,
       "zBase": 3.067714285714286,
-      "zMom": -0.029040616024211225,
+      "zMom": -0.029040616024154486,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 2,
       "newsSignal": 0.5493061443340548,
-      "score": 3.407988569831929
+      "score": 3.407988569831908
     },
     {
       "ticker": "TSLA",
@@ -254,16 +254,16 @@
       "name": "Netflix Inc.",
       "price": 92.44,
       "base": -0.4094,
-      "momentum": -0.015732546705999093,
+      "momentum": -0.015732546705983723,
       "stddev": 0.006676186158486775,
       "usedFallbackStddev": false,
       "zBase": -1.1697142857142857,
-      "zMom": -0.04495013344571169,
+      "zMom": -0.044950133445667784,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 0,
       "newsSignal": 0,
-      "score": -1.1854879296851493
+      "score": -1.185487929685134
     },
     {
       "ticker": "AAPL",
@@ -305,7 +305,7 @@
       "price": 347.81,
       "base": 13.9128,
       "momentum": -0.004181836714954365,
-      "stddev": 0.0017745195807886002,
+      "stddev": 0.0017745195807886,
       "usedFallbackStddev": false,
       "zBase": 39.75085714285715,
       "zMom": -0.011948104899869616,
@@ -352,16 +352,16 @@
       "name": "",
       "price": 90.17,
       "base": 6.3576,
-      "momentum": -0.016128544499710667,
+      "momentum": -0.016128544499694912,
       "stddev": 0.006844238311017537,
       "usedFallbackStddev": false,
       "zBase": 18.164571428571428,
-      "zMom": -0.04608155571345905,
+      "zMom": -0.04608155571341404,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 2,
       "newsSignal": 0.5493061443340548,
-      "score": 18.594601320407477
+      "score": 18.59460132040738
     }
   ],
   "fallers": [
@@ -386,16 +386,16 @@
       "name": "Netflix Inc.",
       "price": 92.44,
       "base": -0.4094,
-      "momentum": -0.015732546705999093,
+      "momentum": -0.015732546705983723,
       "stddev": 0.006676186158486775,
       "usedFallbackStddev": false,
       "zBase": -1.1697142857142857,
-      "zMom": -0.04495013344571169,
+      "zMom": -0.044950133445667784,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 0,
       "newsSignal": 0,
-      "score": -1.1854879296851493
+      "score": -1.185487929685134
     }
   ]
 }
