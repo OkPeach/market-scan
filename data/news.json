@@ -1,6 +1,72 @@
 {
-  "timestamp": 1777237623963,
+  "timestamp": 1777241117670,
   "items": [
+    {
+      "id": 139896693,
+      "headline": "Is Cellebrite DI Ltd. (CLBT) A Good Stock To Buy Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8f772f290c07a7e5b7af8863f48c5f49f9eabff94a7a73181a5db94cd63e326",
+      "summary": "Is CLBT a good stock to buy? We came across a bullish thesis on Cellebrite DI Ltd. on Danny’s Substack by Danny Green. In this article, we will summarize the bulls’ thesis on CLBT. Cellebrite DI Ltd.’s share was trading at $13.38 as of April 20th. CLBT’s trailing and forward P/E were 43.16 and 35.71 respectively according to Yahoo Finance. Cellebrite […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777239192000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139896705,
+      "headline": "How Tesla's Latest Update Changed the Bull and Bear Case",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5db94993cd3ad2ca19b2c3e44e789977a58860108a1a761d6c5498d32ac8ba34",
+      "summary": "The update provided food for thought for both camps of investors.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777238700000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139896694,
+      "headline": "Record-Setting Momentum Rally Is Drawing Doubters",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a882d70ee2c493fd68bcbc33030a5db55bda5cbfad0b6ad1cfe463f3d4996e9",
+      "summary": "(Bloomberg) -- April’s rally in risk assets has weathered stalled peace talks, signs of resurgent inflation and a central-bank succession drama. Investors may be about to find out if the speed of the advance itself poses a threat to a further ascent.Most Read from BloombergThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandGunman Detained, Trump Evacuated After Shooting at Press DinnerSergey Brin Confronted Gavin Newsom at a Treehouse Party — Then Launched a Political WarTrump Scraps US",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777236614000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139896688,
+      "headline": "Amazon Stock Just Keeps Rising. Here's the Latest Catalyst Driving Shares Higher -- and a Close Look at the Stock.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=911abe381f416a0f82b850b63230e053f7bb3f988539bb6203d8158045080423",
+      "summary": "The tech giant just landed another AI infrastructure win.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777236360000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139896695,
+      "headline": "What Tim Cook built",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7eea05d6cc63d2c001277e345316d2781b994c95cb7d2188f2bf1488bad0412a",
+      "summary": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777234971000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139896689,
+      "headline": "This Key Roth Conversion Move Could Save You Hundreds of Thousands of Dollars",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85b14dbdbda63afbd8917bbb850ff2b5a0d091c920675a9a73d25fdfcc9fa818",
+      "summary": "It may require some flexibility on your part, but the savings could be worth it.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777233360000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 139896257,
       "headline": "Is SentinelOne, Inc. (S) A Good Stock To Buy Now?",
@@ -142,6 +208,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777225800000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139896706,
+      "headline": "Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14720abb191df2df8d4ac990f14697771acc99f98bb5b48718eb150dd752f15b",
+      "summary": "Musk said a \"supersonic tsunami\" of AI and robotics will bring about a world of zero scarcity.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777225625000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -571,6 +648,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777212177000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139896707,
+      "headline": "Better Later Than Never? Tesla Stock Hangs in the Crosshairs as Cybercab Finally Enters Production",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afbc65ec0ba8fc12473e1b54926207f1a75638b3bdc8f79b1b3d76951c592d3f",
+      "summary": "Despite a mixed Q1, Tesla’s story now hinges on execution as Cybercab finally moves from vision to reality, even with autonomy still a question mark.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777212002000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -1011,94 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777200058000,
       "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139894140,
-      "headline": "Calix Investor Day 2026: Calix 3.0 Rollout Complete, Eyes AI Agents and 15% Growth Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c96b023cec239b07725d5ea0efe40a74354ac25f4001ed701f68518c1aabb8d",
-      "summary": "Calix (NYSE:CALX) used its Investor Day 2026 event to outline what CEO Michael Weening described as the company’s next phase following the March 26 completion of its Calix 3.0 platform rollout. Weening said the migration marked the end of a 2.5-year effort and that “all of our customers are now on o",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777199859000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139894131,
-      "headline": "AI frenzy propels markets to record highs, fueling bubble debate",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3f772c5ac3fc95c99b999c958b3abb34ecbfafc50bb37937cb767cac1a518cc",
-      "summary": "Investing.com -- The stock market’s recent climb to record highs is being powered by a narrow, AI-driven engine, masking a broader and deeper decline in the average equity.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777199268000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139894132,
-      "headline": "I Don't Use the Term \"Generational Buying Opportunity\" Lightly. Here's Why It Applies to This \"Magnificent Seven\" Growth Stock.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a58187464390153fb4d355574fe5f80af58353c419d9b7013cfe5a0748ffdda2",
-      "summary": "Nvidia could remain the world's most valuable company for decades to come.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777199100000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139894133,
-      "headline": "Could This Cryptocurrency Help You Build a Fortune Over the Next Decade?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8fdc4325754ef6ce6455961cdbfccc3c7355e6529a33c70b231c7b86051093c0",
-      "summary": "Ethereum is perhaps the only cryptocurrency that touches everything else in the sector.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777198500000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139894151,
-      "headline": "Vanyar Launch Tests Depth Of Palantir Foundry And AIP Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bfcec4836fcaf76d87f1c540723e48ebecc730328f9d27381407241ca7103fe8",
-      "summary": "Vanyar, a specialist consultancy focused on Palantir Foundry and AIP, has launched to support enterprise AI adoption outside Palantir’s largest accounts. The firm is targeting clients across APAC and the Middle East that are looking to operationalise AI on Palantir’s platforms. This development reflects growing third party interest in Palantir’s software beyond direct contracts with NasdaqGS:PLTR. For readers tracking NasdaqGS:PLTR, Vanyar’s launch adds a new layer to the story around...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777197930000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 139894146,
-      "headline": "EXCLUSIVE: Ross Gerber Will Sell Some SpaceX Shares At $2 Trillion Valuation – 'How In God's Name Is It Worth So Much Money?'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ebdf31b9b812df810c21ebe46d19b0da95e7ba8d0e5139eb3fae2e6e722da84b",
-      "summary": "A highly anticipated SpaceX IPO could make Elon Musk a trillionaire and reward any private shareholders of the space company, including Gerber Kawasaki CEO Ross Gerber. In an interview with Benzinga, Gerber says he's likely to sell his SpaceX shares based on extreme valuations being assigned to the company. SpaceX IPO While some may view Gerber as a Tesla Inc critic and villain these days, he assures Benzinga that he's only a critic of Musk. Asked if Musk may keep his promise to give Tesla share",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777197673000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139893484,
-      "headline": "5 big analyst AI moves: Palo Alto and Reddit get fresh Buy calls, AMD upgraded",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29f83461675f8c94cdd0d37ab38763c6970f49bb6f8856b4c3f03686a39791d8",
-      "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777196102000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139893483,
-      "headline": "Amazon May Be Set to Seize a Once-in-a-Lifetime Opportunity. Here's How Investors Can Benefit.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=36d5b02c6d9d23d82605dc8f49f3af8510f511845a9851fda1f5d26ab90c62b3",
-      "summary": "Amazon may launch another high-potential business -- and it's related to AI.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777196100000,
-      "ticker": "AMZN",
       "category": "company"
     }
   ]
