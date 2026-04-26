@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777226828396,
+  "timestamp": 1777231779860,
   "items": [
     {
       "id": 139895789,
@@ -354,6 +354,17 @@
       "category": "company"
     },
     {
+      "id": 139896101,
+      "headline": "Invesco EQV International Equity Fund Q1 2026 Portfolio Review",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cd937073bf08661cea88978fa3259f931081b2a3980ad9afd5f7d6ee2787d43c",
+      "summary": "Invesco EQV International Equity Fund trailed the index primarily due to stock selection in financials and industrials. Read more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2249501702/image_2249501702.jpg?io=getty-c-w1536",
+      "datetime": 1777215480000,
+      "ticker": "TSM",
+      "category": "company"
+    },
+    {
       "id": 7853906,
       "headline": "Here are the 3 big things we're watching in the stock market in the week ahead",
       "source": "CNBC",
@@ -439,6 +450,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777212000000,
       "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139895913,
+      "headline": "Intel: Pump The Brakes",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b85cfd8f923ea0436f5dd3dc6195fecdeec70086dcbc46ebc6912fb8c1c8ecd",
+      "summary": "Intel stock surged nearly 300% on short-term CPU demand and price hikes, but valuation looks stretched. Read the full analysis here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1002010996/image_1002010996.jpg?io=getty-c-w1536",
+      "datetime": 1777212000000,
+      "ticker": "INTC",
       "category": "company"
     },
     {
@@ -1076,28 +1098,6 @@
       "summary": "SpaceX and OpenAI are preparing for blockbuster IPOs, but history says buying the stocks immediately is a risky move.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777190100000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139892915,
-      "headline": "Oil Has Doubled From $70 to $100-Plus Since the Iran War Began. How to Position Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f34debfc7f144b2057f0c79a37d07853f7603114905799f8ffe82238715efb3c",
-      "summary": "Higher oil prices could have a major impact on the economy in the coming months.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777189800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139892916,
-      "headline": "Intel Stock Is Soaring, Leaving Nvidia Shares in the Dust This Year. But Which Stock Is a Better Buy Today?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1904a8f64d7b50b37ee7ea4037380743a168fa5d3307c513bce4b5fb51acc3a6",
-      "summary": "Intel is proving that its turnaround is working. But Nvidia's business is still growing at a far faster rate than Intel's.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777188180000,
       "ticker": "NVDA",
       "category": "company"
     }
