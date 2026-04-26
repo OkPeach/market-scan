@@ -1,6 +1,171 @@
 {
-  "timestamp": 1777209750660,
+  "timestamp": 1777213490501,
   "items": [
+    {
+      "id": 139894791,
+      "headline": "Amazon Stock: Buy, Sell, or Hold?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71986529f58b96b97d64c735979c2ef857c2b7b81183fe07fec8bfbdf1c0e85f",
+      "summary": "Shares have rallied sharply ahead of earnings.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777211160000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139894792,
+      "headline": "Where Will Celsius Stock Be in 5 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7213746e095a7bdc7bf36f26e91d138b219481134400f9f93d11549cf1c802ef",
+      "summary": "This emerging energy drink business used to be a high-flying stock, but it now trades 65% off its peak.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777210800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139894793,
+      "headline": "Why I Just Bought Even More of These 3 Underappreciated AI Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6799239a060decad74643d7e672c8ffa63359a254c495fcb8ec47869e84a9384",
+      "summary": "These three AI stocks are going to get a lot more attention soon. Check them out before everyone else does.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777209900000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139894806,
+      "headline": "Here’s How Meta Platforms Gets to a $2 Trillion Valuation.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a124edf43a84c81bc292b0171d7e24bcae56cef7f2b4196f7eee5593f49d46d4",
+      "summary": "Meta Platforms (NASDAQ:META) sits at a $1.7 trillion market cap, putting it in rare air. Yet, the company has flirted with the $2 trillion mark multiple times over the past year, only to see momentum fade. Each time, the catalyst looked promising — strong ad results — but profit-taking and spending worries sent it retreating. ... Here’s How Meta Platforms Gets to a $2 Trillion Valuation.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777209683000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139894805,
+      "headline": "The Bull Case For NiSource (NI) Could Change Following New Data Center Power Deals With Alphabet, Amazon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d977f029a677fc5ccc59d31b11594fd9d11bb452c59ed4bf76190c06c0be7aca",
+      "summary": "NiSource Inc. recently announced long-term energy agreements with Alphabet and Amazon to power large-scale data centers in northern Indiana through its NIPSCO Generation LLC (GenCo) model, upgrading transmission infrastructure and enhancing grid reliability for customers and local communities. A distinctive feature of these deals is that the GenCo structure is expected to deliver approximately US$1.25 billion in aggregate customer cost savings and create a US$17.00 million community fund,...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777208787000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139894794,
+      "headline": "Nvidia Has 8% of Its Portfolio in This Under-the-Radar $10 Stock Set to Disrupt a $200 Billion Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be19aabe5767d0d5bde78aa5f88458349c04f45fb8c9c832ce3877898df611d1",
+      "summary": "Nvidia invested $1 billion in Nokia back in October.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777208640000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139894795,
+      "headline": "NIO Chip Push Raises New Questions For Volatile Stock Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2963e4c29d770c333f404d35b1844148232ce8040bf5d3965b7670737d67f6d4",
+      "summary": "NIO has started developing its own automotive chips to reduce reliance on external suppliers like Nvidia. The new in house chips are intended to support NIO's AI driven features and differentiate its EV lineup. This move marks a shift in how NIO approaches hardware and supply chain control within its vehicle platform. For investors watching NYSE:NIO, this chip effort comes as the stock trades around $6.21, with a 54.1% return over the past year and a 20.8% return year to date. Those figures...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777208583000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139894801,
+      "headline": "Elon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab7511bfefbb729f28d7e9863c003c1a511729b52d5ba6f41d575ed76d84a460",
+      "summary": "Elon Musk's lawsuit against Sam Altman and OpenAI goes to trial Monday, and the fate of the company's future may hang in the balance.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777208400000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139894816,
+      "headline": "Elon Musk: America will '1,000%' go bankrupt due to debt — here’s what he claims can save the country",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9187af118c5c7284f9ab42052e1b9150d0a841e07596fe51bebe5bf9cd699c9a",
+      "summary": "'Nothing else will solve the national debt.'",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777208400000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139894796,
+      "headline": "Got $1,000 to Invest in Crypto? Here's How to Think About Allocating It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9a95ab5c1d936a475c27e01fbd6beae57f3ffbd7901c032f976b7955dad7e45",
+      "summary": "Creating a diversified, high-upside crypto portfolio is easier than you might think.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777208220000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7853596,
+      "headline": "I’ve studied over 200 kids—parents who have the closest relationships with their adult kids never do 6 things",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/26/psychologist-parents-who-have-close-bonds-with-their-adult-kids-never-do-6-things.html",
+      "summary": "Every parent hopes their adult child will still want to call, still want to come home, and still choose to let them in. Child psychologist Reem Raouda, who has studied over 200 kids, shares what not to do if you want your kids to stay close with you later on in life.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297203-1777066249001-Three_generations_laughing_women_mom_grandma_girl_-2272700498-Getty.jpg?v=1777066503&w=1920&h=1080",
+      "datetime": 1777207848000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139894797,
+      "headline": "Prediction: This Cryptocurrency Will Go Parabolic Following the SpaceX IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4531b6350a765291f903155e889ddaaf90c0d7c4fa32bb4a49931cb0118fe5c9",
+      "summary": "SpaceX holds Bitcoin on its balance sheet, but I see another cryptocurrency poised for gains following SpaceX's IPO this summer.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777207560000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139894799,
+      "headline": "AEye Shares Surge On Key Executive Hire: What Investors Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=273bd3f721a865b564936ad2baf23e5a9b2f69984e3d96efc79eafacbce5be86",
+      "summary": "AEye Inc shares are rallying Friday morning following the appointment of Paul Berton as the company's new Vice President of Operations and Quality. Here’s what investors need to know. Former Lucid Motors and Apple Executive Joins AEye Leadership Berton brings a resume from Lucid Motors, where he led manufacturing and engineering for low-voltage ECUs across more than 30 products. His background also includes leadership roles at Apple and Intel. Don't Miss: A single bad hire can set a startup back",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777206664000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139894798,
+      "headline": "History Has a $1 Trillion Warning for SpaceX and Its Prospective Shareholders",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d46d00608d147a0616de5f5eeb4d66f0ae59f851e9aa8d1a217359f4b2344b7",
+      "summary": "Popularity doesn't necessarily translate to profits on Wall Street.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777206360000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139894808,
+      "headline": "Alphabet Gets Street Backing As Cramer Doubles Down On $400 Target",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b5dd4cdbf7e2a725cc8218903c10b2b78c4a2b8cd1423af97df83473479f56d",
+      "summary": "On CNBC's “Mad Money Lightning Round,” Jim Cramer said Alphabet Inc. is going to $400. Supporting his view, BMO Capital analyst Brian Pitz, on Wednesday, maintained Alphabet with an Outperform rating and raised the price target from $400 to $410. JPMorgan analyst Doug Anmuth reiterated an Overweight rating on Monday with a $395 price forecast for Alphabet. The firm named the tech giant a \"Top Pick\" just as the Google Cloud Next event kicked off in Las Vegas. Don't Miss: Think Your ‘Safe' Stocks",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777204940000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
     {
       "id": 139894121,
       "headline": "This Once-Loved Growth Stock Is Down Hard From Its Highs -- Is Duolingo the Best Bargain of 2026?",
@@ -33,6 +198,17 @@
       "datetime": 1777203900000,
       "ticker": "MSFT",
       "category": "company"
+    },
+    {
+      "id": 7853496,
+      "headline": "Iran's Araqchi discusses efforts to end war and Hormuz security with Oman - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0dPOXZSMDAzdFNTT2tRUW43eDlxMFhNa2NiX2daQlFGVUo3aFBUUDdZVDgyUzZWa01LM2lqN3ppc0tteDUxWWQ1MmZ6SkRtdHBObHYxUlpiRDZKOWU0dHpHNXQ0YWI3ZjRpS1NXWm11VUZMQ0hVME5UaW1IQWQ4YWR3WHNsZ3NPNnk1NHQ4M1hLV2VEamVvODRXX0Y5cDUzLVg2TlRjVXp2NlQ0d1JWNld0ZVVKNGdtV3N3?oc=5",
+      "summary": "Iran's Araqchi discusses efforts to end war and Hormuz security with Oman  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777203223000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139894123,
@@ -68,6 +244,17 @@
       "category": "company"
     },
     {
+      "id": 7853497,
+      "headline": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
+      "summary": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777202168000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139894126,
       "headline": "Oklo Is Interesting, but This Nuclear Stock Is a Better Buy",
       "source": "Yahoo",
@@ -76,6 +263,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777201320000,
       "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139894809,
+      "headline": "Here's How Much Google Parent Alphabet's Stock Is Expected to Move After Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbbb8ffa4cdcce012d078e228dcb9145ccb010e95e214fddc0f917ee8d434978",
+      "summary": "Google parent Alphabet is due to report earnings Wednesday afternoon, with shares seen potentially hitting fresh records following the results.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777201200000,
+      "ticker": "GOOGL",
       "category": "company"
     },
     {
@@ -251,6 +449,28 @@
       "summary": "",
       "image": "",
       "datetime": 1777194900000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139894622,
+      "headline": "Microsoft Q3 Preview: Why I See Upside Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8d0489cb9964f4d93b546924258d67b0ea127977b4b3bc7d1f57e61df7c39be1",
+      "summary": "CapEx fever is breaking, with Microsoft's management guiding for a sequential decline in Q3 2026 CapEx as spending normalizes. Read why MSFT stock is a Strong Buy.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247146086/image_2247146086.jpg?io=getty-c-w1536",
+      "datetime": 1777194900000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139894831,
+      "headline": "NASA advisor turned $65 billion founder says ex-Intel CEO Andy Grove helped him get out of a crisis: ‘That’s a lesson I will take to my grave’",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d84d7a05b279efb8b2fde4a7ed79ba47d8dceab02b9cb1889b8a49e701da4d9e",
+      "summary": "Bloom Energy CEO K.R. Sridhar tapped former Intel CEO Andy Grove for wisdom during a company crisis—and he learned employees are the best kept secret in reversing course.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777194600000,
       "ticker": "INTC",
       "category": "company"
     },
@@ -880,226 +1100,6 @@
       "datetime": 1777147851000,
       "ticker": null,
       "category": "business"
-    },
-    {
-      "id": 139890027,
-      "headline": "Adobe Is Buying Back $25 Billion of Its Shares. Will It Halt the Price Decline?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2b1257258302356c659517128405b800eadbd779f7b3593db3d0fb639ade397f",
-      "summary": "Adobe announced another measure to halt the long decline of its share price.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777147020000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889482,
-      "headline": "Amazon's Partnership With Anthropic Keeps Deepening. Is This the Catalyst Amazon Stock Needs?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=41b64328ce185c5a613af790752c50f99cd3992b449013a441672e260208918d",
-      "summary": "The e-commerce and cloud computing giant's recent $25 billion investment plan in Anthropic captures its aggressive push into artificial intelligence.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777145820000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139889483,
-      "headline": "Why Mueller Industries Stock Soared This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d0db951032ced7515ebf2f45fb96a77b6d38883a7788881f6f6826a79e8c083",
-      "summary": "The company set a new high-water mark last quarter.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777145321000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889484,
-      "headline": "This Ultimate AI Stock Has Gained 26% This Year and Still Isn't Done",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1bc65bf194b71f65187e85c9a51ea1013b7c91977f24edd8fe3f6b48376078a6",
-      "summary": "Taiwan Semiconductor Manufacturing produces almost every artificial intelligence (AI) chip.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777145220000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889499,
-      "headline": "Alphabet’s US$40b Anthropic Bet Tests AI Capex And Cloud Economics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf207cae5f1dbdc16593035f6ea77b1a9b04dccad99defa91ed867246c53a397",
-      "summary": "Alphabet announces plans to invest up to $40b in Anthropic, deepening their AI partnership. As part of the deal, Anthropic will use Google Cloud as its primary AI infrastructure provider. The agreement includes long term commitments around cloud capacity and access to Alphabet’s TPU chips. Alphabet, listed as NasdaqGS:GOOGL, is tying this large AI commitment to a share price of $344.4. The stock has returned 18.4% over the past 30 days and 9.3% year to date, with a 1 year return of 113.4%...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777143802000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139889496,
-      "headline": "Why Amazon (AMZN) Stock Is Trading Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=78f06359208be073e2247222b415213eca98111a391471480c7aebb69dc7ff67",
-      "summary": "Shares of cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) jumped 3.5% in the afternoon session after Meta struck a multi-billion dollar deal with its Amazon Web Services (AWS) division and multiple analysts raised their price targets on the stock.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777143683000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139889560,
-      "headline": "Why Are ServiceNow (NOW) Shares Soaring Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac928686397634081e4f31bd2afe3571d4ea3fdb0e85dcc76c483f6711e6c099",
-      "summary": "Shares of enterprise workflow automation company ServiceNow (NYSE:NOW) jumped 5.5% in the afternoon session after the stock rebounded from a steep sell-off that followed its first-quarter earnings report.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777143683000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 139889485,
-      "headline": "Tesla Is Down After Its Earnings Report. Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dec2174062c50f3d38ee761e12f49c096aea94b52ac49b2cea7edfddaa1b8b95",
-      "summary": "The electric-vehicle company is entering a period of heavy investment, and investors will need some patience.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777143360000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889486,
-      "headline": "Nvidia is now worth more than every economy except two",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=522fab7453e5b6dcd2ae23e0f5e4e1cef89752a96cfc5915b402964773e868b0",
-      "summary": "The first time I saw the number, I went back and checked it again. On Friday, Nvidia’s stock closed up 4.3% at $208.27, lifting the company’s market value past $5 trillion for the first time ever, according to CNBC. That means a chip company that spent most of its life making graphics cards is now ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777142826000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889487,
-      "headline": "Why International Stocks Could Massively Outperform U.S. Equities in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbe0da8407a41b6ec422363a0f28db3803fa9c05732dd41ade0a34725f932277",
-      "summary": "One reason is obvious, while the other one isn't exactly difficult to believe.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777142100000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889497,
-      "headline": "Why Meta (META) Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06d2c605b94f0c4d7d007b76136208a069e0e856897af4128a6a42537bed8fef",
-      "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) jumped 2.7% in the afternoon session after the company announced a multibillion-dollar partnership with Amazon to scale its \"agentic AI\" capabilities.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777141763000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139889488,
-      "headline": "3 Dangerous Dividend ETFs to Sell Before May and Go Away",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b62a7605b7dfe9e1ff37e9d95e7dc3eb1528521f9bebab904c1f73f64730389",
-      "summary": "Not all that glitter is gold, and it is a good time to sell the glitter and buy something better instead. ETFs like the Invesco KBW High Dividend Yield Financial ETF (NASDAQ:KBWD), Global X NASDAQ 100 Covered Call ETF (NASDAQ:QYLD), and Global X SuperDividend US ETF (NYSEARCA:DIV) are worth dumping before the market turns on them. ... 3 Dangerous Dividend ETFs to Sell Before May and Go Away",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777141121000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889489,
-      "headline": "Why Pegasystems Stock Plummeted This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4cf781769fb550a67aafa6471ab6da50a56b47a7b3af11717d5c159c1c31dccb",
-      "summary": "Pegasystems' sales dropped roughly 10% year over year in Q1, and investors are wondering what comes next.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777141049000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889494,
-      "headline": "Microsoft Buyout Signals AI Focus And Generational Shift In Workforce",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d4af4b9f3974fc0405fae93b77abf86a66ecda752ca56d97d6a9b8654542f2e",
-      "summary": "Microsoft (NasdaqGS:MSFT) has launched its first large scale voluntary buyout program in the U.S., targeting roughly 7% of its domestic workforce. The offer is aimed at senior director level and below employees who meet a defined age plus tenure threshold. The program is tied to the company’s push to reorient its organization around AI and follows significant AI related capital expenditure. For you as an investor, this move points to a meaningful reset in how Microsoft (NasdaqGS:MSFT)...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777140394000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139889490,
-      "headline": "How Oracle’s Canceled Nvidia Server Order At Supermicro (SMCI) Has Changed Its AI Infrastructure Investment Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=864308bc5978237cb4a2268f30c552a545fd27d20013193b62c3191537049a4c",
-      "summary": "In mid-April 2026, Super Micro Computer disclosed new compact, energy‑efficient edge AI systems built on AMD’s EPYC 4005 “Zen 5” processors, targeting constrained retail, manufacturing, healthcare, and branch environments with enhanced security, remote management, and optional GPU acceleration. Around the same time, reports that Oracle canceled between 300 and 400 Nvidia‑based server racks from Super Micro, worth an estimated US$1.05 billion to US$1.40 billion and linked to export‑control...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777140357000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139889523,
-      "headline": "The \"Great Rotation\" Out of Tech Is Fading. Here Are the Best Artificial Intelligence (AI) Growth Stocks Poised to Benefit.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d59bcac26e3805e168569fb26afc6f512573374232f56b8db0c4dd7860f9bf58",
-      "summary": "The three AI stocks look like great buys right now.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777140300000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139889491,
-      "headline": "1 Reason I'm Never Selling Netflix Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4534f0579c809d524c91bd04b5a8960abad4c428c41b4e9b079a46d7ad94f4c9",
-      "summary": "Netflix stock dropped 12% after beating earnings estimates. Here's why that actually makes me more confident in my investment.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777139940000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139888927,
-      "headline": "3 Cloud Computing ETFs to Buy as Enterprise AI Spending Accelerates in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2e775a60128ebfe3fa6e6f479b1b8db504067dafa1034f80cfaad9dd7ab0af98",
-      "summary": "Enterprise digital transformation remains the primary driver of demand for public and hybrid cloud services. Companies continue shifting workloads to the cloud, and AI‑driven infrastructure spending has added another layer of momentum. The profit engine behind software, IT services, and cloud platforms has expanded meaningfully over the past few years as that migration continues. The ... 3 Cloud Computing ETFs to Buy as Enterprise AI Spending Accelerates in 2026",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777138626000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139888932,
-      "headline": "'AI Can Write Code, But It Can't Climb A 12-Foot Ladder': Lowe's CEO Draws A Line — OpenAI Chair Is Not Convinced That AI Runs All Consumer Decisions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52092589bb7f25e1d38feccd674650fc73be68713d7ac0c0226579c1ffcfab7d",
-      "summary": "Lowe’s (NYSE:LOW) CEO Marvin Ellison is downplaying fears that AI technology would lead to huge job losses for the U.S. economy. As technology companies increase their exposure to artificial intelligence, there are fears of a huge worker displacement. U.S. ‘Big...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777138276000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139888914,
-      "headline": "Is This Tech Giant the Next Potential Winner in the GLP-1 Weight Loss Boom?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=325ece676c11acf82c87dd7ddfc572d5fdc91cb64a950d26fce7f3bb0cac6a6f",
-      "summary": "The weight loss drug market may reach almost $100 billion in a few years.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777137900000,
-      "ticker": "NVDA",
-      "category": "company"
     }
   ]
 }
