@@ -1,6 +1,50 @@
 {
-  "timestamp": 1777176254283,
+  "timestamp": 1777184724169,
   "items": [
+    {
+      "id": 139892241,
+      "headline": "The Mistakes I Keep Seeing ETF Investors Make With \"Set It and Forget It\" Funds",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8f7adc7fbcbf9b4764e667e493505f8b67c45a1aa7eca1495719fa45c3472c6",
+      "summary": "Long-term buy-and-hold doesn't mean ignoring your portfolio altogether. Avoid this and other common pitfalls to maximize your portfolio's potential.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777182600000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139892207,
+      "headline": "SpaceX IPO: 2 Things Every Investor Should Understand Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba198146225300c596d042adf7876fbcc898c9d930900733d40bc4f95a466ea3",
+      "summary": "The SpaceX IPO could upend multiple industries.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777181100000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139892208,
+      "headline": "3 Under-the-Radar Chip Stocks With Massive Upside",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8d34c22eb24c5162f80942b05ed48285bb65df36a250456cfa2d1e6f36974b3",
+      "summary": "Nvidia isn't the only way to invest in AI computing.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777180800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139892209,
+      "headline": "$1,000 and the Right Dividend Stock: This Is the One to Buy Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cba343a70c1d7e8fe9e97e043738d8d43ff06a6f04f431bbc306dc7f62b05a3",
+      "summary": "Among other wonderful traits, it boasts a hefty 5% dividend yield.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777178100000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 139891686,
       "headline": "Nvidia Needs to Watch Out for This Custom Chip Designer (Hint: It's Not Broadcom)",
@@ -1054,50 +1098,6 @@
       "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777128323000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887871,
-      "headline": "1 Reason I'd Still Buy Amazon Stock Hand Over Fist and Never Sell",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7459ca3751cc944cea364ce7593a6155db62ee755fbef82d0af032d0728468e0",
-      "summary": "Amazon is a top stock to buy for the long haul.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777128300000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139887872,
-      "headline": "Semtech, Entegris, and Impinj Shares Skyrocket, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f324ade891a5bd546b569d50acf21b34cf4999d882c0d213a934f093f6d712e7",
-      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777127843000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887890,
-      "headline": "Elon Musk makes shocking admission about Tesla",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2349289993f1bc87f33dacdd5a63ca52292f1793369bc0768d7dc0050f952dac",
-      "summary": "For years, Tesla sold millions of cars with a promise attached: Pay extra for Full Self-Driving, and your vehicle would eventually drive itself. Software updates would get it there. The hardware was ready. On April 23, Elon Musk finally said out loud what Tesla owners had suspected for a long time. ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777127820000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139887873,
-      "headline": "Is Pfizer's 6% Dividend Yield Safe? Here's What Investors Need to Know.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8a5aec7d35b07d02d74a6b5410751e2b6c6632946737e761d698795dc5d64cb2",
-      "summary": "Pfizer's vaccine business cooled off, and it is on its back foot in the GLP-1 race, but don't count the drug giant out.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777127700000,
       "ticker": "NVDA",
       "category": "company"
     }
