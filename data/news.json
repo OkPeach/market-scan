@@ -1,6 +1,72 @@
 {
-  "timestamp": 1777158447317,
+  "timestamp": 1777161940268,
   "items": [
+    {
+      "id": 139890519,
+      "headline": "Should You Add a Healthcare Stock to Your Portfolio This Month? And Should It Be Eli Lilly (LLY)?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b8f60cf37f1b7fb7cfe7f0a903c6a408d3b2388bce31bb7d47fc4d6c077188e",
+      "summary": "Eli Lilly is a giant in the weight-loss drug realm, and it's aiming to grow more.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777159500000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139890518,
+      "headline": "SpaceX's IPO Is Imminent. Here Is One Space Stock Soaring as a Result.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=322a10c6efc779061fa6662d317f9cebced7a86bfc74439809187e041e311598",
+      "summary": "SpaceX's IPO is coming, but there are a few other space stocks worth consideration.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777159500000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139890520,
+      "headline": "Looking to Buy the Tech Turnaround? This Low-Cost Vanguard ETF Might Be Your Best Entry Point.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d546870d58a8fffdb111a74e0318bd3115e713f276a3a803e51c2deb74a4bd7",
+      "summary": "You get the upside of the sector, while minimizing some of the risks.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777159320000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139890521,
+      "headline": "The $720 Billion Capex Trap: 2 Artificial Intelligence (AI) Hyperscalers Spending on Growth While the Rest Spend on Maintenance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8ac58b0502e488df5e5bff7173e959ca584a022939ba5ee12b437c13ab21147",
+      "summary": "The big five hyperscalers plan to spend a total of more than $700 billion on artificial intelligence (AI) infrastructure this year.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777157460000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139890530,
+      "headline": "Morgan Stanley issues blunt take on Tesla stock after earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=383d2ddcb8f3d2ade57e8ddd7d9d27ce0f8189e19ac8247fe9d105f20e2b356a",
+      "summary": "Morgan Stanley is still bullish on Tesla’s (TSLA) long-term story, but it doesn’t think investors should ignore the messy middle. Tesla released its Q1 2026 earnings report on Wednesday, April 22, 2026, to a mixed response, though the numbers looked good on the surface. According to Seeking ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777156380000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139890531,
+      "headline": "Intel CEO Lip-Bu Tan Is Excited About Partnering With Tesla On 14A Chips: 'Can Think Of No Better Partner' Than Elon Musk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c39c3386c0659de1915bbb60dbb72e3b69da97abc4d1789af662c0838d22fb64",
+      "summary": "In 2025, Intel Corp CEO Lip-Bu Tan said the company could exit its chip manufacturing business if it failed to secure external customers. Today, the company's shares surged as Elon Musk's Tesla Inc. signaled plans for a deal. Musk Partnership Sparks Intel Rally The rally followed Intel's strong first-quarter earnings and comments from CEO Tan, who highlighted a deepening collaboration with Musk's companies, including Tesla, SpaceX and xAI. \"I can think of no better partner than Elon Musk,\" Tan s",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777154470000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
     {
       "id": 139890021,
       "headline": "Prediction: Artificial Intelligence (AI) Stocks Will Lead the Nasdaq to New Highs. Here Are the 3 Best to Buy Now.",
@@ -519,6 +585,28 @@
       "category": "company"
     },
     {
+      "id": 139890532,
+      "headline": "Dan Ives: Tesla Is ‘Morphing into a Physical AI Stalwart’ So Don’t Sweat the CapEx and Just Buy TSLA Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3689a8f2d5732fc447d2b3a1b7f4427f01a1e0af4f03215942e07a2eb065c6ef",
+      "summary": "Wedbush’s Dan Ives is bullish on Tesla despite its increasing CapEx.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777132802000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139890523,
+      "headline": "Why Cohere is merging with Aleph Alpha",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1fbc14852cb885fc5931508f8e4ae292744693cb928912c2edfebe3d088f021",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777132800000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 7849480,
       "headline": "Trump says he canceled US negotiators' trip to Pakistan for Iran talks, Fox News reports - Reuters",
       "source": "Reuters",
@@ -550,6 +638,17 @@
       "datetime": 1777132509000,
       "ticker": null,
       "category": "top news"
+    },
+    {
+      "id": 139890359,
+      "headline": "ServiceNow CEO Says AI Fear Is Missing Real Story: Customers Are Spending More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dc77cca880c09e94bb66ed1a0451ddb3eb8ec9dd2259e2bc081511cc1dbaad41",
+      "summary": "ServiceNow says AI is boosting demand and productivity, not cutting jobs, as enterprise spending accelerates.",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Servicenow-Office-Building-At-Their-Head.jpeg?width=2048&height=1536",
+      "datetime": 1777132267000,
+      "ticker": "MSFT",
+      "category": "company"
     },
     {
       "id": 139887879,
@@ -659,6 +758,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777130243000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139890373,
+      "headline": "Ross Gerber Says Tesla Faces Potential SpaceX Merger As Investors Question Strategic Direction, 'It Will All Be Wrapped Up As One Ball of Elon'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5eba53248417ac3588c9ea15b58245ea720377f1d54b74e69604b29a52d76276",
+      "summary": "Gerber Kawasaki Wealth &amp; Investment Management CEO Ross Gerber has suggested that SpaceX could end up stepping in to support Tesla Inc. (NASDAQ: TSLA) in a deal that gets labeled a merger rather than a straight takeover.",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Ross-Gerber-Canva.jpeg?width=2048&height=1536",
+      "datetime": 1777129931000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -791,6 +901,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777127700000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139890326,
+      "headline": "Scaramucci's 'Biggest Investing Mistake Has Always Been Selling Too Early'",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4844166e0f2fba370c424faf617361606a152f5db7168e9a85a0542ced398eca",
+      "summary": "Anthony Scaramucci has argued that his costliest habit in markets has been exiting positions too soon, and urged investors to stick with a simple plan: buy an S&amp;P 500 index fund and hold it for decades.",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/04/25/Scaramucci-Crowns-Blankfeins-Streetwise-.jpeg?width=2048&height=1536",
+      "datetime": 1777127501000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -978,127 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777122000000,
       "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139887280,
-      "headline": "Artificial Intelligence (AI) Prodigy Leopold Aschenbrenner's Situational Awareness Fund Owns Only 24 Stocks. These Are the Top 7 Holdings.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52f99de191aebc4edafb3ddb9dce0257ab26182bf62f9426e86db402987a3fa8",
-      "summary": "He is preparing for an unprecedented global change as AI takes over.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777121100000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887281,
-      "headline": "Here's What Walmart's $2.4 Billion Investment Across Mexico and Central America Could Mean for the Stock.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f8070364e3ad54f266f66f8055b489545c019ea10f43a389a79d7c939d6d928",
-      "summary": "Walmart is a global giant, but the United States still accounts for most of its revenue.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777120500000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887282,
-      "headline": "Is Archer Aviation Stock Your Ticket to Becoming a Millionaire?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c93af25478871f8eefdb75fe6b75b40d19379d7a376ba55652f879e3b0a21f0b",
-      "summary": "Archer Aviation is trading close to a 52-week low. Could an investment today be your ticket to a million dollars?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777119900000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887290,
-      "headline": "Why Congress Can’t Stop Loading Up on These 3 Stocks in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8742495a430b4c6b603131ceffe92c07457864defc20a890a954755ef1f59948",
-      "summary": "Somehow, members of Congress have turned relatively modest salaries into impressive investment portfolios while the rest of us grind it out in the market. For years, questions have swirled around lawmakers buying and selling stocks — often right before major policy shifts or regulatory decisions tied to their committee oversight. Critics call it a conflict ... Why Congress Can’t Stop Loading Up on These 3 Stocks in 2026",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777119780000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139888389,
-      "headline": "Shashi Tripathi, IIT Summit Chairman: Fortt Knox Innovation Lab",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=b000c7d613457da1a826704dfd00f04e75ea9e09e174433dba96dedfec2105e1",
-      "summary": "IIT Global conference organizer Shashi Tripathi told Jon Fortt that AI should be treated as an extension of human capability, not a replacement — graduates who do so will outcompete peers. Many young IITians, he said, are bypassing shrinking coding jobs to start companies. Meanwhile, India is racing to catch up on AI: the recent India AI Mission drew 250,000 attendees, and the country's 27 languages and cultural variety could feed richer LLM training data.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108297277-260423-IIT-shashi-close00_00_00_04Still001.jpg?v=1777133504&w=1920&h=1080",
-      "datetime": 1777118982000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139887313,
-      "headline": "Arm Holdings (ARM) Valuation Check After AGI CPU Launch And AI Chip Sector Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=896bc9e4a50debf89847bcbb489f5a5dd584f69334d25d7f8fe0b1d945d93cd5",
-      "summary": "Arm Holdings (ARM) is drawing fresh attention after unveiling its first proprietary Arm AGI CPU for data center and AI workloads, following a sector wide chip rally after Intel’s strong quarterly results and upbeat CPU demand signals. See our latest analysis for Arm Holdings. That broader enthusiasm around AI chips has fed directly into Arm’s move, with a 1-day share price return of 14.76% and a 7-day share price return of 40.83%. This has contributed to a 90-day share price return of 102.30%...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777118764000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139888049,
-      "headline": "Alphabet Is Getting Ready For War",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=03457fd5f7595b54bce7f414d7eebc594d38a2bf50b299d3e2c37cac5a8f8bc8",
-      "summary": "Alphabet pivots to enterprise AI with Gemini Enterprise, Workspace Intelligence & TPUs. Preview key Q1 catalystsâAI capex, Cloud growth & efficiency.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249616790/image_1249616790.jpg?io=getty-c-w1536",
-      "datetime": 1777118757000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139887293,
-      "headline": "PG&E Tesla Cybertruck Partnership Tests Vehicle To Grid Future For Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=41cea3988fa5c48bb24daf3cc7ad8935d4bb80138bab99784ba63fa1a6f5d2c0",
-      "summary": "PG&E (NYSE:PCG) received approval in California for the first AC vehicle to grid integration using Tesla Cybertrucks. The partnership allows Cybertruck owners to send power back to the grid through bidirectional charging. The program is designed to support grid resilience during outages or periods of high demand. PG&E operates as a major electric and gas utility in California. This new collaboration with Tesla fits directly into the push for greater use of distributed energy resources...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777118626000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139887314,
-      "headline": "Intel Stock Soars Nearly 20% Overnight As Jim Cramer Says 'Paranoid' INTC Is Back, Gene Munster Notes AI Boom Still Early",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=baffc7ad6b3bfcfdf43a3c5264d98f190dfa874f190531c8150996ceb64f34da",
-      "summary": "On Thursday, Intel Corporation climbed nearly 19.95% in after-hours trading to $80.10 after closing at $66.78, up 2.31% in the regular session, following stronger-than-expected first-quarter results. Intel Earnings Crush Estimates, Stock Jumps The chipmaker reported earnings of 29 cents per share, far exceeding the consensus estimate of 1 cent. Revenue came in at $13.58 billion, topping expectations of $12.42 billion and rising from $12.67 billion a year earlier. Jim Cramer: ‘Paranoid Intel Is B",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777118471000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139887294,
-      "headline": "Is Tesla’s New Lower-Priced SUV a Good Investment for Retirees?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72032b3aebd6794f81751a211c0844053bc7231d806521d43423ab4019bf0e76",
-      "summary": "Read on to find out if Tesla's new lower-priced SUV would be a good option for retirees.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777118461000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139887283,
-      "headline": "Taiwan Semiconductor, Walmart Lead Five Stocks Near Buy Points Without This Big Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c191756311491dc90a89593f78afea04be626464375b223f440d16236d71e475",
-      "summary": "Taiwan Semiconductor is among several stocks that already have earnings out of the way. The fifth stock, Walmart, won't report for weeks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777118400000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
