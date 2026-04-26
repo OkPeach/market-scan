@@ -1,6 +1,83 @@
 {
-  "timestamp": 1777184724169,
+  "timestamp": 1777195968540,
   "items": [
+    {
+      "id": 7852190,
+      "headline": "Iran executes man linked to militant group, Tasnim reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk9ZaV9UamZwMHMtUjVTbUNYbWNzdmVnZHluM2RDSEVFZmJLbWk1N2M4djNRRExINlN0SVFtY25LWnE3YVRqVTNUaWJ1WVRpdkpETlNsQV9zek95aVBvQ2xKV3VtRVgtUFFVZmlnTUNNbnBjclNhX3dWX19fV2haeThCb3JmX1V6UHNrZlY3cHdiZU5zVUVLeG45LXdLV0xzYkE?oc=5",
+      "summary": "Iran executes man linked to militant group, Tasnim reports  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777191756000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139892915,
+      "headline": "Oil Has Doubled From $70 to $100-Plus Since the Iran War Began. How to Position Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f34debfc7f144b2057f0c79a37d07853f7603114905799f8ffe82238715efb3c",
+      "summary": "Higher oil prices could have a major impact on the economy in the coming months.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777189800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139892916,
+      "headline": "Intel Stock Is Soaring, Leaving Nvidia Shares in the Dust This Year. But Which Stock Is a Better Buy Today?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1904a8f64d7b50b37ee7ea4037380743a168fa5d3307c513bce4b5fb51acc3a6",
+      "summary": "Intel is proving that its turnaround is working. But Nvidia's business is still growing at a far faster rate than Intel's.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777188180000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139892917,
+      "headline": "Archer Aviation Is Still Under $7. Here's Whether Long-Term Investors Should Pounce.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=844472b423e0299596cd825fddc5f8ca3eb319f42274405fd69b5f6b4b86f515",
+      "summary": "Archer Aviation trades at half the value of Joby, but the gap between the two is narrowing. Should you buy while it's still trading under $7?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777187400000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139892925,
+      "headline": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy With $5,000 and Hold for the Long Term",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6065a03658f323bc0c6d038a87029e5587375c2df959b7ffffdfd324d80b087c",
+      "summary": "Alphabet's vast cash position and profits give the company a lot of time to test out ventures and see them to completion.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777186140000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139892924,
+      "headline": "AI is boosting output rather than cutting jobs: analyst",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c756e9bfd2d96b1aadfbe83b19695abb9e3b23774e55d3769c2ee998bf37c81a",
+      "summary": "Investing.com -- The rapid integration of Artificial Intelligence into the U.S. workforce has long sparked fears of mass job displacement. However, new research from Morgan Stanley suggests a more constructive reality: AI is currently acting as a catalyst for growth rather than a replacement for human capital.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777185909000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139893002,
+      "headline": "Is PayPal’s New NFL Peer‑to‑Peer Deal Reshaping The Investment Case For PayPal Holdings (PYPL)?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23e6480a00d52cc3dc03aed26881c6a5d3360112a39d0ada1c7f2dd8e89ba2a6",
+      "summary": "In April 2026, PayPal Holdings announced a new partnership making it the NFL’s official peer-to-peer payments partner, integrating its app across the league’s ecosystem and offering fans features like instant money transfers and access to sweepstakes for tickets and exclusive experiences. This deal, combined with Michael Burry’s recently disclosed increased position in PayPal, has sharpened investor focus on how the company’s peer-to-peer capabilities and broader payments platform fit into...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777183387000,
+      "ticker": "PYPL",
+      "category": "company"
+    },
     {
       "id": 139892241,
       "headline": "The Mistakes I Keep Seeing ETF Investors Make With \"Set It and Forget It\" Funds",
@@ -9,7 +86,7 @@
       "summary": "Long-term buy-and-hold doesn't mean ignoring your portfolio altogether. Avoid this and other common pitfalls to maximize your portfolio's potential.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777182600000,
-      "ticker": "INTC",
+      "ticker": "NVDA",
       "category": "company"
     },
     {
@@ -1021,83 +1098,6 @@
       "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777129763000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887864,
-      "headline": "Assessing Lumentum Holdings (LITE) Valuation After Nvidia’s US$2b AI Data Center Optics Partnership",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1cd0835cf51fb53b349543ea985520f3c31e518132c83e2bbb26d738689f0fc4",
-      "summary": "Nvidia’s new multiyear partnership with Lumentum Holdings (LITE), including a reported US$2b investment in manufacturing and R&D for AI data center optics, has pushed the stock firmly into focus for many investors. See our latest analysis for Lumentum Holdings. The Nvidia partnership headlines sit on top of an already very strong run, with a 30 day share price return of 13.44% and year to date share price return of 128.34%. The 1 year total shareholder return is extremely high, pointing to...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777129551000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887865,
-      "headline": "The Only Reason to Consider Owning Roku for Less Than 3 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62d85f54132713655a07c8e0ef5a8d3b98e7048c0b9afabc588da8fe7b185320",
-      "summary": "After a trailing three-year return of 97%, investors are ready for this streaming platform to have another impressive showing.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777129500000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887866,
-      "headline": "Why Is Nvidia (NVDA) Stock Soaring Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=602109058bf18ca0398a90ff564e40e19c3336cd128689c364f05d040cd83f1a",
-      "summary": "Shares of leading designer of graphics chips Nvidia (NASDAQ:NVDA) jumped 5% in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777129283000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887867,
-      "headline": "Chicago Capital Slashes Its Alkami Technology Position by 1.6 Million Shares",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7cf5e2cf54562ed3737f5ab98606683a9afaa9023ee09a0a12accef2b7142c17",
-      "summary": "Alkami Technology delivers cloud-based digital banking solutions to U.S. financial institutions, serving both retail and business clients.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777129160000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139887868,
-      "headline": "Lattice Semiconductor (LSCC) Stock Is Up, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ce58efa1e3a99d523969cb3100e6dd4041efdfb1ec1af8180828c74f54236be8",
-      "summary": "Shares of semiconductor designer Lattice Semiconductor (NASDAQ:LSCC) jumped 3.9% in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777128803000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887869,
-      "headline": "XLK Charges One Penny Less Than VGT Per $100 Invested. Here Is Why That Is Not the Reason to Choose It.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff42f4ef89a428676d75c08f90144e89ccfcf2bc3ac4b0f44a5c9eb88c80f50c",
-      "summary": "Competing asset managers tend to offer very similar ETF lineups, especially when it comes to sector funds. Whether you’re looking at Vanguard, iShares, or State Street, you’ll usually find a full set of ETFs covering all 11 official sector classifications. On the surface, many of these funds look nearly identical, which makes the choice seem ... XLK Charges One Penny Less Than VGT Per $100 Invested. Here Is Why That Is Not the Reason to Choose It.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777128705000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139887870,
-      "headline": "Nova and IPG Photonics Shares Are Soaring, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23903e8debd8f5b6510b0cc1934a00ccb8d57141d741593aba767d09b0e54ff0",
-      "summary": "A number of stocks jumped in the afternoon session after strong earnings results from industry leader Intel and positive industry-wide forecasts boosted the broader semiconductor sector.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777128323000,
       "ticker": "NVDA",
       "category": "company"
     }
