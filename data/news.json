@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777219694404,
+  "timestamp": 1777223486006,
   "items": [
     {
       "id": 139895288,
@@ -33,6 +33,17 @@
       "datetime": 1777218362000,
       "ticker": "AAPL",
       "category": "company"
+    },
+    {
+      "id": 7854216,
+      "headline": "Trump tells Fox News Iran can call US if it wants to negotiate - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEwzUWFuMXB1eXNPcm15bzZCcEpvTlJuZVFibEpGVXo4MnVmZEtQdUFiSl9ERURqWGxEZkhCNTF3N1dRVmhaZVJnWGtoWldyV3BvY0xFOEgzZXZncTJVQXl0VXJYV0JfZzhtT09hN0tucmdaZHpRcnBVU2RxekZRcjFmN1pUTGc2X3Y0WnZNM2hQMm94QmVrTDFoZGFDeXlnYUt5cFZXSXlhOVpGeWdhOUtaWQ?oc=5",
+      "summary": "Trump tells Fox News Iran can call US if it wants to negotiate  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777217757000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139895290,
@@ -937,17 +948,6 @@
       "category": "company"
     },
     {
-      "id": 7853292,
-      "headline": "Egypt economic outlook trimmed slightly due to Iran war: Reuters poll - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGxHY0FYUlpRV2MtNVBUZXFZaGRDTVNKMEJhRXNkN09BWGtIVVlKYmw4RVJsSkp0T3U5dFVRbC11NzBVdmRUakwyOFJBRnhTYW95ZmpvSWE2MXp4NnlyVzhOdGh5OVRFdU9oTVlYZ1FkSHJ6bEJsZHFEYlpYLTNoNVUzV19od0d3aUlRdS1MY1JIVTFUU3hKN0YzcnZ0c3lwdUV6dHBHRkpHdw?oc=5",
-      "summary": "Egypt economic outlook trimmed slightly due to Iran war: Reuters poll  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777184476000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139893002,
       "headline": "Is PayPal’s New NFL Peer‑to‑Peer Deal Reshaping The Investment Case For PayPal Holdings (PYPL)?",
       "source": "Yahoo",
@@ -957,6 +957,17 @@
       "datetime": 1777183387000,
       "ticker": "PYPL",
       "category": "company"
+    },
+    {
+      "id": 7853292,
+      "headline": "Egypt economic outlook trimmed slightly due to Iran war: Reuters poll - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGxHY0FYUlpRV2MtNVBUZXFZaGRDTVNKMEJhRXNkN09BWGtIVVlKYmw4RVJsSkp0T3U5dFVRbC11NzBVdmRUakwyOFJBRnhTYW95ZmpvSWE2MXp4NnlyVzhOdGh5OVRFdU9oTVlYZ1FkSHJ6bEJsZHFEYlpYLTNoNVUzV19od0d3aUlRdS1MY1JIVTFUU3hKN0YzcnZ0c3lwdUV6dHBHRkpHdw?oc=5",
+      "summary": "Egypt economic outlook trimmed slightly due to Iran war: Reuters poll  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777183380000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139892241,
@@ -1088,17 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777168980000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139891690,
-      "headline": "3 No-Brainer Energy Stocks to Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43f3d804ea3699e5cac6122bdedfc4947e668064f32e42866e33e728581f4507",
-      "summary": "Industry trends bode well for these energy stocks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777168920000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
