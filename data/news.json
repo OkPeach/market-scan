@@ -1,6 +1,94 @@
 {
-  "timestamp": 1777306207313,
+  "timestamp": 1777312239769,
   "items": [
+    {
+      "id": 7859006,
+      "headline": "Putin praises Iranian people for resistance to US in talks with Araqchi - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzMxUTRuM3NKN2dxREJ2Z05OTklkX2ZKbHJ6eDRHaWp6NEtTVkx2bXcwXzVnRVM4bU14MlU5eVJwYzVsRTR6TmFvZmhJSTFQUnBtVU85UnMxZkN0U1Q4OWxtTlltYjhMU3NUNGJRcDRzOHNvQTdvWlMyVnZ2aFhtRzRfbmhuQUdCZXZvVjdMQUQxWDF3TnphNXQ4dnhNamtxNTRYMG43ZGx6bmVjVDdsbEZaaXdIcWtMaUVzM3IzZFZpUlZHVHpNWjhmcw?oc=5",
+      "summary": "Putin praises Iranian people for resistance to US in talks with Araqchi  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777309637000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139904963,
+      "headline": "These S&P500 stocks have an unusual volume in today's session",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=4b618f919e2659099c4495e4ae31501b658c80d1f93cc66cdc931ea260408141",
+      "summary": "Let's have a look at what is happening on the US markets on Monday. Below you can find the S&P500 stocks with an unusual volume in today's session.",
+      "image": "https://www.chartmill.com/images/uploads/CM_Unusual_Volume_Small_free_b9d2e60841.webp",
+      "datetime": 1777309502000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 7858465,
+      "headline": "Germany's Merz says Iran is humiliating US as talks stall - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkZuazVRSDloUjJ2R0ZWQzlMWkRON0FkZHppaWx4WjBscXdqMUVZNXFSZTJHcXBBMU10TDBxX0N0aF96S2drZVJEb09VeF9YMDQ2MTdxcm1XUWNWRGFJc01xVVh2LW9XamFESE1sNGRoNm00RmltWjMxSEpRWmpKTXZva2tIOEVQcmVvcWFMb1I2TTNlT1BaVXR4eFlJRXQ0Q3R3bjh4LWhLRHBX?oc=5",
+      "summary": "Germany's Merz says Iran is humiliating US as talks stall  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777309275000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7858792,
+      "headline": "Bahrain revokes citizenship of 69 people for 'glorifying or sympathising with' Iranian attacks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzRWeDcxME9vY2hTS3pYSE5lb3BMNjREOGtCdHYxTVI2R1c4QXJYQVNKSHFETFllUEJzYWVjOEs0TzFoOGVVbjhhNEZ2TVZnSTZPdmtMUmlKNjA5cWVYM2N1eG5CWDRkb2hZTGFEb2tnWl9ZZUNHTGZvQ3V3aWFhZEswT0dkdms2LWNuLUl5SVdhaG9xalgyV3VlcU42Z19rdFJkMDI2TVdEQlVQWFpENF92NUFLcWxMb1NJWg?oc=5",
+      "summary": "Bahrain revokes citizenship of 69 people for 'glorifying or sympathising with' Iranian attacks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777307879000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7858140,
+      "headline": "Wall Street indexes enter earnings-heavy week on cautious footing - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEs3OVpOYnhkaGZjal9qUlRkLWlyTFdYQUduUENEcFdwNDBZLVhSUWRBbnI1cUxPblpnaVk0NURRUFY1aVhlRno3VTBXWWU1ckM2VTFQd3RzQzczV3hiZVgwRVAzaXZjY1U4Yk9pRE1WZzRPOWRHam16M2RlQzVqTmlsRWQ2VEhuU1p1LUd6ZkNKeHh4R2lmUXBOa3ZXUGlHaHk0?oc=5",
+      "summary": "Wall Street indexes enter earnings-heavy week on cautious footing  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777306825000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7858793,
+      "headline": "Nations meet to discuss fossil fuel exit as Iran war drives up prices - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVW5IenhOUWk5M2h5ZVlQczdIYXFIcmFYNEd2c0stMmtlY0RuZS0yQllNVzdOcDk0bngyM0RjellrRS1aYkxNWG9Pc2hZX29BY1dXbDA5dmtrai11R05iUWxZcWNUUkNNNEpWSlFwS1VUZDVCR08tc2Zkb21sM3V2NnRabFpfZXRRVkQxNkZjS2lSTUt4UmlNMFdMQkdOeVJUdnJnSF9rQUg2VUZTVUJiRTJjWDNjaG5Zd2J4aENpU3drZ3k0S1d6R0xFZDNiRklqS1k2YVJ3?oc=5",
+      "summary": "Nations meet to discuss fossil fuel exit as Iran war drives up prices  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777306200000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7859324,
+      "headline": "We're trimming a rebounding tech stock and buying more of a catalyst-rich name",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/27/were-trimming-a-rebounding-tech-stock-and-buying-more-of-a-catalyst-rich-name.html",
+      "summary": "The sale is a matter of portfolio discipline.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297691-17773033102026-04-27t152014z_826294931_rc2pxkatwsyl_rtrmadp_0_usa-stocks.jpeg?v=1777303380&w=1920&h=1080",
+      "datetime": 1777306140000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 7859214,
+      "headline": "What Cramer would do with this 'overhyped' stock ahead of Tuesday earnings",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/27/heres-what-cramer-would-do-with-this-overhyped-stock-ahead-tuesday-earnings.html",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1769216172&w=1920&h=1080",
+      "datetime": 1777305616000,
+      "ticker": null,
+      "category": "top news"
+    },
     {
       "id": 139904031,
       "headline": "Intel's 26-year comeback is a warning for investors chasing today's AI winners: Chart of the Day",
@@ -255,6 +343,17 @@
       "category": "company"
     },
     {
+      "id": 7858250,
+      "headline": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVNYUGpiS2s3d0JQSGc2RTFWb0NFdlFTX1pVaE1Qbi1ySE5UTmJzQ1g0b0hMM2gzWGgxa0tBRko2cUd3bGNQNFNMbi1hbWI3REJXNy1UZ0EtQmpaMk1IaUVDbjV2TjNKNFV2Y1VlYW9sXzd2OGlJSVROZERMS3JCRDdpSnRoUDRyVVVSc3haWHQ4VDc2NDZXQXNjbjkyUk5UNlNCRzBVQmFFNGduSGVyZ3dnMDM4cUFqMGZLaDIxdlVvaHNSblY1bnN2Yw?oc=5",
+      "summary": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777303228000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139903972,
       "headline": "Redburn lifts Snap, cuts Pinterest, keeps Sell on Reddit in social media shake-up",
       "source": "Yahoo",
@@ -363,17 +462,6 @@
       "datetime": 1777302180000,
       "ticker": "AMZN",
       "category": "company"
-    },
-    {
-      "id": 7858250,
-      "headline": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVNYUGpiS2s3d0JQSGc2RTFWb0NFdlFTX1pVaE1Qbi1ySE5UTmJzQ1g0b0hMM2gzWGgxa0tBRko2cUd3bGNQNFNMbi1hbWI3REJXNy1UZ0EtQmpaMk1IaUVDbjV2TjNKNFV2Y1VlYW9sXzd2OGlJSVROZERMS3JCRDdpSnRoUDRyVVVSc3haWHQ4VDc2NDZXQXNjbjkyUk5UNlNCRzBVQmFFNGduSGVyZ3dnMDM4cUFqMGZLaDIxdlVvaHNSblY1bnN2Yw?oc=5",
-      "summary": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777302120000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139903867,
@@ -585,17 +673,6 @@
       "category": "business"
     },
     {
-      "id": 7858140,
-      "headline": "Wall Street indexes enter earnings-heavy week on cautious footing - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEs3OVpOYnhkaGZjal9qUlRkLWlyTFdYQUduUENEcFdwNDBZLVhSUWRBbnI1cUxPblpnaVk0NURRUFY1aVhlRno3VTBXWWU1ckM2VTFQd3RzQzczV3hiZVgwRVAzaXZjY1U4Yk9pRE1WZzRPOWRHam16M2RlQzVqTmlsRWQ2VEhuU1p1LUd6ZkNKeHh4R2lmUXBOa3ZXUGlHaHk0?oc=5",
-      "summary": "Wall Street indexes enter earnings-heavy week on cautious footing  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777300080000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139903936,
       "headline": "Alphabet (GOOGL) Is One of Jim Cramer’s Top Quantum Computing Stocks",
       "source": "Yahoo",
@@ -704,17 +781,6 @@
       "datetime": 1777298700000,
       "ticker": "NVDA",
       "category": "company"
-    },
-    {
-      "id": 7859006,
-      "headline": "Putin pledges support for Iran in talks with Araqchi in Russia, says he wants peace soon - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzMxUTRuM3NKN2dxREJ2Z05OTklkX2ZKbHJ6eDRHaWp6NEtTVkx2bXcwXzVnRVM4bU14MlU5eVJwYzVsRTR6TmFvZmhJSTFQUnBtVU85UnMxZkN0U1Q4OWxtTlltYjhMU3NUNGJRcDRzOHNvQTdvWlMyVnZ2aFhtRzRfbmhuQUdCZXZvVjdMQUQxWDF3TnphNXQ4dnhNamtxNTRYMG43ZGx6bmVjVDdsbEZaaXdIcWtMaUVzM3IzZFZpUlZHVHpNWjhmcw?oc=5",
-      "summary": "Putin pledges support for Iran in talks with Araqchi in Russia, says he wants peace soon  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777298581000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139903885,
@@ -849,6 +915,17 @@
       "category": "company"
     },
     {
+      "id": 139905465,
+      "headline": "EU Tells Google to Open Android to AI Rivals -- 2nd Update",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8a5628a50de04996025eef67af020b7711c81fc719a2cd13345b8fddcb644194",
+      "summary": "By Edith Hancock The European Union told Alphabet's Google what it should do to open up its Android operating system to artificial-intelligence services that compete with its own, the latest move...",
+      "image": "",
+      "datetime": 1777297635000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 139902860,
       "headline": "Nasdaq Composite Eyes AI Deals, Tech Earnings and Fed but Oil Shock Looms",
       "source": "Yahoo",
@@ -970,15 +1047,15 @@
       "category": "company"
     },
     {
-      "id": 7858465,
-      "headline": "Germany's Merz says Iran is humiliating US as talks stall - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkZuazVRSDloUjJ2R0ZWQzlMWkRON0FkZHppaWx4WjBscXdqMUVZNXFSZTJHcXBBMU10TDBxX0N0aF96S2drZVJEb09VeF9YMDQ2MTdxcm1XUWNWRGFJc01xVVh2LW9XamFESE1sNGRoNm00RmltWjMxSEpRWmpKTXZva2tIOEVQcmVvcWFMb1I2TTNlT1BaVXR4eFlJRXQ0Q3R3bjh4LWhLRHBX?oc=5",
-      "summary": "Germany's Merz says Iran is humiliating US as talks stall  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777296640000,
-      "ticker": null,
-      "category": "business"
+      "id": 139905292,
+      "headline": "Microsoft sovereign private cloud scales to thousands of nodes with Azure Local",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a4b9e277077388a6b26c52fa2c7e7a868d254f9e4ab1cdc8180345e5053b0f70",
+      "summary": "Microsoft Corp: Microsoft sovereign private cloud scales to thousands of nodes with Azure Local - blog Microsoft: Azure Local is available today with validated compute and enterprise storage...",
+      "image": "",
+      "datetime": 1777296636000,
+      "ticker": "MSFT",
+      "category": "company"
     },
     {
       "id": 139902862,
@@ -1014,91 +1091,14 @@
       "category": "company"
     },
     {
-      "id": 139903029,
-      "headline": "Intel Gets New Street-high Price Target After Blowout Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d814a7c815209ef16fa855cd4835c5ea97273cd3b1eca7c9f0f7bb04d700b1c",
-      "summary": "Intel wins major upgrade as analyst sees powerful AI-driven comeback",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777296370000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 7858793,
-      "headline": "Nations meet to discuss fossil fuel exit as Iran war drives up prices - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVW5IenhOUWk5M2h5ZVlQczdIYXFIcmFYNEd2c0stMmtlY0RuZS0yQllNVzdOcDk0bngyM0RjellrRS1aYkxNWG9Pc2hZX29BY1dXbDA5dmtrai11R05iUWxZcWNUUkNNNEpWSlFwS1VUZDVCR08tc2Zkb21sM3V2NnRabFpfZXRRVkQxNkZjS2lSTUt4UmlNMFdMQkdOeVJUdnJnSF9rQUg2VUZTVUJiRTJjWDNjaG5Zd2J4aENpU3drZ3k0S1d6R0xFZDNiRklqS1k2YVJ3?oc=5",
-      "summary": "Nations meet to discuss fossil fuel exit as Iran war drives up prices  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777296343000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139902863,
-      "headline": "Intel Stock Rally Rages On. What UBS Says It Underestimated.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b87ff88fefce0df5e612e58f1f5d6b1f7d1ff4a3ae5c2513fc2f5ff4ac634b6c",
-      "summary": "STOCKSTOWATCHTODAY BLOG   Intel was rising Monday as it built upon its huge rally from the previous week. Everything looks to be going great for the chip company but UBS analysts are skeptical of further gains.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777296300000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 7858792,
-      "headline": "Bahrain revokes citizenship of 69 people over 'support for Iranian attacks' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUzRWeDcxME9vY2hTS3pYSE5lb3BMNjREOGtCdHYxTVI2R1c4QXJYQVNKSHFETFllUEJzYWVjOEs0TzFoOGVVbjhhNEZ2TVZnSTZPdmtMUmlKNjA5cWVYM2N1eG5CWDRkb2hZTGFEb2tnWl9ZZUNHTGZvQ3V3aWFhZEswT0dkdms2LWNuLUl5SVdhaG9xalgyV3VlcU42Z19rdFJkMDI2TVdEQlVQWFpENF92NUFLcWxMb1NJWg?oc=5",
-      "summary": "Bahrain revokes citizenship of 69 people over 'support for Iranian attacks'  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777296184000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139904121,
-      "headline": "Zacks.com featured highlights include H World, NVIDIA, FTI Consulting, HSBC and Stantec",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=faa33df96fefa22e88058452c3d45f1093e734dc9826cadd40d05be84716cb1d",
-      "summary": "NVIDIA joins low-leverage picks as rising oil prices and market volatility push investors toward stable, low-debt stocks with steady growth outlooks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777296180000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 139902881,
-      "headline": "S&P 500 Holding Pattern: Mag 7 Earnings Collide With Oil Surge and Fed Fears",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=844cc31fece9c262ce721ea6e2d87b837065bcc21e32331341689b0d4886c67e",
-      "summary": "Stocks opened in a holding pattern, with the S&P 500 (^GSPC) heading into the trading session fractionally lower after rising to all-time highs last week. Three forces pull in opposite directions: the heaviest tech earnings week of the quarter, a fresh jump in oil after Iran peace talks stalled, and a Federal Reserve meeting within ... S&P 500 Holding Pattern: Mag 7 Earnings Collide With Oil Surge and Fed Fears",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777296073000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139902986,
-      "headline": "Tesla Officially Registers Elon Musk’s Stock: What Investors Need to Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf497a712fab9b793db2b6a6d1921c832cd30849cbad9f897c173293548d4cb5",
-      "summary": "Tesla  registered some stock for CEO Elon Musk.  Friday, Tesla filed forms with the Securities and Exchange Commission registering about 304 million shares of common stock relating to Musk’s 2018 pay award.  Tesla shareholders voted to award the often-debated options in 2012.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777296000000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139902970,
-      "headline": "China vetoes Meta’s $2B Manus deal after months-long probe",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5a032b9db3dc26f9afde40beb079b068bc3f2e521647d2d5c543053877238ac",
-      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777295815000,
-      "ticker": "META",
+      "id": 139905214,
+      "headline": "UK-based AI startup Ineffable raises $1.1 billion in Europe's largest seed financing",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=44595448e1d6a02b8d11ce917c26ae89386a1a6fc2588c0e350af79f802300fc",
+      "summary": "UK-based IneffableIntelligence, founded by former DeepMind researcher DavidSilver, has raised $1.1 billion in a seed funding round led byU.S. venture capital firms Sequoia Capital and Lightspeed,...",
+      "image": "",
+      "datetime": 1777296447000,
+      "ticker": "GOOGL",
       "category": "company"
     }
   ]
