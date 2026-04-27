@@ -1,6 +1,149 @@
 {
-  "timestamp": 1777262962037,
+  "timestamp": 1777274210312,
   "items": [
+    {
+      "id": 139898923,
+      "headline": "Intel Corporation (INTC) Announces Fiscal Q1 2026 Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b8480d23254f59557dcd2bc093347e27e364a306b8183f64283fe02ddd1b4d7",
+      "summary": "Intel Corporation (NASDAQ:INTC) is one of the best booming stocks to buy according to hedge funds. Intel Corporation (NASDAQ:INTC) announced financial results for fiscal Q1 2026 on April 23, reporting that revenue for the quarter reached $13.6 billion, up 7% year-over-year. First-quarter earnings (loss) per share attributable to the company were $0.73, while non-GAAP EPS […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777268957000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139898906,
+      "headline": "How has apple’s stock performed under Tim Cook? (& prior CEOs)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c34f931f33345c36d979ac1463bea9d5b950865254fbd365a443ac2ce0b8d3a7",
+      "summary": "Tim Cook, 65, will step down as Apple’s CEO on September 1, 2026. He will be replaced internally by John Ternus, a 25-year company veteran. Cook will have served as chief executive for more than 15 years, having succeeded founder Steve Jobs in 2011. John Ternus, 50, is senior vice president for ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777266900000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139898908,
+      "headline": "Can Reynolds’ New Decorative Foils and Scented Trash Bags Redefine Its Brand Story and Pricing Power (REYN)?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6010fef897cdfdb5082537337f0f152100e492a9a827a64d3d5bc8bdc78e41a6",
+      "summary": "In mid-April 2026, Reynolds Consumer Products expanded its portfolio with the launch of Reynolds Wrap Hearts Fun Foil and new Hefty Ultra Strong Fabuloso Peach trash bags, both now available nationwide through major retailers including Walmart, Target, Amazon, Dollar General, and select grocery chains. By pairing decorative foil with color- and scent-focused trash bags, Reynolds is pushing further into emotionally resonant, design-led household products that aim to differentiate its brands...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777266302000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 7856757,
+      "headline": "Iranian foreign minister heads to Russia, Trump says 'call us' to negotiate - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDRna1VZUzc4VC10UGRDU01UVWFRWlV0TmdxXzJuT1hPd0ZXeVpUbUo0Nmd4b0JsVHNTQnoyU1YtY0NISUdRMXREYWdYdzBETDBibjR6Z05vN1NjSWkyeVo2QkJBTEhuZFlxaUpuYm9vVTJlOU9xT195bzg2VDRIRTItdHk3MHV3eU9OQ1BadlFfdmRCenI4aGhlT2duVmVYVmVya3cyUVMwUF81SUNTbHRFTEZOWDFnTXlQUnJn?oc=5",
+      "summary": "Iranian foreign minister heads to Russia, Trump says 'call us' to negotiate  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777264500000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7856960,
+      "headline": "Iran war disrupts the circuit board supply chain, raises costs for tech firms - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXVxMFM1REJONVMtZkV6MTBLVVlQcHFReExtakhrT0FHVnJBWE1YdW5FV2gxQm5VZmljYzZqNjNhUnRvSi13RTBkaFgza29rTXktVHh1R0puMlBUVVdIb2F6SHhKR0F4Qm9WTkRXYjJ0d2NmYzlXWnNvMGdzQlU1Nm9ZRzBQMUprWXRQeTJZS3FVeHdiLVFwajlvREQwLW1IZUtFR1JDampiS0dFelJZbG55RWRham5fTUlsMlNGNEh4bVo5?oc=5",
+      "summary": "Iran war disrupts the circuit board supply chain, raises costs for tech firms  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777264440000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139898910,
+      "headline": "Atlassian (TEAM) Expands Google Cloud Partnership to Integrate Gemini AI Into Rovo Platform",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50112e07989ae7d3cdd940cc8b0e25a1c41bf75a52c47c9e0ac0056d56f99c90",
+      "summary": "\\Atlassian Corporation (NASDAQ:TEAM) is one of the best NASDAQ stocks with the highest upside potential. On April 22, Atlassian and Google Cloud announced the next phase of their multi-year partnership, focused on integrating advanced AI capabilities to enhance teamwork through Atlassian’s Rovo and Google’s Gemini models. Following Atlassian’s recognition as a 2026 Google Cloud Partner […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777264298000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139898907,
+      "headline": "Microsoft (MSFT) Announces A$25B Investment in Australia’s AI and Cloud Infrastructure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e560b961ccbd3914f714e0857fa41f74cfa3f56cf92fbb593931bda09ccd271a",
+      "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the best NASDAQ stocks with the highest upside potential. On April 23, Microsoft Chairman and CEO Satya Nadella, alongside Prime Minister Anthony Albanese, announced an A$25 billion investment to expand Australia’s digital infrastructure, cybersecurity, and AI skills by the end of 2029. This represents the company’s largest-ever investment in […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777264268000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139898921,
+      "headline": "Palantir (PLTR) Secures $300M USDA Agreement to Modernize National Farm Security",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a337e00f39a1a9222be59a9c80989afbe7932af1e870c96654e21f0b0f3b7ae",
+      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of the best NASDAQ stocks with the highest upside potential. On April 22, the US Department of Agriculture/USDA and Palantir Technologies entered into a $300 million Blanket Purchase Agreement/BPA to advance the National Farm Security Action Plan/NFSAP. This partnership is designed to modernize the USDA’s service delivery by providing […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777264250000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 139898909,
+      "headline": "Amazon Backs X-Energy IPO To Support AI Power Needs And Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26a14c3f9d62545d8eda0834b65f461c8607d43acd873afc26964e240d7e648a",
+      "summary": "Amazon.com (NasdaqGS:AMZN) backed nuclear company X-Energy completes a major IPO raising about US$1b. The deal brings a new nuclear power player to public markets with Amazon as a key corporate supporter. The move links Amazon's capital deployment to nuclear energy, aimed at supporting power needs for AI driven data centers. Amazon runs a large e commerce operation, a global logistics network, and the Amazon Web Services cloud platform, all of which rely on substantial and reliable...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777264045000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139898905,
+      "headline": "The \"Great Rotation\" Is Reversing and the Nasdaq Is Surging. Here Are the Best Artificial Intelligence (AI) Growth Stocks for the Next Leg Up.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=467fbdbb357fed807db2fc2e4a6b656e4356e3b557d090c6eff8a9826e78f1a1",
+      "summary": "These three stocks look poised to lead the AI stock rally.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777263600000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139898925,
+      "headline": "SK Hynix shares rally 7% to a record high, beating Samsung's 2.5% gain",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64363b11ac9c4b7f10f606b7b30020903f8fec229b24a049b492901361fdaf4b",
+      "summary": "Shares in ‌Nvidia's chip ‌supplier SK Hynix ​rallied more than 7% to a record high ‌on ⁠Monday, after U.S. chipmaker Intel's ⁠earnings results rekindled expectations ​of ​artificial ​intelligence demand. The ‌South Korean company outperformed its rival Samsung Electronics, whose shares rose ‌2.5% as ​it ​braces ​for a ‌potential strike by ​unionised ​workers in South Korea ​in ‌May.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777263148000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 139898912,
+      "headline": "Elon Musk’s next AI bet could revive a familiar Tesla fear",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b126ce4e94485150eaafe9a81dafa0a26d4a84919eda2e0435fbcf0090d28761",
+      "summary": "Elon Musk is making a career out of defying the market by making risky, outsized bets before the rest of the market wakes up and smells the coffee. Musk is right so many times that arguing against him seems to become a folly in the current market. Tesla (TSLA) helped redefine the electric-vehicle ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777262469000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 7856652,
+      "headline": "Hengli Petrochemical dives after US imposes Iran oil sanctions - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHhXYXlLSVRQSnJMb3BvN1Zqdm9pR1B0TjkzeEJQVXNmaEowRWFMTzR0NHZLOFdOd19EUmVrMWowLXNCTm8xM1FEZjNJMVlyX3l4MDI1THF2SUdpUW4wQ29GVTdCcTVOVVBSWXR1UXFzWllscTRReU9Da3ViVWFyYVFWUWJEZmJhS0tuVzBjVW9SUi01elk3MW9TQnVnSEVnZTBiU21paUEyYmR2dndpM0JKS1c?oc=5",
+      "summary": "Hengli Petrochemical dives after US imposes Iran oil sanctions  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777260060000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 139898308,
       "headline": "Is Nvidia Stock Still a Buy After Returning to All-Time Highs?",
@@ -57,6 +200,17 @@
       "category": "company"
     },
     {
+      "id": 139898891,
+      "headline": "TESLA : RBC reiterates its Buy rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3519afadecb9134254b166886a13541431aa2597f22c186cb9a0a855c624d305",
+      "summary": "RBC analyst Tom Narayan maintains his Buy rating on the stock. The target price is unchanged at USD 475.",
+      "image": "",
+      "datetime": 1777254867000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 7856350,
       "headline": "China's industrial profit growth quickens even as Iran war heightens risks - Reuters",
       "source": "Reuters",
@@ -68,22 +222,11 @@
       "category": "business"
     },
     {
-      "id": 7856349,
-      "headline": "Dollar advances as US-Iran talks suffer setback - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlM4RlNXbkFxNVJ6WVBIMDhNVnpLeEtFaVhBWG9fVWtfQzdCSGRycDExQkhCR3JkREhHVC13ZS1yX3VKQklJbWhmUEw4aHVNN18xNVlFdEpsbkx3R19IQ1AtTXdGLW9oZkNxYUlPNGVrdTExM1kzVW8tcDM0MnFHTTVtbTB3c1BYdWxJcFY0dlBWUVFSdGk0YUtqN2NZTXNZ?oc=5",
-      "summary": "Dollar advances as US-Iran talks suffer setback  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777253930000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 7856450,
-      "headline": "Gold falls on firm dollar, oil-driven inflation fears as US-Iran talks stall - Reuters",
+      "headline": "Gold ticks up on softer dollar after Iran peace proposal report - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXFycW01cUZWX3pld1pTbUEwTFNldzNlRlpzTjRLdHBQdmdRbTVUMEZlRUtpT1p2ektIRkdDWkpjT2lTYWNkNTRveFBpZHJDVUNUOGMxbVhOelZDdlVYbVpHdS1QWE8zOHpPbnFrcmgyaTYtcGo2a2UtWWM0SDg2VkQ0NVVoNWRMYXZXXzktelZOYWt3LW8xUnAxQUM5Z0RKR1Ewd0VjQUg4bnlINUd6RDNzb1ZmVjdV?oc=5",
-      "summary": "Gold falls on firm dollar, oil-driven inflation fears as US-Iran talks stall  Reuters",
+      "summary": "Gold ticks up on softer dollar after Iran peace proposal report  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777253160000,
       "ticker": null,
@@ -112,6 +255,17 @@
       "category": "company"
     },
     {
+      "id": 7856349,
+      "headline": "Dollar drifts as traders assess stuttering US-Iran talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlM4RlNXbkFxNVJ6WVBIMDhNVnpLeEtFaVhBWG9fVWtfQzdCSGRycDExQkhCR3JkREhHVC13ZS1yX3VKQklJbWhmUEw4aHVNN18xNVlFdEpsbkx3R19IQ1AtTXdGLW9oZkNxYUlPNGVrdTExM1kzVW8tcDM0MnFHTTVtbTB3c1BYdWxJcFY0dlBWUVFSdGk0YUtqN2NZTXNZ?oc=5",
+      "summary": "Dollar drifts as traders assess stuttering US-Iran talks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777252620000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 7856045,
       "headline": "Iran gave US a proposal for reopening the Strait Of Hormuz and ending the war, Axios reports - Reuters",
       "source": "Reuters",
@@ -121,6 +275,17 @@
       "datetime": 1777252320000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 139898657,
+      "headline": "Alphabet : 2026 Proxy Statement",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=dfb09ad1bc5ff79f26a1f5504ee3d6551be4ae1c4630d2319334e3c1ccb9cc53",
+      "summary": "Alphabet Notice of 2026 Annual Meeting of Shareholders and Proxy Statement Dear Shareholders We are pleased to invite you to participate in...",
+      "image": "",
+      "datetime": 1777251788000,
+      "ticker": "GOOGL",
+      "category": "company"
     },
     {
       "id": 139897836,
@@ -187,17 +352,6 @@
       "datetime": 1777247880000,
       "ticker": "NVDA",
       "category": "company"
-    },
-    {
-      "id": 7855531,
-      "headline": "Oil climbs nearly 2% as US-Iran peace talks stall - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQU9lWjRuUWhQNDE1NjUtYmRBUk5ZN0lQc2dmaG5JMlY0RlBDYmlibmUtM0llNGNrUkNkRlp6WXJSV1ZIcjJkdXNFNTFlMGRnV09TR0twYWp5aU1LeGpLcUZQaGZveHBwc3pqd05HNmdBTVVOa3FReGZTWndOblR0cmFVWF9mOXJKR3ZDS3UtOEtLNzR3UndpaU14Y1dqN3VW?oc=5",
-      "summary": "Oil climbs nearly 2% as US-Iran peace talks stall  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777247686000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139897180,
@@ -306,6 +460,17 @@
       "summary": "Chips carry stocks higher; Oil jumps on stalled peace talks  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777242060000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7855531,
+      "headline": "Oil rises 1% as US-Iran peace talks stall - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQU9lWjRuUWhQNDE1NjUtYmRBUk5ZN0lQc2dmaG5JMlY0RlBDYmlibmUtM0llNGNrUkNkRlp6WXJSV1ZIcjJkdXNFNTFlMGRnV09TR0twYWp5aU1LeGpLcUZQaGZveHBwc3pqd05HNmdBTVVOa3FReGZTWndOblR0cmFVWF9mOXJKR3ZDS3UtOEtLNzR3UndpaU14Y1dqN3VW?oc=5",
+      "summary": "Oil rises 1% as US-Iran peace talks stall  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777241580000,
       "ticker": null,
       "category": "business"
     },
@@ -934,171 +1099,6 @@
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2249501702/image_2249501702.jpg?io=getty-c-w1536",
       "datetime": 1777215480000,
       "ticker": "TSM",
-      "category": "company"
-    },
-    {
-      "id": 7853906,
-      "headline": "Here are the 3 big things we're watching in the stock market in the week ahead",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "summary": "The busiest week of the earnings season is upon us.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108297139-1777061266263-techceos.jpg?v=1777061317&w=1920&h=1080",
-      "datetime": 1777215296000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 139895305,
-      "headline": "Morningstar Says Software Stocks Haven't Been This Undervalued In 3 Years. These 3 Look Like Good Deals.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5aa21e3fa319f8069df8fae903573fdab4fc6c4eab8649868e0138b5bcd94614",
-      "summary": "Artificial intelligence (AI) disruption is a real threat, but investors are panicking about its impact on these companies.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777215000000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139895294,
-      "headline": "'A return to optimism': Wall Street strategists are bullish on the AI trade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8266e8afbe7cb74ffb8f645f8b69cb71b3eac3212ed224b92a55420442375203",
-      "summary": "The rapid run higher in chip stocks has reignited  the AI trade.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777213800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139895306,
-      "headline": "Elon Musk’s $134 Billion OpenAI Fight Heads to Trial",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f6e175ed0e203129e22347c1c124d17a4339141f0572cda27facf4ec05a8116",
-      "summary": "Musk's $134B OpenAI lawsuit opens Monday after a judge narrowed it to two claims against Altman and Microsoft.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777213417000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139895295,
-      "headline": "This Obesity Stock Could More Than Double Over the Next 12 Months, According to Wall Street",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=726a8835bf18fccc35a88bbf26dc3b701d340f1f6c60af2d0b0cf47215ee1327",
-      "summary": "Most investors currently see the glass on this stock as being half-empty. Analysts, however, still view the glass as at least half-full.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777213320000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139895338,
-      "headline": "AMD’s French AI Deal Adds European Public Sector Growth Questions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa74d0b7915529353974bb50f44a40a39d948182fccab7d673826487c2daa05d",
-      "summary": "Advanced Micro Devices, NasdaqGS:AMD, has entered a multi year collaboration with the French government to support France's national AI strategy. The partnership focuses on scaling AI infrastructure and research, with the aim of accelerating AI adoption across Europe. This agreement marks a new public sector relationship in Europe for AMD, expanding its presence in government backed AI initiatives. For investors, this move arrives with AMD shares at $347.81, alongside very strong multi year...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777212311000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139895311,
-      "headline": "Broadcom Deepens Meta And Google AI Ties As Valuation Stays Stretched",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=30a53fa5ffb6936baf6df6b3c4abf6aae445f83deb65d283b220aed975cf229e",
-      "summary": "Broadcom (NasdaqGS:AVGO) has agreed a multi year, multi generation partnership with Meta to co develop and supply next generation AI accelerator chips through 2029. The company has also expanded its work with Google Cloud around the launch of Cloud Network Insights, a tool focused on cloud scale network observability. These moves tie Broadcom more tightly to two major hyperscalers across both custom AI silicon and advanced networking software. For readers tracking AI infrastructure, this...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777212177000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139896707,
-      "headline": "Better Later Than Never? Tesla Stock Hangs in the Crosshairs as Cybercab Finally Enters Production",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=afbc65ec0ba8fc12473e1b54926207f1a75638b3bdc8f79b1b3d76951c592d3f",
-      "summary": "Despite a mixed Q1, Tesla’s story now hinges on execution as Cybercab finally moves from vision to reality, even with autonomy still a question mark.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777212002000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139895797,
-      "headline": "Investors Protecting Stocks at Record Eye Bets on Higher Rates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0d87d4834df22cde13911b27c48601e479ac8c56231dfef3b609821ba112039",
-      "summary": "(Bloomberg) -- As stocks hit record after record, some investors are taking to heart the saying: Hedge when you can, not when you must.Most Read from BloombergThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandGunman Detained, Trump Evacuated After Shooting at Press DinnerTrump Scraps US Trip for Iran Talks, Leaving Ceasefire in LimboThe Hottest Phone for Kids Right Now Is a $100 LandlineGoogle Plans to Invest Up to $40 Billion in AnthropicInvestors have been snapping up calls on techno",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777212000000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139895913,
-      "headline": "Intel: Pump The Brakes",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0b85cfd8f923ea0436f5dd3dc6195fecdeec70086dcbc46ebc6912fb8c1c8ecd",
-      "summary": "Intel stock surged nearly 300% on short-term CPU demand and price hikes, but valuation looks stretched. Read the full analysis here.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1002010996/image_1002010996.jpg?io=getty-c-w1536",
-      "datetime": 1777212000000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139895788,
-      "headline": "Earnings Calendar for the Week: A Star-Studded Lineup on the Markets",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=2a9735161b630862aed107c76efe1ec32d80a926852f30e06854bb80ca71380d",
-      "summary": "Welcome to the corporate earnings calendar for the week of April 27 to May 1, 2026.The highlights this week include results from Microsoft, Exxon Mobil, LVMH, Alphabet, TotalEnergies, Airbus, Meta...",
-      "image": "",
-      "datetime": 1777211486000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139895796,
-      "headline": "Wall Street Brunch: Five Of The Mag 7 Ride Into Earnings Town",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4ff30bcd4ac5159dd432a24ae1e180ca4efcab66797c085c8d7e4fcdf418f971",
-      "summary": "Five of Magnificent 7 report in a packed week. Powellâs last FOMC decision as chief comes as Warsh faces vote. Berkshire meets without Buffett after steep underperformance.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170649971/image_2170649971.jpg?io=getty-c-w1536",
-      "datetime": 1777211462000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139894791,
-      "headline": "Amazon Stock: Buy, Sell, or Hold?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71986529f58b96b97d64c735979c2ef857c2b7b81183fe07fec8bfbdf1c0e85f",
-      "summary": "Shares have rallied sharply ahead of earnings.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777211160000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139894792,
-      "headline": "Where Will Celsius Stock Be in 5 Years?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7213746e095a7bdc7bf36f26e91d138b219481134400f9f93d11549cf1c802ef",
-      "summary": "This emerging energy drink business used to be a high-flying stock, but it now trades 65% off its peak.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777210800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139894793,
-      "headline": "Why I Just Bought Even More of These 3 Underappreciated AI Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6799239a060decad74643d7e672c8ffa63359a254c495fcb8ec47869e84a9384",
-      "summary": "These three AI stocks are going to get a lot more attention soon. Check them out before everyone else does.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777209900000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
