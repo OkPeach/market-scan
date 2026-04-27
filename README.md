@@ -26,6 +26,11 @@ couple of Node scripts that the workflows run.
   dates. Includes a *self-reported* 30-day direction hit rate computed from
   `data/longterm-history.json` against the "always up" baseline so you can
   judge whether the signal actually has an edge on your watchlist.
+- **Tracked portfolios** — configurable widgets (default: Berkshire Hathaway
+  via SEC 13F + Nancy Pelosi via house-stock-watcher). Donut chart per
+  portfolio with hover labels, plus a positions list with weights. Edit
+  `config/portfolios.json` to add/swap entries (any CIK or any house member
+  name). Refreshed weekly.
 
 ## Setup
 

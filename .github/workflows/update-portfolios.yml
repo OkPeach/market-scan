@@ -1,0 +1,37 @@
+name: update-portfolios
+
+on:
+  schedule:
+    # Weekly. 13F filings are quarterly with a 45-day lag; congressional
+    # disclosures trickle in continuously but a daily run isn't necessary.
+    - cron: "15 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-portfolios
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch portfolios
+        env:
+          # SEC requires a meaningful UA on data.sec.gov requests.
+          SEC_USER_AGENT: "market-scan github-action (https://github.com/${{ github.repository }})"
+        run: node scripts/fetch-portfolios.mjs
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data: update portfolios"
+          file_pattern: data/portfolios.json

@@ -1,0 +1,21 @@
+{
+  "portfolios": [
+    {
+      "id": "berkshire",
+      "type": "sec13f",
+      "cik": "1067983",
+      "name": "Berkshire Hathaway",
+      "subtitle": "Warren Buffett · 13F",
+      "topN": 10
+    },
+    {
+      "id": "pelosi",
+      "type": "congress-house",
+      "memberMatch": "Pelosi",
+      "name": "Nancy Pelosi",
+      "subtitle": "House trades · last 180d",
+      "windowDays": 180,
+      "topN": 10
+    }
+  ]
+}
