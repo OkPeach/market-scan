@@ -21,6 +21,7 @@ export const WORKFLOWS = {
   stocks: "update-stocks.yml",
   news: "update-news.yml",
   longterm: "update-longterm.yml",
+  portfolios: "update-portfolios.yml",
 };
 
 export function autoDetectRepo() {

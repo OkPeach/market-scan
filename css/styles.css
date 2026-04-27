@@ -205,10 +205,11 @@ main {
     grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
     grid-template-areas:
       "news        movers"
-      "predictions predictions"
+      "portfolios  predictions"
       "longterm    longterm";
   }
   #news-section        { grid-area: news; }
+  #portfolios-section  { grid-area: portfolios; }
   #movers-section      { grid-area: movers; }
   #predictions-section { grid-area: predictions; }
   #longterm-section    { grid-area: longterm; }
@@ -227,8 +228,8 @@ main {
     grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr) minmax(0, 1.35fr);
     grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
     grid-template-areas:
-      "news movers      longterm"
-      "news predictions longterm";
+      "news       movers      longterm"
+      "portfolios predictions longterm";
     gap: 1rem;
     padding: 1rem 1.25rem;
     max-width: none;
@@ -1064,4 +1065,136 @@ button.ghost.danger:hover:not(:disabled) {
   font-family: var(--font-mono);
   color: var(--label-secondary);
   font-variant-numeric: tabular-nums;
+}
+
+/* -------- Portfolios widget -------- */
+.portfolios-container {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--label-quaternary) transparent;
+}
+.portfolios-container::-webkit-scrollbar { width: 8px; }
+.portfolios-container::-webkit-scrollbar-thumb {
+  background: var(--label-quaternary);
+  border-radius: 999px;
+}
+@media (min-width: 520px) {
+  .portfolios-container { grid-template-columns: 1fr 1fr; gap: 0.9rem; }
+}
+
+.portfolio-card {
+  background: var(--surface-2);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-lg);
+  padding: 0.8rem 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  min-width: 0;
+}
+.portfolio-card.error { border-color: rgba(255, 69, 58, 0.3); }
+
+.portfolio-chart-wrap {
+  position: relative;
+  /* Fixed height stops the same Chart.js infinite-resize loop the
+     sparklines had — the canvas inside fills 100%. */
+  width: 100%;
+  height: 150px;
+  align-self: center;
+  max-width: 220px;
+  flex-shrink: 0;
+}
+.portfolio-chart-wrap canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.portfolio-card-head {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+.portfolio-card-head h3 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.portfolio-sub {
+  font-size: 0.72rem;
+  color: var(--label-tertiary);
+}
+
+.portfolio-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.18rem;
+}
+.portfolio-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  font-size: 0.78rem;
+  padding: 0.18rem 0.05rem;
+  border-bottom: 1px solid var(--hairline);
+}
+.portfolio-row:last-child { border-bottom: 0; }
+.portfolio-row.other { color: var(--label-tertiary); font-style: italic; }
+.portfolio-row-name {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.portfolio-row-weight {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+  color: var(--label);
+  flex-shrink: 0;
+}
+.swatch {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.portfolio-foot {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 0.7rem;
+  color: var(--label-tertiary);
+  padding-top: 0.4rem;
+  border-top: 1px solid var(--hairline);
+}
+.portfolio-foot .sep { opacity: 0.5; }
+.portfolio-foot a { color: var(--label-secondary); }
+.portfolio-foot a:hover { color: var(--blue); }
+
+.portfolio-note-small {
+  margin: 0;
+  padding: 0.4rem 0.55rem;
+  font-size: 0.68rem;
+  line-height: 1.4;
+  color: var(--label-tertiary);
+  background: var(--surface-3);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-sm);
 }
