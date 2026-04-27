@@ -1,6 +1,17 @@
 {
-  "timestamp": 1777328866456,
+  "timestamp": 1777332658331,
   "items": [
+    {
+      "id": 7858140,
+      "headline": "S&P 500, Nasdaq, close slightly higher in cautious start to a heavy earnings week - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEs3OVpOYnhkaGZjal9qUlRkLWlyTFdYQUduUENEcFdwNDBZLVhSUWRBbnI1cUxPblpnaVk0NURRUFY1aVhlRno3VTBXWWU1ckM2VTFQd3RzQzczV3hiZVgwRVAzaXZjY1U4Yk9pRE1WZzRPOWRHam16M2RlQzVqTmlsRWQ2VEhuU1p1LUd6ZkNKeHh4R2lmUXBOa3ZXUGlHaHk0?oc=5",
+      "summary": "S&P 500, Nasdaq, close slightly higher in cautious start to a heavy earnings week  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777328387000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 139908231,
       "headline": "Amazon Is About to Report Q1 Earnings. Do Options Traders Expect a Major Move in AMZN Stock?",
@@ -123,6 +134,17 @@
       "category": "company"
     },
     {
+      "id": 7857483,
+      "headline": "King Charles arrives in US for state visit amid differences over Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG5Idm5fMEU3X3Jfc1R2N051WWRRUzVVZ1pfd01BVFFSZHBNNUU4LXBnTUhuLTNrRnQzWnl2YzNPU1hMTDgxQXBVSUNEQzAxYll4ZXRab3Z2N2VxeGdaZ3U0YWJXYWxiemYtVVZGcWMySDRtNGJCQV9vaTRlVDlubVZmU3RTVDF1dEpXTVA3T0tmRU1CZkNXR0xrakxtY0tEekxjYTJCc0RrYkIw?oc=5",
+      "summary": "King Charles arrives in US for state visit amid differences over Iran war  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777323344000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139908168,
       "headline": "Cadence lifts annual revenue forecast on sustained AI chip-design boom",
       "source": "Yahoo",
@@ -154,17 +176,6 @@
       "datetime": 1777322673000,
       "ticker": "META",
       "category": "company"
-    },
-    {
-      "id": 7858140,
-      "headline": "S&P 500, Nasdaq, close slightly higher in cautious start to a heavy earnings week - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEs3OVpOYnhkaGZjal9qUlRkLWlyTFdYQUduUENEcFdwNDBZLVhSUWRBbnI1cUxPblpnaVk0NURRUFY1aVhlRno3VTBXWWU1ckM2VTFQd3RzQzczV3hiZVgwRVAzaXZjY1U4Yk9pRE1WZzRPOWRHam16M2RlQzVqTmlsRWQ2VEhuU1p1LUd6ZkNKeHh4R2lmUXBOa3ZXUGlHaHk0?oc=5",
-      "summary": "S&P 500, Nasdaq, close slightly higher in cautious start to a heavy earnings week  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777322271000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139908169,
@@ -220,6 +231,17 @@
       "datetime": 1777321744000,
       "ticker": "MSFT",
       "category": "company"
+    },
+    {
+      "id": 7860476,
+      "headline": "ADNOC LNG tanker crosses Strait of Hormuz for first time since Iran war, ship-tracking data shows - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ29JSmp1NWd6eG5MYWU0aHpEczg4d2owdDc4cm8xZ0ZPNVh1YW9OSlZjNFZSVVdENWdTU3FmNjY0dnYwUjRXOEo4aUJKd3ZVWXhsVElTZU1sUUlBMWlwZzc4R0c3Zmh2ZnZIbjVYTUhXcElzVzVRUVhEbEp0a09zM1ZCcV83dE1pT3lvTlJnS1EtY3g3SkxEdnMzWGlWUjZDYzNFOGhHUThfdXdERVVwR0FqcnVEYkJRb3A2M0JoWXVyaXFmcWQwRmNB?oc=5",
+      "summary": "ADNOC LNG tanker crosses Strait of Hormuz for first time since Iran war, ship-tracking data shows  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777321707000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139908171,
@@ -475,17 +497,6 @@
       "category": "company"
     },
     {
-      "id": 7857483,
-      "headline": "King Charles arrives in US for trip overshadowed by Iran quarrel and shooting - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG5Idm5fMEU3X3Jfc1R2N051WWRRUzVVZ1pfd01BVFFSZHBNNUU4LXBnTUhuLTNrRnQzWnl2YzNPU1hMTDgxQXBVSUNEQzAxYll4ZXRab3Z2N2VxeGdaZ3U0YWJXYWxiemYtVVZGcWMySDRtNGJCQV9vaTRlVDlubVZmU3RTVDF1dEpXTVA3T0tmRU1CZkNXR0xrakxtY0tEekxjYTJCc0RrYkIw?oc=5",
-      "summary": "King Charles arrives in US for trip overshadowed by Iran quarrel and shooting  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777318703000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139906749,
       "headline": "Booking Holdings: The Glorious Travel Stock You'll Wish You'd Bought Before the Next Boom",
       "source": "Yahoo",
@@ -637,6 +648,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777316900000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139908954,
+      "headline": "Tesla: What Most Don't Know About FSD",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b963e345c757747837b83c969e89e1f573ec512214097000ab59ffe861e70ec0",
+      "summary": "Tesla, Inc., faces rising China EV competition as FSD rivals close in, pricing power weakens, and the lineup ages. Click for this updated look at TSLA post earnings.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2200907478/image_2200907478.jpg?io=getty-c-w1536",
+      "datetime": 1777316784000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -882,6 +904,17 @@
       "category": "company"
     },
     {
+      "id": 139908649,
+      "headline": "Intel: Redrawing The CPU AI Map (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ccfb7aa85ffaaeb23407b6cace07cfb3418076506da7e61067e871f94bca6c97",
+      "summary": "Intel Corporation is downgraded to Hold, as shares now trade at a fully valued 18.3x EV/EBITDA, limiting near-term upside. Read more on INTC stock here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254246642/image_2254246642.jpg?io=getty-c-w1536",
+      "datetime": 1777315196000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 139906758,
       "headline": "Nvidia-Linked AI Project Seeks $4.54 Billion In Junk Debt",
       "source": "Yahoo",
@@ -1066,39 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777313340000,
       "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139906766,
-      "headline": "Forget Nvidia: Sudden CPU Shortage Can Make AMD Explode Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2385cffc106c205fabc0384fd4f35dcef183fb6f0da8cff4cf8f024592e92482",
-      "summary": "Nvidia (NASDAQ:NVDA) is everywhere right now because it just posted Q4 revenue of $68.13 billion, up 73.2% year-over-year, and Jensen Huang declared that “the agentic AI inflection point has arrived.” The real opportunity could be elsewhere. The trade everyone is piling into has a name: NVDA. A CPU shortage is quietly reshaping data center economics, ... Forget Nvidia: Sudden CPU Shortage Can Make AMD Explode Higher",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777313123000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139906863,
-      "headline": "AMD Jumps as AI Demand Lifts Outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fd13cd81edf333b338ca4ea74a5fb74881972c678227dd0ed8d550649e196aef",
-      "summary": "Analysts raise targets as CPU demand tied to AI workloads accelerates.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777313103000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139906172,
-      "headline": "Looking for the most active stocks in the S&P500 index on Monday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=9078bb44110e4831e5d416a75837a5c043c61602e888e644471f594660a1d1a9",
-      "summary": "Looking for the most active S&P500 stocks in today's session? Join us as we dive into the US markets on Monday and discover the stocks that are dominating the trading activity and setting the pace for the market.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Most_Active_Stocks_Small_free_fec0650b7f.webp",
-      "datetime": 1777313102000,
-      "ticker": "AMZN",
       "category": "company"
     }
   ]
