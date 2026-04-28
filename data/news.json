@@ -1,6 +1,160 @@
 {
-  "timestamp": 1777358183823,
+  "timestamp": 1777368576542,
   "items": [
+    {
+      "id": 7862661,
+      "headline": "Treasury yields rise as U.S.-Iran peace talks hit an impasse",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/treasury-yields-us-iran-peace-talks-at-impasse.html",
+      "summary": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose more than 2 basis points at 4.356%.",
+      "image": "https://image.cnbcfm.com/api/v1/image/102512892-185720673.jpg?v=1426618590&w=1920&h=1080",
+      "datetime": 1777367221000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139912300,
+      "headline": "META Platforms (NASDAQ:META) Screens as Strong Growth Stock with Bull Flag Technical Setup",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=410d3887a566ed6c533a25200108dc267af76736cf08dda740f536c88d386c5f",
+      "summary": "Meta Platforms (META) shows strong growth and profitability with an 8/10 rating, paired with a bull flag technical breakout pattern. This fundamentally sound stock near resistance offers a promising risk-reward setup for growth investors.",
+      "image": "https://www.chartmill.com/images/uploads/Strong_Growth_500_264px_webp_8f1ee6ba5b.webp",
+      "datetime": 1777364440000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 7862561,
+      "headline": "The Hormuz digital chokepoint: How does the Iran war threaten subsea cables? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejh6RXU4Vjk3dkl0V0hnNGRPbS1CdnZlWmJBZ0x1dG9XcE8wUTJTaDBMaTRVT2hQWUIxeDBpZUN6a1BBd082Q05KMHk2SDJHbnJjbmN3TDRRUkp3M2h5X1RoQkNHX0IxdllTZXQ3MmxneHg5ZE1Sc0JJVzJTWDBZdFhKdUtuc2tqTHRuZTVWY21rMEtlZmlobUZ3Mk1OeThOX3NSd0RzNWUxaWxQWnJfMTRHSDZLMVduaVpmOXFjdEc1ZVE?oc=5",
+      "summary": "The Hormuz digital chokepoint: How does the Iran war threaten subsea cables?  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777363101000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139912220,
+      "headline": "A Quiet Record Before the Storm",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=8d6a7c7ab8b803335ca5ad88cb933e5c3c363005558a850d05a0b1e98bdfa9be",
+      "summary": "Monday's session on Wall Street was the financial equivalent of a held breath. The S&P 500 ticked up just 0.1% to close at a new all-time record, but with five of the Magnificent 7 due to report earnings this week, three central banks meeting, and oil pushing past $108 on stalled Iran talks, that record felt more like a pause than a celebration.",
+      "image": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_10_edae46f01d.webp",
+      "datetime": 1777361899000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139912025,
+      "headline": "What To Expect From Alphabet’s (GOOGL) Q1 Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5b042936b32efdd202640b33825451e8af5527769060cf4ed1797b7c9d774ce",
+      "summary": "Online advertising giant Alphabet (NASDAQ:GOOGL) will be reporting earnings this Wednesday afternoon. Here’s what to look for.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777360615000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139912077,
+      "headline": "Palantir’s IRS Role Weighs On Privacy Concerns And Rich Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13712f3a67863e41703c0e9f5ceaf4b4159e51a0299313f5cf09849b89bc8f76",
+      "summary": "Palantir Technologies has been revealed as a long term analytics partner to the Internal Revenue Service, using its Lead and Case platform since 2018. The relationship highlights Palantir's role in supporting sensitive government functions that handle large volumes of personal and financial data. The disclosure is prompting fresh debate about privacy, surveillance and how government agencies use advanced analytics tools. For investors watching NasdaqGS:PLTR, the IRS partnership adds another...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777359926000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 139912155,
+      "headline": "PayPal Ads ID Debut Raises New Questions For Valuation And Earnings Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bc6d9cc0da6fdbb7da473b8a9b7fe98611cc58af2067713f45adcae1c71ff74",
+      "summary": "PayPal Holdings (NasdaqGS:PYPL) has launched PayPal Ads ID, a new deterministic commerce based advertising identifier. The solution uses verified accounts and purchase data from PayPal and Venmo to support audience targeting and measurement. PayPal Ads ID marks the company’s formal entry into the digital advertising identity space, adding a new use case for its transaction data. For you as an investor, PayPal Ads ID highlights how PayPal is looking beyond payment processing and money...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777359911000,
+      "ticker": "PYPL",
+      "category": "company"
+    },
+    {
+      "id": 139912035,
+      "headline": "Tanla Platforms Ltd (BOM:532790) Q4 2026 Earnings Call Highlights: Strategic Growth Amidst ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bed1caae6b27af0c5d5d32be808749c4d9ad214ba5d56b5cd9cffcadcfe25099",
+      "summary": "Despite currency risks and margin pressures, Tanla Platforms Ltd (BOM:532790) focuses on innovation and international expansion to drive future growth.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777359709000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139912026,
+      "headline": "Xi Tests China’s Reach by Blocking Meta Deal That’s Already Done",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60ef7eebf5775ec98291d5b1ec2f10f25e2050dceac2edf42d1d1d4b926d2a84",
+      "summary": "(Bloomberg) -- China has sought for years to exert influence over business deals beyond its home turf. Still, its decision to press Meta Platforms Inc. to unwind a $2 billion acquisition of AI startup Manus marks a step unlike anything it’s tried before. Most Read from BloombergSergey Brin Confronted Gavin Newsom — Then Launched a Political WarTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandOpenAI Breaks Free From Exclusive AI",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777359224000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139912010,
+      "headline": "Can You Invest in SpaceX Pre-IPO?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=616cfa76016ff1b3561dce420c1214d70d8198be849deb2ab5a25d17b4b53a16",
+      "summary": "Yes, but that doesn't mean you can buy shares directly.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777359000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139912037,
+      "headline": "CoreWeave Inc. (CRWV) Appears Attractive with Recent Large-Scale Contracts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57be0afce4a9ca80c2f15f6d91a3ccc943c8169a8821155ec4afc3bf8a80d17b",
+      "summary": "CoreWeave Inc. (NASDAQ:CRWV) is one of the top 10 high-performance computing companies to invest in. On April 16, Brett Knoblauch from Cantor Fitzgerald increased the price target for CoreWeave Inc. (NASDAQ:CRWV) from $149 to $156 while reiterating an Overweight rating on the stock. According to the analyst, the company’s recent large-scale contracts with Meta Platforms […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777358957000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139912021,
+      "headline": "Amazon (AMZN) Reports Earnings Tomorrow: What To Expect",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6d5bf62779a3496f55aa958339f0b5fb460bd6c6e865bac35399899fbbc7b8a",
+      "summary": "Cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) will be announcing earnings results this Wednesday afternoon. Here’s what to expect.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777358215000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 7862350,
+      "headline": "BP quarterly profit more than doubles to $3.2 billion, driven by Iran war trading boon - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSllpY284Nm5nTk5hN0dGZ1RKXzFCLVg5UkQ5TjNsLUtEbzlmMFJzUWF2VlpCaFpNM0RZSXYyZ1lQQVdwU2gxYUVXLVdZbzRKVW5ndm05dFhHeHRwSGNnWlRVVWQwY0tlWXlMQm16R2dJNFY2dGl5cWhFenVHOUJRRU1YTDdkd2RjOGZBRUdnUXhFNkE5eVE?oc=5",
+      "summary": "BP quarterly profit more than doubles to $3.2 billion, driven by Iran war trading boon  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777356360000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7862240,
+      "headline": "Somalia's malnourished children hit hard by Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcm5sVFNMX3NPek1ocFFFWHRCNWRtZTlxOFA2YnhkSklONVpoNEk5cGZla2NHUnR3MndYS194TkgwbTR6b0tUdWJ2clRiRU8tZERHT3RzR0JjMVZoZ294LVJRUXdJd0stRTVJMlZZMUJ1UC1oSkxQZVNSbHZSMkM5UGRsSmV2OFB0cXJGeWRfVUJfbVFXdnhWZ1hWaWM?oc=5",
+      "summary": "Somalia's malnourished children hit hard by Iran war  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777356180000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 139911233,
       "headline": "Why This Week Could Be Huge For AI Stocks",
@@ -10,6 +164,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777355400000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139912017,
+      "headline": "Options Traders Are on Edge About Wild Wednesday. Here Are 2 Smart Moves.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fb33f6409ab35fa465ed86513a1a92d47c829c4e6f66a247ad88c6ca1d763ff",
+      "summary": "Trading points to jitters about the broad market, and optimism about most Big Tech earnings. How to play both those views.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777354200000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139912011,
+      "headline": "Fed News and Big Tech Earnings Collide This Week. The Mag 7 Matter Most.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1e1f515c4c383fd18d87b43cb23c386c08f77c23639067bca33baf21ff6024d",
+      "summary": "Wall Street is getting ready for one crazy Wednesday: A Federal Reserve meeting, a Senate committee vote on a new Fed chairman, and earnings reports from four Mag Seven companies after the closing bell.  The Cboe Volatility Index, also known as Wall Street’s fear gauge, has tumbled from above 30 in late March to a more reasonable level of 18.  Adding to the stakes: Never before have powerhouses  Alphabet Microsoft Amazon  and  Meta Platforms  all posted earnings on the same day.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777354200000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -24,6 +200,17 @@
       "category": "company"
     },
     {
+      "id": 139912595,
+      "headline": "Elon Musk vs Sam Altman: legal showdown begins in California",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a6f2a7b4d79f745d04d9acde84fbcdb1948ad3a1ae2929d4bf3b752c74a07c46",
+      "summary": "STORY: It has drawn protests outside the court. And will likely see drama inside. Elon Musk and Sam Altman are set for a legal showdown in California. The...",
+      "image": "",
+      "datetime": 1777352874000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 139911248,
       "headline": "Google signs classified AI deal with Pentagon, The Information reports",
       "source": "Yahoo",
@@ -31,6 +218,17 @@
       "summary": "Alphabet's Google has signed a deal with the U.S. Department of Defense ‌to use its artificial intelligence models for ‌classified work, The Information reported on Tuesday, citing a person ​familiar with the matter.  The agreement allows the Pentagon to use Google's AI for “any lawful government purpose”, the report added, joining OpenAI and Elon Musk's xAI ‌in having deals with ⁠the Pentagon for the use of AI models for classified settings.  Alphabet and the U.S. Department of Defense did not immediately respond to requests for ​comment.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777352862000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139912593,
+      "headline": "Alphabet C : Deutsche Bank keeps its Buy rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=059189df160d2998d1d407160f41f3d27c8caab9153a3d1c9fafa0ce98be52f3",
+      "summary": "Deutsche Bank is positive on the stock with a Buy rating. The target price is unchanged and still at USD 390.",
+      "image": "",
+      "datetime": 1777352830000,
       "ticker": "GOOGL",
       "category": "company"
     },
@@ -79,6 +277,17 @@
       "category": "company"
     },
     {
+      "id": 139912606,
+      "headline": "Energy Crisis Blows Softer In U.S.: AI Infrastructure Trade Appears Intact",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=33e61435ce2fb84dbc72433e65d6e0cba6c8386fa897742ca9ce1578d89c9ddd",
+      "summary": "Energy companies and AI infrastructure firms are positioned for the long term given secular compute demand. Read what top investors are thinking about the possibilities.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2202100777/image_2202100777.jpg?io=getty-c-w1536",
+      "datetime": 1777352400000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 139911239,
       "headline": "Microsoft and Postel: An Innovative New Data and AI-Driven Solution to Optimize Italian SMEs' Relationships with Their Customers",
       "source": "Yahoo",
@@ -109,6 +318,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777351495000,
       "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139912020,
+      "headline": "Stock Traders Favor Asia Over US as Pre-War Playbook Returns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c2a271edeb82e1ea9839d062b15aee99723add2294b51884ecfa7acb1f4dc28",
+      "summary": "(Bloomberg) -- Investors are reverting to a pre-war playbook of betting Asian stocks will outpace US peers, as confidence builds in the region’s central role in the artificial-intelligence boom.Most Read from BloombergSergey Brin Confronted Gavin Newsom — Then Launched a Political WarTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandOpenAI Breaks Free From Exclusive AI Pact With MicrosoftThe $1 Million Retirement Myth: Here’s Wh",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777351207000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -233,6 +453,17 @@
       "category": "company"
     },
     {
+      "id": 139912301,
+      "headline": "Asian stocks off record highs ahead of crucial tech earnings",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2dc43ca907296aee15d680beda230db2314979f3e2f90d33adb3a8efe24387ed",
+      "summary": "Asian emerging market stocks pulled back from record highs on Tuesday, as investors grew cautious ahead of a slate of U.S. tech earnings that could test the artificial intelligence-driven...",
+      "image": "",
+      "datetime": 1777350484000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 139911242,
       "headline": "Microsoft Deal Puts Constellation Energy At Heart Of AI Power Story",
       "source": "Yahoo",
@@ -277,17 +508,6 @@
       "category": "company"
     },
     {
-      "id": 7861097,
-      "headline": "Oil prices rise 1% as no end to Iran war stand-off seems in sight - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
-      "summary": "Oil prices rise 1% as no end to Iran war stand-off seems in sight  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777349320000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139911265,
       "headline": "Skyworks Solutions and Universal Display Shares Are Falling, What You Need To Know",
       "source": "Yahoo",
@@ -321,6 +541,28 @@
       "category": "company"
     },
     {
+      "id": 139911830,
+      "headline": "Nhtsa says it has closed preliminary evaluation without manufacturer action on 120,089 Tesla Model Y US vehicles over steering wheel detachment",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a56cb4c4630c96b5573c9769f0527a863cccdec91feb581c8457d94ee2150530",
+      "summary": "April 28 -Nhtsa closes preliminary evaluation without manufacturer action on 120,089 Tesla Model Y US vehicles over steering wheel detachment...",
+      "image": "",
+      "datetime": 1777346947000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139911834,
+      "headline": "US ends probe on Tesla Model Y vehicles without manufacturer action",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c2a69d0711c904590db4f17200289cf43821dc134228fad87b610da8aacc0a29",
+      "summary": "The U.S. National Highway TrafficSafety Administration said on Tuesday it closed a probe withouta manufacturer action into 120,089 Tesla Model Yvehicles that was opened after reports that the...",
+      "image": "",
+      "datetime": 1777346924000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 139910580,
       "headline": "Bank of America resets Nvidia stock forecast",
       "source": "Yahoo",
@@ -340,6 +582,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777345832000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139911703,
+      "headline": "AMD: Inference And Agentic AI Are Expanding Its Runway",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f4849c1c99da18a657621baa5d951497b1668afa6bc59d0a9d3ef314549226d5",
+      "summary": "Advanced Micro Devices is Buy-rated on expanding AI demand, strong EPYC/data center momentum, and discounted valuation. Learn more about AMD stock here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214312305/image_2214312305.jpg?io=getty-c-w1536",
+      "datetime": 1777345576000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139911701,
+      "headline": "TESLA : Barclays reaffirms its Neutral rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c4de26caf64d9bff6e5873170f7bb73b348f56dd1e0a45e57d45b3209c825a09",
+      "summary": "Initially Neutral on the company, Barclays's analyst Dan Levy maintained his recommendation. The target price continues to be set at USD 360.",
+      "image": "",
+      "datetime": 1777345477000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -365,6 +629,17 @@
       "category": "company"
     },
     {
+      "id": 139911558,
+      "headline": "Alphabet Earnings Preview: Q1 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c5d7ee7dad6262f8134edeb23639ae3fc63ce255482fda5abd1ae7277485522",
+      "summary": "According to Visible Alpha consensus, Alphabet Inc.'s total revenues expected for Q1 2026 have increased to $106.9 billion from $101.5 billion in the fall.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2230622982/image_2230622982.jpg?io=getty-c-w1536",
+      "datetime": 1777343700000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 139910604,
       "headline": "Tempted To Buy the SpaceX IPO? This Is The Smarter Stock To Buy",
       "source": "Yahoo",
@@ -373,6 +648,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777343700000,
       "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 139911562,
+      "headline": "Network Effects: The Moat Competitors Can't Match",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e261fa58ce0bc292b9897da55e0915a2cd2c680a84ff774459b6634397075fe3",
+      "summary": "According to Morningstar's Allen Good and Brian Colello, it often comes down to network effects - one of the most powerful sources of economicÂ moat. Read more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/649729720/image_649729720.jpg?io=getty-c-w1536",
+      "datetime": 1777343400000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -498,10 +784,10 @@
     },
     {
       "id": 7861402,
-      "headline": "Gold edges down with US-Iran talks, central bank decisions in focus - Reuters",
+      "headline": "Gold hits three-week low with US-Iran talks, central bank decisions in focus - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNpbTBCYzQ2NWNmX3k1azB3TGczbV9nb3hsM1lQR2l5dTlxUkxQdjZjZks2T0xZM1Q4MEtSX3psV3lRT3ZIbU41VS1fSUF5MTBtV1liTUl3QW5HUGhHZ2ZKWi1GVHlTOC1zMW1obTFOamZ0OGdRRFlTNDA0SFZtQkZ6VUg3U1Z6R1Zvemw4RGhYRmhVLXBQWUM1c1AwMl9qaHFISEJ2RTI2NTA?oc=5",
-      "summary": "Gold edges down with US-Iran talks, central bank decisions in focus  Reuters",
+      "summary": "Gold hits three-week low with US-Iran talks, central bank decisions in focus  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777339920000,
       "ticker": null,
@@ -552,6 +838,17 @@
       "category": "company"
     },
     {
+      "id": 7862562,
+      "headline": "Oil rises on Middle East tumult, yen firms after BOJ hold - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRhN2c0RU1tV2otcDBmWHdiTXVGZ19LVDFnTmJVUHI5TTBiRkJQaXQ3OUNGLVJQNDl0bVJtTmNmVWlMQ0UwVnNidVp6OG9zWDJLNGwxVUJ1M21oNG1OWDV6bFk1eDQxbUxMemxfRk5JMTcxMHNSVUxBV3V0NDVvckVuel8?oc=5",
+      "summary": "Oil rises on Middle East tumult, yen firms after BOJ hold  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777338540000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139910971,
       "headline": "Google signs classified AI deal with Pentagon amid employee opposition - The Information",
       "source": "Finnhub",
@@ -561,6 +858,17 @@
       "datetime": 1777338268000,
       "ticker": "GOOGL",
       "category": "company"
+    },
+    {
+      "id": 7861097,
+      "headline": "Oil prices up 2% as no end to Iran war stand-off seems in sight - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
+      "summary": "Oil prices up 2% as no end to Iran war stand-off seems in sight  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777338120000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139910051,
@@ -615,6 +923,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777336122000,
       "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139912041,
+      "headline": "Tesla Stock: Is Wall Street Bullish or Bearish?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e61daff8f3cd9694f09c27bb5e56397b8f2b81df0f772e4cbe3a9ad64e37487b",
+      "summary": "Although Tesla has outperformed the S&P 500 over the past year, Wall Street analysts maintain a cautious outlook about the stock’s prospects.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777335787000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -780,325 +1099,6 @@
       "image": "",
       "datetime": 1777331420000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139909094,
-      "headline": "How The Himadri Speciality Chemical (BSE:500184) Narrative Is Evolving With AI Supply Chain Hopes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96c63da4429733eefe0fb86b6174cf49115de8dbaae95b09965acec21a0f9e2e",
-      "summary": "Himadri Speciality Chemical’s fair value has been kept steady at ₹470.0 per share, even as the underlying model assumptions for growth, margins, and discount rate have been fine tuned. Analysts are linking this unchanged price target to ongoing debate about how closely Himadri can sit alongside the supply chains feeding high performance computing and AI hardware, where current Street research is focused on memory and optical component names tied to Nvidia’s Vera Rubin platform. As you read...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777331312000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909115,
-      "headline": "Alphabet Investors Press For AI Data Center Climate Transparency",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a96f92c2f493a916fd758bf9addeac30e464bae6d39c889d5bc5f7214da78a3e",
-      "summary": "Trillium Asset Management has filed a shareholder proposal asking Alphabet (NasdaqGS:GOOGL) to publish a report on how it will meet its climate commitments as AI driven energy use grows. The proposal focuses on rising power needs from AI workloads and new data center construction and calls for more detail on the company’s environmental approach. This is the first major instance of investors directly tying Alphabet’s AI expansion to specific requests for greater climate...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777331272000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139909173,
-      "headline": "Anthropic Claude users stay the course at Defense Department",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f782fdf8d08343958de8fa0461301cadc475a69ff407f358610e385ad28ee4ac",
-      "summary": "The dispute between the Pentagon and Anthropic, one of Silicon Valley’s most valuable AI companies, has mostly moved out of the public eye now. At its peak last month, the controversy had succeeded in giving the company’s archrival OpenAI an opening, while rattling contractors across the industry, ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777330860000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 139910304,
-      "headline": "Meta is preparing to have to undo its Manus acquisition after China ban - WSJ",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=d3ab3866c1d5a312d0cd12f8f704b9025766904161c381ceb8eb92312e4ff27c",
-      "summary": "Meta is preparing to have to undo its Manus acquisition after China ban - WSJ...",
-      "image": "",
-      "datetime": 1777330697000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139910305,
-      "headline": "The Ithaka Group 1Q26 Performance: Contributors And Detractors",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ee810b4dcbe854fb9ca4ef4c19dc547f855708e773acbebf697c5e56500527de",
-      "summary": "Ithaka's portfolio trailed the Russell 1000 Growth Index in Q1 2026 as tech names faced AI-driven headwinds. Read the full analysis for more details.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158221838/image_2158221838.jpg?io=getty-c-w1536",
-      "datetime": 1777330500000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139909095,
-      "headline": "Nvidia’s (NVDA) Explosive Run May See Limits Going Forward, Warns JPMorgan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=015f1f30a6e92106228476299b80349b9c32a684daf7916ac4dfdfa149b9579e",
-      "summary": "Chipmaker Nvidia (NVDA) has seen a strong rally recently, but not everyone on Wall Street believes it can keep going at the same pace. Indeed, JPMorgan (JPM) strategist Mislav Matejka said he still likes semiconductor stocks and remains positive on the group, but he also warned that the market may not behave the same way it did last year. While Nvidia surged about 120% over a six-month stretch in 2025 after a weak first quarter, Matejka believes that the conditions for another similar run are no",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777330326000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909108,
-      "headline": "What Stocks to Watch on the Craziest Day in Earnings History",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8b88a6f13ea24b8616e5b0914e32c95888a17b0e2ff899a4cc82c67eb7a3e418",
-      "summary": "Four Mag 7 giants will report on Wednesday at the same time, along with other hot stocks like Carvana. Get ready.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777330080000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7860992,
-      "headline": "Iranian defence official holds talks with Russian, Belarusian ministers - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQy1LcEduRGFkRWFrUG5rQ0ZldmZEdG1aUjZwNkhWLUdxc3g1QXZvUktyR3FHRWZ6WHA2VXRkM2YyQVZVdm9Yblo3TnZMODBuaU5SOGxUSlRzQXRzdXlMaUw4T2JFR1VLOGFCaXdzUGd0NmFTSjZPZTJYMTRoX0dXUEhEMklSU0ViSkthdVRUZXF4YzhXc2daNC1FcXRJUHpwc0NoYl9xeWdCYldVRUhxeU44OGFDZDlRMFlr?oc=5",
-      "summary": "Iranian defence official holds talks with Russian, Belarusian ministers  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777330065000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139909129,
-      "headline": "Q4 Earnings Outperformers: Meta (NASDAQ:META) And The Rest Of The Social Networking Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=97de694a8b2ae4c4a30c1346f42406700fd21e1b180643f20e400495d1823019",
-      "summary": "Let’s dig into the relative performance of Meta (NASDAQ:META) and its peers as we unravel the now-completed Q4 social networking earnings season.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777329895000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139909096,
-      "headline": "Nvidia Stock Just Hit a New All-Time High, Pushing Its Market Cap Above $5 Trillion. Is It Too Late to Buy the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a2890562989f05b2669f139efbd76f29815ab792102aaddf4030d80fec2c48a5",
-      "summary": "The AI chipmaker has rebounded from its recent correction, but is there additional upside ahead?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777329706000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909097,
-      "headline": "Why Celcuity Stock Popped on Monday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=061bbd5cdf6f6a8b990e7098794cc86fbd8652c3dd2d22130009ec393298cc74",
-      "summary": "An analyst initiated coverage of the biotech.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777329493000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909132,
-      "headline": "Elon Musk Reportedly Used SpaceX As 'Piggy Bank' To Give Himself, Tesla A Leg Up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=71e7e73445cebf494e6cc74f85eeacaf27818a9a398331f514de76e412ae311a",
-      "summary": "Elon Musk borrowed $500 million from SpaceX at interest rates as low as 1%, used the rocket company to bail out a struggling solar venture, and most recently had SpaceX swallow his cash-burning AI lab, according to a New York Times investigation published Friday. The report lands six weeks before SpaceX is expected to hit the road with the largest IPO in history. What The NYT Documented Musk pulled three loans totaling $500 million from SpaceX between 2018 and 2020, at rates that ranged from und",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777329066000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139909174,
-      "headline": "Why May Could Be a Turning Point for Palantir Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e770a7c41edb3a118245ab4320dcd7f7805fd4825dec845da9484e4e30e94e6a",
-      "summary": "Could this former highflier take off again?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777329000000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 7860789,
-      "headline": "US, Iran clash at UN after Tehran gets nuclear non-proliferation role - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGJYSHBXMVhzaG00Ym1GQS1iTGF3SXVVQ2hWNDlmRlRvSE9EYjB4MXI5NlhzSDYzaUlmQUJHX0JoRnJhMDJVeFpCakVWNVFnNkQzbjJfMk5Jc2xoLWFaazJpem5mbFhMdlRVQ1RQeWRXeXVLZWFpR0VsNklObHhzTVluWnRvX2pZbDlQX1I5cVJSX19vRnZaTDNOdEdKNURJNUtrVzBwSm11RF8zWG9lMjM0ZlZTbVBRQjJF?oc=5",
-      "summary": "US, Iran clash at UN after Tehran gets nuclear non-proliferation role  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777328889000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139909117,
-      "headline": "Verizon Communications Q1 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=396fb997a0103d4f0b66b590e442087c0ff8717e8318565e53c2552b98d283ce",
-      "summary": "Verizon Communications (NYSE:VZ) executives pointed to improving customer retention, lower acquisition costs, and a shift toward “healthier” growth as key drivers of first-quarter 2026 results, while also raising guidance for adjusted earnings per share growth and tightening expectations for postpai",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777328564000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139909140,
-      "headline": "Rambus Q1 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1989b4241343424d61cc905bd18d232f2c2c755131523ed64c1ba7437c6a8b29",
-      "summary": "Rambus (NASDAQ:RMBS) outlined its second-quarter outlook and provided updates on product transitions, supply chain conditions, and longer-term platform-driven opportunities during its latest earnings call. Guidance calls for sequential revenue growth in Q2 Management guided to second-quarter revenu",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777328562000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 7858140,
-      "headline": "S&P 500, Nasdaq, close slightly higher in cautious start to a heavy earnings week - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEs3OVpOYnhkaGZjal9qUlRkLWlyTFdYQUduUENEcFdwNDBZLVhSUWRBbnI1cUxPblpnaVk0NURRUFY1aVhlRno3VTBXWWU1ckM2VTFQd3RzQzczV3hiZVgwRVAzaXZjY1U4Yk9pRE1WZzRPOWRHam16M2RlQzVqTmlsRWQ2VEhuU1p1LUd6ZkNKeHh4R2lmUXBOa3ZXUGlHaHk0?oc=5",
-      "summary": "S&P 500, Nasdaq, close slightly higher in cautious start to a heavy earnings week  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777328387000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139909098,
-      "headline": "Why Critical Metals Stock Soared Almost 26% Higher Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e49f12439ec687019ebc06dd3e79c0b13c8332117218593b0f6352f52e9a8d3f",
-      "summary": "The company has made a proposal to acquire a top European peer.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777327828000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909106,
-      "headline": "Berkshire’s Domino’s Holding Is Another Loser Among Its Smaller Stock Investments",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=739b55665e75db95e3427df0de1a8824996f266b63f213bd97aee48069bf7ee9",
-      "summary": "Domino’s isn’t the only loser among Berkshire’s smaller investments under $3 billion. Others include Constellation Brands, Pool and Sirius XM Holdings.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777327680000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139909099,
-      "headline": "Nebius AI Cloud 3.5 Launch Tests Rich Valuation And Growth Hopes",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c1e88b1f68d36d8ab5c46cf8665eb50baf742478bb9ae64688b2d5bc4a7b9ba",
-      "summary": "Nebius Group (NasdaqGS:NBIS) launched Nebius AI Cloud 3.5 with serverless AI workload support. The release includes integration of the NVIDIA RTX PRO 6000 Blackwell Server Edition GPU for high-performance AI use cases. Through a partnership with TD SYNNEX, Nebius is offering production-ready, enterprise-grade GPU infrastructure via a global IT distributor. Nebius Group, listed as NasdaqGS:NBIS, is positioning its AI cloud platform around faster deployment and improved access to compute...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777327593000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909100,
-      "headline": "The First Blockbuster Artificial Intelligence IPO of 2026 Is Almost Here. Here's Why I'm Staying Away.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ec21810160427ff269c015831f234f1613b79beb84c47a1d87f962d3105398a5",
-      "summary": "This AI darling could see a huge revenue bump, but it's far from guaranteed.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777327500000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909101,
-      "headline": "Nvidia's Next AI Superchip Needs A New Kind of Memory — And One Company Controls It",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b4921cecb4df2b7017430a7f2c8d9ea3268591015340acff60072bf68cf9cf1",
-      "summary": "The spotlight is on Nvidia Corp‘s next-gen Vera Rubin platform—but the real story isn't the GPU. It's the memory. And right now, that story runs straight through SK Hynix and a $13 billion bet that could decide how fast AI actually scales. HBM4 Bottleneck Is Real Vera Rubin, unveiled at GTC 2026, isn't just another chip upgrade—it's an architectural leap. But it comes with a catch: it requires next-gen HBM4 memory running at speeds north of 10Gb/s. That's not optional. Without it, the performanc",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777327274000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909102,
-      "headline": "Why Verizon Stock Gained Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=067f18d2bffd3af48689500a73c994c3f39d72665cd6b7e95f1768fe4c6d851c",
-      "summary": "Verizon's latest quarterly report was enough to support bullish momentum for the stock.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777326982000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139908231,
-      "headline": "Amazon Is About to Report Q1 Earnings. Do Options Traders Expect a Major Move in AMZN Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=adbd7c0c6612fc23381eec6ce56d15af4c569248723900c968be6e54fda47dc8",
-      "summary": "E-commerce and cloud computing giant Amazon (AMZN) is scheduled to announce its first-quarter results after the market closes on Wednesday, April 29. AMZN stock has risen over 32% in the past month, driven by accelerating growth in the company’s AWS (Amazon Web Services) cloud unit, a deal with Meta Platforms (META) to power agentic AI on AWS’ Graviton chips, and other strategic partnerships, including a new deal to invest up to $25 billion in Anthropic. According to TipRanks’ Options Tool, opti",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777326879000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139908161,
-      "headline": "Meet the Growth Stock That Isn't Even in the \"Magnificent Seven,\" but Just Joined the $2 Trillion Club and Hit an All-Time High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c9f1325dbf7489ebd1820e27d04eb5ebdfa2d88fa8b76c38eb4a539b7f0e531",
-      "summary": "Broadcom's latest news with Alphabet catapulted the stock to a new all-time high.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777326600000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139909141,
-      "headline": "Advanced Micro Devices (AMD) Stock Sinks As Market Gains: Here's Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=896fa04caef69b60b3c17414a6b66056bab517d762f57fafe6365790b325f915",
-      "summary": "Advanced Micro Devices (AMD) reached $334.49 at the closing of the latest trading day, reflecting a -3.83% change compared to its last close.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777326304000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139909423,
-      "headline": "Hims & Hers Health, Inc. (HIMS) Stock Declines While Market Improves: Some Information for Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5b00934412d1d2e9025ea6b19c343c381d3b65c669f917ae257ff48a6e653e7d",
-      "summary": "The latest trading day saw Hims & Hers Health, Inc. (HIMS) settling at $29.39, representing a -3.83% change from its previous close.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777326303000,
-      "ticker": "HIMS",
-      "category": "company"
-    },
-    {
-      "id": 139909103,
-      "headline": "Nvidia Just Jumped to a Record High—Why This Could Be a Make-or-Break Week for the Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e4f528424c4c1a65de952b770c55f770ccfbe35da150d0884027f4bf71859b67",
-      "summary": "Nvidia shares climbed to new highs Monday, amid a broader rally in AI-related stocks ahead of earnings from some of America's biggest tech companies.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777326112000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139909859,
-      "headline": "BCX: Compound Your Income With Commodities Exposure",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=901e14a82f2f98177a2a957129f8fc0bdd80a21b008db0f7fdd641eb96700c89",
-      "summary": "BCX's portfolio is 95% large caps, concentrated in energy, mining, and agriculture, with enhanced income via covered call strategies. See why BCX is a Buy.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206372695/image_2206372695.jpg?io=getty-c-w1536",
-      "datetime": 1777325893000,
-      "ticker": "GLD",
       "category": "company"
     }
   ]
