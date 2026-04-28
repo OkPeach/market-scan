@@ -1,6 +1,105 @@
 {
-  "timestamp": 1777368576542,
+  "timestamp": 1777375419319,
   "items": [
+    {
+      "id": 7862561,
+      "headline": "Explainer: The Hormuz digital chokepoint: How does the Iran war threaten subsea cables? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejh6RXU4Vjk3dkl0V0hnNGRPbS1CdnZlWmJBZ0x1dG9XcE8wUTJTaDBMaTRVT2hQWUIxeDBpZUN6a1BBd082Q05KMHk2SDJHbnJjbmN3TDRRUkp3M2h5X1RoQkNHX0IxdllTZXQ3MmxneHg5ZE1Sc0JJVzJTWDBZdFhKdUtuc2tqTHRuZTVWY21rMEtlZmlobUZ3Mk1OeThOX3NSd0RzNWUxaWxQWnJfMTRHSDZLMVduaVpmOXFjdEc1ZVE?oc=5",
+      "summary": "Explainer: The Hormuz digital chokepoint: How does the Iran war threaten subsea cables?  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777372913000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7862975,
+      "headline": "Coca-Cola is about to report earnings. Here's what to expect",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/coca-cola-ko-q1-2026-earnings.html",
+      "summary": "Shares of Coke have risen just 6% over the last year, hurt by concerns about the broader economy.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297734-1777305995390-108297734-1777305924690-gettyimages-2260278505-COCA-COLA_EARNS.jpg?v=1777321496&w=1920&h=1080",
+      "datetime": 1777371901000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7862872,
+      "headline": "Starbucks' turnaround enters a new phase: Investors want stronger profits served",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/starbucks-brian-niccol-turnaround-investing-club.html",
+      "summary": "CEO Brian Niccol has sales going in the right direction. Now, investors want to see profits follow suit.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108259045-17697076772026-01-29t172604z_10150558_rc20bja2ybrx_rtrmadp_0_starbucks-investor-day.jpeg?v=1769707764&w=1920&h=1080",
+      "datetime": 1777371137000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139912934,
+      "headline": "Microsoft, OpenAI revise partnership to end exclusive AI model rights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa67d3e59ca58e8aeda981583aded991cabe3ce13c70edb7a0c8e4a338c57cb3",
+      "summary": "OpenAI gains new freedom to offer its AI models to clients on multiple cloud platforms beyond Azure.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777369026000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139912935,
+      "headline": "Market Chatter: OpenAI Misses New Users, Revenue Targets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90e30b19cde4847730d898e9d85df39a211ec6a996bf6601045a6974a2f21fdd",
+      "summary": "Microsoft-backed (MSFT) OpenAI recently missed its own targets for new users and revenue, according",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777368745000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139912926,
+      "headline": "Prediction: Palantir Stock Is Going to Plunge on May 5",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae0c59737383516fce7594b0678142282c6fc0ab8ee6219576f1a00369517e51",
+      "summary": "Wall Street's artificial intelligence (AI) darling may have bit off more than it can chew this earnings season.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777368360000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139912940,
+      "headline": "Prediction: Amazon Stock Will Soar After April 29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a458659bb29fef16ceda280f32d300c0b31cc1a8df82836c995fe533ca278ed6",
+      "summary": "Amazon's Andy Jassy recently offered clues about what lies ahead.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777368300000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139912927,
+      "headline": "Reformulating the \"Magnificent Seven\": 2 Stocks I'd Swap Out for Ultimate Upside",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63d2441799b2ca1824a250ed416f7039e6dbb55904e017c9b4fa52985392a293",
+      "summary": "I think two other companies would be much better members of the Magnificent Seven.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777368000000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 7862762,
+      "headline": "U.S. is 'being humiliated by Iran,' says Germany's Merz, as Europe's patience wanes",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/us-humiliated-germany-merz-europe-iran-war-energy-prices-fuel.html",
+      "summary": "The U.S. is being \"humiliated\" by the Iranian regime, Germany's chancellor has said, as European leaders grow increasingly frustrated at the war in Iran.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108296800-1777031505514-gettyimages-2272104506-AFP_A8TL6E6.jpeg?v=1777031558&w=1920&h=1080",
+      "datetime": 1777367916000,
+      "ticker": null,
+      "category": "top news"
+    },
     {
       "id": 7862661,
       "headline": "Treasury yields rise as U.S.-Iran peace talks hit an impasse",
@@ -11,6 +110,83 @@
       "datetime": 1777367221000,
       "ticker": null,
       "category": "top news"
+    },
+    {
+      "id": 139912928,
+      "headline": "Can You Invest in Jersey Mike's Pre-IPO?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=188f55de9a8615d0a7ab6e64d50e7f0d1b7c8c5440e7907c81365de09230603f",
+      "summary": "There are more questions about Jersey Mike's IPO than answers, for now.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777367160000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139912951,
+      "headline": "China's Chery aims to be 'Toyota plus Tesla' in global growth push",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2413c5b489a7d0865e64b190682793ecb911356d3dff76dd31a99db1fffb562c",
+      "summary": "STORY: China’s largest car exporter, Chery, is looking to two different playbooks as it pushes deeper into Europe and other global markets.Chairman Yin Tongyue calls it the “double T” strategy, drawing from Toyota and Tesla to guide the company’s next phase of growth.\"Toyota is the best one in the world, quality, service. Ok, everything is very good. So we try to follow Toyota to make our product is qualified, service is high standard, our customer is satisfied with us. Second one is Tesla, high innovation to catch the young customer's requirement, to catch low-carbon policy for many countries, especially for European.\"Chery and local rivals BYD and Geely are among the Chinese automakers upending the global car industry.They produce cutting-edge electric vehicles at prices traditional carmakers cannot match.Industry data shows Chery sold 2.8 million cars in 2025, up 8% from the year before.Now the company is eyeing production growth in Europe, considering expanding capacity in Spain, where it already has a joint venture.It is also looking to share manufacturing with other European carmakers.Known for SUVs, Chery is developing smaller models to appeal to European buyers who favor compact cars.:: October 2024Founded in 1996 on the banks of the Yangtze River, its first vehicle rolled off the assembly line in 1999.It was originally known as Cheery and billed itself as a cheerful, low-cost brand. In 2023, it launched two new international brands - Omoda and Jaecoo, with the Jaecoo 7 SUV the top-selling car in Britain in March.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777366734000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139912929,
+      "headline": "OpenAI-Linked Stocks Slump on Report of Startup Missing Targets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fc298b8dcd269046d26ae552a4141dcfb7373e3139d17f89220973e5a452053",
+      "summary": "(Bloomberg) -- Shares in OpenAI partners such as SoftBank Group Corp. and Oracle Corp. are falling after the Wall Street Journal reported that the AI startup recently failed to meet targets for sales and new users, reviving worries about spending ahead of tech earnings. Most Read from BloombergSergey Brin Confronted Gavin Newsom — Then Launched a Political WarTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandOpenAI Breaks Free F",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777366692000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139912970,
+      "headline": "Buy 1 Artificial Intelligence (AI) Stock With More Upside Than Palantir, According to Wall Street Analysts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e245f0beec1e56d8861005a78a8d69c7cdcdc4add7b691dbf0e8ad79407854f6",
+      "summary": "Most Wall Street analysts think Palantir stock is undervalued, but they expect even bigger gains in Axon Enterprise.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777366560000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 139912956,
+      "headline": "AI capex-sensitive stocks fall amid rising OpenAI worries",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f84e766162049d6c267468ca03b388d5fa193509d569e530fd11aada6903c4ea",
+      "summary": "Investing.com -- Shares in AI capex-sensitive companies fell on Tuesday after a Wall Street Journal report revealed that OpenAI has missed key user and revenue targets, fuelling investor concern over the AI spending boom.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777366502000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 139912944,
+      "headline": "Market Chatter: Google Signs Deal to Allow Use of AI Models for Classified US Defense Department Projects",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e040ecb2181bd81c1c262d2024569e0cb0c5352b5828cff21651c3e13e82032",
+      "summary": "Alphabet's (GOOG, GOOGL) Google and the US Department of Defense signed a deal allowing the Pentagon",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777365461000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139912930,
+      "headline": "Signs Point to Warren Buffett's Successor, Greg Abel, Dumping the Oracle of Omaha's Former No. 2 Holding at Berkshire Hathaway",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af4e06f9c72e79b1fa3a557dc364d21433d0b80a901f1000d97603dd6cfb71f4",
+      "summary": "This position, which once topped 1 billion shares, has been halved since July 2024.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777364760000,
+      "ticker": "NVDA",
+      "category": "company"
     },
     {
       "id": 139912300,
@@ -24,15 +200,48 @@
       "category": "company"
     },
     {
-      "id": 7862561,
-      "headline": "The Hormuz digital chokepoint: How does the Iran war threaten subsea cables? - Reuters",
+      "id": 139912931,
+      "headline": "Should You Buy CoreWeave Stock Before May 7?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5049388fb95e4e8d981a6be374ffbba4cb01910b3c6d9c7f1fbd83ec143f22a1",
+      "summary": "The data center specialist is growing rapidly.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777363800000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139912932,
+      "headline": "3 AI Stocks Shaping the Future of Technology to Buy Now, According to Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bfe12326d292ba2e91dc631a98978424eacc9162218cb385daeb7f953ef6c0d",
+      "summary": "These stocks are great bets to profit from the next big AI advances.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777363500000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7862662,
+      "headline": "Iran willing to share defensive capabilities with Asian partners, deputy defence minister says - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejh6RXU4Vjk3dkl0V0hnNGRPbS1CdnZlWmJBZ0x1dG9XcE8wUTJTaDBMaTRVT2hQWUIxeDBpZUN6a1BBd082Q05KMHk2SDJHbnJjbmN3TDRRUkp3M2h5X1RoQkNHX0IxdllTZXQ3MmxneHg5ZE1Sc0JJVzJTWDBZdFhKdUtuc2tqTHRuZTVWY21rMEtlZmlobUZ3Mk1OeThOX3NSd0RzNWUxaWxQWnJfMTRHSDZLMVduaVpmOXFjdEc1ZVE?oc=5",
-      "summary": "The Hormuz digital chokepoint: How does the Iran war threaten subsea cables?  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNampuVEpCYzY3ZnBOaS11SUFlNnc5eDBMYlRSMzJnMDJnTFVQMVRocmxMTFFYakpJbDJJR0FQd1JMM3RSTV9PeUY1STFlR1Vja3ZpdjVNdHJmYVlJRl85d1NIeHY5UXJRRTdtSDZRdzZ6ZldOM0dSVm40X0YwU0w4UlFUdDQ5YS1YcFp1Y0swRlpqTVV3RURXWXZ6NVk4d3VzbFR4ak00M0VJQUkyY1Yzb1FsX3N5RVpac1d0ZE5NWm81dw?oc=5",
+      "summary": "Iran willing to share defensive capabilities with Asian partners, deputy defence minister says  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777363101000,
+      "datetime": 1777363324000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 139913011,
+      "headline": "European ServiceNow Strategies Focus on AI, Sovereignty",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f39e408cf8749d99e5ddb01ae922561c4bc1538d0c17200210546fc7f35ce7a1",
+      "summary": "LONDON, April 28, 2026--European firms are consolidating functions around the ServiceNow platform, integrating it with core systems to support AI deployment.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777363200000,
+      "ticker": "NOW",
+      "category": "company"
     },
     {
       "id": 139912220,
@@ -54,6 +263,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777360615000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139913660,
+      "headline": "Wall Street Breakfast Podcast: Celestica Good But Not Good Enough",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1804149a2ad576c007ccc551d8ff0bd2c61f0025724f3ab94758f5b8c53fd6c8",
+      "summary": "Celestica slides despite stronger earnings and upbeat guidance. POET extends losses after losing Marvell-linked meltdown. German Chancellor slams U.S. strategy on Iran.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2238878484/image_2238878484.jpg?io=getty-c-w1536",
+      "datetime": 1777360295000,
+      "ticker": "NVDA",
       "category": "company"
     },
     {
@@ -134,15 +354,92 @@
       "category": "company"
     },
     {
+      "id": 139913363,
+      "headline": "Gold: Driven By The Winds Of War",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=46e5c461088b1646d61b8e5bae9a366bda84b36dcb10b164f71be8c3f549e5d0",
+      "summary": "Gold has performed as a risk asset, and not as the supposed preeminent âsafe havenâ asset, during this geopolitical crisis. Read more here...",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2239385891/image_2239385891.jpg?io=getty-c-w1536",
+      "datetime": 1777358100000,
+      "ticker": "GLD",
+      "category": "company"
+    },
+    {
+      "id": 139913231,
+      "headline": "Commonwealth becomes first fusion energy firm trying to connect to major US grid",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=256507039d2cadff718ecd3f3014500c30594f69331d80c1853a9b91ba983c7f",
+      "summary": "Commonwealth FusionSystems, a private U.S. company hoping to build the firstcompany to generate power with a process that mimics the sun,said on Tuesday it has become the first fusion company to...",
+      "image": "",
+      "datetime": 1777357194000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139913198,
+      "headline": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4af050f403e1c0e0b4710e8d6f835d15d9c709dd3913570e4ee2d83b656613fc",
+      "summary": "Amazon Redshift Serverless, which allows you to run and scale analytics without having to provision and manage data warehouse clusters, is now generally available in the AWS Asia Pacific and Canada...",
+      "image": "",
+      "datetime": 1777356927000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 7862983,
+      "headline": "'See through' Iran war? Markets exploit permacrisis instead - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRWRHZHZnRm42T21jX3NwZUc1alc2S1VVeFU1SHh6MXl2NGVCeUJGaEJUcEwzc1ViN3NHSEYybG5NUWZEU013eXU3TmljcF9RYURpdTk4TjNpTnFvUzFaU3Nxc3dlWHhDRlZnVl81WjlyTHd4VUQtM2dnX3dfcGhGcjdkWlJtYTFWRWJ0V2VaR2VWM1hkNlZLTjZ3ZVg0VnlXbFE?oc=5",
+      "summary": "'See through' Iran war? Markets exploit permacrisis instead  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777356420000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 7862350,
-      "headline": "BP quarterly profit more than doubles to $3.2 billion, driven by Iran war trading boon - Reuters",
+      "headline": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSllpY284Nm5nTk5hN0dGZ1RKXzFCLVg5UkQ5TjNsLUtEbzlmMFJzUWF2VlpCaFpNM0RZSXYyZ1lQQVdwU2gxYUVXLVdZbzRKVW5ndm05dFhHeHRwSGNnWlRVVWQwY0tlWXlMQm16R2dJNFY2dGl5cWhFenVHOUJRRU1YTDdkd2RjOGZBRUdnUXhFNkE5eVE?oc=5",
-      "summary": "BP quarterly profit more than doubles to $3.2 billion, driven by Iran war trading boon  Reuters",
+      "summary": "BP quarterly profit beats expectations at $3.2 billion, driven by Iran war trading boon  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777356360000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 139913109,
+      "headline": "SpaceX ties Musk compensation to Mars colonization goal",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=89c089a7c3771bc7ecdae4c6edbdddab02db76342406cbcc7f54e7bb486204fc",
+      "summary": "SpaceX's board has approved a compensation plan for founder Elon Musk with goals as futuristic and celestial as the company's ambitions: colonizing Mars and running data centers in outer space. ...",
+      "image": "",
+      "datetime": 1777356360000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139913103,
+      "headline": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bb37d421e7478a9f0fd1cf7a2f09af728d56358a87ddc5f96b16d6fddbf36e3e",
+      "summary": "A trial that could help shape the future of artificial intelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution of ChatGPT maker OpenAI from a nonprofit to...",
+      "image": "",
+      "datetime": 1777356336000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139913105,
+      "headline": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6ceea5ad5ea6865ca2e4675f3ac5f9aaadb42c6bbdf3952a2f3a2b95b10c52e9",
+      "summary": "Big Tech has spent hundreds of billions of dollars over three years to power the artificial intelligence boom. But investors still want one answer: will all this pay off? Quarterly...",
+      "image": "",
+      "datetime": 1777356287000,
+      "ticker": "MSFT",
+      "category": "company"
     },
     {
       "id": 7862240,
@@ -156,6 +453,17 @@
       "category": "business"
     },
     {
+      "id": 139912871,
+      "headline": "Blocking of Meta's AI startup buy raises risk for cross-border China tech deals",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fd50424050f081f6cd5e0bbd3fdeebe035d4773d1972b7adb0067a4d91104923",
+      "summary": "China's blocking of Meta's acquisition of AI startup Manus will heighten the risk for global investors looking to invest in advanced tech firms with ties to the country amid Beijing's expansion of...",
+      "image": "",
+      "datetime": 1777355472000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
       "id": 139911233,
       "headline": "Why This Week Could Be Huge For AI Stocks",
       "source": "Yahoo",
@@ -164,6 +472,39 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777355400000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139912847,
+      "headline": "Citigroup lifts AI market view to over $4 trillion on enterprise adoption",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4585851767bfdbaacd90c56c769aa98d66be95378d1737c4336fac4fed04f201",
+      "summary": "Citigroup raised its global artificial intelligence market forecast, citing faster-than-expected enterprise adoption of artificial intelligence tools for coding and automation, with companies such as...",
+      "image": "",
+      "datetime": 1777354977000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139912848,
+      "headline": "Australia to levy Big Tech unless local news deals struck",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c173d69cd9580a099ebf6210508ae383d9a8e6ae5929e07d290f726552066b4f",
+      "summary": "STORY: :: Australia says Big Tech companies may face a 2.25% levy unless they strike deals with local news outlets :: Canberra, Australia / April 28, 2026 :: Anthony...",
+      "image": "",
+      "datetime": 1777354951000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139912860,
+      "headline": "Palantir's Growth Is Stunning; The Answer Lies In Global Expansion (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ed2c0f9fbc326db7eb70039b1232808342f819b0f531a29d455d77d5b6efaf9d",
+      "summary": "",
+      "image": "",
+      "datetime": 1777354723000,
+      "ticker": "PLTR",
       "category": "company"
     },
     {
@@ -197,6 +538,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777354200000,
       "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139912796,
+      "headline": "Gold Selloff Deepens: Technical Breakdown And Rising Oil Prices Accelerate Bearish Momentum",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ed16e497fe3bd85f6e61fe748e19db1d8fb82099aff3f87dff3c74c150a8ca79",
+      "summary": "Gold prices saw a selloff in the Asian session as oil prices continue to rise, stoking inflation concerns. Markets continue to be driven by the potential for a deal between US and Iran.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2259999389/image_2259999389.jpg?io=getty-c-w1536",
+      "datetime": 1777354200000,
+      "ticker": "GLD",
       "category": "company"
     },
     {
@@ -707,10 +1059,10 @@
     },
     {
       "id": 7861401,
-      "headline": "Trump not happy with latest Iran proposal to end the war, US official says - Reuters",
+      "headline": "Trump unhappy with Iran's latest proposal to end the war - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzJwYTUtVF9BUVRoM0hkbHlMeXdXaDhVXzk0dUpsYXpBdmNUc2ladEtLT3ZJVk9EeXU3SlVfWlFiWGFYVGRRbXZ5bWtacUVfNElXUHhfVFhQWFZxUnBNaF9hVjBLWkFJR0dsU3hDS0pFanhNSzRaaE5NQmVrcVBFTV9NWHNJSzVYUm1LQ29XN25ZMkk3VEM4UlNnNDUxMUlNRUNDb2sxcmJsSVhQU21sSE8yUVNya1dPdVF4UC13?oc=5",
-      "summary": "Trump not happy with latest Iran proposal to end the war, US official says  Reuters",
+      "summary": "Trump unhappy with Iran's latest proposal to end the war  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777341660000,
       "ticker": null,
@@ -746,358 +1098,6 @@
       "summary": "Stocks in London are set to open lower on Tuesday, as markets weigh fresh developments in US-Iran negotiations and shifting oil prices.IG says futures indicate the FTSE 100 to open down 13.6 points,...",
       "image": "",
       "datetime": 1777340965000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139911198,
-      "headline": "APPLE INC : Gets a Neutral rating from UBS",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=12407440df6308e3f9cb0b21f5b253bdb4f58bee7e01e723ea7454c6627ed42c",
-      "summary": "UBS analyst David Vogt maintains his Neutral opinion on the stock. The target price is set at 287 versus 280 USD.",
-      "image": "",
-      "datetime": 1777340925000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139909979,
-      "headline": "TeraWulf (WULF) Climbs 7% as Analyst Doubles PT",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad6a4779cdfaa0e9e33929ca29b4a0cfe0b511da33ac1b663afc487f209a3732",
-      "summary": "TeraWulf Inc. (NASDAQ:WULF) is one of the 10 Stocks Racking Up Monster Gains. TeraWulf grew its share price by 7.15 percent on Monday to close at $21.43, after an analyst raised its price target by double digits and posted a bullish outlook for the company. In a market note, Morgan Stanley upgraded its price target […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777340896000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139911157,
-      "headline": "Asian stocks retreat from record highs as tech earnings loom; peso slips to record low",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=8fdf0a1c211e0566b015d9672a7a628059cc708e9a6b118d5605915e5b5f22c8",
-      "summary": "Asian emerging market stocks pulled back from record highs on Tuesday, as investors grew cautious ahead of a slate of U.S. tech earnings that could test the artificial intelligence-driven rally, while...",
-      "image": "",
-      "datetime": 1777340611000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7861402,
-      "headline": "Gold hits three-week low with US-Iran talks, central bank decisions in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNpbTBCYzQ2NWNmX3k1azB3TGczbV9nb3hsM1lQR2l5dTlxUkxQdjZjZks2T0xZM1Q4MEtSX3psV3lRT3ZIbU41VS1fSUF5MTBtV1liTUl3QW5HUGhHZ2ZKWi1GVHlTOC1zMW1obTFOamZ0OGdRRFlTNDA0SFZtQkZ6VUg3U1Z6R1Zvemw4RGhYRmhVLXBQWUM1c1AwMl9qaHFISEJ2RTI2NTA?oc=5",
-      "summary": "Gold hits three-week low with US-Iran talks, central bank decisions in focus  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777339920000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139911073,
-      "headline": "OPENAI AND MICROSOFT LOOSEN TIES IN REVISED AI DEAL",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=099db769b5308b644ef9376e51c65516f300671a5fbd0c8faefbd9d0db22de64",
-      "summary": "Microsoft and OpenAI have loosened the terms of their landmark partnership, signalling growing distance in a relationship that has underpinned the AI boom. Under revised measures,OpenAI will be free...",
-      "image": "",
-      "datetime": 1777339278000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139911077,
-      "headline": "China stocks flat, Hong Kong drops as markets struggle for direction",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=9e415fffceaee155fccc4be51c291b58e8b0e2b7ae5e2e59492a10e4cf163eed",
-      "summary": "China stocks tradedlargely flat on Tuesday, while Hong Kong stocks declined asinvestors await further catalysts amid artificial intelligenceoptimism. ** At the midday break, China's...",
-      "image": "",
-      "datetime": 1777339256000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139911006,
-      "headline": "PRESS DIGEST-New York Times business news - April 28",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=853216e50727a0a03fe9a8ad7c9f86e0636f87e1673bebfabc7e9f473894cb81",
-      "summary": "April 28 - The following are the top storieson the New York Times business pages. Reuters has not verifiedthese stories and does not vouch for their accuracy. - Microsoft and OpenAI...",
-      "image": "",
-      "datetime": 1777338782000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139909970,
-      "headline": "Salesforce Lawsuit Against Microsoft Puts AI Workflow Ambitions In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=490b9b427623a4c4f79148cdef2a7881b85ebf6a26596768127a126b92f8f38e",
-      "summary": "Salesforce (NYSE:CRM) and Slack have filed an antitrust lawsuit in the UK against Microsoft, challenging the bundling of Teams with other Microsoft products. The case follows earlier complaints to European authorities and targets how collaboration tools are packaged and sold to enterprise customers. The filing comes as Salesforce promotes its Agentforce platform and Google Cloud integrations for AI driven workflows across large organizations. For investors watching enterprise software, this...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777338686000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7862562,
-      "headline": "Oil rises on Middle East tumult, yen firms after BOJ hold - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRhN2c0RU1tV2otcDBmWHdiTXVGZ19LVDFnTmJVUHI5TTBiRkJQaXQ3OUNGLVJQNDl0bVJtTmNmVWlMQ0UwVnNidVp6OG9zWDJLNGwxVUJ1M21oNG1OWDV6bFk1eDQxbUxMemxfRk5JMTcxMHNSVUxBV3V0NDVvckVuel8?oc=5",
-      "summary": "Oil rises on Middle East tumult, yen firms after BOJ hold  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777338540000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139910971,
-      "headline": "Google signs classified AI deal with Pentagon amid employee opposition - The Information",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=c3f51e741fc7dce68ddb0a8861137c5231f7fd6f1ed0ef784dccf99b5a0f7d67",
-      "summary": "April 28 - Google signs classified AI deal with Pentagon amid employee opposition - The Information The agreement lets the Pentagon use Google’s AI for any “any lawful government purpose”...",
-      "image": "",
-      "datetime": 1777338268000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 7861097,
-      "headline": "Oil prices up 2% as no end to Iran war stand-off seems in sight - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
-      "summary": "Oil prices up 2% as no end to Iran war stand-off seems in sight  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777338120000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139910051,
-      "headline": "Are These Beaten-Down Stocks Generational Opportunities or Value Traps?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6484ab02fc36113322e6b8a19b95a91dea80c9cae6e4e73fd745fd2fef9c9c84",
-      "summary": "When shopping for deals on equity markets, it's important not to catch a falling knife.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777337400000,
-      "ticker": "PYPL",
-      "category": "company"
-    },
-    {
-      "id": 7860991,
-      "headline": "Trump unhappy with Iranian proposal, US official says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkhvWWdfVi1BSVJCTkhjQndtTEcxMHllWm9IQ0dSSER3QXZrVU5uRXRhOVVtZHEzUERmOENwRW9xOGtKd1lhRzhvWEdRbEloUHItU1NNUDdqQld5TXNHQlg4TnhZSFhKY2xUSVBOVVlUaHFqWEYxd1pLYWlILU5CZ3h6bkdQVUx5YXlmWi1fX28ydnNadDZMQVVRNklVTnJKQ3J4WWJRU0w5X28?oc=5",
-      "summary": "Trump unhappy with Iranian proposal, US official says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777336980000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139909983,
-      "headline": "Uber CEO has a strong 2-word message for investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9db90e0251b082036caedbd14b52f97396dc698c937325a70e5d0d63e8fd4ec",
-      "summary": "Uber Technologies (UBER) has been stuck in a familiar debate. Investors see autonomous vehicles as an existential threat, with companies like Waymo and Tesla building Robotaxi networks that could bypass the platform. That concern helps explain why shares are down about 10% this year, even as ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777336620000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139909973,
-      "headline": "Q4 Earnings Roundup: Amazon (NASDAQ:AMZN) And The Rest Of The Online Retail Segment",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7ab5cba08276a67a5702ded8600fe3bf0a0f64c5d60acef46cb8bf542c45f20e",
-      "summary": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let’s have a look at Amazon (NASDAQ:AMZN) and its peers.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777336615000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139909981,
-      "headline": "Meta Bets on Space Solar Power in Deal With Overview Energy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c282c4c65dc8a24f689fd422d7220ee246eba740f3aa5fde9d87db20413302d",
-      "summary": "Meta has signed a capacity agreement with Overview Energy to secure up to 1 GW of future space-based solar power, targeting initial deployment by 2030.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777336122000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139912041,
-      "headline": "Tesla Stock: Is Wall Street Bullish or Bearish?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e61daff8f3cd9694f09c27bb5e56397b8f2b81df0f772e4cbe3a9ad64e37487b",
-      "summary": "Although Tesla has outperformed the S&P 500 over the past year, Wall Street analysts maintain a cautious outlook about the stock’s prospects.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777335787000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139909956,
-      "headline": "These Stocks Could Be Vulnerable if Anthropic's Mythos Goes Haywire",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c97c9549570d732f0804b1614c08202f2078e467c01ea0cc3041ca37c6b31781",
-      "summary": "Crypto exchanges, finance, and cybersecurity stocks could dip if a Mythos-related attack occurs.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777335600000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139910730,
-      "headline": "EMEA Morning Briefing : Futures Higher as Markets Weigh Latest Iran Proposal",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=c583ebd738ad18fe6df36b8de91ab5d21f027c3fb438b2dee8d50b14c48f2838",
-      "summary": "MARKET WRAPS Watch For: France unemployment; trading updates from Airbus, Novartis, BP, Barclays, WPP, Anglo American, Air Liquide, Puig Brands, Telenor, Assa Abloy, Norwegian Air, SSAB...",
-      "image": "",
-      "datetime": 1777335457000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139909971,
-      "headline": "Microsoft Reset With OpenAI Puts Azure AI Moat Under Investor Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0c34e12333fdb4fa3f5d9415390c66d42c580edbce6902e4a63f62cf6d8b59fc",
-      "summary": "Microsoft and OpenAI have agreed to end Azure cloud exclusivity for OpenAI models and remove revenue sharing between the companies. The revised agreement allows OpenAI to work with other major cloud providers, while Microsoft keeps a multi year IP license and its equity stake. This shift comes as regulators increase scrutiny of Big Tech AI partnerships and as OpenAI weighs a potential IPO. For investors watching NasdaqGS:MSFT, this reset in the OpenAI relationship touches the core of...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777335399000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139909974,
-      "headline": "Smart Sellers Academy Introduces Industry‑Wide Standard for Trust and Transparency in E‑Commerce",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b1ec1ca0201325e83a0fbb1983317ca97c41b8e110c67209905e1303707fe50a",
-      "summary": "Summary: Smart Sellers Academy sets a new benchmark for credibility and operational excellence in e‑commerce, introducing a trust‑driven framework that redefines how online business partnerships are built and managed. Photo Courtesy of Smart Sellers Academy Inc. NEW YORK, April 27, 2026 (GLOBE NEWSWIRE) -- Smart Sellers Academy Inc. (“SSA”), a leading U.S.‑based e‑commerce operator and brand development firm, has unveiled a new initiative designed to reshape trust, transparency, and long‑term ac",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777335240000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139909957,
-      "headline": "3 Healthcare Stocks That Pay You While You Wait for the Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f73d611a669ec0c74e5303f99db58383e35a65616a0668e5f3e4b228d637e1b9",
-      "summary": "It may not seem like it at first, but these dividends are safe.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777334700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909338,
-      "headline": "Midday Fly By: Verizon reports ‘beat and raise,’ Shell to acquire ARC",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0bd5d6916527ef977a10a86146f20eaed86d9bc2eb63fb697125180d6555a5db",
-      "summary": "The major averages were broadly lower amid stalled peace negotiations between the U.S. and Iran as well as new escalation in the Strait of Hormuz. Investors are also balancing continued strength in corporate earnings and AI-driven optimism with rising geopolitical tension and macro uncertainty. Claim 55% Off TipRanksUnlock hedge fund-level data and powerful investing tools for smarter, sharper decisions Discover top-performing stock ideas and upgrade to a portfolio of market leaders with Smart I",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777334516000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139909968,
-      "headline": "Clear Street Initiates Buy Rating on REalloys as Rare Earth Crunch Intensifies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64ec61e87944a963bcfc2015cd8d9af96e3b15fdf49a3107e1cb1fbffd8122bb",
-      "summary": "Wall Street is beginning to price in companies that can build a fully domestic rare earth supply chain, as a 2027 defense deadline forces the U.S. to reduce reliance on China",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777334400000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 7857483,
-      "headline": "King Charles arrives in US for state visit amid differences over Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG5Idm5fMEU3X3Jfc1R2N051WWRRUzVVZ1pfd01BVFFSZHBNNUU4LXBnTUhuLTNrRnQzWnl2YzNPU1hMTDgxQXBVSUNEQzAxYll4ZXRab3Z2N2VxeGdaZ3U0YWJXYWxiemYtVVZGcWMySDRtNGJCQV9vaTRlVDlubVZmU3RTVDF1dEpXTVA3T0tmRU1CZkNXR0xrakxtY0tEekxjYTJCc0RrYkIw?oc=5",
-      "summary": "King Charles arrives in US for state visit amid differences over Iran war  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777334333000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139909958,
-      "headline": "Review & Preview: Waiting Is the Hardest Part",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3432e7192beaf4b529fc28da22994f511d4266330c12f6f6e828cfbc018019d3",
-      "summary": "REVIEW PREVIEW NEWSLETTER Expectations Mount. It’s a big week for earnings, and investors are feeling optimistic as S&P 500 companies plow through what’s likely to be another quarter of double-digit growth.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777334100000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139910578,
-      "headline": "China's Chery seeks to be 'Toyota plus Tesla' as it targets global expansion",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=da239c7d3668371262d66bfcdf73e5a32f1023baf394e9a660b4d783a431d681",
-      "summary": "Chery, China's largest car exporter, is taking inspiration from two very different automakers - Toyota and Tesla - as it pursues expansion in Europe and beyond, its top executive told Reuters. ...",
-      "image": "",
-      "datetime": 1777333941000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139909976,
-      "headline": "Amazon vs. Costco: Which Stock Is the Better Buy Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=908cac59cba5469015c9c62dc2d457aae51f67578b75843a7a0d2a2b4e019600",
-      "summary": "It wouldn't be a terrible idea to invest in both.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777333800000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 139909104,
-      "headline": "Steve Jobs Called This Former Apple CEO A 'Bozo' But The Executive Proved An Important Point That Stuck With Him",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38400dcc94cdf8a425fc58a502f93d482de7cda2f90d7bfdfd08d7b843c0d7de",
-      "summary": "During a 2007 onstage conversation at a conference, Steve Jobs revived one of his favorite stories about Apple Inc.’s former CEO, Gil Amelio. Jobs said Amelio once described the Cupertino giant as \"a ship with a hole in the bottom, leaking water\" and cast himself as steering it in the right direction. Jobs Turned Amelio Into A Punchline The line, delivered by Jobs at D5, captured how little faith he had in the man who ran Apple before his return. In Walter Isaacson's biography, Jobs said he thou",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777332689000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139909093,
-      "headline": "Here's What I Think Is Going On With Nvidia Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1afe9089833b616d85fe130ae234e78c1163f63d3304a75571b4e07bb44540c6",
-      "summary": "Can Nvidia's stock price recovery last?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777332600000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139909105,
-      "headline": "Magnificent 7, crypto giants to report quarterly earnings this week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0827e494d02c032cf521dbb27f286bd45939778f025c9876d5db6e150e93f318",
-      "summary": "It's going to be a busy week on Wall Street as several leading \"Magnificent Seven\" and crypto companies report their quarterly earnings. The Magnificent Seven refers to a group of seven high-performing, influential U.S. technology and growth stocks that have dominated market returns since 2023. ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777331640000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139910383,
-      "headline": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=f73477c4622046b4ff073eaa381e75ec3fc74bb8e8e2e8e4cb51f32c6d995e39",
-      "summary": "OpenAI has fallen short of its goals for new users and revenue in recent months, sparking concern among some company leaders over whether it can support its extensive data-center spending, the Wall...",
-      "image": "",
-      "datetime": 1777331420000,
       "ticker": "MSFT",
       "category": "company"
     }
