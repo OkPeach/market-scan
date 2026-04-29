@@ -1,6 +1,149 @@
 {
-  "timestamp": 1777446313753,
+  "timestamp": 1777455309313,
   "items": [
+    {
+      "id": 7867539,
+      "headline": "Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/29/trump-iran-threat-ai-picture-gun-war-strait-of-hormuz.html",
+      "summary": "Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial post.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297322-1777288505181-108297322-1777171671971-gettyimages-2272606760-AFP_A8Z32A6.jpg?v=1777288518&w=1920&h=1080",
+      "datetime": 1777453172000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 7866295,
+      "headline": "Brent hits one-month high over concerns about prolonged Hormuz disruption - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
+      "summary": "Brent hits one-month high over concerns about prolonged Hormuz disruption  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777452699000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139926408,
+      "headline": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Become the Next Nvidia by 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f61a5471c4143ec0cce59ddf7d3e6f2b914521297404840a57f2316ef7607581",
+      "summary": "Nvidia's dominance in data center GPUs is pushing hyperscalers toward custom silicon and diversified AI infrastructure strategies.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777448280000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 7867542,
+      "headline": "Iran war, jet fuel concerns cloud airlines' summer holiday plans - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnB3QkVYUThKTkY3a0YyNVRyWlRsUnY4bFUtMmZCSHpvLUdMQ1RZVFVCc2gtY20yX1U1WG8tZ2dvRldQRFRRMUdXdDBYQTVXZ000REw1cDRsYTJzeDZILXpCMGx4c2U1bVNkUVJ1WnRKYU11aU5pc0thRjhyU3NiREM4eVFmUllPQUxyU3MwY2tEOHZCQ2xOUVpTQzhiY0x5R1VMUWZRNVZRSm8?oc=5",
+      "summary": "Iran war, jet fuel concerns cloud airlines' summer holiday plans  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777446860000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139926437,
+      "headline": "Rocket Lab And Meta Partnership Highlights Orbital Power And Vertical Integration",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a90f0abfa5ab2104ea2d5f69b000641800c16b33e6abcd1b589287c34aad641c",
+      "summary": "Rocket Lab and Meta Platforms are working together on space based solar power, using satellites to collect solar energy in orbit. The project highlights new commercial uses for space infrastructure beyond traditional communications and Earth observation. Rocket Lab has introduced a new High Performance Star Tracker aimed at long duration missions in high radiation orbits. The developments point to broader vertical integration for Rocket Lab beyond launch services into key satellite...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777446281000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139926419,
+      "headline": "Amazon Earnings Are Coming. AWS Growth Is Just One Key Area to Watch.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbea39b287b7544457bbca3c2233ccf2ca097dcdee1bd292d5df8478c98e8171",
+      "summary": "Amazon  is scheduled to report first-quarter earnings after the stock market closes.  Amazon is spending big on artificial intelligence, and that’s worried investors.  Shareholders will be watching closely to see if Amazon plans to add to those estimates.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777446000000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139926409,
+      "headline": "3 Healthcare Stocks Paying the Highest Dividends in the Sector Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=566cb06928ed57a08c807bb147f0e64741fb770a2e4e9656295419a359b0dafb",
+      "summary": "The highest-yielding healthcare stocks come with some side effects.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777445400000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139926426,
+      "headline": "Eva Live introduces “Eva Brain” as it pushes into AI-driven advertising",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38b496a0547c583e59cbf80fb3a33e4344d96f00e8ce2789376ce84297e72fd9",
+      "summary": "EVA Live (Nasdaq:GOAI) has introduced “ Eva Brain,” a fully autonomous AI marketing agent designed to run advertising campaigns without human input.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777444716000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139926410,
+      "headline": "Exclusive-Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7f74c8bf3798fee01aac9cefecbf53295e02109f790d297dcb9cae45b133446",
+      "summary": "Demand for Huawei's Ascend 950 AI chips has surged following the release of DeepSeek's V4 artificial intelligence model that runs on the Shenzhen-based tech firm's chips, with major Chinese internet firms rushing to secure orders, three people familiar with the matter said.  China's biggest internet firms ‌including ByteDance, Tencent and Alibaba are reaching out to Huawei about new chip orders, said the sources, who are familiar with the procurement discussions.  While the 950PR significantly outperforms Nvidia's H20 chip - the most ​powerful chip Nvidia was permitted to sell in China until Beijing blocked its import last year - it still trails the American firm's H200, a more advanced processor that has been caught up in regulatory limbo.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777444577000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139926442,
+      "headline": "2 Top EV Stocks to Buy Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f37c8158daeff2dd7e6840863785699322408f300d7f755cf0cff0fdcf47a136",
+      "summary": "Both could soar if EV adoption continues to grow.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777444500000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 139926427,
+      "headline": "Alphabet (GOOGL) Expands Anthropic Partnership with Up to $40B Investment",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=400415f441db6b3a27d3988f97d123aaef6970ac34844de7bd1b76d5fe2f01d7",
+      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 10 Best Edge Computing Stocks to Buy Right Now. On April 24, 2026, Bloomberg reported that Alphabet Inc. (NASDAQ:GOOGL) plans to invest up to $40 billion in Anthropic, with both companies confirming the expansion of their partnership as competition intensifies in artificial intelligence. Anthropic said the agreement builds […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777444241000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139926439,
+      "headline": "Meta Earnings Are Coming. Capital Spending Is the Focus.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d710eaea5381a06eaf55d87baced1b5d1122f0f96be0110d182a079c5406354",
+      "summary": "Meta Platforms is set to report earnings as investors weigh strong ad growth against rising AI-related capital spending.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777444200000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 7866195,
+      "headline": "Stocks rally on earnings optimism as Fed meeting looms - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5",
+      "summary": "Stocks rally on earnings optimism as Fed meeting looms  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777444140000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 7867022,
       "headline": "CNBC Daily Open: UAE leaves OPEC adrift",
@@ -11,6 +154,28 @@
       "datetime": 1777443811000,
       "ticker": null,
       "category": "top news"
+    },
+    {
+      "id": 139926594,
+      "headline": "OpenAI's $600 Billion Question Spoils the Party But Wednesday Is What Really Matters",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=669699930556bf0584fe2fdc9e8987b89d4f3abc88452ba620c1d6dbf78b1187",
+      "summary": "The company that convinced the world to bet hundreds of billions on AI infrastructure has reportedly missed its own growth targets. If that doesn't make you sit up straight, I don't know what will.",
+      "image": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_12_9254ad1d37.webp",
+      "datetime": 1777442876000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139926420,
+      "headline": "Microsoft Earnings Arrive as Stock Struggles. Cloud Revenue Growth Will Be Key.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79cd1f14706486426286a6cdfb679bd516bea5e93d1ead29b31041c322bed3db",
+      "summary": "Microsoft is scheduled to report fiscal third-quarter financial results after the stock market closes on Wednesday.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777442400000,
+      "ticker": "MSFT",
+      "category": "company"
     },
     {
       "id": 139925591,
@@ -35,15 +200,15 @@
       "category": "company"
     },
     {
-      "id": 7866817,
-      "headline": "Gold steady as markets await Powell's comments on Iran war impact - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5",
-      "summary": "Gold steady as markets await Powell's comments on Iran war impact  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777438832000,
-      "ticker": null,
-      "category": "business"
+      "id": 139927016,
+      "headline": "LG Elec is working with Nvidia on humanoids - media",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d7293eac3d51b337d7b7550bcf9f888c8bbc610fc87ad94cb252852c22a3851a",
+      "summary": "LG Electronics Inc: LG Elec is working with Nvidia on humanoid robots - media...",
+      "image": "",
+      "datetime": 1777439676000,
+      "ticker": "NVDA",
+      "category": "company"
     },
     {
       "id": 139925596,
@@ -57,6 +222,83 @@
       "category": "company"
     },
     {
+      "id": 139926765,
+      "headline": "Cognizant to buy Astreya for about $600 million",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8d8829542920a2f11a909e8a905af84fb8dc9300d9ebecb7b643b000230416d5",
+      "summary": "Cognizant Technology has agreed to buy Astreya, an IT services and technology provider focused on AI infrastructure and data center services, in a deal valued at around $600 million, the company told...",
+      "image": "",
+      "datetime": 1777437361000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139926714,
+      "headline": "Feature-South Africa film sets ditch diesel in green energy shift",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3f6eb939011428333dbbd1bd03a8fa7e99b1a38eefd8ff9cd9bdabce4a293cf9",
+      "summary": "* Netflix and Disney among firms pledging to halve directemissions by 2030 * South Africa emerging as test bed for clean film settechnology * Cost and logistics...",
+      "image": "",
+      "datetime": 1777436768000,
+      "ticker": "NFLX",
+      "category": "company"
+    },
+    {
+      "id": 139926703,
+      "headline": "Facebook, Instagram charged with breaching rules, must do more to protect kids below 13, EU says",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7d49b0c76fb7e857a39531bcc557d8f81d963dd695fd26d1d468fa4e799e7612",
+      "summary": "Meta Platform'Facebook and Instagram were charged on Wednesday with breachinglandmark EU tech rules and must do more to prevent childrenunder 13 from accessing both social networks, EU regulators...",
+      "image": "",
+      "datetime": 1777436411000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139926411,
+      "headline": "Memory chipmakers hope AI frenzy signals end to boom and bust",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e12959454d5b9738ca73705762f27023ad7aeb41eafd54a1c34e552db92bc1c2",
+      "summary": "Investors are betting on a prolonged boom for memory chipmakers amid voracious AI demand that has prompted customers to lock in multiyear contracts...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777435215000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139926389,
+      "headline": "LG Elec is working with Nvidia on humanoid robots - media",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=18424dfd8d05109dc768c556e7906df54796a619b5dd6185d67fc3dff6dcf70e",
+      "summary": "LG Elec is working with Nvidia on humanoid robots - media...",
+      "image": "",
+      "datetime": 1777434764000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139926383,
+      "headline": "There is no such thing as tech anymore",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3c617655937a53750520d10abee5367884a0f7e989d5574eb5834a786aead2b6",
+      "summary": "As recently as two weeks ago, prediction markets were pricing in a significant probability of a swift return to normality for traffic in the Strait of Hormuz. On Polymarket, the odds of a reopening...",
+      "image": "",
+      "datetime": 1777434656000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139926428,
+      "headline": "China Suspends Autonomous Driving Permits After Baidu Outage",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c43b9c85f49953ff4561562d21a36313c9de4a387339a43cb2fb618c0e0e4c0",
+      "summary": "(Bloomberg) -- China has suspended issuing new licenses for autonomous vehicles, according to people familiar with the matter, after dozens of Baidu Inc.’s Apollo Go robotaxis suddenly stopped in Wuhan last month, stranding passengers and disrupting traffic. Most Read from BloombergUAE Quits OPEC as War Upends Oil Markets and Gulf Tensions RiseNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysSergey Brin Confronted Gavin News",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777434364000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 139924837,
       "headline": "4 \"Magnificent Seven\" Companies Are About to Report Earnings -- All on the Same Day. Here's What to Watch.",
       "source": "Yahoo",
@@ -64,6 +306,17 @@
       "summary": "Brace yourself. Wednesday's after-hours session could move the market.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777433400000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139926209,
+      "headline": "Stocks rally on earnings optimism as Fed meeting looms",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=46a605ae82a7e85ce3aca13f2a1b59be218840d79abe83813b5eb11ea9627690",
+      "summary": "Markets found theirfooting in Asian trading on Wednesday as worries about the Iranconflict and health of the AI sector eased, optimism overcorporate earnings grew, and attention turned to the...",
+      "image": "",
+      "datetime": 1777433159000,
       "ticker": "MSFT",
       "category": "company"
     },
@@ -134,17 +387,6 @@
       "category": "business"
     },
     {
-      "id": 7866295,
-      "headline": "Oil slips as market digests UAE exit from OPEC, supply concerns linger - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
-      "summary": "Oil slips as market digests UAE exit from OPEC, supply concerns linger  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777428360000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139924836,
       "headline": "Major Wall Street firm makes a bold new call on Intel stock",
       "source": "Yahoo",
@@ -156,15 +398,26 @@
       "category": "company"
     },
     {
-      "id": 7866195,
-      "headline": "Stocks retreat on Iran, AI concerns as Fed meeting looms - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5",
-      "summary": "Stocks retreat on Iran, AI concerns as Fed meeting looms  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777427580000,
-      "ticker": null,
-      "category": "business"
+      "id": 139926412,
+      "headline": "AI Boom Drives 770% Jump in Asia’s Lesser-Known Chip Supplier",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6db13f263e07f118c2dd48bee9924eac847feb21f5ec9e0d350eff38e2264f66",
+      "summary": "(Bloomberg) -- The artificial intelligence rally exploding across Asia is now spreading deeper into the supply chain. Most Read from BloombergUAE Quits OPEC as War Upends Oil Markets and Gulf Tensions RiseNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysSergey Brin Confronted Gavin Newsom — Then Launched a Political WarOpenAI Breaks Free From Exclusive AI Pact With MicrosoftFor much of the past year, the spotlight has been o",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777428000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139926440,
+      "headline": "China-US Tensions Build Over Iran and AI Before Trump Meets Xi",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03c166329f7700778930acd64faa4674b14d1d64c35a8c59652165ead5db3214",
+      "summary": "(Bloomberg) -- Donald Trump and Xi Jinping are headed toward a summit next month with a shared desire to stabilize ties. That calm is being tested as both leaders rush to shore up strategic vulnerabilities over Iranian oil and AI.Most Read from BloombergUAE Quits OPEC as War Upends Oil Markets and Gulf Tensions RiseNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysSergey Brin Confronted Gavin Newsom — Then Launched a Politica",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777426842000,
+      "ticker": "META",
+      "category": "company"
     },
     {
       "id": 139925595,
@@ -198,6 +451,17 @@
       "datetime": 1777425620000,
       "ticker": "MSFT",
       "category": "company"
+    },
+    {
+      "id": 7866817,
+      "headline": "Gold eases on higher oil prices, markets await Powell's remarks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5",
+      "summary": "Gold eases on higher oil prices, markets await Powell's remarks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777425600000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139924086,
@@ -365,6 +629,17 @@
       "category": "company"
     },
     {
+      "id": 139923243,
+      "headline": "Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6ae0cc229037ddce1e1e5045596f8a03b8d489c6ffbc3709781e702dea0bb7c",
+      "summary": "US stock futures held above the baseline as attention begins to return to domestic news, powell's final meeting and mag 7 earnings hold focus.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777418045000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 7866399,
       "headline": "Panama Canal sees spike in vessel traffic due to war in Middle East - Reuters",
       "source": "Reuters",
@@ -517,17 +792,6 @@
       "datetime": 1777412703000,
       "ticker": "NVDA",
       "category": "company"
-    },
-    {
-      "id": 7861097,
-      "headline": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
-      "summary": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777412659000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 139921736,
@@ -706,17 +970,6 @@
       "category": "company"
     },
     {
-      "id": 7864316,
-      "headline": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalN2R2Rsay1qbGw4a0hHYWF5MlBmSUlMRERsajItcV9aYVBvTXJSQWNYblJ3VHVFSThrYXFaVl9lcUFjVEZOV3BhUlAzaUhORE5hYXZScWpQQkNBdXRjaWdBQ09nTC1nQ0tEb2RBM3JlTFpRTjhyZ0RDNWRCcDRvemU1NEFUTnpMd25vY3h3VER6NTF4bnRCbXB6WTFiaU1RdDdERWxobzAzejV0b0MtaGZra2pqZU1jNUNqd2R3?oc=5",
-      "summary": "Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777410247000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 7865059,
       "headline": "First Vegas-style casino opens in New York City",
       "source": "CNBC",
@@ -846,259 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777408265000,
       "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139923147,
-      "headline": "META, GOOGL Earnings: Advertising Results Remain Key",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f8830a266d68d37f8eac2826be1941cbed6185175b893965ecc591bfeba100c9",
-      "summary": "Advertising results from Alphabet and Meta Platforms will be important metrics to watch given the heavy top-line contributions, and it's worth noting that each has yet to negatively surprise on the metric in years now.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777408140000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 7864942,
-      "headline": "U.S. airlines are hiking fares — and travelers keep booking",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/28/airlines-fares-fuel.html",
-      "summary": "Executives say travelers keep booking despite big jumps in airfare as they seek to cover the cost of fuel.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080",
-      "datetime": 1777408097000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 7864524,
-      "headline": "Exclusive: US spy agencies examine how Iran would react to Trump declaring victory - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakxPaFJWcW50Y0lld2U3MmxqdFBLM1ZibW5QWTRwTlpSUzZBLXRTdlpJTVFSaHhTTHI4Q21UNjZEY0VXN0FCbE0tUWYweGwwM0U5ZWdMMGRTbHNURmotMHhLaTFTZTdGQzJ5SGFEd1diT2xaTUJoM1huTHd1T1VhNW95Q0tZdklQYkFjVHhOZzJFUVJDVnViRE9vUVlKVzZEYk9yRHI1T1RpYlVmWWJFQWlVWQ?oc=5",
-      "summary": "Exclusive: US spy agencies examine how Iran would react to Trump declaring victory  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777407913000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139921738,
-      "headline": "F1 season is heating up: Here's everything you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=77a1317c3306d9cabde75287248644c4b71e07416a6c8c36254dd5aadbba114d",
-      "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian joins Yahoo Finance Senior Reporter Brooke DiPalma to discuss F1's season heating up this week, Mercedes' (MBG.DE) involvement, and more. For more predictions market insight, check out the new Yahoo Finance Polymarket Hub.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777407483000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139921732,
-      "headline": "How major US stock indexes fared Tuesday 4/28/2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6363365defe19e0d24006797498379ce9163a231564b3d3ce73ec1495d314aee",
-      "summary": "Sinking AI stocks and another climb in oil prices helped to halt Wall Street's record-setting rally. The S&P 500 fell 0.5% Tuesday from its latest all-time high. The Dow Jones Industrial Average slipped 0.1%, while the Nasdaq composite fell 0.9% from its own record.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777407256000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139921761,
-      "headline": "Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7662b88bc062fb418b19c7d72f9e116fda981ffc68a915e3642b064cf621961b",
-      "summary": "Ineffable Intelligence is betting that reinforcement learning is the path to superintelligence, rather than AI's large language models.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777407228000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139921807,
-      "headline": "US Equity Markets End Lower as Chipmakers Slide, Middle East Tensions Lift Oil",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8db5b2bd19889e2d9b2c4aa0b6a2033dfe92750c713830c69492ed92a396b89c",
-      "summary": "US equity indexes closed lower on Tuesday as semiconductor shares fell and Middle East tensions lift",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777407037000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139921838,
-      "headline": "Intel AI Factory Deal With FPT Raises Efficiency Hopes And Valuation Questions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0cbbbd9516ed73a37007d6ae57eebe86570e43ea0c1ab254f7868fd3c8514ff2",
-      "summary": "Intel (NasdaqGS:INTC) announced a new AI-driven factory optimization partnership with FPT. The collaboration focuses on real-time digital twins and advanced simulations for manufacturing efficiency. The partnership is described as an end-to-end solution for monitoring, analyzing, and adjusting factory operations. For investors tracking Intel's efforts in AI, this move highlights a different angle from chips and data centers. In this case, Intel is applying AI tools to its own manufacturing...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777406715000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139921739,
-      "headline": "Apple heads into earnings with expectations picking up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6f66f400f83ea7cdbb37bc426d28028d6a9a1e186e324917702b378f6e1aea94",
-      "summary": "UBS sees slight beat and stronger guidance",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777406606000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139921745,
-      "headline": "Nasdaq Falls on AI Spending Worries. Big Tech Earnings Could Put Fears to Rest.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=566f36144380e26bdb8d9fca5a05340f6fb4236fdd8ba47bd1948598be898882",
-      "summary": "The Nasdaq pulled back from yesterday’s record close because a new headline had Wall Street worried about AI just one day before some of the biggest spenders are set to share quarterly results.  The Dow dropped 31 points, or 0.1%.  The iShares Semiconductor ETF fell for the second time in April after a Wall Street Journal report said OpenAI missed revenue and user targets.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777406493000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139921733,
-      "headline": "Why Intel Stock Is Sinking Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e5ad75561cf27b3cd612ade6a893c48db1e89424ee2e870272e04c2bf6d4a1c9",
-      "summary": "Intel stock is taking a breather after its recent rally.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777406480000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139921734,
-      "headline": "[Latest] Global Generative AI in Chemical Market Size/Share Worth USD 12.84 Billion by 2035 at a 24.9% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2f697929ac099e8421c2abef9f07e009313e898b86d9fd6d3f06a722cf6b9194",
-      "summary": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Generative AI in Chemical Market size & share revenue was valued at approximately USD 0.98 Billion in 2025 and is expected to reach USD 1.38 Billion in 2026 and is expected to reach around USD 12.84 Billion by 2035, at a CAGR of 24.9% between 2026 and 2035. The key market players listed in the report with their sales, revenues and strategies are NVIDIA Corporation, I",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777406400000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139920512,
-      "headline": "How OpenAI reports are hitting Nvidia, Intel, & other semi stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b0e3d036c69326074299171bedb365689e93bbd3d49cb8ed8adc065b48f6a5cf",
-      "summary": "Reports that OpenAI (OPAI.PVT) missed its internal targets have been hitting the larger tech space on Tuesday. Yahoo Finance Senior Reporter Brooke DiPalma, Yahoo Finance Breaking Business News Reporter Jake Conley, and Yahoo Finance Markets and Data Editor Jared Blikre discuss the impact on Nvidia (NVDA), Intel (INTC), and other semiconductor stocks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777406320000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139920476,
-      "headline": "US Equity Indexes Decline Amid Sharp Sell-Off in Semiconductors, Rising Crude Oil",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=94bb36442ab3df9a8bc0431df60cd327ced74e312aff1ad40cd5b85bf355541b",
-      "summary": "US equity indexes traded lower ahead of Tuesday's close as a decline in semiconductor shares crushed",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777405993000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139921784,
-      "headline": "OpenAI IPO valuation at risk from 'negative headlines,' expert says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c5c429c138f7f662a5cbaadeb18d157242a0751549ee4b6fc32f0cb1298ba9d5",
-      "summary": "STORY: The Wall Street Journal on Tuesday reported that OpenAI had missed its goals for new users and revenue in recent months, raising concerns over the ChatGPT creator's growth prospects and sending shares of its AI-linked partner companies plummeting.Tuesday also marked the start of a high-stakes trial over the future of OpenAI, with Tesla CEO Elon Musk accusing the startup, its co-founder and Chief Executive Sam Altman and its President Greg Brockman of betraying him and the public by abandoning the company's mission to be a benevolent steward of AI for humanity, and transforming the nonprofit into a profit-seeking juggernaut.The two headline-making events come at \"a moment where [OpenAI] wants to try and maximize value\" ahead of its planned IPO, Mulberry said. As a result, he said it's \"likely that they'd have to push that back in time to let some of this stuff get funneled through the market.\"",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777405734000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139924101,
-      "headline": "As OpenAI Drags Down Chip Stocks, Should You Buy the Dip in Oracle Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86008e8dc35d6d771ba2fe5e9ccb63c5f96bcef75de8b1ed6e290a8847c82bad",
-      "summary": "Oracle stock sinks as the WSJ reported that OpenAI is seeing a revenue and user growth slowdown. But long-term investors are not out of reason to load up on ORCL shares today.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777405615000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139920056,
-      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fb22326eff6541cf0cf705c637bf4980ed45b6b87912b5e5fc54367220a36627",
-      "summary": "Tech stocks fell late Tuesday afternoon, with the State Street Technology Select Sector SPDR ETF (XL",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777405511000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139920057,
-      "headline": "Bill Ackman's Pershing Square USA Fund IPOs Today. What Stocks Will It Hold?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0efdb2f46f509e11a0659773014f87816abfef41e4bc88ef45db70b3faf4e42a",
-      "summary": "The IPO is likely to raise $5 billion to invest in large-cap growth stocks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777405469000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139920103,
-      "headline": "Hut 8 Sells $3 Billion In Bonds To Finance A.I. Data Centre Expansion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ebd0c3d3f6bd47f4b7a4c69cdd1491a879d50304ff0e240dc6dbabc07cd93922",
-      "summary": "Canada’s Hut 8 (NASDAQ: $HUT) is planning to raise $3.25 billion U.S. through a corporate bond sale as it loo...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777405260000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139920074,
-      "headline": "Top Bank Delivers Blunt Call on Amazon, Microsoft, Apple Ahead of Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c17aa3f72c3befdf67973569156b54bf776a9aec6aeea40bcddf9a0d3e90c878",
-      "summary": "Wall Street Sees Strong AI-Driven Growth for Big Tech Into 2026",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777404943000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139921740,
-      "headline": "Apple turns a memory crisis into an opportunity",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=631e10a32000a095b9ac832684106bccfc8684ff55674488322eea3bd8bcce6d",
-      "summary": "Apple Inc (NASDAQ:AAPL, XETRA:APC) has a memory problem, just not the kind that hurts. While rising memory chip prices are squeezing smartphone rivals and eroding their margins, Apple is turning the same dynamic to its advantage. The company's ability to lock in adequate silicon and memory...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777404780000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139920058,
-      "headline": "Ethereum Staking: A Quiet Generational Wealth Engine?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0d089d5a821cd5b40f8e2e4eeda4d314de965dc5b7e5f4f37d3247cae088e731",
-      "summary": "This is a tool you should be using if it's available, but it's not magic.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777404780000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139920080,
-      "headline": "Microsoft heads into earnings with a lot to prove",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be65f68bae0d64bf249a3487663b76aa89ddbc5ae810e516d539769e469a3df4",
-      "summary": "AI and cloud growth remain under the spotlight",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777404744000,
-      "ticker": "MSFT",
       "category": "company"
     }
   ]
