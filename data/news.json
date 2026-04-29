@@ -1,6 +1,160 @@
 {
-  "timestamp": 1777415563339,
+  "timestamp": 1777420826962,
   "items": [
+    {
+      "id": 139923124,
+      "headline": "I Want to Buy Netflix Stock, Just Not at This Price",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdd3226cd6382776bb4cd06b9ba8d36db2cc8c0966a4838f5953be3c5cfaca45",
+      "summary": "Despite reporting strong double-digit revenue growth in Q1, several things are keeping me on the sidelines -- for now.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777419660000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139923125,
+      "headline": "Billionaire Warren Buffett Says If you Aren't Happy With $100,000, You Won't Be Happy With $100 Million —But It Does Make You Feel 'Better' And Secure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a90ed875fa2608f392f711c1a48af05b08a0ea02d4c7cee814d634a6d56d063d",
+      "summary": "Billionaire Warren Buffett has heard the fantasy his entire life — that more money fixes everything. Make a few million, the stress disappears. Add more, and life finally feels easy. He built a fortune large enough to test that idea...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777417271000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139923126,
+      "headline": "Why Altria Group Stock Topped the Market on Tuesday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae61b10ad6416fba5afbe059e9def5fe5d01a7db676e5cf77895ee0e6c601336",
+      "summary": "The decline in sales of traditional cigarettes might not be as steep as some believe, if recent data is any indication.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777417218000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139923136,
+      "headline": "Mag 7 earnings, Fed day, Warsh confirmation vote: What to Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa25950a898e359a60a9515e561ed4473ff9a47ca9869f94b1d0cf56b5815e27",
+      "summary": "Yahoo Finance Senior Reporter Brooke DiPalma takes a look at the top stories for investors to watch on Wednesday, Apr. 28: Fed chair nominee Kevin Warsh's confirmation vote, the Federal Reserve's interest rate decision, and earnings from Alphabet (GOOG, GOOGL), Microsoft (MSFT), Amazon (AMZN), and Meta (META).",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777417200000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 139923127,
+      "headline": "F5 Q2 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c862d90e6914e6a928e7ff8cfd50b2372f9d675f167374136795bf2094c79d9",
+      "summary": "F5 (NASDAQ:FFIV) reported what executives characterized as a “robust” second quarter of fiscal 2026, driven by double-digit product growth, strong international demand, and what management described as accelerating customer focus on hybrid multi-cloud architectures, application security, and AI-rela",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777416454000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139923128,
+      "headline": "Nasdaq, S&P 500 end lower on renewed AI growth worries",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=727309237b2f21a006ecdd07b9943e63fed265bfef721821c0a6bb01378b1e3f",
+      "summary": "STORY: U.S. stocks ended lower on Tuesday, with the Dow ticking down marginally, the S&P 500 shedding about half a percent and the tech-heavy Nasdaq losing nine-tenths of a percent.AI-related fears spooked the market after the Wall Street Journal reported that OpenAI missed internal targets for weekly users and revenue, raising concerns about its ability to support its massive spending on data centers.:: OracleThose worries brought down shares of Oracle by 4%, as the company is reported to have signed one of the biggest cloud deals ever with OpenAI.Chip stocks also dropped, with Nvidia, AMD and Broadcom ending sharply lower. Nvidia-backed CoreWeave also slid nearly 6%.AI will remain in the spotlight, with five of the Magnificent Seven megacap firms reporting quarterly earnings this week.Brian Mulberry, chief market strategist at Zacks Investment Management, said he's expecting strong results.\"What I think we are more than likely to find out is that the demise of software has been vastly overstated. Again, the scalability of AI is limited to who owns the compute. And right now it's the really large hyperscalers that have all of the data. [FLASH] Coming through this week and all of the Mag 7 earnings, our expectation is that we're probably going to see that the capex numbers are pretty much the same, maybe even a little bit higher because of the lack of compute that's out there. And also the fact that they are still seeing contract sales go up because they can scale at an enterprise-wide system much more cost efficiently than you can just going directly to generative AI in this moment.\":: ArchiveMeanwhile, the Federal Reserve convened for what is likely Jerome Powell's last monetary policy meeting as chair of the central bank.While the Fed is likely to leave interest rates unchanged on Wednesday, the accompanying statement and Powell's subsequent press conference will be parsed for views on inflation and the related spike in oil prices due to the U.S. war in Iran.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777415961000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139923143,
+      "headline": "The wheels could be coming off the circular computing deal train",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68ac3e2b1970a432e421703e23178d79fd5ef60d6e60ac15aa0cdd2e7058d8e6",
+      "summary": "The big AI labs’ circular dealmaking, in which corporate investors invest capital in exchange for commitments of future contracts for computing resources, may be less failsafe than it seems. OpenAI is now testing the underlying assumption that the AI labs will undoubtably grow large enough to meet those obligations. The company has reportedly missed internal growth targets, and CFO Sarah Friar has warned that if revenue doesn’t accelerate, OpenAI could fail to pay for future computing contracts,",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777415954000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139923129,
+      "headline": "Is Eli Lilly Stock Undervalued at $870? 1 Top Wall Street Analyst Thinks So",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf4fe10261744ca2c8cb31874a45b38c0589536ac55b3551e10a9061131b3c7d",
+      "summary": "And he may be right.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777415700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139923139,
+      "headline": "'I Love The 2,000-Word Emails,' DoorDash CEO Tony Xu Says As Short Messages Miss 'A Lot Of Gold' That Could Fix Costly Delivery Mistakes",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07ae3ebb13b0ee03db399e497a37e6e52ad02421ea9c78993fa2e9c9bb4ecb8d",
+      "summary": "Long emails from customers and delivery workers can be more useful to DoorDash (NYSE:DASH) than short ones, DoorDash CEO Tony Xu said. \"I love the 2,000-word emails, especially from dashers who will give many use cases of why the logistics...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777415468000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139923130,
+      "headline": "If You'd Invested $1,000 in GLD 5 Years Ago, Here's How Much You'd Have Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1386883d0c8831876eacf84f79cc3c541df96378595bc254db7dfd5183f14498",
+      "summary": "Gold has enjoyed a historic rise over the past several years.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777414800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139923131,
+      "headline": "Why Solaris Energy Infrastructure Stock Soared Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9f1d2cb7eb663c7d820ca826bea8d277c415c6282a95102cfe353cb4c428de6",
+      "summary": "The company easily topped analyst estimates in its first quarter.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777413505000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139921977,
+      "headline": "Teradyne forecasts sequential decline in quarterly revenue and profit, shares fall",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=182178318f860f701b82691a661c69d1cac842c7d8251d3e78e22a4f87285fe6",
+      "summary": "Chip-testing equipment maker Teradyne on Tuesday forecast a sequential decline ‌in second-quarter revenue and adjusted profit, sending ‌its shares down more than 8% in extended trading.  The ​forecast comes as Teradyne's first-quarter revenue jumped 87% from a year earlier, driven by strong demand for its equipment used to test high-performance ‌semiconductors for ⁠the artificial intelligence market.  • Teradyne sees second-quarter revenue in the range of $1.15 ⁠billion to $1.25 billion, the midpoint of which is lower than its first-quarter revenue of $1.28 billion.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777413230000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 139923132,
+      "headline": "Nvidia (NVDA) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72f469612314501026dffddf1c0563693677fd8cf87b017a7ca49a0a2b95731a",
+      "summary": "In the most recent trading session, Nvidia (NVDA) closed at $213.07, indicating a -1.63% shift from the previous trading day.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777412703000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7861097,
+      "headline": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
+      "summary": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777412659000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 139921736,
       "headline": "Why Spotify Stock Dropped Today",
@@ -32,6 +186,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777412406000,
       "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139923133,
+      "headline": "Google Faces a Rising Bar to Impress Investors With Its Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b226117ea5fbc3787d4f4899f0cfff03083520c1b95c5229f1ddcf5132195dd1",
+      "summary": "Expectations are rising ahead of Google parent Alphabet's quarterly results due after the closing bell Wednesday.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777412326000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139923135,
+      "headline": "Tech Giants Set to Report Earnings Wednesday—And Big Stock Moves Are Likely",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16d34f8a05c4b56cfa61c0326d3e93cd70f41d9be31a36376fa38a809d7d953e",
+      "summary": "Alphabet, Amazon, Meta and Microsoft will release results after the closing bell",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777412239000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -167,6 +343,17 @@
       "category": "company"
     },
     {
+      "id": 7862562,
+      "headline": "Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRhN2c0RU1tV2otcDBmWHdiTXVGZ19LVDFnTmJVUHI5TTBiRkJQaXQ3OUNGLVJQNDl0bVJtTmNmVWlMQ0UwVnNidVp6OG9zWDJLNGwxVUJ1M21oNG1OWDV6bFk1eDQxbUxMemxfRk5JMTcxMHNSVUxBV3V0NDVvckVuel8?oc=5",
+      "summary": "Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777409553000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 139921757,
       "headline": "What Most Investors Are Getting Wrong About Meta Platforms That Makes Right Now an Incredible Buying Opportunity",
       "source": "Yahoo",
@@ -240,6 +427,17 @@
       "summary": "A 27-year-old recently opened up about feeling stuck. They described a life that, on paper, doesn’t match what they see around them. They don’t own a car. They live with their parents, who still help financially. They haven’t dated in...",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777408265000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139923147,
+      "headline": "META, GOOGL Earnings: Advertising Results Remain Key",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8830a266d68d37f8eac2826be1941cbed6185175b893965ecc591bfeba100c9",
+      "summary": "Advertising results from Alphabet and Meta Platforms will be important metrics to watch given the heavy top-line contributions, and it's worth noting that each has yet to negatively surprise on the metric in years now.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777408140000,
       "ticker": "GOOGL",
       "category": "company"
     },
@@ -332,17 +530,6 @@
       "category": "company"
     },
     {
-      "id": 7861097,
-      "headline": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
-      "summary": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777406569000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139921745,
       "headline": "Nasdaq Falls on AI Spending Worries. Big Tech Earnings Could Put Fears to Rest.",
       "source": "Yahoo",
@@ -385,6 +572,17 @@
       "datetime": 1777406320000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7865372,
+      "headline": "US companies project resilience even as Iran war risks mount - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWi10a0U0Yzkxb0xvZUVCdWhxVDh6NUh3bzJodVRJcnplZVdpXzM5ZWh0dkRsTTk1U2hmam1rNGZHUUNHMTlGZFRmMzdHZ2dmci1kRmVYbHlTOHlpdVZ4WDZ1QmxLVVZIMFNrZ2hRMDNfampnTzVZdnIzS2xJcHZxRkYtc3ZPdUtfTG9JZjJCdEs5SzMtSGotSDUtdXhrQTUxVkFlY1h5cXkxUktld1E?oc=5",
+      "summary": "US companies project resilience even as Iran war risks mount  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777406252000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139920476,
@@ -684,6 +882,17 @@
       "category": "company"
     },
     {
+      "id": 139922521,
+      "headline": "Big Tech Earnings Preview: The AI Supercycle Meets Reality",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da8bae682865ddf764d706daf97d84c90df3342c59bc6a2ecdd9933d495e3391",
+      "summary": "",
+      "image": "",
+      "datetime": 1777401770000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 139920214,
       "headline": "Palantir Stock Is Down 20% This Year, but That Could All Change on May 4. Are You Ready?",
       "source": "Yahoo",
@@ -890,215 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777399980000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139920120,
-      "headline": "Sector Update: Tech Stocks Fall Tuesday Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=84d8f77616050890bba14c784c14f5b9462db5cf34f3be55471efe98d253101a",
-      "summary": "Tech stocks fell Tuesday afternoon with the State Street Technology Select Sector SPDR ETF (XLK) dro",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399929000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 7864418,
-      "headline": "GM: Iran war causing cost increases, but pricey vehicles continue to sell",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/28/gm-iran-war-vehicle-sales.html",
-      "summary": "GM CEO Mary Barra said the Detroit automaker continues to monitor any change in customer spending, but so far, the company's vehicle mix has remained healthy.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107301197-16947288232023-09-14t213141z_126768134_rc2j83a61xi9_rtrmadp_0_autoshow-detroit.jpeg?v=1694728876&w=1920&h=1080",
-      "datetime": 1777399866000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139920088,
-      "headline": "IREN Price Target Cut as Bernstein Sees Firm Dumping Bitcoin Mining for AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7616cd330b3791a5c4543d51dd2cdabafce163dbe4d540b0d7ee3c2fd27718eb",
-      "summary": "Bernstein analysts see IREN’s AI cloud prospects growing substantially in the coming years—and its Bitcoin business disappearing entirely.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399748000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139922327,
-      "headline": "FINX: AI Is A Boon, X Money's 6% APY Is A Threat",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=3f39a10d817528625609368b244f028e6b80f029a79f388398e1ec719986160a",
-      "summary": "Global X FinTech ETF (FINX) gets a soft buy as AI reshapes fintech; review its diversification, valuation, and X Money threatsâread now to decide.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2255789199/image_2255789199.jpg?io=getty-c-w1536",
-      "datetime": 1777399710000,
-      "ticker": "PYPL",
-      "category": "company"
-    },
-    {
-      "id": 139920089,
-      "headline": "Microsoft Q3 Earnings Preview: What To Expect From Upcoming Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c9c8bab34a0d42e0e6e5cb0d0f4218cd6dcc6bf4b14c7ea4e0649726b4da926",
-      "summary": "Microsoft Earnings Loom as AI Growth Faces Key Test on Wall Street",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399651000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139919322,
-      "headline": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=e9636e18646cfe20248c1d3a01a35abd003e05d058249b4e9a052ea66d2495a0",
-      "summary": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session. Stay updated with the stocks that are capturing market interest and driving market movements.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Most_Active_Stocks_Small_free_fec0650b7f.webp",
-      "datetime": 1777399503000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 139920193,
-      "headline": "The 2027 COLA Could Be as High as 3.2% -- if Today's Inflation Holds",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6a26c0523d91c00c3b5faf7a4dfb922c4b4b3b68321bc9d33446b0f484765482",
-      "summary": "The cost-of-living adjustment may end up even higher than that.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399500000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139920112,
-      "headline": "Stellar’s CMO on Why Stablecoins Are the Gateway to Tokenizing Everything",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=648f0645d47646fce07887ba0c6ad7b2700ae8debc54c7ec4b24d4e563d41769",
-      "summary": "Jason Karsh, the new CMO of Stellar, has built his career moving through some of tech and crypto's most formative companies, from Google to Coinbase to Block, and he's bringing his long-game philosophy to one of the industry's oldest and most quietly consequential blockchains. In this episode of Gen C, Sam sits down with Jason to talk about why crypto keeps leading with the wrong message, how Stellar went from $500M to $2B in real-world assets in a single year, and why a \"get rich slow\" approach might be the most radical marketing strategy in Web3. Links mentioned from the podcast: Jason’s Twitter: https://x.com/jasonkarsh Stellar Website: https://stellar.org/ From our sponsor: Check out CoinDesk’s latest research report on privacy in the age of scale, commissioned by GenZcash: https://www.coindesk.com/research/encryption-supremacy-zcash-and-privacy-in-the-age-of-scale",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399483000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 139920173,
-      "headline": "Netflix Stock Is Down 32%. Here's Why It's a Screaming Buy.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32bbd94ec76057ec6caff7ae4ee49e5c491b12f09315ff19ad514e5c1f9e4185",
-      "summary": "Netflix's stock is down 16% in the past 12 months, which is a good entry point for long-term investors.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399380000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 139920144,
-      "headline": "Analyst Questions Why Tesla's 90% Value Hasn't Evaporated Following Elon Musk's FSD Admission: 'It's Astonishing…'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eaaab2014d1db5bf39b7478c1d7ab33636d029668534711aa44b56025929335c",
-      "summary": "GLJ Research founder Gordon Johnson has slammed Elon Musk-led Tesla Inc.‘s lack of progress in its self-driving efforts, questioning the company’s valuation. Self-Driving Makes Up 80-90% Of Tesla’s Valuation In a post on the social media platform X on Sunday, Johnson slammed Tesla. “The $TSLA brass is admitting, in broad daylight, FSD is far from ready,” he said in the post, questioning why the comments from the automaker’s first quarter 2026 earnings call weren’t a “bigger story” in the media.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399269000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139919321,
-      "headline": "Curious about the most active stocks on Tuesday?",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=740c828a720278fcdc5f32f902999cc1156adbb8c6291636db9ff731fa1bc031",
-      "summary": "Curious about the most active stocks in today's session? Get a glimpse into the stocks that are generating the highest trading volume and capturing market attention.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Most_Active_Stocks_Small_free_fec0650b7f.webp",
-      "datetime": 1777399200000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 139921925,
-      "headline": "OpenAI is expecting $8 ChatGPT subscriptions to take off this year - The Information",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=edca65f01419543045642940eaccf4170167ca316e2df1db20df05a2644f710b",
-      "summary": "Microsoft Corp: OpenAI is expecting $8 ChatGPT subscriptions to take off this year - The Information OpenAI forecasts 112 million subscribers to cheaper ChatGPT Go tier this year - The...",
-      "image": "",
-      "datetime": 1777399178000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 139918762,
-      "headline": "Palantir Stock Falls After Citi Trims Price Target",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bd55013bd6a4d0f1554b166ebb56296230fb437188db9f4f1f8fcb91b18340cd",
-      "summary": "Citigroup Trims Palantir Target but Keeps Bullish Bet as Valuation Debate Heats Up",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399151000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 7864525,
-      "headline": "US pump prices near 4-year high on Iran war disruption, refinery outages - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXy1va2liUDd1dVk3MDU1S1R1LUFvc2ZSdVBiV2Y0MkxRcDEwUlR5UzFJN1Rrd0ZScDRha042MzY1ZWJtNGQtNi16M0p1SVRfR0pmNGpDOU5zUXlMQ3RJUG1hMmhfckh2cXIyUkszTVFVS3pxWnVQVVJtdG85aWh2dW9pS0RDQmxCUElIWXRqRHJEeHZteGdfdzFnbXMzNWE1eF9hTFd4OElzMnlqeGQzTFVlOA?oc=5",
-      "summary": "US pump prices near 4-year high on Iran war disruption, refinery outages  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777399102000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139918659,
-      "headline": "Wall Street resets AMD stock price target for rest of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5211c5a12fec2bbb651bff800f16a0287d4efe90f78ec8ab84c24ef86f9309a",
-      "summary": "AMD Gets a Bullish Call. Why Analysts See More Upside Ahead",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777399090000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 7861402,
-      "headline": "Gold falls as Middle East tensions keep oil soaring, Fed meeting in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNpbTBCYzQ2NWNmX3k1azB3TGczbV9nb3hsM1lQR2l5dTlxUkxQdjZjZks2T0xZM1Q4MEtSX3psV3lRT3ZIbU41VS1fSUF5MTBtV1liTUl3QW5HUGhHZ2ZKWi1GVHlTOC1zMW1obTFOamZ0OGdRRFlTNDA0SFZtQkZ6VUg3U1Z6R1Zvemw4RGhYRmhVLXBQWUM1c1AwMl9qaHFISEJ2RTI2NTA?oc=5",
-      "summary": "Gold falls as Middle East tensions keep oil soaring, Fed meeting in focus  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777398909000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139920145,
-      "headline": "Baird Lowers PT on Tesla (TSLA), Remains Bullish on the Stocks Long-Term Potential",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=af2c74c83616826e1eacdd0b53567c5ffdb83ccc88d5b158c52fd03337e9c03e",
-      "summary": "​Tesla, Inc. (NASDAQ:TSLA) is one of the world’s leading electric vehicle, robot-taxi, and energy system providers. Recently, on April 23, Baird maintained an Outperform rating on the stock and lowered its price target from $538 to $522. Despite the price target reduction, Tesla, Inc. (NASDAQ:TSLA) is among the Best Stocks to Buy and Hold For […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777398679000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 139920174,
-      "headline": "Bernstein Reduces PT on Netflix (NFLX) on Near Term Margin Concerns",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b317a78901824dbbcd07e17f72717c17c4e4981f525e33c5cfad6e333d4da981",
-      "summary": "​On April 20, Bernstein SocGen Group reiterated an Outperform rating on Netflix, Inc. (NASDAQ:NFLX) but lowered the price target on the stock from $115 to $110. The reduced price target is based on near-term margin concerns. Despite the concerns, Netflix ranks among the Best Stocks to Buy and Hold For the Next 5 Years. ​Analysts […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777398671000,
-      "ticker": "NFLX",
-      "category": "company"
-    },
-    {
-      "id": 139920113,
-      "headline": "The Street is Bullish on Broadcom Inc. (AVGO), Here’s What the Analysts Think About the Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42574448791fd50e6bc76769bc70272dbcfcc8ea942c5d1eb7d6847c81e3c1b7",
-      "summary": "​Wall Street has a bullish sentiment on Broadcom Inc. (NASDAQ:AVGO) as 94% of the 54 analysts covering the stock have a Buy rating. The 12-month average price target of analysts suggests more than 13% upside from the current level. Moreover, the Street expects the company to grow its EPS by more than 48% over the […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777398650000,
-      "ticker": "GOOGL",
       "category": "company"
     }
   ]
