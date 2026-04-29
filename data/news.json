@@ -1,6 +1,61 @@
 {
-  "timestamp": 1777435796170,
+  "timestamp": 1777446313753,
   "items": [
+    {
+      "id": 7867022,
+      "headline": "CNBC Daily Open: UAE leaves OPEC adrift",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/29/cnbc-daily-open-uae-leaves-opec-adrift.html",
+      "summary": "Markets grapple with the UAE's shock OPEC exit, while also contending with a host of earnings reports and a Fed decision later today.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108131441-1744637464662-gettyimages-2183878433-AZERBAIJAN_COP29.jpeg?v=1748891906&w=1920&h=1080",
+      "datetime": 1777443811000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 139925591,
+      "headline": "Is There Too Much Hype Baked Into Nvidia's Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b662f605e79434dcab3ee61b2f99a87d9cc6b04a79fdd4b4458904bb681ed498",
+      "summary": "How you answer the question of whether the chipmaker is overvalued will depend on which metric you choose to focus on.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777441680000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 139925592,
+      "headline": "Stocks making big moves yesterday: Commvault, Snowflake, Nvidia, Comfort Systems, and Domino's",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7929f498ba5988b2a849afe1f5c543196b8fcfaf2f81b5ae631effe34664e4ca",
+      "summary": "Check out the companies making headlines yesterday:",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777441255000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7866817,
+      "headline": "Gold steady as markets await Powell's comments on Iran war impact - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5",
+      "summary": "Gold steady as markets await Powell's comments on Iran war impact  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777438832000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 139925596,
+      "headline": "Intel Stock Is Up 92% in April. How to Safeguard Your Gains.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51d181c22c9cb14c6217108eb2eef216c8ffa02f069e7a4bd5fecb968acae361",
+      "summary": "Options strategies offer ways to participate in future upside for hot stocks—and protect yourself from a potential selloff.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777438800000,
+      "ticker": "INTC",
+      "category": "company"
+    },
     {
       "id": 139924837,
       "headline": "4 \"Magnificent Seven\" Companies Are About to Report Earnings -- All on the Same Day. Here's What to Watch.",
@@ -21,6 +76,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777432366000,
       "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 139926042,
+      "headline": "Meta charged with breaching EU tech rules, EU regulators say",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3cd8c5770b2570d84cb2ad7d19c33c55812efe3b0d3bf5f9123a3096d198763d",
+      "summary": "Meta charged with breaching EU tech rules, EU regulators say...",
+      "image": "",
+      "datetime": 1777431779000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 139926044,
+      "headline": "Meta must do more to prevent children below 13 from accessing Facebook, Instagram, EU says",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=67c0f3f21c8b5f80dbeb012cc000ebcb07cbce85384c29cd57d865e4cf7cc65c",
+      "summary": "Meta must do more to prevent children below 13 from accessing Facebook, Instagram, EU says ...",
+      "image": "",
+      "datetime": 1777431754000,
+      "ticker": "META",
       "category": "company"
     },
     {
@@ -46,13 +123,24 @@
       "category": "company"
     },
     {
+      "id": 7866922,
+      "headline": "Trump says King Charles does not want Iran to have nuclear weapon - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlZGS1E0bE5KX3l4dEl6YW5aOXRadS13ckhISUJPem00aFV0RUo2NDJ4WVVicUtxTExiQmI5RkFvNUV4YURIWUVaUU5oYk1qT1c4MlcweVd0Y0VKRjhxM0tEZVZYZXdtZWdnY2VCbXFxbG5PQTFlOHVIT1VheFlHZWNIUE1XTkl6UlZheEN3UnY3Z1NZNWd6d09mQ2Z2TmdFTElLSDhtVGRpTEZ3WkRYTQ?oc=5",
+      "summary": "Trump says King Charles does not want Iran to have nuclear weapon  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777429380000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 7866295,
-      "headline": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions - Reuters",
+      "headline": "Oil slips as market digests UAE exit from OPEC, supply concerns linger - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
-      "summary": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions  Reuters",
+      "summary": "Oil slips as market digests UAE exit from OPEC, supply concerns linger  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777429063000,
+      "datetime": 1777428360000,
       "ticker": null,
       "category": "business"
     },
@@ -77,6 +165,17 @@
       "datetime": 1777427580000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 139925595,
+      "headline": "Mark Zuckerberg’s AI ambitions back in the spotlight as Meta execs begin ‘moonshot’ mission for $9.5 trillion valuation and massive payouts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=824fe8a18457b0c164b1d6c8e990b48f26336367bc214c6b13eb9b9de9e09c61",
+      "summary": "The deepest tranche of options won’t fully pay off unless Meta becomes nearly twice the size of Nvidia.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777426737000,
+      "ticker": "META",
+      "category": "company"
     },
     {
       "id": 139924080,
@@ -197,6 +296,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777422985000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 139925056,
+      "headline": "MORNING BID EUROPE-Fed sails into unchartered waters as Powell bows out",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=342f3577bd9261839ae6bf55a6c8fa60abf0eaaa34728f269a8934f33d0086c4",
+      "summary": "A look at the day ahead in European and global markets fromGregor Stuart Hunter It's Fed Day, and it looks increasingly certain that it willbe Jerome Powell's curtain call as chair. By...",
+      "image": "",
+      "datetime": 1777422823000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -407,6 +517,17 @@
       "datetime": 1777412703000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7861097,
+      "headline": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
+      "summary": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777412659000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 139921736,
@@ -640,17 +761,6 @@
       "category": "company"
     },
     {
-      "id": 7862562,
-      "headline": "Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRhN2c0RU1tV2otcDBmWHdiTXVGZ19LVDFnTmJVUHI5TTBiRkJQaXQ3OUNGLVJQNDl0bVJtTmNmVWlMQ0UwVnNidVp6OG9zWDJLNGwxVUJ1M21oNG1OWDV6bFk1eDQxbUxMemxfRk5JMTcxMHNSVUxBV3V0NDVvckVuel8?oc=5",
-      "summary": "Oil prices rise with eyes on Iran, UAE; AI concerns weigh on stocks  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777409553000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139921757,
       "headline": "What Most Investors Are Getting Wrong About Meta Platforms That Makes Right Now an Incredible Buying Opportunity",
       "source": "Yahoo",
@@ -882,17 +992,6 @@
       "category": "company"
     },
     {
-      "id": 7865372,
-      "headline": "US companies project resilience even as Iran war risks mount - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWi10a0U0Yzkxb0xvZUVCdWhxVDh6NUh3bzJodVRJcnplZVdpXzM5ZWh0dkRsTTk1U2hmam1rNGZHUUNHMTlGZFRmMzdHZ2dmci1kRmVYbHlTOHlpdVZ4WDZ1QmxLVVZIMFNrZ2hRMDNfampnTzVZdnIzS2xJcHZxRkYtc3ZPdUtfTG9JZjJCdEs5SzMtSGotSDUtdXhrQTUxVkFlY1h5cXkxUktld1E?oc=5",
-      "summary": "US companies project resilience even as Iran war risks mount  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777406252000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 139920476,
       "headline": "US Equity Indexes Decline Amid Sharp Sell-Off in Semiconductors, Rising Crude Oil",
       "source": "Yahoo",
@@ -1000,105 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777404744000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7863995,
-      "headline": "Vancouver hosts FIFA Congress with expanded World Cup under scrutiny - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0VqcHA5TDBfT0I4YS1sUDNJdWtlMlFSZy14YnU0UUMtXzM4U25HazJ5MDI1SW42VDJRalJoZHJLanhTWTF6TThpYnF0dlJwd0t2Uk8tazQxcGVoRTlkLTY1S0J5ZV9qck5SdWVGX3Z5bnpGNVA0eHNLTXZfQmN0MmtqRDlkc3ZvYllOWDB5LXVhNkNKTGFTOWZlZlhPU2pCeTlTN0J4SWhNWnFzQTFFR3NFTHIyRFhEREE?oc=5",
-      "summary": "Vancouver hosts FIFA Congress with expanded World Cup under scrutiny  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777404534000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139920059,
-      "headline": "Why Sanmina Stock Is Skyrocketing Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3010e64423a144209fc325e1e14822b0d3518d8780432aee6bf07f48882c062",
-      "summary": "Sanmina's fiscal Q2 results far exceeded Wall Street's expectations.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777404528000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7866196,
-      "headline": "Italy may extend excise duty cut on fuels, seeks more lenient EU budget rules - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlhXcWprczRvMmdQWERZdkxTR1hTQmY3Ull3SER2TjVLMlRab3JJX1VTT3duX2dRUzhXYl9fbmpsNVE0R2xIMTNFd3NLeFpyYlRwbnE4d0R0aHN5THhwY0d4V3Y0WV9maUg2bGY4YlhUdnBGZmkxaWdVRWJITDZkcHN5WktpNVZWREJiR3BON2FwYzNsc1dWUEZpNXN4ZkpvZ0xOZjNyekJNR0I2NUlucmpzNXZDSnZmNFlWTFVQWQ?oc=5",
-      "summary": "Italy may extend excise duty cut on fuels, seeks more lenient EU budget rules  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777404502000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 139920161,
-      "headline": "Is AMD Stock Buy, Sell, or Hold?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=233b054f186fe1fba2f36394831f2ffa6387abb93a097d4de08a2f1273095b0d",
-      "summary": "The chipmaker soared last week after a chip-sector rally. But have shares run too far ahead of fundamentals?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777404480000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 139920060,
-      "headline": "Prediction: Duolingo Stock Is Going to Soar After May 4",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c1af6c96c76e26cfe58503067d19c3f420e54e966b5357346f6d47992c6ac31",
-      "summary": "I think Duolingo's upcoming earnings report could flip investor sentiment.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777404300000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7864727,
-      "headline": "Red-hot Corning shares slide on earnings. Why that's a gift to investors",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/28/red-hot-corning-shares-slide-on-earnings-why-thats-a-gift-to-investors.html",
-      "summary": "The stock's massive rally in 2026 established a high bar for Tuesday's results.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1777394877&w=1920&h=1080",
-      "datetime": 1777404038000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 139920136,
-      "headline": "Freddie Mac Announces Release Date for First Quarter 2026 Financial Results",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21e19808b812c115e68999286897fd69d64b58c05b8819e6d43fb431afb721f2",
-      "summary": "MCLEAN, Va., April 28, 2026 (GLOBE NEWSWIRE) -- Freddie Mac (OTCQB:FMCC) announced today that it plans to report its First Quarter 2026 financial results before the U.S. financial markets open on Thursday, April 30, 2026. The company will hold a webcast at 9 a.m. Eastern Time (ET) on Thursday, April 30, 2026, to publicly share the company’s results with the media. A replay will be available on the company’s website for approximately 30 days. All materials related to the call will be available on",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777403880000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139920061,
-      "headline": "Nvidia Stock Drops. Why Chip Stocks Keep Getting Hit.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9ab26acbc6a25b72a50a86f929c69a7e51a18e9113e501dbbab728e7fd424eb",
-      "summary": "Nvidia, Advanced Micro Devices and Broadcom were all dropping amid worries about the sustainability of OpenAI's spending.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777403460000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 139920075,
-      "headline": "Microsoft vs. Apple: Comparing Trajectories in Revenue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b9b3bb46db47d0c5ba883eabf002f79ac011d7b2f8845fe60330ea5fb308d41d",
-      "summary": "One company posts larger quarterly numbers, while the other’s revenue climbs more steadily—recent filings reveal how these trends play out over time.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777403258000,
-      "ticker": "AAPL",
       "category": "company"
     }
   ]
