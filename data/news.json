@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777588193872,
+  "timestamp": 1777591879798,
   "items": [
     {
       "id": 140124517,
@@ -112,6 +112,17 @@
       "category": "company"
     },
     {
+      "id": 7874663,
+      "headline": "Pivotal US-Iran war deadline approaches with no end in sight for conflict - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSlVoZFkzV1B1ZjE5RXVLeVlnTm8xNlNvSVVKeFlOX1RxNE5iU3N5WGd5YVRfTzd0ZlQ1VGRiblpnZ2dLa19yZS01SUdVVWhoNmxDa2Vrb2MwR29Xb2FHV3dnOW1zRXdKRnp6QkZKeUxWdzZVcE11cE5Ka0RaQXBCb3N6Z1d2QW1QTUhoZ0JKQnZQcGZwdDVjTHEyVlNHTVhZUzFHTkpua1lIR2xUbzZXZg?oc=5",
+      "summary": "Pivotal US-Iran war deadline approaches with no end in sight for conflict  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777583470000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140124541,
       "headline": "Apple earnings beat forecasts on iPhone 17 demand",
       "source": "Yahoo",
@@ -187,6 +198,17 @@
       "datetime": 1777582904000,
       "ticker": "AAPL",
       "category": "company"
+    },
+    {
+      "id": 7873408,
+      "headline": "Iran threatens painful response if US renews attacks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjVNVmMxVmlmYk9ic3V2RkNRTFlHWkFuZVdrSVlsX1FSSV8ybnM4TmNRWHF1UW5aOGdjOW5OUmhoVHdBOWZ0akMzUUdPdW9heDhpenUwNTlEYU9uWHZJcDNrMnY4R0RTQ3Q5Q2M2WUtuN2M3MVpQVFNQTG5GamZYNW9TXzhMQmw4OER6SlJUMnVSQThhbG5aOEYtTWlNMkd5TmRyOWhULUdrYXg4cnpQaGt6SXlQX1ZCZXNr?oc=5",
+      "summary": "Iran threatens painful response if US renews attacks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777582495000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140124519,
@@ -440,17 +462,6 @@
       "datetime": 1777579865000,
       "ticker": "GOOGL",
       "category": "company"
-    },
-    {
-      "id": 7873408,
-      "headline": "Iran threatens painful response if US renews attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjVNVmMxVmlmYk9ic3V2RkNRTFlHWkFuZVdrSVlsX1FSSV8ybnM4TmNRWHF1UW5aOGdjOW5OUmhoVHdBOWZ0akMzUUdPdW9heDhpenUwNTlEYU9uWHZJcDNrMnY4R0RTQ3Q5Q2M2WUtuN2M3MVpQVFNQTG5GamZYNW9TXzhMQmw4OER6SlJUMnVSQThhbG5aOEYtTWlNMkd5TmRyOWhULUdrYXg4cnpQaGt6SXlQX1ZCZXNr?oc=5",
-      "summary": "Iran threatens painful response if US renews attacks  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777579831000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 140124558,
@@ -783,6 +794,17 @@
       "category": "company"
     },
     {
+      "id": 140125691,
+      "headline": "Apple Q2: Why John Ternus May Be The Hero We've Been Waiting For",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c52a91ed9e4bff9848e581d7680d808a1e9f3d906bf6ceda3bc36e311a9f4eb2",
+      "summary": "Apple Inc. fiscal Q2 earnings: iPhone sales +22%, revenue +16.6%, $160B cash flow, dividends & $100B buybacks. Click for this updated look at AAPL stock.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1705316992/image_1705316992.jpg?io=getty-c-w1536",
+      "datetime": 1777575615000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140124676,
       "headline": "CEO Sundar Pichai Just Delivered Incredible News For Alphabet (GOOGL) Investors",
       "source": "Yahoo",
@@ -901,6 +923,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777573980000,
       "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140125373,
+      "headline": "Apple: 3 Reasons This Quarter Could Reset The Entire Story",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fa6c61bd9f9cdfd6002eaf340eef4c6f948d92f93a84242990c7c0cd48e522f7",
+      "summary": "Appleâs Q2 2026 beat: iPhone 17 demand, China resilience, and high-margin Services growth.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187854869/image_2187854869.jpg?io=getty-c-w1536",
+      "datetime": 1777573801000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -1066,39 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777572522000,
       "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140121751,
-      "headline": "Hertz Gains 13% on Uber Robotaxi Deal While Avis Rises 2%: A Tale of Two Rental Car Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9cda1495febb62514fe9baddfa31e815e3687c9ebeae20b05cfff41d2e8c14c3",
-      "summary": "Shares of Hertz (NASDAQ:HTZ) are up 13% on Thursday at roughly $6.35, while Avis Budget Group (NASDAQ:CAR) stock is only up 2% to around $184.50. The contrast here is notable. Yesterday, both names cratered together, with Avis stock down 18% and Hertz stock down 5% in sympathy. Today, the two stocks are moving at different ... Hertz Gains 13% on Uber Robotaxi Deal While Avis Rises 2%: A Tale of Two Rental Car Stocks",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777572346000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140122703,
-      "headline": "3 Stocks Billionaires Are Piling Into Right Now -- and 1 Might Surprise You",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=635c022a82b7e566439a0d37a882d124a5b2093147251f7ffc0f33e16dfc854c",
-      "summary": "All of these stocks have been performing well -- and are cheap.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777572320000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140121757,
-      "headline": "Explore the S&P500 index on Thursday and find out which stocks are the most active in today's session.",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=14709cd303959730f61b8f2f11c2cf185fe3473c01f7873bf738459c4fa0ef97",
-      "summary": "Stay informed about the most active stocks in the S&P500 index on Thursday's session. Discover the stocks that are generating the highest trading volume and driving market activity.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Most_Active_Stocks_Small_free_fec0650b7f.webp",
-      "datetime": 1777572302000,
-      "ticker": "MSFT",
       "category": "company"
     }
   ]
