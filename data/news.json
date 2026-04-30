@@ -1,6 +1,138 @@
 {
-  "timestamp": 1777522344080,
+  "timestamp": 1777533046139,
   "items": [
+    {
+      "id": 140112600,
+      "headline": "archTIS makes progress across platforms and defence contracts as ARR jumps 231%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c147ccfe731104de9f6b44f629fe7fd3ea737f70df9430b0f05212a76e57293",
+      "summary": "archTIS Ltd (ASX:AR9, OTCQB:ARHLF) has delivered strong March quarter growth, with progress across its NC Protect and Spirion platforms, new defence wins and completion of a key US Department of Defense software project. archTIS has reported annual recurring revenue (ARR) of A$15.1 million...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777526760000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140112646,
+      "headline": "Salesforce vs. ServiceNow: Which AI Stock Is the Better Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46639e4724024a25e56687495abc61ed949faa909cae089885d62f95c5df7886",
+      "summary": "Salesforce and ServiceNow have both been beaten down in the SaaS stock sell-off.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777526400000,
+      "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140112598,
+      "headline": "How The Apple (AAPL) Narrative Is Shifting On Services Strength, New Hardware And CEO Change",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91a6ed8730de3a939f13164cfb45c887b9ba18b00bcf98f337b7338f3ae82466",
+      "summary": "Apple’s modeled fair value has edged up to $297.88 from $296.46, a small move that still catches attention for a company of this size. That shift is being linked to Street debates around App Store and Services trends, the MacBook Neo and broader hardware lineup, and how the early CEO transition might influence execution and growth expectations. Read on to see how these themes are shaping the evolving analyst narrative and what to watch as it continues to develop. Stay updated as the Fair...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777525507000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140112679,
+      "headline": "PayPal Reshapes Venmo Segment As Investors Weigh Valuation And Earnings Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f20e6cd01f8ebad8384268df3ddfb09b21376edd1432f11b0f63b2bafc09465b",
+      "summary": "PayPal Holdings (NasdaqGS:PYPL) is restructuring its organization, designating Venmo as a standalone reporting segment. The company plans to appoint a new Venmo leader with digital banking experience to guide the business. The changes are intended to increase transparency into Venmo’s performance and expand future options for the asset, including a potential sale or partnership. For investors watching digital payments, Venmo has become a key part of how PayPal connects with younger and...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777525488000,
+      "ticker": "PYPL",
+      "category": "company"
+    },
+    {
+      "id": 140112599,
+      "headline": "Omdia: Global Smartphone Shipments Exceed Expectations With 1% Growth in 1Q26, but Second-Half Outlook Remains Uncertain",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfba080cf28c0ef9402fc78e5fa3141b4b5b76a0bf992561ae950f9f7c4c4216",
+      "summary": "LONDON, April 30, 2026--The global smartphone market shipped 298.5 million units in 1Q 2026, growing 1% year-on-year (YoY), according to Omdia. The quarter was shaped by two opposing forces. Vendor-led front-loading - as Samsung, Apple, and others accelerated sell-in ahead of expected inflation in memory and component costs - supported momentum and contributed to performance exceeding initial industry expectations. However, macroeconomic headwinds continued to weigh on end-consumer demand. Persi",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777525380000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140112595,
+      "headline": "Where Will Tesla Be in 10 Years?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1ce8d4ade88c01a149841a11e5ef862b54e1af3c0452b99b6e15adcac6fc375",
+      "summary": "Tesla faces a future that presents anything but a certain outcome.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777524600000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140112610,
+      "headline": "Corning stock falls as its story gets more complicated",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b525f6556172719cdb2ab03e930a0a8a2672dd26f6339d7ee5087c54c6a9ce8",
+      "summary": "Corning (GLW) stock pulled back about 1% after earnings, following a massive run in which shares gained roughly 250% over the past year. The reaction looks odd at first glance because Optical demand tied to AI data centers is accelerating, margins are expanding, and Corning just locked in two new ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777523820000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140112666,
+      "headline": "2 Things Matter Most in Picking Winning Stocks, Says This Market Pro",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cee4ccadf88ab09b709320a0727bb2f62165b563875420ff54da4134796d9001",
+      "summary": "Adam Parker’s Trivariate Research analyzes stocks from a macro, fundamental, and quantitative perspective.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777523400000,
+      "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140112596,
+      "headline": "Got $5,000? 3 Growth Stocks Building the Physical Backbone of the AI Supercycle",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d510581a62190369aa24dd53fdf937dd37a2088c205bc33931ba3b2a6a714c7a",
+      "summary": "It's fun to speculate with fairly small amounts of cash. For more serious money, however, your growth picks should be at least a bit more proven.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777522800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140112611,
+      "headline": "Meta Begins Stablecoin Payouts to Select Creators in Colombia and Philippines",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d69946a59eb4bac815cf54c3063cd99d1d4eece54e633c75cfeb0bb5ab61c074",
+      "summary": "Meta has started USDC stablecoin payouts for creators in Colombia and the Philippines via Solana and Polygon.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777521940000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 7871880,
+      "headline": "Stagflation risks stacking up as Iran war enters third month - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1lOYzI4T3NwMDdseXRuclFtYzBJQTJpTzdVUV9ZV09qVEZGZVhLaVVzV0ZYREZma2NNNV83bUIzYXI1d29SWUQyYUhZLTNpaTNCdWZaRjdVaW1YT3BuYXFnb1dnMlY0VWZiWFJXVmV6bmNBVHJHbkV0ZlNDZ1lidWFSUklTdnVMZFlrUUVpOA?oc=5",
+      "summary": "Stagflation risks stacking up as Iran war enters third month  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777521900000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140112603,
+      "headline": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=456f20fdbef1b91d62dc5843c3a1d6d275a428802206287287803cedb2bbd825",
+      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777521502000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
     {
       "id": 140109409,
       "headline": "Nvidia Stock Has 1 Problem. Here's Why I'm Buying Anyway.",
@@ -21,6 +153,39 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777519411000,
       "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 7871879,
+      "headline": "US military commander to brief Trump on new military options against Iran, Axios reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHU2ZzJ1aHpMYUQ4ZENJaVJ5ZXNIbElUWE0zcFpZUGtwaEtZa1lnM1pFcnZIM3pPdGhtY0hrZUdVRlNPRUVlYnhPR3p1cFlEazZRRTU4blgzSW5MazhOZ0JPTHo4MlNrYjM1aFE0N3laRzFadWVDa1prNExMZG51SV9SZzNsMTUtWmN6UVcxdFdCbS16OHdaMGxLSks5VnRLcXJiemRGTm1YU0QwVTVpbXpPQzB3NFFwN1dNTGx1TER5cEVpaFE?oc=5",
+      "summary": "US military commander to brief Trump on new military options against Iran, Axios reports  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777518720000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140113037,
+      "headline": "Alphabet A : Goldman Sachs maintains a Buy rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=28526086594810b7eba1a4fb4a72d39140e7915c37910da205d9cea81998933c",
+      "summary": "Eric Sheridan from Goldman Sachs retains his positive opinion on the stock with a Buy rating. Previously set at USD 400, the target price has been raised to USD 450.",
+      "image": "",
+      "datetime": 1777517663000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140112954,
+      "headline": "Prices of Nvidia's B300 server, key for AI tasks, nearly double to $1 million in China as US curbs tighten supply, sources say",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a0eafa72a87f71208fa80274694e3f8daef45c2dd320190ab9096c6f7ee8f269",
+      "summary": "Exclusive-Prices of Nvidia's B300 server, key for AI tasks, nearly double to $1 million in China as US curbs tighten supply, sources say...",
+      "image": "",
+      "datetime": 1777517357000,
+      "ticker": "NVDA",
       "category": "company"
     },
     {
@@ -57,6 +222,17 @@
       "category": "company"
     },
     {
+      "id": 140112752,
+      "headline": "META : Buy rating from RBC",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=220a04c87f3da8251b39e92158a1612e5773db5550ad5ad5d84a7e75fa33169e",
+      "summary": "RBC is positive on the stock with a Buy rating. The target price is unchanged and still at USD 810.",
+      "image": "",
+      "datetime": 1777515072000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
       "id": 140109424,
       "headline": "Alphabet’s Pentagon AI Shift Puts Ethics Risks And Valuation In Focus",
       "source": "Yahoo",
@@ -64,6 +240,28 @@
       "summary": "Alphabet (NasdaqGS:GOOGL) has revised its U.S. Department of Defense agreement to permit Google AI models in classified military applications. The expanded Pentagon work has triggered fresh employee protests and renewed calls for tighter AI ethics safeguards inside the company. Alphabet has exited a Pentagon AI drone project, citing resource constraints and prompting questions about internal views on military contracts. Investor activists are pressing new climate and AI ethics proposals,...",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777514885000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140112705,
+      "headline": "MICROSOFT CORP : Barclays reiterates its Buy rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=16c22bf920f4bc12986bb5641b0e0f002b6fc513ade132fe2b5fc8624df6620c",
+      "summary": "In a research note published by Raimo Lenschow, Barclays advises its customers to buy the stock. The target price is lowered from USD 600 to USD 545.",
+      "image": "",
+      "datetime": 1777514575000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140112640,
+      "headline": "FTSE seen flat ahead of BoE rate call",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=25ce675a2cf1e949d078eb022164e0683b5e3981b6a89f69ddfa04a6220595bc",
+      "summary": "Stocks in London are set to open virtually flat on Thursday, as investors tread cautiously ahead of the Bank of England interest rate decision.IG says futures indicate the FTSE 100 to open 2.4...",
+      "image": "",
+      "datetime": 1777514373000,
       "ticker": "GOOGL",
       "category": "company"
     },
@@ -79,6 +277,17 @@
       "category": "company"
     },
     {
+      "id": 140112604,
+      "headline": "Google Cloud revenue is now 18% of Alphabet’s business. Is this the beginning of the end of Google’s search identity?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a723ea0eaeb989a898efa6f73ea15811715a6dce8165d038f02138317716de3c",
+      "summary": "Search and advertising have been central to Google's identity and business from Day One. The booming demand for AI may be changing that.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777513669000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140109426,
       "headline": "AI-Led Rally in Asia Stocks Masks Deeper Damage from Iran War",
       "source": "Yahoo",
@@ -87,6 +296,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777512598000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140112433,
+      "headline": "MICROSOFT CORP : Buy rating from RBC",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c277ceccdd9e809ae14405a537332314166c72ab0fccbfcf20690d443cc97051",
+      "summary": "RBC is positive on the stock with a Buy rating. The target price remains unchanged at USD 640.",
+      "image": "",
+      "datetime": 1777512518000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -101,15 +321,81 @@
       "category": "company"
     },
     {
+      "id": 140112430,
+      "headline": "Alphabet A : Buy rating from RBC",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fb0181b893a973529d1c00f8cf92c8c92734ebde9dce8a3471c7f3e159ce2733",
+      "summary": "Analyst Brad Erickson from RBC research considers the stock attractive and recommends it with a Buy rating. Previously set at USD 400, the target price has been raised to USD 425.",
+      "image": "",
+      "datetime": 1777512455000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140112405,
+      "headline": "Amazon beats expectations but rattles markets with massive spending",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=839150bb973b259e6919a87a12567878b53a6e68fdc2d1c2833f7a3daca82349",
+      "summary": "Despite robust results driven by cloud services and advertising, the group's shares slipped as markets questioned the scale of its capex in artificial intelligence and ce.",
+      "image": "",
+      "datetime": 1777512386000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140112601,
+      "headline": "Microsoft, Meta, and Google just announced billions more in AI spending. Only Google convinced investors it’s paying off",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5ccd73c32ea8c148ad83a57843dd5108d4b9d022f7d46dddfaa4e516fd87c53",
+      "summary": "Surging prices due to memory chip shortages have led to billions more in capital expenditures from Magnificent 7 companies—and many investors don’t like it.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777511832000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140112360,
+      "headline": "Meta retreats despite solid revenue, weighed on by metrics and capex",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=02990679a756296e2956bd9dcc27a1e99649a73fd2b257e2dbbc11e386874605",
+      "summary": "The group posted strong revenue growth, although disappointed on certain key metrics and raised its investment forecasts, putting pressure on its share price.",
+      "image": "",
+      "datetime": 1777511794000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140112257,
+      "headline": "Alphabet beats expectations fueled by Cloud and AI surge",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=df58d3ab8e5f26a71fac2e1a04d3d4694775c76941929288e15ddefda5d8a8b6",
+      "summary": "The tech giant posted robust Q1 growth, driven by Google Cloud and sustained demand for AI infrastructure.",
+      "image": "",
+      "datetime": 1777511325000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 7871467,
-      "headline": "Oil prices extend gains as US-Iran war deadlock keeps supply off market - Reuters",
+      "headline": "Brent oil rises 7% on report US considering military options to break Iran deadlock - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenNidWVwSUNlZUxVRDFaR3N2NVdjRXdmTmJNZGk2T2prVmh6bTJndHR1bm1PUmhmbjN2dkpMYTN5NG5IZlFNUExLclNlcWJMVzFrd1VjTXoxRlFEWmtPbDlGZ055WlJVbEhESGRob0hPVFVKemt2aDNhaGpDR1RzZmRORVM3M0RmbjhuY0ctSGlYaEJXYkVtbmZtZnZZNnZHX3FVcXNIQm4wOXJ1Mk83dXFILXdmQi0xcFYzMw?oc=5",
-      "summary": "Oil prices extend gains as US-Iran war deadlock keeps supply off market  Reuters",
+      "summary": "Brent oil rises 7% on report US considering military options to break Iran deadlock  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777511220000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140112255,
+      "headline": "Microsoft beats expectations on strong Azure momentum",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0f90c059fb1e1c8f174bc9dc00f34e09d45f1515c3f00b7d9ecc741198a3a047",
+      "summary": "The tech giant posted solid quarterly results, bolstered by growth in its cloud business, despite lingering concerns over high capex.",
+      "image": "",
+      "datetime": 1777511031000,
+      "ticker": "MSFT",
+      "category": "company"
     },
     {
       "id": 140085021,
@@ -131,6 +417,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777510800000,
       "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 140112174,
+      "headline": "Prosecutors detail 'horrifying' steps singer D4vd took to dismember girl's body",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0c5e5205a254aac20a36b4ae6de60fc274960abe1754b1943db622f2d0b2d660",
+      "summary": "Los Angeles County prosecutors filed a court brief on Wednesday detailing horrifying steps they said indie pop musician D4vd took to dismember and conceal the body of a teenage girlfriend after...",
+      "image": "",
+      "datetime": 1777509899000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140112141,
+      "headline": "Commodities: Oil Spikes With No U.S.-Iran Resolution In Sight",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3b78e2a44751f809c2b3152e80cd83965417ba30eb83193c4edfb1e526276376",
+      "summary": "The oil market has moved from over-optimism to the reality of the supply disruption we are seeing in the Persian Gulf.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2185524656/image_2185524656.jpg?io=getty-c-w1536",
+      "datetime": 1777509300000,
+      "ticker": "GLD",
       "category": "company"
     },
     {
@@ -186,6 +494,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777508580000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140112055,
+      "headline": "Meta Platforms, Inc. (META) Q1 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cfbe8cac36bba7a656370e8e331dc23e324f4c2f13aeb1c0d126092378ea02d4",
+      "summary": "Meta Platforms, Inc. (META) Q1 2026 Earnings Call April 29, 2026 5:30 PM EDTCompany ParticipantsKenneth Dorell - Director of Investor RelationsMark...",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1777508494000,
+      "ticker": "META",
       "category": "company"
     },
     {
@@ -351,6 +670,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777505442000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140112597,
+      "headline": "Why Dan Ives Is Betting on 35% Upside for Oracle Stock: This ‘Secret Sauce’ Will Make ORCL a Key Part of the ‘AI Revolution’",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98dcdc23bbb7e903fa65308d0591f196683421d2fd00bad4ccde4937931eac86",
+      "summary": "Ives and his team have a price target of $225 for Oracle.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777505402000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -695,6 +1025,17 @@
       "category": "company"
     },
     {
+      "id": 140112614,
+      "headline": "Elon Musk says Sam Altman tried to 'steal' charity, as moguls contest $150bn court battle",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28d00d7bc1040652e6b87d34e109816ce7dece707d29f6bc91ee82b52f187ab6",
+      "summary": "Elon Musk has accused his rival Sam Altman of trying to \"steal\" a charity as he fights his $150bn (£111bn) court claim over OpenAI.  The trial centres on the 2015 birth of OpenAI, maker of ChatGPT, as a non-profit start-up, primarily funded by Mr Musk, before it evolved into a capitalist venture now valued at $852bn (£632bn).  Mr Musk, the CEO of Tesla and SpaceX, has accused Mr Altman, OpenAI, and its president, Greg Brockman, of wooing his donations by promising to build a non-profit to develop AI responsibly, before pivoting to create a for-profit entity in 2019 to enrich themselves.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777501080000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 140060178,
       "headline": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
       "source": "Yahoo",
@@ -758,347 +1099,6 @@
       "image": "",
       "datetime": 1777499636000,
       "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140060693,
-      "headline": "BigCommerce Unveils Agentic Commerce Push, Payments Overhaul and New Pricing at Commerce Live",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e35dec9db2ded91dbbb206685570b7715623bd90319b86d4db031cc51cfe21d3",
-      "summary": "Executives from Bigcommerce (NASDAQ:BIGC) used the company’s “Commerce Live” event in Chicago to outline product priorities, recent changes to operations, and steps aimed at improving monetization and growth, with a heavy emphasis on integrating its BigCommerce, Feedonomics, and Makeswift assets and",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499419000,
-      "ticker": "PYPL",
-      "category": "company"
-    },
-    {
-      "id": 140060169,
-      "headline": "Here's How Much Apple Stock Is Expected to Move After Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e1d7764a29f32801de6b3f5ca37d354bbf437df7fd698103d936e38a4934f3b",
-      "summary": "Apple is slated to release its quarterly results Thursday to wrap up a busy week of Big Tech earnings.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499361000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140035225,
-      "headline": "Google to sell TPU chips to 'select' customers in latest shot at Nvidia",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=759995b6af8809ee5d9a3f80678edfedbf06973cf3a335fd55cb8a1cb7c2b5bc",
-      "summary": "Google says it will sell its TPUs for companies to use in their data centers.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499340000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140060246,
-      "headline": "Intel Stock Is Up 115% in April. How to Play It With Options Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb25a47ad70f00d1dfabb5161cfe9141a5e1530f994ccd340d32130b17e106b5",
-      "summary": "Options strategies offer ways to participate in future upside for hot stocks—and protect yourself from a potential selloff.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499340000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140035249,
-      "headline": "LinkedIn's AI hiring agents on track for $450 million in yearly revenue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48af1fbd9d5c9891d4e659b3286273a5cc3df3646e1495b03cfeec5ddbf48abb",
-      "summary": "LinkedIn, the social network for professionals owned by Microsoft, on Wednesday said ‌that its hiring products using what is known as ‌agentic AI are on track to generate $450 million in sales in the coming ​year.  The sales disclosure for a core AI product is new for LinkedIn, which has 1 billion members and makes much of its revenue from selling tools to sales and recruiting professionals.  While Microsoft ‌reports LinkedIn's overall ⁠sales growth as part of its productivity and business process operating unit, it does not disclose absolute dollar figures ⁠for the network.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499156000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060254,
-      "headline": "Why Palantir Technologies Inc. (PLTR) Dipped More Than Broader Market Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=553690390c12c34cd5037c5f8c81938f03d3bb98c62e647036c64d1f32d662dc",
-      "summary": "In the closing of the recent trading day, Palantir Technologies Inc. (PLTR) stood at $137.97, denoting a -2.27% move from the preceding trading day.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499102000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140035226,
-      "headline": "Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers After Oil Prices Spike, Fed's Powell Stays",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=270ea5fe78a3fc33df4ab55755c937fdbf1732ae319ead7f60ee4218b9e21973",
-      "summary": "Futures fell as Amazon, Microsoft and Meta slumped on earnings. Google rose. Oil prices are surging while Fed's Powell is staying.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499039000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035326,
-      "headline": "Meta unveils a surprising new way to pay creators in stablecoins",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8281ec429ab79669281a36ddadb368146b464c3fec08281bcdc60537fa029880",
-      "summary": "Digital dollars are now becoming an official payment option for creators on Meta's platforms. Mark Zuckerberg's Meta is officially integrating digital currencies into its payment infrastructure, allowing creators to receive earnings in stablecoins. Meta has teamed up with payments giant ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499039000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140035227,
-      "headline": "Stock Market Today, April 29: Advanced Micro Devices Rises After Analyst Upgrade Points to Data Center GPU Demand Ahead of Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a502370945ab5379b8eefd00bad3f0f68d930a3089c49c753d2332fde1e182bd",
-      "summary": "AMD rose after an analyst upgrade pointed to stronger expectations for data center GPU demand, with upcoming earnings set to provide updated detail on revenue and deployment growth tied to AI infrastructure.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498780000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140035251,
-      "headline": "Tech giants’ results show rosy outlook for AI boom and US stock market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eb73c9bb0af5a8e6f39f766281a6f7517bcf1a290aaab8955348e87922764599",
-      "summary": "Google, Microsoft and Amazon report gains in cloud-computing businesses while Meta spending draws concern",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498760000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035329,
-      "headline": "Meta beats revenue expectations, boosts capital spending forecast for 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c95401c7bb918b73a33371ca351b8daaed0991fb8c0398da9370bdb88db2da8b",
-      "summary": "Instagram and Facebook parent Meta Platforms Inc. posted results Wednesday for the first quarter that exceeded expectations, showing growth in earnings, but the social media giant also increased its forecasted capital expenditures for the year.  Meta was expected to earn $6.67 per share on revenue of $55.6 billion, per the estimates of analysts surveyed by FactSet Research.  “We had a milestone quarter with strong momentum across our apps and the release of our first model from Meta Superintelligence Labs,” CEO Mark Zuckerberg said in a statement.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498693000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140035330,
-      "headline": "Meta Stock Slides Despite Posting Fastest Revenue Growth Since 2021. AI Costs Keep Rising.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=acc9f91dfbf54a7fd83c7cf152bdd7ccbe0a999e81fd95fcdc112716b847a208",
-      "summary": "Meta stock slid late Wednesday after the social media giant reported first-quarter results that beat estimates.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498527000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140035290,
-      "headline": "Meta's full-year CapEx forecast: The bull vs. bear case",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2249aab1abe80b68d7f833616da67623d50747d27f1d1758a997148913d69f34",
-      "summary": "Meta (META) increased its full-year capital expenditures (CapEx) forecast to $125–145 billion. Aptus Capital Advisors portfolio manager and head of equity, David Wagner, and Spear Invest founder and chief investment officer, Ivana Delevska, join Yahoo Finance to share their takes on Meta's increased CapEx guidance.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498420000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035228,
-      "headline": "Why Teradyne Tumbled Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb7bcff00463084d71d0f107e44897595768ee778c84a257303214f52522bafb",
-      "summary": "The semiconductor testing company delivered a solid quarter, but softer-than-expected margin guidance hit this high-flying stock.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498380000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140035229,
-      "headline": "Michael Burry Just Did Another 'Big Short' — As Historic Chip Stock Rally Finally Snaps",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b2b49f25c6e8aa4c01b6bfb17eab06bc1bd03b22be94160ca94b8fa575fc66e",
-      "summary": "The iShares Semiconductor ETF fell 2% Monday, breaking its longest winning streak on record after “The Big Short” investor Michael Burry disclosed fresh short bets on chipmakers. Monday’s chip selloff snapped an unprecedented 18-day rally and arrived without a sector-specific fundamental catalyst — but with a high-profile bear newly on the tape and seven SOXX constituents reporting earnings this week. Burry Bets Chips ‘Return To Earth’ — SOXX Snaps Longest Rally Ever On 18-Day Streak On Friday a",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498286000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140060191,
-      "headline": "Amazon (AMZN) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=87d01cb9ccf249a0a3b2ae839de29c6e45577b687dbd618067502777388a836a",
-      "summary": "The headline numbers for Amazon (AMZN) give insight into how the company performed in the quarter ended March 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498202000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140060201,
-      "headline": "Alphabet (GOOGL) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=be326f4118bf3b9bfe08ad8aca586fe2eeba8574b0cc694de77221c77b50c92e",
-      "summary": "Although the revenue and EPS for Alphabet (GOOGL) give a sense of how its business performed in the quarter ended March 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498201000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035252,
-      "headline": "Microsoft's cloud revenue growth disappoints investors, shares drop 2%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d13908b04ca077a230f301138d63a199577ad8673940a99daaaac30fca48f5ef",
-      "summary": "Microsoft's modest increase in quarterly cloud revenue growth on Wednesday failed to impress investors worried about rising competition in the artificial intelligence race, and its shares fell more than 2% in extended ‌trading.  Smaller rival Google Cloud posted a 63% rise in revenue that blew past estimates for 50.1% growth.  \"With Google blowing past revenue and earnings expectations, and big questions around Microsoft’s spending on AI infrastructure, the market wanted to be wowed to be reassured, and the numbers didn’t deliver,\" said Rebecca Wettemann, CEO of Valoir, an industry analyst firm.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498176000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035253,
-      "headline": "Amazon Earnings Beat Estimates. A Weak Spot May Still Be Weighing on the Stock.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8bebf105a495a6ac6c8b1726d4629bcc1bcad07160ce4e610d96b3ae5aa65091",
-      "summary": "Amazon said that revenue from its Amazon Web Services cloud unit rose 28% from the prior year to $37.6 billion.  Revenue growth there is key as investors look for proof that companies are seeing returns on their massive artificial intelligence spending.  CEO Andy Jassy noted in the earnings release that it was AWS’s fastest growth in 15 quarters.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498140000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035254,
-      "headline": "Big Tech AI Capex Tops $650 Billion as Q1 Earnings Beats Pressure Bitcoin Risk Trade",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6578564cf4bf2581b4a18aefdea067b3c8e08aad5aa9c41c80da39be8dcf0bb",
-      "summary": "Big Tech Q1 earnings beat estimates, but Meta's $145B capex hike and AI spending fears weighed on stocks and crypto sentiment.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498096000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035333,
-      "headline": "Meta shares drop as Zuckerberg plans $145bn AI spending spree",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c3c356b028c70cbd13421cbba7951a8f5ee9acdf9287f4a618b493c09a8cd496",
-      "summary": "Meta’s shares plunged on Wednesday night after investors baulked at Mark Zuckerberg’s plans for a $145bn (£108bn) AI spending blitz.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777498090000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140035293,
-      "headline": "Alphabet Flexes Its Earnings Muscle. The Stock Pops.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c92682de1942629ff56b07049808bd4733222a72ca00c36df286f87ec07da0e6",
-      "summary": "Alphabet committed up to $185 billion for its 2026 artificial intelligence capital expenditure program.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497960000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035294,
-      "headline": "Google Stock Climbs On Q1 Earnings As Cloud Revenue, 'Backlog' Booms",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21ba93ea9e8759ec96081f464bfd2e9ea321d6f59b4e8f9596b8eccc3002e26b",
-      "summary": "Google stock rose as parent Alphabet’s Q1 earnings showed strong growth in cloud computing and search ads amid huge AI investments.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497938000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035255,
-      "headline": "Microsoft Stock Slips Despite Earnings Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0eccd60ab2c78eb9612c89109a6a80f53f197f38c708c6617a04a1d539b7b1e9",
-      "summary": "Microsoft posted adjusted earnings of $4.27 a share on revenue of $82.9 billion, exceeding Wall Street estimates on both metrics.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497840000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060180,
-      "headline": "Big Tech earnings test record stock market rally as AI spending takes center stage",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f2b0fadc7db375353b23bb4ced652b2f2ae1d790130a24be889336c243cc1e2e",
-      "summary": "Market watchers looking for clarity about the direction of Big Tech and the AI investment boom didn’t get much Wednesday afternoon amid a barrage of key earning reports",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497808000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035273,
-      "headline": "Amazon Beats Q1 Expectations, Reports Strong Cloud Growth. But Stock Slides.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=316a0df6f08a3f50cd973594a8a1bc9ba614bb4224c86c0ba7ecfb89ff5cc471",
-      "summary": "Amazon stock slipped late Wednesday after the tech giant reported first-quarter results that exceeded expectations.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497797000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140035845,
-      "headline": "ServiceNow (NOW) Announces Financial Results for Q1 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64ff057b68913d5407e452dc92ea55f52e532d5038fcaf51761e0cbef2f9a30d",
-      "summary": "ServiceNow, Inc. (NYSE:NOW) is one of the Best Fundamental Stocks to Invest in According to Billionaires. On April 22, the company announced financial results for Q1 2026, with subscription revenues reaching $3,671 million, reflecting 22% YoY growth and 19% growth in constant currency. As of March 31, 2026, ServiceNow, Inc. (NYSE:NOW)’s current remaining performance obligations (cRPO) amounted […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497735000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 140035256,
-      "headline": "Burcon Announces Appointment of New Director",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62db65b74257f21fb801c4cf1327ad1e5a7617084670e2739fa523a397e2362f",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - April 29, 2026) - Burcon NutraScience Corporation (TSX: BU) (OTCQB: BRCNF) (the \"Burcon\" or the \"Company\"), a global technology leader in plant-based protein innovation, is pleased to announce the appointment of Mr. Chris Bunio to the board of directors (the \"Board\") of Burcon. Mr. Bunio has been active in the technology industry for nearly 30 years. Mr. Bunio is a Co-founder and the CEO of TheoryMesh, a Winnipeg, Manitoba-based company focused on..",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497660000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060181,
-      "headline": "Microsoft (MSFT) Beats Q3 Earnings and Revenue Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4b0632875c2519fde3dac050543e1eb7ebd3855954de92f25c7121fa9286f340",
-      "summary": "Microsoft (MSFT) delivered earnings and revenue surprises of +4.97% and +1.83%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497603000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060203,
-      "headline": "Alphabet (GOOGL) Q1 Earnings and Revenues Beat Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c061b06db9fb11cd2f57007d0fc81f69d85c67cc77347e7903b60366fefcf4f3",
-      "summary": "Alphabet (GOOGL) delivered earnings and revenue surprises of +93.84% and +2.65%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497603000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140060225,
-      "headline": "Meta Platforms (META) Q1 Earnings and Revenues Surpass Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8ac2da87dac314dc0f684f12570ececd72fb5a14d7d1fc7b4f2763e9f122344",
-      "summary": "Meta Platforms (META) delivered earnings and revenue surprises of +8.89% and +1.47%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497603000,
-      "ticker": "META",
       "category": "company"
     }
   ]
