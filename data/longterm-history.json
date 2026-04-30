@@ -641,6 +641,113 @@
           "score6m": null
         }
       }
+    },
+    {
+      "t": 1777538285850,
+      "tickers": {
+        "AAPL": {
+          "price": 270.17,
+          "targetMean": null,
+          "consensus": 0.9074074074074074,
+          "score6m": null
+        },
+        "MSFT": {
+          "price": 424.46,
+          "targetMean": null,
+          "consensus": 1.2615384615384615,
+          "score6m": null
+        },
+        "GOOGL": {
+          "price": 349.94,
+          "targetMean": null,
+          "consensus": 1.161764705882353,
+          "score6m": null
+        },
+        "AMZN": {
+          "price": 263.04,
+          "targetMean": null,
+          "consensus": 1.2105263157894737,
+          "score6m": null
+        },
+        "META": {
+          "price": 669.12,
+          "targetMean": null,
+          "consensus": 1.1944444444444444,
+          "score6m": null
+        },
+        "NVDA": {
+          "price": 209.25,
+          "targetMean": null,
+          "consensus": 1.2535211267605635,
+          "score6m": null
+        },
+        "TSLA": {
+          "price": 372.8,
+          "targetMean": null,
+          "consensus": 0.43333333333333335,
+          "score6m": null
+        },
+        "AMD": {
+          "price": 337.11,
+          "targetMean": null,
+          "consensus": 0.9830508474576272,
+          "score6m": null
+        },
+        "INTC": {
+          "price": 94.75,
+          "targetMean": null,
+          "consensus": 0.23076923076923078,
+          "score6m": null
+        },
+        "NFLX": {
+          "price": 92.12,
+          "targetMean": null,
+          "consensus": 1.0338983050847457,
+          "score6m": null
+        },
+        "HIMS": {
+          "price": 26.33,
+          "targetMean": null,
+          "consensus": 0.5,
+          "score6m": null
+        },
+        "HIMX": {
+          "price": 11.45,
+          "targetMean": null,
+          "consensus": 1.0909090909090908,
+          "score6m": null
+        },
+        "NOW": {
+          "price": 88.89,
+          "targetMean": null,
+          "consensus": 1.1730769230769231,
+          "score6m": null
+        },
+        "PYPL": {
+          "price": 50.94,
+          "targetMean": null,
+          "consensus": 0.32,
+          "score6m": null
+        },
+        "PLTR": {
+          "price": 137.97,
+          "targetMean": null,
+          "consensus": 0.8333333333333334,
+          "score6m": null
+        },
+        "TSM": {
+          "price": 393.83,
+          "targetMean": null,
+          "consensus": 1.2325581395348837,
+          "score6m": null
+        },
+        "GLD": {
+          "price": 417.41,
+          "targetMean": null,
+          "consensus": null,
+          "score6m": null
+        }
+      }
     }
   ]
 }
