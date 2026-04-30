@@ -1,6 +1,237 @@
 {
-  "timestamp": 1777533046139,
+  "timestamp": 1777541743293,
   "items": [
+    {
+      "id": 140113389,
+      "headline": "Nvidia Stock: Next Stop $246.85 Per Share?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0c4870223c130200e5b18e78f159bdaf30398e4541c431a36afc22715081d44",
+      "summary": "The GPU giant hit an all-time high this week and still has plenty of room to run.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777534800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7872634,
+      "headline": "From surplus to strain: world rice supply threatened by Iran war, El Nino - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXhRRDdPYUtROHRKeDAtNG5zcHQzRFAwVXpSQTZQQjlBbTNPeGVMdjJCNVV6Z3dMbnN3dTdFdTl3eFZMYms4Q0tQTTVEeEZEUjRrblFrMUMwbXpVZmRnZ3A0MVNNTDJuVlJTRUFwVExxNGVBQ3JyQVc5Z2F3a21JLTcyZkdfcEs2dkJlZ2F0cDF4SmViaWYyRktWbkF1SWE4NVlJUXEzZXY3STBrblgwMDRjd2NtSktqX0E?oc=5",
+      "summary": "From surplus to strain: world rice supply threatened by Iran war, El Nino  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777534715000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140113390,
+      "headline": "A Once-in-a-Decade Opportunity: 1 AI Software Stock to Buy Hand Over Fist Right Now (Hint: It's Not Palantir)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d027cd0191ae9c48761dcaca0721276da27e3bfb5eaa97a0885901d719efa81",
+      "summary": "Palantir stock has become expensive following a red-hot rally in recent years, which is why investors looking for a cheaper way to capitalize on the AI software market's growth should consider looking at Snowflake.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777534080000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140113419,
+      "headline": "Meta Platforms Inc (META) Q1 2026 Earnings Call Highlights: Record Revenue and AI Advancements ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=997cb68a5a02256eefa3ca1503e05f423f83cd6e864c30f3471cdecd413db2ad",
+      "summary": "Meta Platforms Inc (META) reports a robust quarter with significant revenue growth and strategic advancements in AI technology, despite challenges in user growth and increased expenses.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777533597000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140113400,
+      "headline": "Microsoft Corp (MSFT) Q3 2026 Earnings Call Highlights: Record Cloud Revenue and AI Growth ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8c555484258921d796dac9aa7247ac2ebf1cb2a01b0ca37e23692ee7e54c462",
+      "summary": "Microsoft Corp (MSFT) reports robust financial performance with significant gains in cloud and AI sectors, despite challenges in gaming and Windows OEM revenue.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777533582000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140113403,
+      "headline": "Amazon.com Inc (AMZN) Q1 2026 Earnings Call Highlights: Record Revenue and AWS Growth Propel ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c51a4874a86b7808ce130bd98e9255adb92723d231634173b82c4de9b1e45a5b",
+      "summary": "Amazon.com Inc (AMZN) reports a 17% revenue increase and accelerated AWS growth, while navigating high capital expenditures and supply chain challenges.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777533522000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140113406,
+      "headline": "Alphabet Inc (GOOG) Q1 2026 Earnings Call Highlights: Record Revenue and AI-Driven Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a07d8c6108b8c40581c40fe8435e92aa2ddc0f74f11d2de5bc8766f0d6a719f5",
+      "summary": "Alphabet Inc (GOOG) reports a 22% revenue increase and significant gains in AI and cloud services, despite challenges in advertising and operating expenses.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777533452000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140113391,
+      "headline": "SK Hynix SOCAMM2 Ramp Highlights AI Server Memory Opportunity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79be02b6c626ea5f41c6a25bac553a31cee58049ec6b47a7d20896adabac5361",
+      "summary": "SK hynix (KOSE:A000660) has started mass production of 192GB SOCAMM2 memory modules for AI servers. The new modules are designed for NVIDIA's latest platform and tuned for large language model workloads. The product targets memory capacity and efficiency constraints in high performance AI computing. SK hynix is a major memory supplier to global data center and AI customers, and the move into mass production of SOCAMM2 modules ties directly into rising demand for AI server hardware. By...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777532826000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140113401,
+      "headline": "Google parent Alphabet profit jumps 81% in Big Tech earnings roundup",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d2a566452087445df88cb10ced2b81acc8ec2f7e3d77e02abce814effb7cb93",
+      "summary": "Alphabet, Amazon, Meta and Microsoft all beat earnings expectations, as they reported on Wednesday, but Alphabet stood out, with its shares jumping 7% in extended trading on strong cloud growth.View on euronews",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777532256000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140113432,
+      "headline": "Could Live Sports Be the Winning Play for Netflix's Future Revenue?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfa993bb8d6aaa98243d8e80ee4cf21ba0f1b97123e3711186037049084b7d96",
+      "summary": "Expanding the number of sporting events that can be seen exclusively on its service could add to the streamer's competitive edge.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777531860000,
+      "ticker": "NFLX",
+      "category": "company"
+    },
+    {
+      "id": 140113392,
+      "headline": "Exclusive-Prices of Nvidia's B300 server at $1 million in China on US curbs, sources say",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29311e0228f61771cf38d8c786b3a72ebe63f00d590402c1ef6846dbe9fdd42c",
+      "summary": "Strong demand for AI computing equipment in China has nearly doubled prices for Nvidia's B300 servers to about 7 million yuan ($1 million) each, industry sources said, as a crackdown ‌on chip smuggling dries up black-market supply.  Prices of Nvidia's most advanced and powerful server, critical for artificial intelligence tasks, have ‌climbed since early this year, but rose sharply after the grey market, a key supply channel, came under pressure, the four sources said.  The price surge is also being ​driven by robust computing demand from Chinese technology companies, even as many avoid holding Nvidia hardware directly on their books for fear of exposure to U.S. sanctions, the sources said.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777531521000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140113421,
+      "headline": "Meta shares fall after higher capital spending outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33c6354d278cf8299265a443f4b9f789140db48e6f8b985ee20a02aae9a4cd0f",
+      "summary": "Meta Platforms (NASDAQ:META) shares dropped more than 5% in after-hours trading on Wednesday after the company lifted its full-year capital expenditure forecast, citing rising component costs and continued investment in data center expansion. The Meta Platforms owner now expects 2026 capital expenditures in the range of $125 billion to $145 billion, up from its prior outlook of $115 billion to $135 billion and slightly above the Street estimate of $125.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777530898000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140113402,
+      "headline": "Microsoft beats expectations as cloud and AI demand remain strong",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa749553c329392bbb27e323b7f522724503b23e4b2d17e7669b918b888ada80",
+      "summary": "Microsoft (NASDAQ:MSFT) reported quarterly results on Wednesday that exceeded Wall Street expectations, driven by continued strength in cloud computing and growing returns from its artificial intelligence investments. Despite the earnings beat, shares slipped about 1.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777530828000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140113408,
+      "headline": "Alphabet shares rise after earnings beat fueled by Cloud and Search strength",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1759416e128dd6cc85f3583a3bea5efff014281ed5726915720dbe1e659afa8d",
+      "summary": "Alphabet Inc. (NASDAQ:GOOG) delivered first-quarter results well ahead of Wall Street expectations, supported by rapid expansion in its Cloud division and continued momentum in Search.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777530755000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140113405,
+      "headline": "Amazon shares dip as heavy AI spending overshadows strong cloud rebound",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=965a3ac25dad64fb1c5390cb233e188e8cf5998233a8368c15b378a7f53f98a5",
+      "summary": "Amazon. com (NASDAQ:AMZN) shares fell 2.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777530678000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140113409,
+      "headline": "The Best \"Forever\" Stock to Buy With Your Next $1,000",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c5cabcd7e995675a62e3e780f60da6123ef891bb4a6c4be466d231abb653b93",
+      "summary": "The key is a company that's built to evolve and innovate as new opportunities arise.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777530000000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140113422,
+      "headline": "Entergy Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd92e25a985ee12967c4027d6e8a7c4863aba1fa6af8c8fa507ab660848ec130",
+      "summary": "Entergy (NYSE:ETR) reported first-quarter adjusted earnings per share (EPS) of $0.86 and used its earnings call to detail a major new electric service agreement (ESA) with Meta, a higher long-term retail sales outlook, and a significantly expanded capital plan tied largely to serving new large-load",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777529196000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140113446,
+      "headline": "EMCOR Group Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe00f1a5d95a994bd0813ff184ad5e323176f4bad7da9391f0ceee659a6f9604",
+      "summary": "EMCOR Group (NYSE:EME) reported what executives repeatedly described as a record-setting start to fiscal 2026, driven by continued strength in data center-related work and broad-based construction demand across multiple end markets. Management also raised full-year guidance on the back of strong fir",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777529195000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140113399,
+      "headline": "Assessing Apple (AAPL) Valuation As Tariff Pressures And Premium P/E Shape Investor Expectations",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c25b5592bb1c10f60d2a9a3ef80dd5ac14ed5db37c0a9b6fcae8051f79f3a1a4",
+      "summary": "Apple (AAPL) is back in focus for investors after recent trading left the share price near US$270, with returns over the past year, past three months and past month giving a mixed performance snapshot. See our latest analysis for Apple. With the share price at US$270.17, Apple’s recent 1 month share price return of 6.45% contrasts with a marginal year to date share price decline, while the 1 year total shareholder return of 27.20% points to momentum that has built over a longer stretch. If...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777529136000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140113423,
+      "headline": "Is Tesla a Buy, Sell, or Hold in 2026?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=764b436e2f48a6ec24a402e848ea45c80ee056c7d8342a973f366cecf59a22d1",
+      "summary": "Long-term investors' patience is being tested by the latest developmets, or lack of, at Tesla.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777529100000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140113410,
+      "headline": "Reddit Earnings Arrive as Stock Struggles. Ad Sales Could Provide a Much-Needed Boost.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d73798991daaa7e2c874e27f75047e7b4e56a94f986434414c4d2a47874dd27",
+      "summary": "Reddit is scheduled to report first-quarter financial results after the stock market closes on Thursday.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777528800000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
     {
       "id": 140112600,
       "headline": "archTIS makes progress across platforms and defence contracts as ARR jumps 231%",
@@ -21,6 +252,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777526400000,
       "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140113984,
+      "headline": "Prices of Nvidia's B300 server at $1 million in China on US curbs, sources say",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=03b00cb525273634c7812ce4a8bba4828680685b1ae84de247a5e38668769d11",
+      "summary": "Strong demand for artificial intelligence computing equipment in China has nearly doubled prices for Nvidia's B300 servers to about 7 million yuan each, industry sources said, as a crackdown on chip...",
+      "image": "",
+      "datetime": 1777526368000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140113411,
+      "headline": "Capgemini's first-quarter revenue up 7%, in line with estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60688ae80e70e3cc4b1a0f9443f8693687168b93b3e959c02ef3022bff816474",
+      "summary": "April 30 - French IT services group Capgemini reported a 7% rise in first-quarter ‌revenue at constant exchange rates on Thursday, in ‌line with guidance. The company, which serves government agencies, critical infrastructure operators ​and large regulated businesses, said growth would have been 11% without currency swings. CEO Aiman Ezzat told reporters AI is rapidly reshaping the company's business mix, with generative and ‌agentic AI accounting for ⁠more than 10% of group bookings in the quarter.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777525602000,
+      "ticker": "GOOGL",
       "category": "company"
     },
     {
@@ -57,6 +310,17 @@
       "category": "company"
     },
     {
+      "id": 140113424,
+      "headline": "How to Invest in the Coming Boom in Clean Energy. 3 Stocks to Buy.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33c3da43b23320225d9521479aac749785ac80ee5ac13e391894db958d90428f",
+      "summary": "Demand for clean-energy products in surging in many parts of the world as oil and natural-gas prices spike. Which stocks to buy, which to avoid.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777525200000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 140112595,
       "headline": "Where Will Tesla Be in 10 Years?",
       "source": "Yahoo",
@@ -65,6 +329,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777524600000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140113799,
+      "headline": "Amazon’s low Earth orbit satellite venture seeks Kenyan licence to take on Starlink",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=68fa32ef1febf9d1c2e24905b4b7d487c4ecc0b27faa60f33d97a285fb7adcc6",
+      "summary": "Amazon Leo, the low Earth orbit satellite venture formerlyknown as Project Kuiper, is seeking regulatory approval to operatein Kenya, where global rival Starlink has already established...",
+      "image": "",
+      "datetime": 1777524310000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140113796,
+      "headline": "AMAZON COM INC : RBC maintains a Buy rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=938639d81dcd6473257e737969e6ccfd2785d16a386fa87d3c470ea48cb51fce",
+      "summary": "Already positive, the research from RBC and its analyst Brad Erickson still consider the stock as a Buy opportunity. The target price is revised upwards from USD 320 to USD 300.",
+      "image": "",
+      "datetime": 1777524271000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -123,6 +409,17 @@
       "category": "business"
     },
     {
+      "id": 140113568,
+      "headline": "5 Dividend Increases Expected In May 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0a89bf9b389335ad8fe85d4ad34089ce94198e68ec345d4f10f37b92e2452c6b",
+      "summary": "Five blue-chip stocks are poised for May 2026 dividend hikes as companies like LOW and NOC prioritize growth despite macro pressures. Learn why yields remain modest.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972341389/image_1972341389.jpg?io=getty-c-w1536",
+      "datetime": 1777521591000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140112603,
       "headline": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
       "source": "Yahoo",
@@ -130,6 +427,17 @@
       "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777521502000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140113379,
+      "headline": "What you need to know about Amazon today: April 30, 2026",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c4ec54b1f7a8da6c8eeab3e268d645c9164bc9436cfd4dc3bb033f58ec14e70f",
+      "summary": "Amazon.com announces first quarter results Amazon.com, Inc. has announced financial results for its first quarter ended March 31, 2026. Amazon's Prime Day event is back this June Prime Day is back!...",
+      "image": "",
+      "datetime": 1777521497000,
       "ticker": "AMZN",
       "category": "company"
     },
@@ -142,6 +450,39 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777521000000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140113243,
+      "headline": "Amazon Q1: Anthropic Investment Is Just The Tip Of The AI Iceberg",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd683d522455b67fa0e9cff9229ba83be9c48ba2f744a27e24622fb8086b9c20",
+      "summary": "Amazon (AMZN) Q1 beat: 17% revenue growth, stronger margins, and AWS up 28% with a $364B backlog. See here for more details.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1449457045/image_1449457045.jpg?io=getty-c-w1536",
+      "datetime": 1777520186000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140113203,
+      "headline": "AMAZON COM INC : Barclays gives a Buy rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5e0249204209315697d41242cd8dc3614200a05816c84ca4307706561f39347f",
+      "summary": "Barclays is positive on the stock with a Buy rating. The target price has been lifted and is now set at USD 330 compared to USD 300 before.",
+      "image": "",
+      "datetime": 1777519853000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140113167,
+      "headline": "PRESS DIGEST-New York Times business news - April 30",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f0e0063db7f1e32440065135c76b9543367b0b34574d8b9fc1a5eca31363dd8a",
+      "summary": "The following are the top stories on the New York Times businesspages. Reuters has not verified these stories and does not vouchfor their accuracy. - U.S. Federal Reserve Chair Jerome...",
+      "image": "",
+      "datetime": 1777519599000,
+      "ticker": "META",
       "category": "company"
     },
     {
@@ -288,6 +629,17 @@
       "category": "company"
     },
     {
+      "id": 7872317,
+      "headline": "China's factory activity extends expansion, PMI shows, as Iran war risks mount - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalEzeVE4eEs2YnFNWXdVd2FXZHZHU2FQdEM2bm1ac0lMWW01WkZaclE2QjE0aDlfVEdMdEc2Wm4xcXdKUUxTZUJlaHJGdzNvV09WeHVxNjNGRlp0eE1NMzZZTm9JWjVLa2x1a2dLWW90RHlLdUNGZFJta0s5aGw0ZXZFRDlfRzlOZnB5SWNRMEhzeXZDWENZZnVEeDFLZmNUR29UZ1FCb2d3S2Nja09ZWjVB?oc=5",
+      "summary": "China's factory activity extends expansion, PMI shows, as Iran war risks mount  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777513080000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140109426,
       "headline": "AI-Led Rally in Asia Stocks Masks Deeper Damage from Iran War",
       "source": "Yahoo",
@@ -377,10 +729,10 @@
     },
     {
       "id": 7871467,
-      "headline": "Brent oil rises 7% on report US considering military options to break Iran deadlock - Reuters",
+      "headline": "Brent jumps to four-year high on concerns of US-Iran war escalation - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenNidWVwSUNlZUxVRDFaR3N2NVdjRXdmTmJNZGk2T2prVmh6bTJndHR1bm1PUmhmbjN2dkpMYTN5NG5IZlFNUExLclNlcWJMVzFrd1VjTXoxRlFEWmtPbDlGZ055WlJVbEhESGRob0hPVFVKemt2aDNhaGpDR1RzZmRORVM3M0RmbjhuY0ctSGlYaEJXYkVtbmZtZnZZNnZHX3FVcXNIQm4wOXJ1Mk83dXFILXdmQi0xcFYzMw?oc=5",
-      "summary": "Brent oil rises 7% on report US considering military options to break Iran deadlock  Reuters",
+      "summary": "Brent jumps to four-year high on concerns of US-Iran war escalation  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777511220000,
       "ticker": null,
@@ -585,6 +937,17 @@
       "category": "company"
     },
     {
+      "id": 7872318,
+      "headline": "Surprise fall in Japan's factory output as Iran war takes toll on petroleum-based products - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGEzbWp6TWJlMWxaREVwN3BwNHZYMVZQTDNMbWo2TElZRm1nMUJHQjJDX2xvVDh6OFNGRy0xbFZjeVpqZjFtYm02c1hzMTRpeXZqdkNqSGlQMGFYM1kyRGhfWlJnOHBHM2NZZzN3UldQX2I4dUdkal9nYVhyUjNTWnctQi0zVC00TnZvWHlFT255b2hWTi1KME8xWE4yb2ZmLXd2am1YeDBCdjNKMFdEa0ozbmdiN3Z4emc?oc=5",
+      "summary": "Surprise fall in Japan's factory output as Iran war takes toll on petroleum-based products  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777507200000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140085033,
       "headline": "Meta is still burning money on AR/VR",
       "source": "Yahoo",
@@ -735,369 +1098,6 @@
       "summary": "CEO Mark Zuckerberg is planning to spend more on infrastructure in 2026 than Meta did in all of 2024 and 2025. Meta's stock fell 6% in after-hours trading.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777504970000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140102383,
-      "headline": "Meta Platforms : Q1 2026 Earnings Call Earnings Call Transcript",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=43d85f2b3bc49582548b0e1d7ac3cb746eea1c2c714761c7b89deb94f092251d",
-      "summary": "Meta Platforms, Inc. First Quarter 2026 Results Conference Call April 29th, 2026 Kenneth Dorell, Director, Investor Relations Thank you. Good...",
-      "image": "",
-      "datetime": 1777504931000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140060159,
-      "headline": "Poet Technologies Crashed Again Today -- Is the AI Stock a Buy on the Pullback?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3901a26b45c5e5234ab7eacfc6573ee3e0fa5bfc60df83c1ce3c2a2781461e8c",
-      "summary": "Should investors be snatching up Poet stock on the heels of a massive valuation pullback?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777504765000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140060171,
-      "headline": "Microsoft (MSFT) Q3 2026 Earnings Transcript",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7cd2af056bad13c33a2197d6f4a62b7cf6e3b9564b2cd624614c74df6e763069",
-      "summary": "Jonathan Neilson: And thank you for joining us today.  On the call with me are Satya Nadella, Chairman and Chief Executive Officer; Amy Hood, Chief Financial Officer; Alice Jolla, Chief Accounting Officer; and Brian Defoe, Deputy General Counsel and Corporate Secretary.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777504739000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140101853,
-      "headline": "TSMC: Expect More All-Time Highs Ahead",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5c482161b945a4ce722909d6ca17e2aad95f3a319a4525e40e351766a94d814f",
-      "summary": "",
-      "image": "",
-      "datetime": 1777504729000,
-      "ticker": "TSM",
-      "category": "company"
-    },
-    {
-      "id": 140060183,
-      "headline": "Amazon pushes delivery speed as Q1 revenue surges to $181B",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=026132668244e5945aa64923d18f8b94b9c4cbc50b4de085bdfe0a42d912ee44",
-      "summary": "Amazon’s first quarter revenues rises 17% during the first quarter to $181.5 billion, boosted by e-commerce sales across North America and Europe. The post Amazon pushes delivery speed as Q1 revenue surges to $181B appeared first on FreightWaves.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777504440000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140060184,
-      "headline": "Amazon (AMZN) Q1 2026 Earnings Call Transcript",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3cfcaa62876008cb72c2ef8c11aee0d0a5708abb3c50009c731e32d6c6471a17",
-      "summary": "Joining us today to answer your questions are Andrew R. Jassy, our CEO, and Brian T. Olsavsky, our CFO.  It is very unusual for a business to grow this fast on a base this large, and the last time we saw growth at this clip, AWS was roughly half the size.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777504235000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140060185,
-      "headline": "Amazon’s AI spending boom is eating into free cash flow",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10abb8d524c69e2ee062a59f70da5b9199728e24620426a1d276febcac147af9",
-      "summary": "Amazon is making more cash from its businesses, but it’s spending almost all of it on AI infrastructure.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777504054000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140098802,
-      "headline": "First Tesla Semi rolls off high volume production line",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=5b53648aafa7d39a8d002112a3bc5a43d585021e73f1ff1c8bbe3f1d1aec2038",
-      "summary": "Tesla said on Wednesdayits first Semi truck has begun rolling off a high-volumeproduction line as the electric vehicle maker remains on trackto launch large-scale manufacturing of several new...",
-      "image": "",
-      "datetime": 1777503924000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140060226,
-      "headline": "The Chinese battery giant powering Tesla just raised $5 billion",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=196eb23eb754959e34614cc3bf8e140ee21e38a210035958094a5eb56f8650d2",
-      "summary": "Most Americans cannot tell you who built the battery in their electric vehicle. They know the badge on the hood, the lease payment, and the range estimate. The cell underneath, the single most expensive part of the car, is anonymous to them. That anonymity is by design. Automakers prefer it. They ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777503780000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140060172,
-      "headline": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2a4bba234e1757d8195f5a1744178d5461f902d9a25a64bde157261bbd1752ae",
-      "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777503743000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060241,
-      "headline": "Missed AI Boom? Tony Robbins Reveals The Next Big Investment Opportunity After AI — 'Very Few People Are Talking About' This",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=088533dd2a2aa6922cd9399b45533abd4d221eb36360fed6e5ae28546d611fa4",
-      "summary": "Nanotechnology could be the next big thing after AI and data centers because its massive potential can reshape human performance and healthcare, according to life coach Tony Robbins. Talking about the next big investment wave after AI on \"The Iced...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777503663000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140060168,
-      "headline": "Apple earnings, March PCE, Q1 GDP, mortgage rates: What to Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fba3dac84ecdfa4de5216a88966b7acfaf14ded2c6513ed9461b742b0dcb919",
-      "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come tomorrow, Thursday, April 30, including earnings results from companies like Apple (AAPL), Eli Lilly (LLY), Caterpillar (CAT), and ConocoPillips (COP); the latest economic readings on the Personal Consumption Expenditures index (PCE) — the Federal Reserve's preferred inflation gauge — and the Untied States' first quarter GDP (Gross Domestic Product); and the weekly figures on mortgage rates.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777503600000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140060160,
-      "headline": "How Much Do You Really Need Invested to Replace a $40,000 Salary With Dividends?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f69a1874cf26726265cf03d46048660a51c8c399953bc975484c65d90633ccf1",
-      "summary": "A $40,000 salary works out to about $19 an hour: a lower-middle wage range for careers like delivery drivers, bank tellers, customer service representatives, or assembly line workers. Replacing it with dividends is one of the most concrete retirement math problems an investor can run, and the answer changes dramatically based on which yield you ... How Much Do You Really Need Invested to Replace a $40,000 Salary With Dividends?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777503597000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140060161,
-      "headline": "Why Seagate Stock Surged Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29384798c8e14a73d538a7913da3636fcb5918f1bcd99f498d5f4d1c7ae26569",
-      "summary": "Demand for high-performance data storage solutions is soaring.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777503384000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140060162,
-      "headline": "Here's Why XRP (Ripple) Could Drop Below $1 and Stay There",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a135f208a6895cb70f4366d0f93895fdad40fbd9b701d34c6ce02e7283cbc86",
-      "summary": "The bear case is looming larger at the moment, so it pays to know what could happen.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777503000000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140060173,
-      "headline": "'Magnificent 7' earnings rush reveals AI spending surge, with hyperscaler capex set to reach $725 billion in 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1931d10192016a0dec8edb7326345d7487ca046fce36c06d4ae26c985bc7fda1",
-      "summary": "A deluge of Big Tech earnings this week took center stage on Wednesday. One number told the story of the AI boom.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777502941000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060163,
-      "headline": "Why Agios Pharmaceuticals Stock Zoomed to a 13% Gain on Wednesday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a39f008f4b102482aa85241a839ca84dd15a34719af744da77476278999f9a3",
-      "summary": "There's power in the company's No. 1 molecule.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777502834000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140085035,
-      "headline": "Top Stock Reports for Tesla, ConocoPhillips & Parker-Hannifin",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7ba51117b247fd999a1de1881ad85b76186f571e64c509184123f3d2fea1918",
-      "summary": "Tesla faces rising capex and delayed robotaxi rollout even as energy, charging growth expand, while ConocoPhillips and Parker-Hannifin show strength.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777502580000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140060187,
-      "headline": "Amazon tops cloud expectations on strong AI demand, shares rise",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01ce6ded178ae7fc0a82c3989f7ec99685ade6635a22707c1e61feadf3a17876",
-      "summary": "Amazon.com on Wednesday reported cloud sales growth above Wall Street expectations, driven by strong enterprise spending as companies continue to devote tremendous resources to their artificial intelligence efforts.  CEO Andy Jassy said the company was maintaining its target for $200 ‌billion in AI investment this year, a relief to investors who have seen Big Tech relentlessly hike capital spending forecasts into the hundreds of billions ‌in the rush to build out data-center capacity needed for AI workloads.  Revenue at Amazon Web Services (AWS) jumped 28% to $37.6 billion in the first quarter, beating analysts' ​average estimate for a 25% increase, according to LSEG.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777502436000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140060174,
-      "headline": "Stock Market Today, April 29: Mixed Reactions as Big Tech Earnings Beat Expectations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=858c23cb83063cb7b18ffd60d262255ed5797f38c42917a248c27c238d523948",
-      "summary": "On April 29, 2026, the Fed leaves rates unchanged, and markets remain muted ahead of megacap earnings.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777502358000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060164,
-      "headline": "AI Demand Is Surging — But Taiwan Semiconductor Is Controlling the Supply",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19eaa4cc33514d9c633b1f01c6f1659a66e943156e799c8aa3302ec035fb2576",
-      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) (TSM) is a semiconductor foundry, which means it manufactures chips for other companies like Advanced Micro Devices, Inc. (AMD) and NVIDIA Corporation (NVDA) and 530 other companies. AMD and Nvidia, on the other hand, are fabless semiconductor companies that design and sell their own chips but outsource the manufacturing to ... AI Demand Is Surging — But Taiwan Semiconductor Is Controlling the Supply",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777502015000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140093703,
-      "headline": "Microsoft Corporation (MSFT) Q3 2026 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=69cd4110c447c502281baffd529b818cb5d0936c91b4f9f91c7a994df84cb6ff",
-      "summary": "Microsoft Corporation (MSFT) Q3 2026 Earnings Call April 29, 2026 5:30 PM EDTCompany ParticipantsJonathan Neilson - Vice President of Investor...",
-      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "datetime": 1777501892000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060175,
-      "headline": "Microsoft (MSFT) Reports Q3 Earnings: What Key Metrics Have to Say",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e6d6277407e4d2e0341605d77affbea313a4626735d1ada346a7a88027aeb82c",
-      "summary": "The headline numbers for Microsoft (MSFT) give insight into how the company performed in the quarter ended March 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777501803000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060176,
-      "headline": "Microsoft Stock Trying to Bounce Back on Strong Azure Growth Outlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1c1b8133e24c848f08c0d888cfd294ade0fc7c26f52a645b98e5f6d3278b1b5",
-      "summary": "Microsoft posted adjusted earnings of $4.27 a share on revenue of $82.9 billion, exceeding Wall Street estimates on both metrics.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777501620000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060198,
-      "headline": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a7f8b51bfda089751e4605695533f88bd1a242242f1161029dd1bea19c852059",
-      "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777501248000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140060177,
-      "headline": "Powell to Stay on as Fed Governor, Plus Huge Mag 7 Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b214c6917865a37a04f5844e8b0338385993bcb87bd6f9c82e403109ad5dfcc",
-      "summary": "Fed Chair Powell says goodbye to FOMC press corps, while AI-fueled earnings & growth astound.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777501140000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140112614,
-      "headline": "Elon Musk says Sam Altman tried to 'steal' charity, as moguls contest $150bn court battle",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28d00d7bc1040652e6b87d34e109816ce7dece707d29f6bc91ee82b52f187ab6",
-      "summary": "Elon Musk has accused his rival Sam Altman of trying to \"steal\" a charity as he fights his $150bn (£111bn) court claim over OpenAI.  The trial centres on the 2015 birth of OpenAI, maker of ChatGPT, as a non-profit start-up, primarily funded by Mr Musk, before it evolved into a capitalist venture now valued at $852bn (£632bn).  Mr Musk, the CEO of Tesla and SpaceX, has accused Mr Altman, OpenAI, and its president, Greg Brockman, of wooing his donations by promising to build a non-profit to develop AI responsibly, before pivoting to create a for-profit entity in 2019 to enrich themselves.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777501080000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140060178,
-      "headline": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c83adbf4aa5c6eae4014c8554f7897f681d1ef872963425e8a5552688bee8bd",
-      "summary": "Alphabet and Microsoft crushed Q1 estimates on the same day, with Google Cloud up 63% and Microsoft's AI business hitting a $37 billion run rate.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777500889000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060223,
-      "headline": "2 key risks Meta warned investors about in its Q1 earnings report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=845d50f8bf697e4131c874949dce12e92a08b199814927b86c5f7c4c2e076c2c",
-      "summary": "Meta called out two challenges facing its business in its earnings report, which pressured the stock in extended trading.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777500187000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140060165,
-      "headline": "Why Stride Stock Topped the Market Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a6b9dd61a5889b16bdbeea042a62ef69a5354b06569b3fc3ed67113b33a3944",
-      "summary": "Despite a bottom-line slide, the educational services provider still crushed analyst estimates in its fiscal third quarter.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499964000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140060179,
-      "headline": "Amazon Stock Bounces Back Following Positive Chip Demand Comments",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=736d59c158a3c294eb83d92d6081ffa6ec97b02cc62f81868fb5a7bb9a0144d2",
-      "summary": "Amazon said that revenue from its Amazon Web Services cloud unit rose 28% from the prior year to $37.6 billion.  Revenue growth there is key as investors look for proof that companies are seeing returns on their massive artificial intelligence spending.  CEO Andy Jassy noted in the earnings release that it was AWS’s fastest growth in 15 quarters.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499940000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140060166,
-      "headline": "A Strong and Steadily Improving Earnings Picture",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3bd4353d7d75610ab0185ae7f621bd26ef96d7248efb78c8869b55d759e0fdac",
-      "summary": "The Q1 earnings season continues to show strength and momentum, with companies not only comfortably beating consensus estimates but also providing a reassuring read on the economy despite elevated energy costs and other risks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777499700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140084226,
-      "headline": "Tech shares rise in Asia, bonds scarred by central bank hawks as oil spikes",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=d6d0a88997562c311133d81a707e7511941f67e11723c4ce6a9682caf3734f0b",
-      "summary": "AI-related shares faredwell in Asia on Thursday after a raft of generally positiveearnings reports, while surging oil prices left bonds batteredas central banks turned more hawkish on inflation and...",
-      "image": "",
-      "datetime": 1777499636000,
       "ticker": "GOOGL",
       "category": "company"
     }
