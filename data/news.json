@@ -1,6 +1,303 @@
 {
-  "timestamp": 1777507319990,
+  "timestamp": 1777522344080,
   "items": [
+    {
+      "id": 140109409,
+      "headline": "Nvidia Stock Has 1 Problem. Here's Why I'm Buying Anyway.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf793b3e2dd91a76cecd3cddca265440cf782fcb6707cb8c889effd2f290a81a",
+      "summary": "The leading chipmaker is highly dependent on a small group of customers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777521000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140109434,
+      "headline": "Samsung Electronics expects to win more customers for advanced logic chips",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=234e20df6ffb2db6052b057d766c7c1433501fd43795c9426868ffe0154c1634",
+      "summary": "Samsung Electronics said on Thursday it expects to ‌win more deals to manufacture ‌logic chips using its advanced 2 nanometer process ​in the near future, adding it has been in talks with big tech customers regarding the foundry contracts.  Samsung, which competes ‌with TSMC ⁠and Intel in the contract chip manufacturing business, said it is ⁠in a preliminary review to build a second fab in Taylor in ​the U.S. ​state of Texas ​in line with ‌discussions with customers regarding the potential orders.  Last year, ​Samsung secured a $16.5 ​billion order from Tesla  to ‌produce logic chips.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777519411000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140109422,
+      "headline": "Viomi Technology Highlights FY2025 Revenue Growth, Dividend and Overseas Push at Deutsche Bank Conference",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab218e8837f922c00ffa0bbe909661ebec1c2ed2f1d6aab20f0c4ca5bc3f9898",
+      "summary": "Viomi Technology (NASDAQ:VIOT) outlined its latest business update at the 30th Deutsche Bank Depositary Receipts Virtual Investor Conference, highlighting full-year 2025 financial results, capital return actions, and its strategy to expand overseas while continuing to develop smart water purificatio",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777516921000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140109435,
+      "headline": "Kevin O'Leary Once Explained Exactly When You Should Sell Bitcoin Or Stocks: 'My Mother Taught Me This Game….'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5f9e736b29fd912d1d04b320533389cdac63d0d88779ec00a178d49e5a60c39",
+      "summary": "Kevin O'Leary once said that investors don't need perfect timing to take profits—they just need a disciplined rule that keeps emotions out of the equation. O'Leary's Simple Rule For Big Winners Speaking during the 10X Growth Con 2021 alongside Grant Cardone, the \"Shark Tank\" investor explained that his strategy is built around portfolio discipline rather than prediction. \"I like 5% right now… If it goes past that, I sell it down,\" O'Leary said, referring to how he manages concentrated positions",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777516276000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140109444,
+      "headline": "Intel (INTC) Hits All-Time High Anew — Here’s Why The Stock Keeps Climbing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21b5de64f3fd96eeca5c0d918e332432106b057a511ba207c56d1f8f93cda140",
+      "summary": "Intel Corp. (NASDAQ:INTC) is one of the 10 Stocks Notching Impressive Double-Digit Gains. Intel rallied to a fresh all-time high on Wednesday, as investors resumed buying positions after an analyst posted a highly optimistic sentiment for its stock, supported by its recent earnings blowout and upbeat outlook for the second quarter of the year. In […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777515553000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 140109424,
+      "headline": "Alphabet’s Pentagon AI Shift Puts Ethics Risks And Valuation In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d34a8381cac4c3f68280ac47fb199e2e254c98895e62f7dc5d6c2f6178ae96e",
+      "summary": "Alphabet (NasdaqGS:GOOGL) has revised its U.S. Department of Defense agreement to permit Google AI models in classified military applications. The expanded Pentagon work has triggered fresh employee protests and renewed calls for tighter AI ethics safeguards inside the company. Alphabet has exited a Pentagon AI drone project, citing resource constraints and prompting questions about internal views on military contracts. Investor activists are pressing new climate and AI ethics proposals,...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777514885000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140109421,
+      "headline": "Musk Put on Defensive Over His Financial Commitment to OpenAI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d09524f55029bb36f35b02b6370817b13d80aa5bd8a968678c130b2a6fa09daa",
+      "summary": "(Bloomberg) -- Elon Musk became visibly irritated on the witness stand Wednesday as an attorney for OpenAI questioned whether the billionaire backed off his financial commitment to the startup in its early years.Most Read from BloombergNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesUAE Quits OPEC as War Upends Oil Markets and Gulf Tensions RiseJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the Job80 Seconds of Big Tech Earnings Will Decide Stock Market’s FateFid",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777514037000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140109426,
+      "headline": "AI-Led Rally in Asia Stocks Masks Deeper Damage from Iran War",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdfe4586de936dd0452ee33a01351137bec45d1aed4a1ec568132838b4afec37",
+      "summary": "(Bloomberg) -- Asia’s artificial intelligence-fueled rally is masking signs of strain, with gains in tech names overshadowing the impact of the US-Iran war on the broader market.Most Read from BloombergNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesUAE Quits OPEC as War Upends Oil Markets and Gulf Tensions RiseJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the Job80 Seconds of Big Tech Earnings Will Decide Stock Market’s FateFidelity Mandates Five Days in Office",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777512598000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140084886,
+      "headline": "A New Chapter in AI’s Most Powerful Partnership",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47191f8de2073cba3d8b899fa2998dc032c8e905d9a0848f31a19ee625e8d751",
+      "summary": "The team reviews more earnings reports and what they may signal about the state of the economy.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777512516000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 7871467,
+      "headline": "Oil prices extend gains as US-Iran war deadlock keeps supply off market - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenNidWVwSUNlZUxVRDFaR3N2NVdjRXdmTmJNZGk2T2prVmh6bTJndHR1bm1PUmhmbjN2dkpMYTN5NG5IZlFNUExLclNlcWJMVzFrd1VjTXoxRlFEWmtPbDlGZ055WlJVbEhESGRob0hPVFVKemt2aDNhaGpDR1RzZmRORVM3M0RmbjhuY0ctSGlYaEJXYkVtbmZtZnZZNnZHX3FVcXNIQm4wOXJ1Mk83dXFILXdmQi0xcFYzMw?oc=5",
+      "summary": "Oil prices extend gains as US-Iran war deadlock keeps supply off market  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777511220000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140085021,
+      "headline": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b06b8a00e224684a61f340fdcc09bc8b09160fbf7abece942a7ae9474f356097",
+      "summary": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777510800000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140109445,
+      "headline": "China's Rare Earth Leverage Explained in 3 Shocking Charts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0cf1ac259328a9e60e9d713df0f052a1bcd80de8478deb55117c8926d2adb2ed",
+      "summary": "The Strait of Hormuz crisis is spooking markets, but another crisis has been emerging—one that could hit the entire U.S. defense supply chain.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777510800000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 140085015,
+      "headline": "Steve Wozniak Surprisingly Appears at DREAME NEXT: Dreame Unveils Two Smartphones with 10+ Industry Breakthroughs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c7493222cc80006d061cf983cdadeb80381b8873925a0d1962421e09f890420",
+      "summary": "Dreame Technology today officially launched two smartphones at the Connect Next segment of DREAME NEXT in San Francisco: the AURORA NEX flagship smartphone and the AURORA LUX luxury smartphone. Together, the two devices introduce more than 10 breakthroughs across modular hardware design, proprietary software, imaging, and communications.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777509180000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140085030,
+      "headline": "Meta Platforms (META) Q1 Earnings: How Key Metrics Compare to Wall Street Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0a00bac46f113d910e655141bca78344b6b2abbe94ddff76cbfb6d6d367c891",
+      "summary": "The headline numbers for Meta Platforms (META) give insight into how the company performed in the quarter ended March 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777509001000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140085018,
+      "headline": "Microsoft Q3 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=457c720e972fe52b030a7b51fd7a5ac28ef17fa51b89101a286747d0f74a85fc",
+      "summary": "Microsoft (NASDAQ:MSFT) executives told investors the company delivered a “record third quarter,” fueled by continued demand for cloud services and accelerating adoption of its AI offerings, while acknowledging that capacity constraints and heavy infrastructure investment remain central themes headi",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777508846000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140085031,
+      "headline": "Meta Platforms Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=626518f3868faf98c8e2c860c649f120b12b16ed242c8d463311d7f5b54e8e9c",
+      "summary": "Meta Platforms (NASDAQ:META) executives struck an upbeat tone on the company’s first-quarter 2026 earnings call, pointing to growing engagement across its apps, accelerating AI product development, and a major step-up in infrastructure investment tied to model training and inference capacity. CEO M",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777508846000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140084887,
+      "headline": "3 Phenomenal AI Stocks for Maximum Upside",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=535c3f9d1f76e8aea31b73e182fab1a7ad422fc1b5eabbf8d07a73f85ee7841c",
+      "summary": "Nvidia, Nebius, and IonQ each have massive potential, but they come with some risks for shareholders.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777508580000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140085022,
+      "headline": "Amazon’s cloud business is surging — and so is its capital spending",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55c3c4268698f9759f19efc5d47fca31da92e0710f3b70a285586950f0d2a407",
+      "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777508063000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140084888,
+      "headline": "Samsung Electronics sees robust AI demand after Q1 profit surges eightfold to set record",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f954e564c9c055044703692955f3256523d8d7d63cc67e0e5f16ce1c0808877c",
+      "summary": "Samsung Electronics on Thursday reported record quarterly profit after an eightfold jump in earnings, saying it expects the momentum to continue as clients ‌spend aggressively on AI infrastructure and drive up prices of its memory chips.  A boom ‌in the construction of AI data centres has spurred chipmakers to allocate more production capacity to advanced chips that Nvidia ​uses in its so-called AI accelerators, squeezing the supply of more conventional chips.  Samsung said it \"expects server memory demand to remain strong as hyperscalers accommodate enterprises' increasing adoption of AI\" and large language model services.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777507914000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140084889,
+      "headline": "Why Biogen Stock Was a Winner on Wednesday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4bcb50cdfd20361e08aec9bc7917723fbc2ebd044c035c4ffba2d0075e0c36a5",
+      "summary": "The biotech's growth portfolio continues to add to its overall top line.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777507613000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140111203,
+      "headline": "Meta Platforms : Q1 2026 Earnings Call Prepared Remarks",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a81d79d94828be15c3fafeff787ecc94fa7102ea72a47b5afbfbfd17d8a5c32d",
+      "summary": "Meta Platforms, Inc. First Quarter 2026 Results Conference Call - Prepared Remarks April 29th, 2026 Kenneth Dorell, Director, Investor Relations ...",
+      "image": "",
+      "datetime": 1777507568000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140085016,
+      "headline": "Review & Preview: Powell’s Long, Strange Trip",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8d7475674d5f6c1d8de0365b3314561db0bbe4e64526ccc48bd6e062e7c4631",
+      "summary": "The Fed chair’s last meeting brought a surprise four dissents from the FOMC. Big Tech earnings stole the spotlight.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777507440000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140111666,
+      "headline": "Alphabet Inc. (GOOGL) Q1 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28e64677362ba04c8ff3cbab71a751a39e5c98a9ece8f951b0a1f4a71b8fe299",
+      "summary": "Alphabet Inc. (GOOGL) Q1 2026 Earnings Call April 29, 2026 4:30 PM EDTCompany ParticipantsJames FriedlandSundar Pichai - CEO & DirectorPhilipp Schindler...",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1777507396000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140085034,
+      "headline": "Rivian CEO walks away with $403 million despite huge losses",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e5d3349e27e0be39b9bbc399fc14a1b8cde7c672480fd0d53fadea63aa2bea2",
+      "summary": "There is a long tradition in American business of paying executives more than the company itself has earned. It gets defended on the grounds that great talent must be lured, that risk must be rewarded, or that the future will somehow erase the present. Most of the time, the math eventually catches ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777507380000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140085033,
+      "headline": "Meta is still burning money on AR/VR",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41ffc2c48dfb31e6991bb17b8b015221e6b4f95115061fd300cac8c237c73367",
+      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777507106000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140084890,
+      "headline": "Bitcoin Is Moving From Trade to Treasury Asset -- Here's Why That Matters",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bcaf0e2cca8f294181ffd03960f1c33ce8ab7c209eb695614d80c54a31cb419",
+      "summary": "Starting at the individual level first, the leading cryptocurrency's evolution hasn't been like typical financial assets.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777507020000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140085020,
+      "headline": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4e6518ed0893a1a5e8f8d7a672aa07146f8b01775583154710eee611e1b8ae7",
+      "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777506923000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
     {
       "id": 140060216,
       "headline": "Meta chief Zuckerberg doubles down on AI spending",
@@ -101,6 +398,28 @@
       "category": "company"
     },
     {
+      "id": 140109423,
+      "headline": "Meta just bumped its 2026 capex forecast up to as much as $145 billion for the AI boom—and investors flinched",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac9ba40d943d21148aa6845fed54f304213407555116e451656385006acbcf09",
+      "summary": "CEO Mark Zuckerberg is planning to spend more on infrastructure in 2026 than Meta did in all of 2024 and 2025. Meta's stock fell 6% in after-hours trading.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777504970000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140102383,
+      "headline": "Meta Platforms : Q1 2026 Earnings Call Earnings Call Transcript",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=43d85f2b3bc49582548b0e1d7ac3cb746eea1c2c714761c7b89deb94f092251d",
+      "summary": "Meta Platforms, Inc. First Quarter 2026 Results Conference Call April 29th, 2026 Kenneth Dorell, Director, Investor Relations Thank you. Good...",
+      "image": "",
+      "datetime": 1777504931000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
       "id": 140060159,
       "headline": "Poet Technologies Crashed Again Today -- Is the AI Stock a Buy on the Pullback?",
       "source": "Yahoo",
@@ -120,6 +439,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777504739000,
       "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140101853,
+      "headline": "TSMC: Expect More All-Time Highs Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c482161b945a4ce722909d6ca17e2aad95f3a319a4525e40e351766a94d814f",
+      "summary": "",
+      "image": "",
+      "datetime": 1777504729000,
+      "ticker": "TSM",
       "category": "company"
     },
     {
@@ -153,6 +483,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777504054000,
       "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140098802,
+      "headline": "First Tesla Semi rolls off high volume production line",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5b53648aafa7d39a8d002112a3bc5a43d585021e73f1ff1c8bbe3f1d1aec2038",
+      "summary": "Tesla said on Wednesdayits first Semi truck has begun rolling off a high-volumeproduction line as the electric vehicle maker remains on trackto launch large-scale manufacturing of several new...",
+      "image": "",
+      "datetime": 1777503924000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -255,6 +596,17 @@
       "category": "company"
     },
     {
+      "id": 140085035,
+      "headline": "Top Stock Reports for Tesla, ConocoPhillips & Parker-Hannifin",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7ba51117b247fd999a1de1881ad85b76186f571e64c509184123f3d2fea1918",
+      "summary": "Tesla faces rising capex and delayed robotaxi rollout even as energy, charging growth expand, while ConocoPhillips and Parker-Hannifin show strength.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777502580000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 140060187,
       "headline": "Amazon tops cloud expectations on strong AI demand, shares rise",
       "source": "Yahoo",
@@ -288,6 +640,17 @@
       "category": "company"
     },
     {
+      "id": 140093703,
+      "headline": "Microsoft Corporation (MSFT) Q3 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69cd4110c447c502281baffd529b818cb5d0936c91b4f9f91c7a994df84cb6ff",
+      "summary": "Microsoft Corporation (MSFT) Q3 2026 Earnings Call April 29, 2026 5:30 PM EDTCompany ParticipantsJonathan Neilson - Vice President of Investor...",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1777501892000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140060175,
       "headline": "Microsoft (MSFT) Reports Q3 Earnings: What Key Metrics Have to Say",
       "source": "Yahoo",
@@ -308,17 +671,6 @@
       "datetime": 1777501620000,
       "ticker": "MSFT",
       "category": "company"
-    },
-    {
-      "id": 7867993,
-      "headline": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXN0aG5nUkg5TEU5emxCMG9TYjFfRm1mVmp3WFM5Q1hkOGtWbVlxSG45QXBtcXRjb1JfMGE1bjk4SW1Qbk1qRkVvUmdtNmpiRnJQU1hiSXRxeURIbTZrdEtZUnhXdjNDYVY5UWdnaDdUQ29qbFpDdlQxVXlmOTZFN2ljTUFwcWJtc0NuNW5CQTF6alhndnRKcWU1THJrNVctaHlsMGNSQ1k3ejJ0TEdkcFlsZ3ZTaXBsamJsckdxZTBMeXdL?oc=5",
-      "summary": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777501277000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 140060198,
@@ -365,17 +717,6 @@
       "category": "company"
     },
     {
-      "id": 7869981,
-      "headline": "Iranian soccer officials claim 'inappropriate behavior' at Toronto airport, set to miss pre-World Cup meeting - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3VSeUtPcnhDNGxTakFYc3g3WWp2YWptcjJRdE1JUnhOUF90czJqa2d6Y28wNTBxdnk3LU5DWk5Ibi1HbFdXazBjcUlFNmlwYTNBRDUyTEpyY0IySEp3WmQ1QkFZYUJWZFFVYU9WTzlzOHdPS3lIQmQzT2NmaEJSbzBoQlNicUYwRVZJdFlReTBNRjE4RjNlTFduXzFnZnhTb2RTdGtfZUdGZVRMdTBBcWJ6NGF3cFFubVF3eFduSWU2WlUy?oc=5",
-      "summary": "Iranian soccer officials claim 'inappropriate behavior' at Toronto airport, set to miss pre-World Cup meeting  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777500075000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 140060165,
       "headline": "Why Stride Stock Topped the Market Today",
       "source": "Yahoo",
@@ -406,6 +747,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777499700000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140084226,
+      "headline": "Tech shares rise in Asia, bonds scarred by central bank hawks as oil spikes",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d6d0a88997562c311133d81a707e7511941f67e11723c4ce6a9682caf3734f0b",
+      "summary": "AI-related shares faredwell in Asia on Thursday after a raft of generally positiveearnings reports, while surging oil prices left bonds batteredas central banks turned more hawkish on inflation and...",
+      "image": "",
+      "datetime": 1777499636000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140060693,
+      "headline": "BigCommerce Unveils Agentic Commerce Push, Payments Overhaul and New Pricing at Commerce Live",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e35dec9db2ded91dbbb206685570b7715623bd90319b86d4db031cc51cfe21d3",
+      "summary": "Executives from Bigcommerce (NASDAQ:BIGC) used the company’s “Commerce Live” event in Chicago to outline product priorities, recent changes to operations, and steps aimed at improving monetization and growth, with a heavy emphasis on integrating its BigCommerce, Feedonomics, and Makeswift assets and",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777499419000,
+      "ticker": "PYPL",
       "category": "company"
     },
     {
@@ -736,369 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777497603000,
       "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140035230,
-      "headline": "Is Verizon Stock a Buy as Strategy Shift Leads to More Subscribers?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0c1f00588ae945a347d83369bf073f3c20ac86dfaaab51d5cb4c30636f6f130b",
-      "summary": "The high-yield dividend stock looks attractive at current levels.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497600000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140035257,
-      "headline": "Google-parent Alphabet soars as rivals stumble over AI costs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3c20b65809f78699a5d920511ad72504920c0cdbd122b3361bc2e292c3083b2",
-      "summary": "Google-parent Alphabet impressed Wall Street with its latest quarterly earnings on Wednesday, as big tech rivals Microsoft, Meta and Amazon left investors lukewarm amid concerns about the huge cost of AI development.Microsoft also reported quarterly revenue and earnings ahead of Wall Street expectations Wednesday, powered by demand for cloud computing and artificial intelligence services that drove revenue.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497375000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035335,
-      "headline": "Meta Stock Falls Sharply Despite Strong Earnings. Blame Higher Capex.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cbd8882aabadd425b613745b5e2f2489768b8919cea186a4d1bd7d2dffccb2bf",
-      "summary": "Shares of Facebook-parent Meta Platforms fell sharply in late trading Thursday despite strong earnings.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497060000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140060204,
-      "headline": "Alphabet Inc. (GOOG) Q1 Earnings and Revenues Beat Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5d56ba6a39ed47199ca2bb613e009fe2b395770d423e87bdba4d229268e456c8",
-      "summary": "Alphabet (GOOG) delivered earnings and revenue surprises of +93.85% and +2.65%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497002000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140060193,
-      "headline": "Amazon (AMZN) Q1 Earnings Lag Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=07392b29d29cae0e340f3075121fae3978ac4f1886111b1f369cf4a517f7e8be",
-      "summary": "Amazon (AMZN) delivered earnings and revenue surprises of -2.22% and +2.07%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777497002000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140035258,
-      "headline": "Microsoft Beats Fiscal Q3 Views On Cloud Computing, AI Strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=97da83e267e60e1112763a85d0c93a0e118aec2101acbdc1fce9fa193487d781",
-      "summary": "Microsoft beat Wall Street's targets for its fiscal third quarter, thanks to strong AI and cloud computing business.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777496910000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035513,
-      "headline": "Palantir Cleveland Cliffs Deal Tests Industrial AI Adoption Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=73191308e1732a3220d746e103dfaca5f3d9c114f7d785c509e6273ffc079f86",
-      "summary": "Palantir Technologies (NasdaqGS:PLTR) has entered a multi year partnership with Cleveland Cliffs to deploy its AI platform across steel manufacturing operations. The agreement focuses on using Palantir software to support AI driven transformation of production and operational workflows at the U.S. steelmaker. This development expands Palantir's commercial footprint further into core U.S. industrial and manufacturing sectors. For investors tracking Palantir, the Cleveland Cliffs deal adds...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777496821000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140026338,
-      "headline": "Top S&P500 movers in Wednesday's after hours session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8ad82679a4fbe8070e9e16b5315730f7ec1837698ab0c5db70449f1e67df96ec",
-      "summary": "Wondering what's happening in today's after-hours session with S&P500 stocks? Stay tuned for the latest updates on movers and shakers.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
-      "datetime": 1777496707000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035231,
-      "headline": "Meta earnings under the microscope",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d973dfa5793f99b2d94c1b720acbdda38f627c65f8d72351383181351e24ae6",
-      "summary": "Roth Capital Partners managing director, senior research analyst Rohit Kulkarni, joins Josh Lipton on Asking for a Trend to break down Meta (META) in detail.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777496628000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035232,
-      "headline": "NVIDIA Sets Conference Call for First-Quarter Financial Results",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c5a01e5d4df8f78993c3be431b70142c554e6474400a6a1200e9f2f227089a9",
-      "summary": "Written CFO Commentary to Be Provided Ahead of CallSANTA CLARA, Calif., April 29, 2026 (GLOBE NEWSWIRE) -- NVIDIA will host a conference call on Wednesday, May 20, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the first quarter of fiscal year 2027, which ended April 26, 2026. The call will be webcast live (in listen-only mode) on investor.nvidia.com. The company’s prepared remarks will be followed by a Q&A session, which will be limited to questions from financial analysts and in",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777496400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140035297,
-      "headline": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e453c6c4e9b03b6cc0399c09a6fa9802b719f7482af71b5c52d4ece6d50de7a1",
-      "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777496340000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 7869104,
-      "headline": "US war in Iran has cost $25 billion so far, says Pentagon official - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0pxNmpQTG80bzB6MDFrTi1IcHBXZEZEc2hoNEc5bTZ2cFllZ3ExcWZYSzVaVGJmbGVra0plRDFVdlUxX0VDM0hxSGdiTzE1M3hXaXg4allzazM4SllWUkU3RDBBZVg4YTRaRzZLVkhqS3VlSE50blp1UVpOdGt1VWNzVmpseGtmdXY5SFJxLWJBcWZpWFllMGJ1dVpJUmtQbVJXVF9ndFNVc2VENmk3ZjRkbUpJQQ?oc=5",
-      "summary": "US war in Iran has cost $25 billion so far, says Pentagon official  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777496331000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140035260,
-      "headline": "Microsoft Q3 earnings tops Wall Street expectations on strong cloud, AI demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc6a99f0178a44c973353b4a90cc6678739af2d105867ef6293b2acebb280499",
-      "summary": "Investing.com -- Microsoft on Wednesday reported quarterly revenue growth that surpassed analyst expectations, as the company’s substantial investments in artificial intelligence infrastructure yielded returns amid strong demand for cloud services and AI.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777496060000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035233,
-      "headline": "NVIDIA (NVDA) Powers New Pony AI Autonomous Driving System",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1bb0c1e0906d5c506086e192a0acbdd18077874df76c3ce7d5adc1b8795ac8e6",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the Harvard University Stock Portfolio: Top 10 Stock Picks. On April 25, 2026, Pony AI Inc. unveiled an upgraded Level 4 autonomous driving domain controller developed in collaboration with NVIDIA Corporation (NASDAQ:NVDA). The system was built on the NVIDIA DRIVE Hyperion platform and utilizes NVIDIA DRIVE AGX Thor and […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777496054000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140035261,
-      "headline": "Microsoft Q3 2026 earnings beat on cloud and AI growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a73671a26b9cf4e3afec0152f5712bb3b2b15c204513b3122acc0bba8cb0fe75",
-      "summary": "Azure revenue grew 40% year over year, topping analyst expectations, as total quarterly revenue rose 18% to $82.9 billion",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495988000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035337,
-      "headline": "Meta Platforms (META) Pursues Space Solar and Long Duration Storage with Partnerships",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbe8769fbffc7ffea394f2030e75f8cd3341f2d52d0572c35a5b06f692f8a316",
-      "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the Harvard University Stock Portfolio: Top 10 Stock Picks. Meta Platforms, Inc. (NASDAQ:META) announced two major energy partnerships: Overview Energy and Noon Energy on April 27, 2026, in a blog post titled, ‘Powering AI, Strengthening the Grid: Innovation in Space Solar Energy and Long-Duration Storage’. With the collaborations, […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495986000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140035276,
-      "headline": "Amazon shares lower as record AI investment offsets cloud acceleration",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=158c7c40f76ac7af9b0d4ae36edfbfea0b6ea4476f0d9fc19f4b88f33482f49a",
-      "summary": "Investing.com -- Amazon.com shares traded down 2.6% after-hours on Wednesday evening after the company’s record-breaking quarterly profits were met with a significant ramp-up in infrastructure spending. The technology giant reported earnings per share of $2.78, which crushed the analyst consensus of $1.63, while revenue of $181.5 billion also cleared the $177.13 billion Street estimate. The focal point of the release was a 28% growth rate at Amazon Web Services, signaling a major re-acceleration",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495928000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140035277,
-      "headline": "Amazon (AMZN) Secures Major AWS Deal With Meta",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b626f7ae4d909e56f7b2b638ee161855442a587ba57a32168d375bfd79dc293",
-      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the Harvard University Stock Portfolio: Top 10 Stock Picks. On April 24, 2026, Amazon.com, Inc. (NASDAQ:AMZN)’s Amazon Web Services (AWS) secured an agreement with Meta to deploy tens of millions of AWS Graviton processor cores. With this collaboration, Meta becomes one of the world’s largest Graviton customers. The company […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495921000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140035234,
-      "headline": "3 Best Consumer Staples Stocks to Buy and Hold for Decades",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=72c67c24e50d20137bdf2c74a98d3251367d04f21f1951a81b9e017660fd46ac",
-      "summary": "These consumer companies have served customers for decades, and their stocks trade at attractive levels.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495920000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7870199,
-      "headline": "Amazon's cloud unit reports 28% sales growth, topping estimates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html",
-      "summary": "Amazon Web Services now accounts for over 20% of its parent company's total revenue.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108298892-17774389372025-12-05t144936z_254473113_rc279iahprbv_rtrmadp_0_aws-conference.jpeg?v=1777438995&w=1920&h=1080",
-      "datetime": 1777495880000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 140035298,
-      "headline": "Alphabet's first-quarter profit soars as Google's big AI bets help push stock to new highs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0bff44299142e2c6f97647264689e43e2a5555fb1dcd88eeb9f1bb7fc5a50ea4",
-      "summary": "Google’s transition into the era of artificial intelligence continued to pay off for its corporate parent, Alphabet Inc., which on Wednesday announced another quarter of the stellar growth that helped to more than double its already lofty market value during the past year.  Alphabet's stock price rose more than 6% in extended trading after the numbers came out, setting up the shares to hit a new high during Thursday's regular session.  The company's market value currently stands at $4.2 trillion, up from $1.9 trillion just a year ago.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495843000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035339,
-      "headline": "Meta Q1 2026 earnings: AI capex raised to $145B",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d6d84e0a26128e8b7bf3519272e9bdb6bbdeef8c1e8c3396228db3367ac8d3a",
-      "summary": "The company beat revenue estimates and posted strong profit growth, but an upgraded capital expenditure outlook rattled investors",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495773000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140035262,
-      "headline": "Microsoft (MSFT) Expands AI Push With Microsoft Elevate in Malaysia",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a9ffadf01f0fe3a2c861992a04b606b3966755912a7e6af2c81134a7a7166183",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the Harvard University Stock Portfolio: Top 10 Stock Picks. The Malaysian Ministry of Digital and Microsoft Corporation (NASDAQ:MSFT) announced the launch of Microsoft Elevate on April 24, 2026, deepening the country’s AI partnership with the company. This national initiative supports the AI Nation 2030 vision by providing AI training […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495768000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035299,
-      "headline": "BMO Capital Raises Alphabet (GOOGL) Price Target by $10 – Here’s Why",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03d44e6d495300c4505e3014519eb2794d77e290376a6f98cc67cdc8a0b93452",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the Harvard University Stock Portfolio: Top 10 Stock Picks. On April 24, 2026, BMO Capital raised its price target on Alphabet Inc. (NASDAQ:GOOGL) from $400 to $410. The firm’s analyst Brian Pitz reiterated the Buy rating on the stock. Alphabet Inc. (NASDAQ:GOOGL) is all set to report its Q1 […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495729000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035340,
-      "headline": "Entergy Corporation Q1 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99daa76902469cb23cf125537cad81cdef371f1e07b79dea1eadbd9a04fcddcf",
-      "summary": "Moby summary of Entergy Corporation's Q1 2026 earnings call",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495654000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140022027,
-      "headline": "Amazon.com Inc (NASDAQ:AMZN) Q1 2026 Results: Revenue Beat Offset by EPS Miss and Cautious Guidance",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=84cacded7394a5c2491db61ba1098bdfcb575f5ff7cbb0ed2d87357795d2be39",
-      "summary": "Amazon (AMZN) Q1 revenue beat at $181.5B, but EPS of $1.56 missed estimates. AWS surged 28% and AI chips hit $20B run rate, but heavy capex and cautious guidance weighed on shares.",
-      "image": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_16_065e226ebd.webp",
-      "datetime": 1777495574000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140022025,
-      "headline": "Meta Beats Q1 Earnings but Revenue Miss and Capex Spike Hit NASDAQ:META",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=fd7d9ff195222ae98e8e5d255cbc5de7faf2180ddb5c3fe815ab548d9fb10199",
-      "summary": "Meta beat Q1 earnings estimates but shares fell 5.6% on a slight revenue miss and raised capex outlook, as investor focus shifted to AI spending concerns.",
-      "image": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
-      "datetime": 1777495537000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140035300,
-      "headline": "OGE Energy Corp. Q1 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0bd8ec80b8b7f2be86e259e3196b6ff5c71e112548483740988c7b82bfe296a",
-      "summary": "Moby summary of OGE Energy Corp.'s Q1 2026 earnings call",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495535000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035301,
-      "headline": "Alphabet tops quarterly revenue and profit estimates on Google Cloud surge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7aaa527362880f442abfd8caba9cd2acddd671f50b2f6aae4b5e10a9301c638",
-      "summary": "Alphabet Inc (NASDAQ:GOOG) reported first quarter results that beat Wall Street expectations, sending its shares almost 4% higher after Wednesday’s closing bell. The company posted revenue of $109.9 billion for the quarter ended March 31, up 22% year over year and above analyst estimates of...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495440000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035263,
-      "headline": "Microsoft earnings beat estimates as AI business jumps 123% YOY",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0ae96ce8063339b341eecc2315afd9c25ff8faf380b68b0ccc681e4c71f08a64",
-      "summary": "Yahoo Finance Tech Editor Dan Howley and Spear Invest founder and CIO, Vana Delevska, join Market Domination to break down Microsoft's (MSFT) third-quarter earnings beat as the tech giant also reports its AI business surged 123% year over year.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495322000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140035302,
-      "headline": "Alphabet Beats First-Quarter Views Amid Google Cloud, Services Strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a62f1c86eed75aad284e32c2d93cdf31622f723c9c300934e9661a071c1f5dc",
-      "summary": "Alphabet's (GOOG, GOOGL) first-quarter results exceeded Wall Street's estimates as revenue for Googl",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495264000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140035235,
-      "headline": "Why Visa Stock Popped Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d077490805eaa46e90575967bfeef1392072f4f9ab1e44487674e50736ee8317",
-      "summary": "The U.S consumer is more resilient than many investors thought.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495235000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140035346,
-      "headline": "Musk faces harsh grilling under oath in courtroom showdown with Sam Altman",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a61e9c81d00e2a328208436905fffc3eb208fc53a9aeba6b8b3deb9ae6a5c892",
-      "summary": "Lawyers for Musk, the world’s richest person, sought to paint him as a tech pioneer who wanted to aid humanity. A judge cut off his long-winded answers",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777495210000,
-      "ticker": "TSLA",
       "category": "company"
     }
   ]
