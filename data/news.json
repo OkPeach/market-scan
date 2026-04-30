@@ -1,6 +1,39 @@
 {
-  "timestamp": 1777565071937,
+  "timestamp": 1777571534014,
   "items": [
+    {
+      "id": 7874439,
+      "headline": "Pricey NFL, NBA ownership stakes are pushing investors to smaller leagues and driving valuations higher",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/pricey-nfl-nba-ownership-stakes-investors-leagues-valuations.html",
+      "summary": "Priced out of the NBA and NFL, investors are asking bankers about opportunities to buy minority stakes in teams with lower valuations.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108276623-1773236214967-gettyimages-2248465163-nwsllr112225214.jpeg?v=1773236280&w=1920&h=1080",
+      "datetime": 1777568414000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140119936,
+      "headline": "Exploring the top movers within the S&P500 index during today's session.",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=58bbaf8812dbcfd9b458ab484d30d03676bdf94960342bf7130e1197b1542842",
+      "summary": "Wondering what's happening in today's session for the S&P500 index? Stay informed with the top movers within the S&P500 index on Thursday.",
+      "image": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
+      "datetime": 1777566904000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 7874322,
+      "headline": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX loan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
+      "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/106886242-16215425443312a-Blue-Owl-CB-Photo-210520-PRESS-22-jpg?v=1621542582&w=1920&h=1080",
+      "datetime": 1777566420000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 140119000,
       "headline": "Apple says India antitrust body overstepping judicial authority as spat intensifies",
@@ -110,6 +143,17 @@
       "datetime": 1777563000000,
       "ticker": "MSFT",
       "category": "company"
+    },
+    {
+      "id": 7874444,
+      "headline": "US naval blockade squeezes Iran's oil exports, forces crude onto floating storage - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN0xvd3g1SmVhWDV0WmxKUktrbWxYQ3pSWDJKeU1sYXdHVGVsaUpRa1IycEo2dHY4ZFd0czNtczNfVHE2cWJNZmxLM0x3Qm9KcVRDdWZPUko4NUhyYXBBMkNsdEhkNExaZ0kzbUE4aXZqTm45ZnJfa2wzODAyUjRYajcwNkJ4ZGxRcDZycDRSdWwzZzZ5ay03b3lnb1hXLWFhSW9uMC1ReDlEbGdBeDFVemhyTlp2UUxyX1FPTko5NWNCQTFvRmRmTjRvYw?oc=5",
+      "summary": "US naval blockade squeezes Iran's oil exports, forces crude onto floating storage  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777562884000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140118985,
@@ -783,6 +827,17 @@
       "category": "company"
     },
     {
+      "id": 140120753,
+      "headline": "Wall St futures climb as investors balance earnings optimism against oil woes",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d8562898278b324c318ed83be62aedbbcc79d29cac65e50c8f6df0412166c43d",
+      "summary": "U.S. stock index futures rose onThursday, recovering from an earlier bout of caution asinvestors weighed strong earnings against renewed inflationworries sparked by elevated oil prices. ...",
+      "image": "",
+      "datetime": 1777556235000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140117653,
       "headline": "Meta downgraded, Qualcomm upgraded: Wall Street's top analyst calls",
       "source": "Yahoo",
@@ -871,6 +926,17 @@
       "category": "company"
     },
     {
+      "id": 7874445,
+      "headline": "India central bank's FX forward book balloons to over $100 billion as Iran war pummels rupee - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMHRkVDFzeGRONm9RenJOMGNwaTVYU2tyTkctaTh3VnpsNFQtTmE1SXhxbHhIVTYxRlV2M2MwcFVGRDB2ZTdqX0tGcXNUaC1iUGM0VWFIREtRYTNjNk9mX3c1aEZlSEtyWXNXeWpiVENaSnBSYTI4ZnVNZzVrUjlnRDB2cGkzZGVVTmF4YTBFeW5FUzBTOF9rOXhtQnhsNDR6dmtaNUFreTlnMmlEcGw4UnFMWnJYc0ljaENrOWF3NUVoNmdX?oc=5",
+      "summary": "India central bank's FX forward book balloons to over $100 billion as Iran war pummels rupee  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777555449000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140117657,
       "headline": "Meta Falls as AI Spending and Legal Risks Weigh",
       "source": "Yahoo",
@@ -915,6 +981,17 @@
       "category": "company"
     },
     {
+      "id": 140120363,
+      "headline": "Qualcomm CEO Cristiano Amon on expected China smartphone sales 'bottom' this current quarter",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1f07c1900adb9e28d8ff7cc2c17ac88b1ec110317096953c71bddfbde461f4e0",
+      "summary": "Qualcomm CEO Cristiano Amon sits down with CNBC's Jon Fortt to discuss smartphone sales, the impacts of artificial intelligence, and more.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108300036-17775629321777562930-45614462072-1080pnbcnews.jpg?v=1777562931&w=1920&h=1080",
+      "datetime": 1777555060000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140117711,
       "headline": "Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett",
       "source": "Yahoo",
@@ -948,6 +1025,17 @@
       "category": "company"
     },
     {
+      "id": 140120297,
+      "headline": "Microsoft: AI Paradigm Shift Is Imminent",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c03fd7fdf145c27bd54e3bb3e8f65ed1fc0e11982cef38c454e6713697274bbb",
+      "summary": "Microsoft Corporation's transition to AI inferencing and agentic AI may alleviate cost pressures. Click here to read an analysis of MSFT stock now.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/638229650/image_638229650.jpg?io=getty-c-w1536",
+      "datetime": 1777554848000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140117659,
       "headline": "Why I hate Meta's latest quarter",
       "source": "Yahoo",
@@ -970,6 +1058,17 @@
       "category": "company"
     },
     {
+      "id": 140120320,
+      "headline": "Final Trades: Cisco Systems, Abbvie, Zoom and Netflix",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0b96ea63587016295cad1941a481c52c4801fd9a2a35543c01156c4282d7cc48",
+      "summary": "The Investment Committee give you their top stocks to watch for the second half.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108300139-17775684811777568479-45615943207-1080pnbcnews.jpg?v=1777568480&w=1920&h=1080",
+      "datetime": 1777554719000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140117542,
       "headline": "What Big Tech Earnings Mean for Nvidia and Other AI Chip Stocks",
       "source": "Yahoo",
@@ -981,6 +1080,17 @@
       "category": "company"
     },
     {
+      "id": 140120188,
+      "headline": "OG&E announces landmark contract with Google",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=86b53452706a9d24d7691c95ef8439e2ddb4b82ede076302b2801daa10e239d6",
+      "summary": "OGE Energy Corp: OG&E announces landmark contract with Google OGE Energy Corp - Google to pay 100% of grid connection and contracted costs for data centers OGE Energy Corp - OG&E to power...",
+      "image": "",
+      "datetime": 1777554660000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140117543,
       "headline": "Starbucks Soars to New High on CEO’s ‘Turn’ Signal. Is the Easy Money Already Gone?",
       "source": "Yahoo",
@@ -989,116 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777554617000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140117544,
-      "headline": "S&P 500 Rides Tech Earnings Wave Despite Inflation Warning Shot",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f5a5fd19bf0f1a33354e212f2dcf0666fcb2ff1ac232c86e972392a211689d7",
-      "summary": "The S&P 500 (^GSPC) is off to the races this morning, up 0.50% thanks to tailwinds from mega-cap earnings beats and a sharp pullback in oil prices, even as the Fed’s preferred inflation gauge ran hotter than expected. The broader markets are seeing the glass half full, pushing the S&P 500 (^GSPC) to a gain ... S&P 500 Rides Tech Earnings Wave Despite Inflation Warning Shot",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554572000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140117545,
-      "headline": "Pony AI Expands Autonomous Suite As Investors Weigh Growth Versus Profitability Path",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=df9c771ff8c985381ba8e2d579a35c9a3763632b900beadb1f000aded0ee1664",
-      "summary": "Pony AI (NasdaqGS:PONY) announced a new generation autonomous driving domain controller developed with NVIDIA. The company expanded its Gen-7 Robotaxi platform with significant cost reductions and introduced a fully redundant L4 light-duty truck. Pony AI also unveiled a next generation AI world model for Virtual Driver training to support international commercialization across robotaxis and autonomous logistics. Pony AI operates in autonomous mobility, focusing on robotaxis and self driving...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554449000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140117617,
-      "headline": "Billionaire Philippe Laffont Loves Meta Platforms (META): Should You Buy Post-Earnings Dip?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=07548419b43523462cbdc59a57718b1aad5b1026619c8862d0ac1a10b21d6c12",
-      "summary": "We just covered Here is How Billionaire Philippe Laffont’s Top 10 Picks Crushed The Market. Meta Platforms Inc. (NASDAQ:META) ranks #3 (see the Here is How Billionaire Philippe Laffont’s Top 5 Picks Crushed The Market). YTD Stock Performance: +3% Philippe Laffont’s Stake: $2.49 Billion Meta shares were falling early Thursday, and the reason is easy to guess: […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554435000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140117618,
-      "headline": "How We Chose the TIME100 Companies of 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=211dbd2b0c2703287d6763d19ff385d4230fcc515ceb88d4367c81209dc3365b",
-      "summary": "The annual list highlights businesses making an extraordinary impact around the world.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554389000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140117546,
-      "headline": "Amazon Is More Vulnerable Than You Think",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ff021ea09d968f699c8ff5b0cbffb91d1138cc760a2b70b8970688645987ebb",
-      "summary": "Artificial intelligence (AI) is proving to be a costly opportunity in the cloud computing industry.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554300000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140117578,
-      "headline": "Google Stock Pops On Q1 Earnings As Analysts Trumpet 'Full Stack' AI Platform",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93aee7a4b063728bf14b3c2bc723b26c82698d242981be1119518eca1577aa0b",
-      "summary": "Google stock rose as parent Alphabet’s Q1 earnings showed strong growth in cloud computing and search ads amid huge AI investments.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554184000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140117666,
-      "headline": "Meta looks to raise up to $25 billion with bond sale, Bloomberg News reports",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=448830d49c1887e318add9175b8bfe1be20df1a542249fc69782ce83b8b75cb9",
-      "summary": "Meta Platforms is looking to ‌sell between $20 billion and $25 ‌billion of investment-grade bonds, Bloomberg ​News reported on Thursday, citing people with knowledge of the transaction.  The company ‌had raised $30 ⁠billion in its biggest-ever bond offering last ⁠year, part of a recent push by ​Big Tech into ​debt ​after years ‌of relying on their strong cash flows to fund investment.  Meta did not immediately respond to a Reuters ‌request for comment.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554101000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140119010,
-      "headline": "Zacks Investment Ideas feature highlights: KB Home",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad970d85f9beeca44e50abaf184ab690c245bd4f97dc74a1a27eafb73c3d14c1",
-      "summary": "KB Home faces slowing demand, shrinking margins, and high-rate pressure as backlog drops and earnings outlook weakens.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554000000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140117563,
-      "headline": "Meet the AI-powered fan companion: TGR Haas F1 Team RaceMate powered by Infobip",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa8f4c8f5ea1536eb360d0844a206b0abcac208ce5d7421905647c172bf47a27",
-      "summary": "VODNJAN, Croatia, April 30, 2026--Global AI-first cloud communications platform Infobip and TGR Haas F1 team are launching ‘TGR Haas F1 Team RaceMate powered by Infobip’, an AI-powered conversational fan companion on Apple Messages for Business and WhatsApp Business Platform. Always-on and always available, it delivers race intelligence for TGR Haas F1 Team: team race intelligence, grid positions, qualifying outcomes, sprint results, and full session schedules. The AI agent tracks drivers Ollie",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554000000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140117620,
-      "headline": "Google Partner NovaCore Labs and AIBotics Advance Acquisition and Expand Robot Deployment Across Jamaica",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=58a6817040ba7c82e98ff3e5ffe574560bd9cfd31f4f5573ad8fa650df7fd062",
-      "summary": "KEENON Robotics, a Global Leader in Service Robotics, Partners With AIBotics and NovaCore Labs to Enter Jamaican Market Accelerate Into High-Demand Caribbean MarketsMIAMI and KINGSTON, Jamaica, April 30, 2026 (GLOBE NEWSWIRE) -- AIBotics, Inc. (OTC: AIBT) (“AIBotics” or the “Company”), a global operator deploying AI-enabled robotics and intelligent automation solutions through strategic partnerships across international markets, today provided an update on its planned acquisition of NovaCore Lab",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777554000000,
-      "ticker": "GOOGL",
       "category": "company"
     }
   ]
