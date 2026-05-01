@@ -1,6 +1,171 @@
 {
-  "timestamp": 1777619723755,
+  "timestamp": 1777627048576,
   "items": [
+    {
+      "id": 140129145,
+      "headline": "How the Fed’s Interest Rate Decision Will Impact Your Social Security Checks This Month",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c097c337147518a436b298fc805a84dae33b1377e67e71b034b377ea0e510ba5",
+      "summary": "The Federal Reserve made headlines in April by choosing to hold interest rates steady, extending an ongoing pause. Of course, that pause wasn’t exactly a surprise. Inflation soared in March in the wake of the Iran conflict. The Fed commonly lowers interest rates in response to cooling inflation. Since March’s situation was the opposite, it ... How the Fed’s Interest Rate Decision Will Impact Your Social Security Checks This Month",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777621055000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140129146,
+      "headline": "Prediction: This Popular Cryptocurrency Could Hit $0 by Year-End 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e56555b151296d79db0fd847b027b34e3b06c439baa1eb022fc71c32f2d90653",
+      "summary": "Shiba Inu's weakening fundamentals signal a gradual loss of relevance.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777621020000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140129166,
+      "headline": "Marvell’s AI Data Center Push Meets Early Quantum Computing Exposure",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1221fd05a2bbc3ee1a217cb6ac49454235c902f385666cda71bc00b59c13cee",
+      "summary": "Marvell Technology (NasdaqGS:MRVL) has acquired Polariton Technologies, expanding its high speed optical connectivity capabilities for AI data centers. The company is integrating Polariton with Celestial AI solutions and working on custom chips and design wins with several major hyperscalers, including Google. Marvell is also gaining exposure to quantum computing through partnerships and inclusion in quantum focused ETFs tied to government and enterprise projects. For you as an investor,...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777620732000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140129147,
+      "headline": "Is SpaceX's Biggest Risk Also the Best Reason to Buy It?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d9ca286c90e6c5cd6e8cb93d12dd3c992d7af364ac6bc202dc9dedf1e39dd49",
+      "summary": "SpaceX is eyeing an IPO that would make it one of the most valuable companies in the world.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777620300000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140129156,
+      "headline": "Apple Inc (AAPL) Q2 2026 Earnings Call Highlights: Record Revenue and Strategic Shifts Amid ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18316886ff82a45d9168e0415cddbdb6b7310b09b4eb4d607146962c01bd0b56",
+      "summary": "Apple Inc (AAPL) reports a record $111.2 billion in revenue, while navigating supply constraints and evolving its capital allocation strategy.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777620041000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140129186,
+      "headline": "Riot Platforms Inc (RIOT) Q1 2026 Earnings Call Highlights: Strategic Expansion and Financial ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb81302930b3b8c8d5cca2c53d0886f061f88692b0bbac6822f8dda5108e2e68",
+      "summary": "Riot Platforms Inc (RIOT) reports significant Bitcoin holdings and data center growth amid a substantial GAAP net loss.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777619993000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140129163,
+      "headline": "SPS Commerce Inc (SPSC) Q1 2026 Earnings Call Highlights: Strong Revenue Growth Amidst Amazon ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24f704240a3ebef8fba1513b745bbd201f0e132bdd19e328e43542bae0efbd75",
+      "summary": "SPS Commerce Inc (SPSC) reports a 6% revenue increase and robust AI-driven efficiencies, while navigating headwinds in its Amazon revenue recovery business.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777619966000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140129148,
+      "headline": "Will XRP Ever Be Below $1 Again?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e56aedc366a64682926d85e64537daa5eceb48d52bd633f114951a20a8157a43",
+      "summary": "This coin has spent plenty of time in the doldrums.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777618860000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140129191,
+      "headline": "Is It Too Late To Consider Intel (INTC) After A 140% Year To Date Surge",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6351186e495fe3874a33a7936fcac45b49412a9769fb4b3a3da690442ed6ddff",
+      "summary": "If you are asking whether Intel's current share price still offers value or if most of the easy gains are already gone, this article is designed to help you frame that question clearly. Intel's share price recently closed at US$94.48, alongside returns of 14.5% over 7 days, 96.7% over 30 days, 139.9% year to date, 358.2% over 1 year, 211.1% over 3 years, and 79.0% over 5 years. These figures may prompt you to reassess both upside potential and risk. Recent coverage has focused on Intel's...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777616487000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 140129157,
+      "headline": "Apple Earnings: This Important High-Margin Segment Is Seeing Accelerating Momentum",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb78af1d0bf9b3c1850adc4f6e048b04fcb1c9084d0ae95ce0a3784cc5ad3449",
+      "summary": "This key segment could reshape the tech giant's profit profile in ways the iPhone can't.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777616340000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140129158,
+      "headline": "Unprecedented AI Spending Is Rewriting Big Tech’s Earnings Season Playbook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddd3c5e9c768a153d5fde37f43aa6869a42c5512a765a287a58a1b96859f42f2",
+      "summary": "Investors increasingly want clear signs that AI is paying off. In the latest quarter, only one Big Tech firm truly made the case.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777616100000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140129161,
+      "headline": "Pearson Q1 2026 Trading Update (Unaudited)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af11a01086552c305bf6c911657add204941b6553098134e9be5648f26864fc0",
+      "summary": "Pearson Q1 2026 Trading Update (Unaudited)",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777615800000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 7877572,
+      "headline": "Dubai chefs shrink menus as Iran war makes tomatillos, scallops harder to source - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlF5QzRRbFBsRlgwS0dWaGdFQVJOdUplelMyUGN0aWcyYnBXeXlGSzQ1a0t4ODBraTc2T0IzYVIzWVF4VXkyWVhkWFZaSkNid3dNZWlobHQ5X3FqUFBhc0p1R21ORlF0SHVOUFdkb0tVcWlCZFJZR0phYklHRGczUmtncy1mWFNLOHBDWlBOcVprV21MNzE5WU9GZzhMcXZpMENTZTEyUzJQODdmMzhWTWU0dEt3dG1JTl95OV9CY2lGYy1PMVE?oc=5",
+      "summary": "Dubai chefs shrink menus as Iran war makes tomatillos, scallops harder to source  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777615320000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140129159,
+      "headline": "This Tech Sector ETF Gives Investors the Best Bang for Their Buck",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e68095adf6bb4b58ed348e4ddefe18493778a66982653764dba09cb40926de14",
+      "summary": "Earnings for State Street Technology Select Sector SPDR members are expected to be up 43% this year from last and rise another 24% in 2027.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777613400000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140129735,
+      "headline": "New Tesla registrations in Netherlands up 23% in April, to 469",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c68c0c13d29ab4954684f7d063be7a846008cf1fd353fb7b855f8372585c045d",
+      "summary": "Registrations of new Teslas sold in the Netherlands increased by 23% in April to 469 cars sold, from 381 in April 2025, according to data published on Friday by Dutch automotive industry association...",
+      "image": "",
+      "datetime": 1777611628000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
     {
       "id": 140128398,
       "headline": "Apple shares rise as iPhone 17 and MacBook Neo drive forecast",
@@ -9,6 +174,39 @@
       "summary": "STORY: Apple on Thursday touted blowout demand for its flagship iPhone 17 and the MacBook Neo that helped power a solid sales forecast sending its shares up nearly 4% after hours.The tech giant's executives said they expect sales growth of up to 17% in the current fiscal third quarter.That's above Wall Street estimates of 9.5%, according to LSEG data.In the second quarter ended March 28, sales and profits were at around $111 billion and $2 per share, above analyst expectations.In the latest quarter, sales of the iPhone, still the company's best-selling product, were $56.9 billion, slightly less than estimates.CEO Tim Cook said iPhone sales were held back in the quarter by supply constraints for the device's advanced processor chips.Mac sales, which included several weeks of Neo sales, were $8.4 billion, beating expectations.Analysts believe the Neo could help Apple crack a new $20 billion market for lower-priced laptops.In the fiscal second quarter, Apple’s existing inventory of memory chips helped it weather rising prices.But memory costs will catch up to Apple starting in the current quarter ending in June.Cook, in a conference call with analysts, said they believe it will \"drive an increasing impact\" on the business.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777611040000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140129544,
+      "headline": "ELuminous Drives 65% Reduction in Onboarding Time for European Pharma Firm Using ServiceNow",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7ca186c58e1773ffa2cc5b821637870469c21324823fdf7edf3cea09aba5af0d",
+      "summary": "* eLuminous Technologies delivered a unified ServiceNow HRSD onboarding portal for a European pharma company expanding into India. It centralized HR, IT, Facilities, and Compliance workflows amid GxP,...",
+      "image": "",
+      "datetime": 1777610773000,
+      "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140129510,
+      "headline": "Stock Futures Higher, Oil Elevated as European and Asian Markets Shut",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0851ebca2e53a916fe3ce16a1c14c487f206f1996966b9047b882fbaf322028a",
+      "summary": "By Dow Jones Newswires Staff U.S. stock futures edged higher after most major indexes recorded their best month in six years, as the continued impasse in U.S.-Iran peace talks took a back seat....",
+      "image": "",
+      "datetime": 1777610131000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140129420,
+      "headline": "Apple Q2 Results: Big Growth, But Why You Shouldn't Buy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=afb3a1e4bb373bfd3364101261b2f62cc8fa59b4ed78e854b0455989ea7b6a77",
+      "summary": "Apple Inc. delivered another double beat in Q2, with revenues and EPS up year-over-year, driven by strong iPhone sales. Learn why AAPL stock is a hold.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1705316992/image_1705316992.jpg?io=getty-c-w1536",
+      "datetime": 1777609363000,
       "ticker": "AAPL",
       "category": "company"
     },
@@ -32,6 +230,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777608472000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140129174,
+      "headline": "Zuckerberg says Meta layoffs tied to AI spending, won't rule out future cuts",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d1aa430a3028916af45fe64e27f105787160c26d4e4a53201ad59f10a7fb3d6",
+      "summary": "Mark Zuckerberg says Meta's plan to cut about 10% of its workforce is tied to increased AI investment, while leaving the door open to additional layoffs.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777607717000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140129094,
+      "headline": "Meta Q1 2026 Earnings: Nothing To Complain About",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a85b1e67c065fc44a2db5353e93615d9b59cb7106f4dea0de3ec25710e708091",
+      "summary": "",
+      "image": "",
+      "datetime": 1777607100000,
+      "ticker": "META",
       "category": "company"
     },
     {
@@ -879,226 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777585484000,
       "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124553,
-      "headline": "Stock Market Today, April 30: U.S. Markets Surge Higher Despite a Mixed Bag of Earnings From Big Tech",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2ab0985bf5667fd8bb3a5c7acffede2382b6b26e7bdac442f7d8b72e368abbf",
-      "summary": "On April 30, 2026, Alphabet’s upbeat AI message reshaped Big Tech’s pecking order as investors reassessed earnings strength across the market.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777585392000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140126042,
-      "headline": "How US Stock Markets Rewarded Google But Punished Meta After Q1 Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f59227b7403bf24a31da2126e1d9bb356d2855a602606814ed802334e3606a28",
-      "summary": "Google Q1 2026 earnings lift Alphabet by $300B in one session while Meta drops $175B on the same AI capex story.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777585363000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140124536,
-      "headline": "Apple CEO Tim Cook says it’s the right time to transition his role",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=75e93ac4aed9933ae0e35dbd317187fee019547e74622017e5c54b4b3b94066e",
-      "summary": "This is the first earnings call since Apple (AAPL) CEO Tim Cook announced his plans to step down in September, choosing long-time Apple executive John Ternus as his successor.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777585287000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124537,
-      "headline": "Apple soars past Wall Street expectations as CEO Tim Cook prepares to step down",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f93b3de8ff5d38e1d334c438b45f5cdbde46873de3d2495fe12e70148003d0c3",
-      "summary": "Company reported $111.2bn in revenue in first earnings report after announcement of Cook’s pending departure",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777585114000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124538,
-      "headline": "Apple's wait-and-see AI strategy isn't a problem: Earnings takeaways",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=70f6a016337c4032bdb50125a861e75ef8bc8f2f674fd1148e417a343e3aa403",
-      "summary": "Apple (AAPL) reported second quarter results on Thursday after the closing bell. Adjusted earnings per share (EPS) came in at $2.01 (compared to analyst estimates of $1.96), and revenue came in at $111.2 billion (compared to analyst estimates of $109.66 billion). D.A. Davidson head of tech research Gil Luria and Neuberger Berman senior research analyst Dan Flax chat with Yahoo Finance about the earnings results, the China market, Apple's artificial intelligence (AI) strategy, and expectations for incoming CEO John Ternus.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777584838000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124518,
-      "headline": "Tesla Stock Is Outrageously Cheap. Here's Why There Could Be Another 100% in Upside Potential.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa6b563f76c3ee8581ae7b411fdfb6f0fc85c98eb2af8e2b81691742947e9c42",
-      "summary": "One opportunity could add $1 trillion to Tesla's market cap.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777584300000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140126822,
-      "headline": "Silver And Gold Intraday Outlook: Metals Shine Bright After The FOMC Meeting",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c0ad5239ef308ebc2ed36fce8e66fe58f87e4d65750f04d4437e210311dfa88a",
-      "summary": "Silver and gold are bouncing higher again after the Federal Reserve and other central bank meetings.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387014973/image_1387014973.jpg?io=getty-c-w1536",
-      "datetime": 1777584300000,
-      "ticker": "GLD",
-      "category": "company"
-    },
-    {
-      "id": 140124540,
-      "headline": "Apple beats out earnings estimates with continued iPhone momentum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29a8467ae38fdc7b75d44ad01bcde9c9835106014bc6c5a9e464b7c831eb15f8",
-      "summary": "Apple posted strong results for its quarterly earnings on Thursday, but investors’ attention is also focused on the upcoming CEO change and the tech firm's artificial intelligence strategy.  Apple CEO Tim Cook announced earlier this month he will be stepping down from the role, with Apple’s head of hardware engineering, John Ternus, assuming the role later this year.  The January-March results announced Thursday reflect the continued momentum of iPhone sales.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777584002000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124567,
-      "headline": "Stock Market Today, April 30: Amazon Rises on AWS AI Growth and an Earnings Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=380586f2e7ae26fc54d19254a610777dbb0475e160a1d174e2f8aacbd18dee75",
-      "summary": "AWS’s AI rebound, surging cloud demand, and hefty capex are reshaping this tech giant’s profit mix, today, April 30, 2026.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777583821000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140124612,
-      "headline": "Reddit Stock Jumps As Q1 Results Beat Expectations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=802df9d9a4809617af6bc539fa69df52c86ee432a9f99c3ba9892a7fbf4e3c15",
-      "summary": "Reddit stock was climbing late Thursday after posting first-quarter results ahead of Wall Street's forecasts.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777583445000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140124135,
-      "headline": "Apple Inc. (NASDAQ:AAPL) Q2 Earnings Beat Fails to Spark Rally as Stock Dips in After-Hours Trading",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=cb1d30f42ef9508d4ea03918becaa2401ceb25fc475caa72653494dea8064524",
-      "summary": "Apple reported record Q2 revenue of $111.2B and EPS of $2.01, beating estimates, driven by strong iPhone 17 and Services growth. Shares dipped slightly in after-hours trading despite solid results and a $100B buyback authorization.",
-      "image": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
-      "datetime": 1777583257000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126003,
-      "headline": "AI Debt Investors Show Fatigue After $300 Billion Binge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c4cf364dbd88a035627fc1d6d791ce23ce8494cc57d557f0c1ba4a76649d6343",
-      "summary": "(Bloomberg) -- After a $300 billion AI debt binge that spanned every corner of the credit market, investors are starting to show some signs of fatigue.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTwo NJ Malls Separated by Just Four Miles — and Very Different FatesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobMake no mistake: There’s still appetite for those dea",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777583249000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140124542,
-      "headline": "Apple Beats Second-Quarter Views Amid iPhone Strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c2e480abe3dada12f1a2d6dd16af49bf19f5e56e996bd311a725325fd115891e",
-      "summary": "Apple (AAPL) reported fiscal second-quarter results above Wall Street's estimates as iPhone revenue",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777583210000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124543,
-      "headline": "Apple Tops March-Quarter Targets On Strong iPhone 17 Sales",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c0220c7fa312d4e613e98f3cb5539f2b2eb9a5d64aed79eed9e895ea6e708668",
-      "summary": "Apple late Thursday handily beat expectations for its fiscal second quarter. But Apple stock dipped in extended trading.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777583188000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124125,
-      "headline": "Top S&P500 movers in Thursday's after hours session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=652591fb7ec773964a9e1a0a61f350d4b89222b306813c627ca3439e4d6dcdf7",
-      "summary": "Let's have a look at what is happening on the US markets after the closing bell on Thursday. Below you can find the top S&P500 gainers and losers in today's after hours session.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
-      "datetime": 1777583107000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 140124544,
-      "headline": "Apple Q1 FY2026 earnings: Record revenue, EPS beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c9555b4ec7b3cfb1272d678f111edd162dcb1b81f1e6ebc2252b930e1f2774ca",
-      "summary": "iPhone and Services both reached all-time revenue highs, with diluted EPS rising 19% year over year to $2.84",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777582904000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124519,
-      "headline": "Why TTM Technologies Stock Soared More Than 15% Higher Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=719dae975a362c61fdf750d7a3745734a0ed6508d53fea14f708f185572cd0d5",
-      "summary": "The tech components maker had a record-busting first quarter.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777582464000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140124580,
-      "headline": "Alphabet checks boxes, Meta raises AI worries, says investor",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=efe9bbbea9a8f070bc88d95f30a674256b40abba4281b28271d0a5cb57f0c76b",
-      "summary": "STORY: Meta Platforms raised its 2026 capital expenditure forecast by $10 billion to a range of $125 billion to $145 billion.\"Meta, for example, may actually lose money, so negative free cash flow in the next year or two as they spend more than they're earning,\" said Bailey. \"So I think investors are really kind of struggling with that question today.\" Google-parent Alphabet is \"selling their own chips, selling their own microchips, and that is really becoming a big business for them,\" added Bailey, who views the company's growing hardware division as a long-term positive.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777582325000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140124545,
-      "headline": "Apple reports record March quarter revenue on strong iPhone sales",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ced6e2b870f4e35434e4ccff80c324c3e587e4f3b19e6cbf8534c119d05555fc",
-      "summary": "Apple Inc (NASDAQ:AAPL, XETRA:APC) reported fiscal second quarter 2026 results that topped Wall Street expectations for both revenue and earnings. The iPhone maker posted earnings per share of $2.01 on revenue of $111.2 billion for the quarter ended March 28, ahead of analyst estimates of...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777582260000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124554,
-      "headline": "S&P 500, Nasdaq Notch New Peaks, Log Best Month Since 2020",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3125c90dbdf461efcaefbba1eb05cef9da0b0a4a107d6027be5e9351bb784b9a",
-      "summary": "The S&P 500 and the Nasdaq Composite hit new closing highs on Thursday, with the two equity indexes",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777582189000,
-      "ticker": "MSFT",
       "category": "company"
     }
   ]
