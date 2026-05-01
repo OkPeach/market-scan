@@ -1,6 +1,237 @@
 {
-  "timestamp": 1777627048576,
+  "timestamp": 1777632816900,
   "items": [
+    {
+      "id": 140130034,
+      "headline": "Buy This ETF if You Want to Benefit From High Oil Prices Without Wild Swings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdb2b070953bd135b42c63858d357270e7bd7e5516846cac688bbe9ccd9fe61c",
+      "summary": "WTI crude went from $57.97 a barrel in December 2025 to over $100 today. That kind of move hands a windfall to oil producers and gives their shareholders motion sickness in roughly equal measure. If you wanted to participate in the oil rally without the queasy ride, you had to think one step downstream from ... Buy This ETF if You Want to Benefit From High Oil Prices Without Wild Swings",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777628422000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140130041,
+      "headline": "Apple outlook; oil holds gains; yen in focus – what’s moving markets",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b2131986074523a1bd177dccd866dbc21700d61eb019320780e20bfc8e3a8f8",
+      "summary": "Tim Baker, a macro strategist at Deutsche Bank, said he is not convinced the pair \"will keep falling or even stay here for long,\" he argued.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777628340000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140130042,
+      "headline": "Markets Edge Higher as Apple Outlook Lifts Sentiment, Oil Holds Firm: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5b0b0d388071f0fc4ebfb42f3ae6c2223d9d1479ff2f150db98d286a45df14a",
+      "summary": "U. S. equity futures ticked higher following record closes on Wall Street, as investors weighed upbeat corporate earnings signals against mounting geopolitical risks and currency volatility.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777627750000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140130049,
+      "headline": "Want in on AI Superstar Anthropic Before Its IPO? These 4 Companies Are Some of Its Earliest Investors.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5da1f70011faea02ccf036dbb680e690d2cb760d5fdc26b2cf87652f5b7dd21",
+      "summary": "This quartet of brand-name companies invested in Anthropic in 2023.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777627560000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140130057,
+      "headline": "Reddit rallies as AI‑driven ad growth fuels strong revenue outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da6124eedde8904f7f972c51710b4d22ae598d9ef7d0996773cacf702f710ce2",
+      "summary": "Reddit shares jumped 16% in premarket trading on Friday after an upbeat quarterly revenue forecast underscored growing ‌returns from the social media company's AI-driven advertising tools. The company's ‌AI-optimized ad platform helps advertisers place targeted ads directly within relevant discussion threads across its ​interest-based communities called subreddits. The strong results signal that the company's strategy is paying off as Reddit takes on bigger ad rivals such as Meta's Instagram and Facebook.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777627249000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140130043,
+      "headline": "Apple Shares Edge Higher on Strong Results and “Remarkable” Margin Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4268030c0c83b63795bec8769fb7b1ff8358be18078c6f0f58e2a81fa9013d20",
+      "summary": "Apple (NASDAQ:AAPL) reported record-breaking revenue and earnings per share on Thursday, supported by a second consecutive quarter of more than 20% growth in iPhone sales. The update marks the company’s first earnings release since its unexpected CEO transition announcement.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777627205000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140130046,
+      "headline": "Why Rezolve AI (RZLV) Is Expanding Its Commerce AI Platform Through Microsoft Foundry",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef1d9bf39268dba827f4b07e1f936af660b9fe3f7f64001a9f56aa6aea499aab",
+      "summary": "Rezolve AI PLC (NASDAQ:RZLV) is one of the fastest-growing AI stocks to buy now. On April 13, 2026, Rezolve AI PLC (NASDAQ:RZLV) launched its brainpowa commerce-tuned model suite in Microsoft Foundry, allowing brands to build and deploy commerce copilots on Microsoft Azure. The company said the models are designed for commerce-specific tasks such as identifying […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777626359000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140130035,
+      "headline": "Why CoreWeave (CRWV) Is Strengthening Its AI Cloud Growth Story With Meta",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72c27fa20ba1aa5cb4895e63bea89551f826cfbc64a058ee3ec870bcf63a16bd",
+      "summary": "CoreWeave, Inc. (NASDAQ:CRWV) is one of the fastest-growing AI stocks to buy now. On April 9, 2026, CoreWeave, Inc. (NASDAQ:CRWV) announced an expanded long-term AI infrastructure agreement with Meta Platforms, under which CoreWeave will provide AI cloud capacity through December 2032 for approximately $21 billion. The dedicated capacity will be deployed across multiple locations and […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777626353000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140130077,
+      "headline": "Why Palantir (PLTR) Is Expanding Its AI Software Footprint at the USDA",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9a52a63fd1474c32d4618bc66abcd8411d62269ce4f0eb1dbc7a9ce1fa60382",
+      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of the fastest-growing AI stocks to buy now. On April 22, 2026, Palantir Technologies Inc. (NASDAQ:PLTR) and the U.S. Department of Agriculture announced a $300 million Blanket Purchase Agreement to support the National Farm Security Action Plan and modernize how USDA delivers services to farmers. Under the deal, Palantir […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777626324000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140130036,
+      "headline": "Prediction: Energy Transfer Will Hit $25 in 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b78361d24f5fa9edba01e2fa0b6f797cef51b9a00aed5936c3705595474fc1d3",
+      "summary": "Energy Transfer has plenty of fuel to continue rallying in 2026.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777624500000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140130050,
+      "headline": "Warren Buffett Went Out With a Bang by Selling 77% of His Amazon Stake and Piling Into a Virtual Monopoly That's Soared 13,600% Since Its IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b31c89e54437b23da3465859175a64ff6a5ae05920534120729da0df7c15607",
+      "summary": "The Oracle of Omaha significantly pared down a dual-industry leader for a company whose balance sheet and operating prospects may be even more rock-solid.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777623960000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140130044,
+      "headline": "Apple climbs on earnings as China 'now a strong tailwind', says Wedbush",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c82e326a3d40d05441d572dc5355bf5d495cde3014dba1819ad36f7441a4012e",
+      "summary": "Apple Inc (NASDAQ:AAPL) shares rose 2.75% in after-hours trading after the iPhone maker group reported quarterly results ahead of market expectations. Revenue came in at $111.18 billion for the March quarter, up 17%, beating forecasts of $109.46 billion. Earnings per share of $2.01 also came...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777623900000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140130037,
+      "headline": "Should You Forget Big Banks and Bet on Fintech Instead?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a64b2588f1c2158b7035dc96ae602c0f4b2df8dad670dcd4bc89b1361af6f96",
+      "summary": "The titans of the industry had a great run, but nothing lasts forever.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777623600000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140130052,
+      "headline": "OpenAI CFO Sees ‘Vertical Wall of Demand’ for Products",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=457515b3b57c8fd38e21629bb09178eb579fe5d63998bf050fca2465a958a2d1",
+      "summary": "(Bloomberg) -- OpenAI Chief Financial Officer Sarah Friar pushed back on concerns about missing internal targets, saying the company is meeting objectives and sees “a vertical wall of demand” for its products.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confirms Suicide Rule for Soldiers Ukraine Captures“We",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777623580000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140130047,
+      "headline": "Is Microsoft's Amended Deal With OpenAI Good for the Stock Long-Term?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db56222a1556af9411f5afee6f6662d01768ac176ad503bfab6d525ee5d45836",
+      "summary": "Microsoft and OpenAI's relationship continues to evolve.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777623300000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140130038,
+      "headline": "Swedish legal tech firm Legora lands $50m boost from new backers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d29c44042d6189dd59bd6880dbd378d9f3496418d16e1e8de0491c8f77cdcd7b",
+      "summary": "Legora is a collaborative AI platform for legal teams that helps lawyers research, review and draft documents for complex matters.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777623056000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140130059,
+      "headline": "This Catalyst Helped AMD Avoid Bankruptcy, and It's Coming Back to Supercharge the Stock (Hint: It's Not Artificial Intelligence)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f3b1c5203c97f6a2812af7a3111649862f0ff657701446772259a7f857b7610",
+      "summary": "A new generation of video game consoles is on the horizon, and it should provide a massive tailwind for AMD.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777622940000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140129838,
+      "headline": "Tech Earnings Crack Open a Fault Line, Alphabet and Apple Take the High Ground",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=1f8fdb15630faf36d89ed8213f9ea535520e5327d1bbdfaae47cb4d59fee35fd",
+      "summary": "Thursday's close handed Wall Street a fresh set of all-time highs but the headline masks a more interesting story underneath. Not all tech is created equal, and the market spent the entire session making that point in the most efficient way possible.",
+      "image": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_21_ceec7f8582.webp",
+      "datetime": 1777622667000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140130045,
+      "headline": "Stock Futures Rise as Strong Earnings Season Rolls On",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58527b455e7e809cc52eb957bd16d73b6dc6d2d47dac026892de0c8a586bccf8",
+      "summary": "Stocks looked set to extend their record-breaking rally on Friday after iPhone maker Apple became the latest company to beat Wall Street’s first-quarter earnings and revenue targets.  S&P 500 futures gained 0.2% and contracts tied to the tech-heavy Nasdaq 100 added 0.1%.  The market is set for a good start to May after the S&P 500 and Nasdaq indexes posted their best months since 2020 in April.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777622002000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140130039,
+      "headline": "1 AI Stock With Nearly 100% Upside, According to 1 Wall Street Analyst",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d4a1b5f3e252e09a52bd9144936c6903aa77b4d59d512cc92a2e8ea27d31e99",
+      "summary": "Gil Luria of investment firm DA Davidson sees huge upside for Micron.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777621980000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140129243,
+      "headline": "Everyone’s Talking About NVIDIA’s Moving Averages. Smart Money Is Watching CrowdStrike Instead",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6b66d37021202abe6c90d91f5d56aa10f32924ddbeb4fc0cc4c9487c37dbf2c",
+      "summary": "NVIDIA (NASDAQ:NVDA) is up 96.1% over the past year and just crossed a $5.26 trillion market cap on the same agentic AI thesis Evercore and Wedbush keep recycling around Microsoft (NASDAQ:MSFT)’s 50-day moving average. But here’s what you should actually be watching. The case against chasing NVIDIA at this level is straightforward. The stock ... Everyone’s Talking About NVIDIA’s Moving Averages. Smart Money Is Watching CrowdStrike Instead",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777621582000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
     {
       "id": 140129145,
       "headline": "How the Fed’s Interest Rate Decision Will Impact Your Social Security Checks This Month",
@@ -90,6 +321,17 @@
       "category": "company"
     },
     {
+      "id": 140130358,
+      "headline": "Alphabet's TPU Move Changes The Entire Narrative",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2a509d497f5fc8eed8f2227e9b2700c5d368f4008054b80007a0d77841371de0",
+      "summary": "Alphabet is transitioning from AI beneficiary to AI infrastructure owner, notably through its TPU strategy. Find out why GOOGL stock is a buy.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2251245111/image_2251245111.jpg?io=getty-c-w1536",
+      "datetime": 1777616679000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140129191,
       "headline": "Is It Too Late To Consider Intel (INTC) After A 140% Year To Date Surge",
       "source": "Yahoo",
@@ -123,6 +365,17 @@
       "category": "company"
     },
     {
+      "id": 140130290,
+      "headline": "Apple shares rise on strong quarterly sales in run-up to CEO change",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=11fd20ed3be9246710eeb55b3ec48ce51949bf01ff087980fb98f14f1e5ddbfa",
+      "summary": "Apple shares jumped 3% inpremarket trading on Friday after the iPhone maker posted itsstrongest quarterly sales growth in more than four years, a showof momentum as it prepares to hand over the...",
+      "image": "",
+      "datetime": 1777615885000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140129161,
       "headline": "Pearson Q1 2026 Trading Update (Unaudited)",
       "source": "Yahoo",
@@ -130,6 +383,17 @@
       "summary": "Pearson Q1 2026 Trading Update (Unaudited)",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777615800000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140130225,
+      "headline": "Key takeaways from Musk's testimony at OpenAI trial",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=774172bd67bb543ee8ed36399f0ecc5cf07e94e68731549a661560e982332db9",
+      "summary": "Elon Musk testified for more thanseven hours over three days this week at a trial in Oakland,California, over the future of OpenAI, casting his lawsuitagainst the owner of ChatGPT as a defense of...",
+      "image": "",
+      "datetime": 1777615448000,
       "ticker": "MSFT",
       "category": "company"
     },
@@ -143,6 +407,17 @@
       "datetime": 1777615320000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140129998,
+      "headline": "S&P 500, Dow futures inch up after Wall Street's best month in years",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5e81cc1934a2a8e2736096e027f1c824d382dfc1e21b53c02ffff668caa407bc",
+      "summary": "S&P 500 and Dow futures ticked higheron Friday, after the indexes posted their biggest monthly gainin years, as a string of strong earnings offset concerns arounda historic supply shock in oil...",
+      "image": "",
+      "datetime": 1777614440000,
+      "ticker": "AAPL",
+      "category": "company"
     },
     {
       "id": 140129159,
@@ -629,6 +904,17 @@
       "category": "company"
     },
     {
+      "id": 7877888,
+      "headline": "In the U.S., CEO pay grew 20 times faster than workers' wages in 2025, says Oxfam",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/us-ceo-pay-grew-20-times-faster-than-workers-wages-in-2025-oxfam.html",
+      "summary": "A new report from Oxfam found that CEOs' earnings continue to grow even as workers' wages stagnate.",
+      "image": "https://image.cnbcfm.com/api/v1/image/105009987-GettyImages-688022852_1.jpg?v=1777582384&w=1920&h=1080",
+      "datetime": 1777593721000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
       "id": 140127021,
       "headline": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
       "source": "Yahoo",
@@ -761,6 +1047,17 @@
       "category": "company"
     },
     {
+      "id": 140130060,
+      "headline": "Elon Musk’s Tesla Compensation Totals $158 Billion for 2025",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25a4deeb776247cfa1a796f6c9f141025cfbd2f07ad6fc3670004938b8323307",
+      "summary": "(Bloomberg) -- Elon Musk’s first compensation figure after Tesla Inc. shareholders approved his moonshot pay package is in, and it’s a doozy: $158 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTesla reported the 2025 total in a regulatory filing Thur",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777590520000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 140126008,
       "headline": "Coastal Pay Launches SignUp Link—Two-Minute, Friction-Free Merchant Onboarding for Retail and E-Commerce",
       "source": "Yahoo",
@@ -802,303 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777590067000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140126010,
-      "headline": "Apple earnings beat forecasts on iPhone 17 demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d0c04e0390d686af9afcaa567ab7fb6dcd91d942fc1e9fb8f7dbb028f46f34c",
-      "summary": "Apple said Thursday it had its best-ever start to the year when it came to earnings, with iPhone demand and digital service sales helping it beat expectations.During the quarter, iPhone sales grew by double digits in just about every country where it does business, and its services unit reached an all-time high, according to Cook.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777589752000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140125997,
-      "headline": "1 Reason Apple Is Still My Favorite Stock I'd Hand Down to My Grandkids",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a96c02f507fb0f3884c6af60360d67d0f296809367e214ae8b0ab7d974a2ee1d",
-      "summary": "There is one major driving force that should allow Apple to maintain its dominance over the long term.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777589400000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140125998,
-      "headline": "While \"Magnificent Seven\" Companies Pour Hundreds of Billions into AI Infrastructure, Apple Continues to Execute the Classic Shareholder-Friendly Playbook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e2df0df739ad4221c3f0dd3e496cf2d3ecddba13eb0fa554e3c60797d6daaa6c",
-      "summary": "Apple announced new distributions to shareholders on its recent quarterly earnings report.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777589056000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126024,
-      "headline": "Microsoft (MSFT) – Among the 10 Innovative Dividend Stocks to Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3d47a5c50a806c128b7aed86a6ffb9783de1f415e9e01e1e132e59030b91db29",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) is included among the 10 Innovative Dividend Stocks to Buy Right Now. On April 28, BMO Capital Markets lowered its price recommendation on Microsoft Corporation (NASDAQ:MSFT) to $505 from $575. It reiterated an Outperform rating ahead of the company’s Q1 results. The firm pointed to ongoing investor concerns around software. It said […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777589000000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140126013,
-      "headline": "Is Apple (AAPL) One of the 10 Innovative Dividend Stocks to Buy Right Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ddfae57c949d353e01bc58113df7e592714c85df3deb2fe67e8d47d9cff06358",
-      "summary": "Apple Inc. (NASDAQ:AAPL) is included among the 10 Innovative Dividend Stocks to Buy Right Now. UBS expects strong earnings from Apple Inc. (NASDAQ:AAPL) as the company continues to roll out personal devices that remain popular with consumers, even as memory supply remains tight. On April 28, the firm raised its price target on the shares […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777588881000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 7876445,
-      "headline": "Oil prices rise with no sign of end to Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVJqNi1rMnBzZk5NaEl4S0xUUjdlZjMySnhFQ2hVekljdHNIaVVyMk5Kem1pV05sd1ZIazh3akJ4aVpkbjZ2S3FfcjA3VTdYR3hNeWwydUllS1pfVUhzVmxlRWE0ZHJTSnJoaUZSWGtCRFFFVDFnNDZTcU1mNEptNU5GRXBvZ2NKa1NxMnduQjRpalo0UGJRSGNLTS1nTFdOYjJNOFc4em9hN3BZUFBEZHVtcVZYTVl6b0xsSGNDYklSNDct?oc=5",
-      "summary": "Oil prices rise with no sign of end to Iran war  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777588740000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140125999,
-      "headline": "Here's Why This Remains My Least Favorite \"Magnificent Seven\" Stock -- Even After a Strong Earnings Report",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b2ccc82cabae8ca39c125fa5a11288fbfcd857b8945e9dbf0ef74200143a31f",
-      "summary": "The cloud and software giant's latest results were strong on the surface, but a closer look reveals why it could be the weakest pick of the bunch.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777588560000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140126001,
-      "headline": "Everyone's Wondering What's Next for Nvidia. This News From Amazon and Alphabet Offers Us an Idea That's Strikingly Clear",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5dbaaa55ef25b89c54dfcdfe927f7e97bd64eb6450a17f4ccccb18507a75ef37",
-      "summary": "A trend has been gaining momentum at Amazon and Alphabet.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777588200000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140127023,
-      "headline": "Apple (AAPL) Surpasses Q2 Earnings and Revenue Estimates",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f51cbc1ef4115990aaed619a8e387f719ffeb101caefc867df397a85b3dc450",
-      "summary": "Apple (AAPL) delivered earnings and revenue surprises of +4.88% and +1.56%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777587903000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126027,
-      "headline": "Stock Market Today, April 30: Alphabet Surges After Reporting Accelerating Google Cloud Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=766b1535f170344e3a3d57c19d72f4edce9fc6d72469fd16f7100f2b8346b4a3",
-      "summary": "On April 30, 2026, investors weighed Alphabet’s AI-fueled cloud surge against a massive multiyear infrastructure spending ramp.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777587217000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140126014,
-      "headline": "Apple was surprised by AI-driven demand for Macs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5807ded35056bfc4bb3597034572f0b33220b0e2f071e2ba5b4e973c6c519790",
-      "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777587172000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126015,
-      "headline": "Apple is facing Mac mini supply constraints as AI and OpenClaw developers buy up tiny desktops",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=728df0c1abf70fbbaf60fc41aafcef9835e9c9de31baffc99b6488f6cf26bbd7",
-      "summary": "Apple's Macs are becoming harder to get as AI developers buy up supplies.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777587152000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126016,
-      "headline": "Apple Stock Is Up As Earnings Call Ends",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=49fd51491d5c6233794ca9881c7127e9d97f13b0e54e0d63cea0931b89566123",
-      "summary": "Apple stock took a wild ride after earnings on Thursday night. Shares initially traded lower following the release of the earnings report. But it bounced back, and more, after Apple offered a strong outlook for the June quarter.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777587060000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126017,
-      "headline": "Apple Plans to Reinvest Tariff Refunds 'Into U.S. Innovation'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=08ba2198ccc2c246866c373fe18e3a7b7c05489fa8ee7129e67d35e9f55c1f71",
-      "summary": "Apple CEO Tim Cook shared a tariff refund plan that balances political dynamics, an area that Apple has carefully calibrated in recent years. The Supreme Court ruled in February that tariffs imposed by President Donald Trump under the International Emergency Economic Powers Act were illegal.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777586974000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126028,
-      "headline": "Elon Musk reportedly labels most cryptocurrencies as 'scams'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f74c25de8fbc08ebe9abbbfaff6d3b9812d802cab8a46be9e6782caec2a5c62",
-      "summary": "Tesla (NASDAQ: TSLA) CEO Elon Musk has always been championed as being pro-crypto. But a recent reported comment in a court hearing is leaving the crowd puzzled. Musk, who co-founded OpenAI in 2015, is suing the company for allegedly breaching its founding mission of being non-profit after it ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777586906000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7876855,
-      "headline": "'They are not representing Iran': protesters urge FIFA to ban Iran from World Cup - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNm9Nc1Q0eHlxbjVoRVROclBfZHlvMUpjQXIxNDctZVRCRkNHNzI0MnVQaWVYYXFFWlNhUExSbE13dU1mOW5qQVVIUjNVajVvYm9PN1NNVjJ4Vk11dlY2TFRIVEJlRDBaRGV5V0hucGpnd1hVVjFDTWFoM2Q2ZGVBQTY0Z3hXVXpFXzdJaFJMdmxNdmh5aW5OYUdnSVFhSTNmQlcwdkh2Z2U4TGk5TURZdmhLYkktQzRKVFk3Yg?oc=5",
-      "summary": "'They are not representing Iran': protesters urge FIFA to ban Iran from World Cup  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777586743000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140126029,
-      "headline": "Svitla Systems Acquires Australia’s Kiandra IT to Expand Global Engineering Footprint and Accelerate AI-Driven Delivery",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23ca18da33cfd1642aaa2b02de0ccc0b53a5f0d85a98a0c5900af5b9123d368a",
-      "summary": "Acquisition marks Svitla’s entry into the Australian market and strengthens capabilities in low-code, Microsoft technologies, and enterprise software engineering SAN FRANCISCO, April 30, 2026 (GLOBE NEWSWIRE) -- Svitla Systems, a global software engineering and digital solutions company, today announced the acquisition of Kiandra IT, an Australia-based software engineering firm with more than 30 years of experience delivering solutions for highly regulated and mission-critical industries. The ac",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777586400000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7873878,
-      "headline": "Trump again criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFV3WE9MUzNCX2xtWDFSVE4wQjFWYVBGRjdzOGNFajBtMlh3VDVXb3FQZ0tiTVNraUdTWTF4SENZY2pxMDd6Nnp0aDNqajAwQkxRMWw0MkM0cmNaQnY4LTl2SXZrdVJGNlU5Rk5RV3FMaEFjTThDYnAyTXhjeDdFMEdzRmxMYXdTM1V1bVEzS21wUVE4ODctZmJBU29tXzEwaFBTWUNiSHJqUTlRN2c?oc=5",
-      "summary": "Trump again criticizes Germany's Merz, tells him to stop interfering over Iran  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777586368000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140126018,
-      "headline": "Apple hits record iPhone sales despite supply disruption",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=741e69bb1ff1e87c4e2058fa3ba7173504369f2f244be8bedd6f7ee4c004f8c5",
-      "summary": "Apple’s iPhone sales have hit a record despite manufacturing being held back by supply shortages amid the AI boom.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777586347000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126097,
-      "headline": "With Trump's $1.5 Trillion Defense Budget, Palantir Looks Less Like a \"Story Stock\" and More Like a Strategic Vendor",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b2bd62085449a6473a07f7e9fd811f4cdbe508604972fd55e049af52712773ea",
-      "summary": "Palantir is a key military contractor that is now taking a more central role.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777586346000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140124517,
-      "headline": "Dow Jones Futures Rise As Apple Jumps On Earnings, Sandisk Skids; Stock Market At High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f464ce363bb44dc684733b60ab45a88cff2c4b337ab45f00742fd2ab4f7d20d",
-      "summary": "Apple, Sandisk and Roku were key movers after the stock market hit new highs amid huge earnings and lower oil prices.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777586227000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126041,
-      "headline": "Stock Market Today, April 30: Meta Falls as Higher AI Capex Outlook Overshadows Strong Q1 Results",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=846ca502f7b181ea4adf4c5dfbc103808868e5e01155447b5afa9aed9e146dc0",
-      "summary": "Meta beat Q1 expectations, but the stock fell after its AI and data center spending outlook rose as high as $145 billion, shifting focus to whether ad pricing and engagement can offset rising infrastructure costs.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777586204000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140126019,
-      "headline": "Apple (NASDAQ:AAPL) Posts Better-Than-Expected Sales In Q1 CY2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fa9131536fd608ea0a89f19ea64d9eb0fb6998b33e877a8e96d9e23c12639ed0",
-      "summary": "iPhone and iPad maker Apple (NASDAQ:AAPL) reported revenue ahead of Wall Street’s expectations in Q1 CY2026, with sales up 16.6% year on year to $111.2 billion. Its GAAP profit of $2.01 per share was 3.6% above analysts’ consensus estimates.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777586128000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140126020,
-      "headline": "Apple Ends 'Net-Cash Neutral' Policy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f81bf70281e431374f890b960b321d4fe158c225843f3c803caac489cc7ba2d7",
-      "summary": "Back in the 2010s, Apple had a problem: it had too much cash, and more kept coming in.  The company began paying dividends and buying back shares, managing a complex balance sheet that includes cash, investments, and debt.  It announced a plan to get to bring those in line, and get net cash close to zero through an aggressive return of cash through share buybacks and dividends.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777585919000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124663,
-      "headline": "Is the Schwab U.S. Dividend Equity ETF the Right Buy for This Market?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff56c43e99fdd1ba64953e5b90700373bffce8b2f84a4b15bc3110e3c9486d4d",
-      "summary": "The Schwab U.S. Dividend Equity ETF (SCHD) is enjoying a renaissance in 2026. The good times may not be over.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777585800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140126021,
-      "headline": "Cook: Memory Costs Will Be Increasing Impact On Our Business",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c997378c5f257c5d559ac9c91562c3fcc367b83c7ce2a8b3a709038f41f7600",
-      "summary": "Apple isn't totally immune to memory-cost headwinds. Apple CEO Tim Cook told shareholders on Thursday that while things are under control for now, memory-cost headwinds are expected to get worse in the months ahead.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777585533000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124535,
-      "headline": "Incoming Apple CEO John Ternus makes first public comments since being named to the post",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d6dfd3ed60354ee48479b7b959954dc2a32805b3668c8b5aa7db8123a4321a0a",
-      "summary": "Apple’s incoming CEO John Ternus made his first public comments since the company announced he will succeed Tim Cook as chief executive on Sept. 1.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777585484000,
-      "ticker": "AAPL",
       "category": "company"
     }
   ]
