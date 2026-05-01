@@ -1,6 +1,28 @@
 {
-  "timestamp": 1777644083343,
+  "timestamp": 1777649643579,
   "items": [
+    {
+      "id": 7879112,
+      "headline": "Gold turns positive as oil eases on hopes for Iran talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDJnTWp2YXd4TU9LRzRLLWpscHVMbTZTcDdfZDhqV2FBMG04ZzA5UTNHZUhiUGhKRHhHdXRXcS01dEh3aTJXSlJ1ckRiaE9iXzgzZFF0bUlxZFppeFY5U2pLMFNvR3J0VWhManhsdVpNNmpHOGVWTVEwMFFpY3FZRUs5ZWc4OGV5YjZfSVdtTll3dXM0REtpYVBqNW5ETmQtdGc?oc=5",
+      "summary": "Gold turns positive as oil eases on hopes for Iran talks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777647846000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7878458,
+      "headline": "Exxon net income falls, output hit by Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnc1S3VOZEI5bVhCUjFLbGQ0LWZmLTFRYl9iU3pMTjl2WjNRRjRDZlN6dDFabEtYaFBrNExOQXlaSlM1dnFncjdzeWNWT2JiNXV6NW9wTW5fWUNBMkVNOWRUQkVLYVdHSWxiNWhTTHpQTEhCRHN6NldMbllwc0tLN0VjUm5yTnYzd1hGVW9YT3d2MlRiSWt1MDhyZmhRUDlQVmM0TnhMN25wM3c1MjFnR090aU1PU1VXTjQxMVl3?oc=5",
+      "summary": "Exxon net income falls, output hit by Iran war  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777647721000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 7878895,
       "headline": "Atlassian stock soars 28% after earnings show strong cloud, data center growth",
@@ -99,6 +121,17 @@
       "datetime": 1777642700000,
       "ticker": "TSLA",
       "category": "company"
+    },
+    {
+      "id": 7879111,
+      "headline": "Iran crisis hampering aid to refugees as supply chain costs soar, UN warns - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHc2SmFfU2lDYzMxUWhZcEVEemtWb09KV1RmM2VRWmhVMkNGanFWb29JZGJDaGVfRUNSLUJfQWZrZjVkZjhOR3RTM2NBVWJMR3huXzR3QXdMZDVVeVB3STYzRkx5ZkhGaVpRXzJ3aDZ3UzJYY01ZcmNrOUEzLWdRckt2RDdXLTlrV2F3cTd4bVFpTjlRVnFrek14MzluOFJtUFd0RE95UFRSV3BHc3pINEdSMG5IWGJrb3JJM0Z3?oc=5",
+      "summary": "Iran crisis hampering aid to refugees as supply chain costs soar, UN warns  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777642584000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 7878235,
@@ -396,17 +429,6 @@
       "datetime": 1777640327000,
       "ticker": "AAPL",
       "category": "company"
-    },
-    {
-      "id": 7878458,
-      "headline": "Exxon beats first-quarter earnings estimate, output hit by Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnc1S3VOZEI5bVhCUjFLbGQ0LWZmLTFRYl9iU3pMTjl2WjNRRjRDZlN6dDFabEtYaFBrNExOQXlaSlM1dnFncjdzeWNWT2JiNXV6NW9wTW5fWUNBMkVNOWRUQkVLYVdHSWxiNWhTTHpQTEhCRHN6NldMbllwc0tLN0VjUm5yTnYzd1hGVW9YT3d2MlRiSWt1MDhyZmhRUDlQVmM0TnhMN25wM3c1MjFnR090aU1PU1VXTjQxMVl3?oc=5",
-      "summary": "Exxon beats first-quarter earnings estimate, output hit by Iran war  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777640298000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 140132766,
@@ -948,6 +970,17 @@
       "category": "company"
     },
     {
+      "id": 140133739,
+      "headline": "U.S. antitrust authorities clear Intel's SambaNova Systems transaction - filing",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0d8fc19484ba019e79d5fb7956f9f3bf48f8f0cfb2fa707cdeb63c29e28de387",
+      "summary": "U.S. antitrust authorities clear Intel's SambaNova Systems transaction - filing...",
+      "image": "",
+      "datetime": 1777634658000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 140131263,
       "headline": "Analysts See $20 of Upside for Amazon Stock Even at All-Time Highs",
       "source": "Yahoo",
@@ -981,6 +1014,17 @@
       "category": "company"
     },
     {
+      "id": 140133745,
+      "headline": "Why OpenAI's Smartphone Will Disrupt Apple, But Alphabet Will Ultimately Win",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a89fd5d7e4bedf7791a31932ccb84580758f041600fac24c30008cb1c03a40a6",
+      "summary": "Apple faces AI smartphone disruption as OpenAI/Google threaten iPhone dominance and margins. Click here to see why GOOG may win and what it means for investors.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1425189649/image_1425189649.jpg?io=getty-c-w1536",
+      "datetime": 1777634229000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140131264,
       "headline": "Hyperscalers Hit $700 Billion in 2026 AI Spending Plans",
       "source": "Yahoo",
@@ -989,6 +1033,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777633963000,
       "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140133704,
+      "headline": "Alphabet Q1 Earnings: Double-Digit Revenue Growth As CAPEX Pays Off",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bddb507c96c3cdecd885f4a954d2bba675ff6dc98f62400861f6e0f18d0aef61",
+      "summary": "Alphabet is rising following blowout Q1 results. The Google parent company reported 22% growth in topline revenues and a whopping 81% increase in profit.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228661068/image_2228661068.jpg?io=getty-c-w1536",
+      "datetime": 1777633874000,
+      "ticker": "GOOGL",
       "category": "company"
     },
     {
@@ -1044,61 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777632600000,
       "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140131266,
-      "headline": "The Metals Company Is Recognized as the Deep Sea Mining Leader, but That May Be About to Change",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9111bee217db30463087ab0362a226ba80e6b49d70ca19f3348e6989ffa4b59c",
-      "summary": "A new company is making waves in the world of deep-sea mining.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777632600000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140131277,
-      "headline": "Apple CEO warns memory constraints are intensifying",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=558b3bb9a277e3d0929755c028ce7269a529ba683894902b41d462d349035795",
-      "summary": "Investing.com -- Apple CEO Tim Cook said Thursday that memory constraints are worsening and will have a growing impact on the company's business.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777632555000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140131267,
-      "headline": "Why GE Vernova’s Power Orders Could Make or Break This Clean Energy ETF",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c84428ca15c2bcf5e950c06aff56b7f5d45e546370f509b8e0b3f0351ff7442e",
-      "summary": "The Fidelity Clean Energy ETF (NYSEARCA:FRNW) was built to give investors a single ticker for global companies generating at least 50% of revenue from clean energy distribution, equipment, and technology. The problem it tries to solve is real: most diversified energy funds still lean heavily on oil and gas, leaving renewable exposure thin. The cost ... Why GE Vernova’s Power Orders Could Make or Break This Clean Energy ETF",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777632329000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140131340,
-      "headline": "Latest News In Electric Vehicles - Two-Wheelers Drive Growth Amidst Infrastructure Challenges",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7cceaa48f3cd0ad39d5057041625f6587f3b55c68973df86cf406ce1f15dc7ae",
-      "summary": "The electric two-wheeler market is experiencing significant growth driven by the introduction of affordable new models and rising investments in charging infrastructure. As highlighted by Zion Market Research, the market's value is expected to grow from USD 529.36 million in 2024 to USD 1,228.93 million by 2034, at a CAGR of 9.81%. This sector's expansion is supported by technological advancements in battery performance and AI integration, which enhance vehicle range and features. Challenges...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777631988000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140131268,
-      "headline": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=61f088a82d7713b1170d6727f18c8e0afe6f87d4d678923cb2ef9522f80fdeb8",
-      "summary": "The most talked-about stocks in the Reddit subforum Wallstreetbets were broadly higher in the hours",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777631814000,
-      "ticker": "AAPL",
       "category": "company"
     }
   ]
