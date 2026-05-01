@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777674508119,
+  "timestamp": 1777678285240,
   "items": [
     {
       "id": 140138380,
@@ -33,6 +33,17 @@
       "datetime": 1777671256000,
       "ticker": "AAPL",
       "category": "company"
+    },
+    {
+      "id": 7879853,
+      "headline": "Trump says Iran war 'terminated,' as war powers deadline arrives - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDg4aERUdmNzSmNVNWlLQWpydnREOTlGZ1d5RHI1U3NCbUhHTTBLUnNUb1Q1LTFOZElZMGZHNjZhRndwNG1OYXVqU1dYWjVDVXJvVE1iMGFJNWptTG9rYWZRQWNzUHRkOFY4NGtlM2p6akkyQS1hOVlyQnprb01Xa192LWhzbFFZTm1iVDJDY1hrSnpROU1Bb3B1UEdBLV9ybnFZNXF1Z3B2ZEdfWjJla2YxaElNX3FhNXhZ?oc=5",
+      "summary": "Trump says Iran war 'terminated,' as war powers deadline arrives  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777671090000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140138436,
@@ -233,6 +244,17 @@
       "category": "company"
     },
     {
+      "id": 7878235,
+      "headline": "Trump says he's not satisfied with Iran's latest proposal for talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXFST3AwNjc5YVJPejQtWGdQNDY1QWY0Y0g4ODl6UzZSbmRKcnVNOW1vVUpZREw0a1pfWUFLYnFDUlJjd2wweUhiWkZrLXByUC1hTDBlaVBJYVlSNkdWV2FiVjRhVFh6eUJJMWx1MXlhbllaUWQtbFRiR1IxNEI0NVo5QklSSmJscjRXQTRaM0wzTVVvTlpycG01cW9aNzJBMGJsNjRONGh0U1JrcXFSZ3RMUVNZdVNyMW9ocEVyNnQ?oc=5",
+      "summary": "Trump says he's not satisfied with Iran's latest proposal for talks  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777667541000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140138398,
       "headline": "Stock Market Today: Nasdaq, S&P Make History; Buffett's Berkshire Reports Earnings Saturday (Live Coverage)",
       "source": "Yahoo",
@@ -409,17 +431,6 @@
       "category": "company"
     },
     {
-      "id": 7879853,
-      "headline": "Trump says Iran war 'terminated,' as war powers deadline arrives - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDg4aERUdmNzSmNVNWlLQWpydnREOTlGZ1d5RHI1U3NCbUhHTTBLUnNUb1Q1LTFOZElZMGZHNjZhRndwNG1OYXVqU1dYWjVDVXJvVE1iMGFJNWptTG9rYWZRQWNzUHRkOFY4NGtlM2p6akkyQS1hOVlyQnprb01Xa192LWhzbFFZTm1iVDJDY1hrSnpROU1Bb3B1UEdBLV9ybnFZNXF1Z3B2ZEdfWjJla2YxaElNX3FhNXhZ?oc=5",
-      "summary": "Trump says Iran war 'terminated,' as war powers deadline arrives  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777665235000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 140137234,
       "headline": "US Equity Indexes Mixed in Final Leg of Trading as Trump 'Not Happy' With Iran's Revised Peace Plan",
       "source": "Yahoo",
@@ -539,17 +550,6 @@
       "datetime": 1777663351000,
       "ticker": "NVDA",
       "category": "company"
-    },
-    {
-      "id": 7878235,
-      "headline": "Trump says he's not satisfied with Iran's latest proposal for talks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXFST3AwNjc5YVJPejQtWGdQNDY1QWY0Y0g4ODl6UzZSbmRKcnVNOW1vVUpZREw0a1pfWUFLYnFDUlJjd2wweUhiWkZrLXByUC1hTDBlaVBJYVlSNkdWV2FiVjRhVFh6eUJJMWx1MXlhbllaUWQtbFRiR1IxNEI0NVo5QklSSmJscjRXQTRaM0wzTVVvTlpycG01cW9aNzJBMGJsNjRONGh0U1JrcXFSZ3RMUVNZdVNyMW9ocEVyNnQ?oc=5",
-      "summary": "Trump says he's not satisfied with Iran's latest proposal for talks  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777662780000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 140137219,
