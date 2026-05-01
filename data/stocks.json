@@ -1,158 +1,158 @@
 {
-  "timestamp": 1777639459204,
+  "timestamp": 1777644539430,
   "stocks": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": 271.35,
-      "changePct": 0.4368,
-      "changeAbs": 1.18,
-      "previousClose": 270.17,
-      "timestamp": 1777639459204
+      "price": 284.89,
+      "changePct": 4.9899,
+      "changeAbs": 13.54,
+      "previousClose": 271.35,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp.",
-      "price": 407.78,
-      "changePct": -3.9297,
-      "changeAbs": -16.68,
-      "previousClose": 424.46,
-      "timestamp": 1777639459204
+      "price": 410.98,
+      "changePct": 0.7847,
+      "changeAbs": 3.2,
+      "previousClose": 407.78,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc. (Class A)",
-      "price": 384.8,
-      "changePct": 9.9617,
-      "changeAbs": 34.86,
-      "previousClose": 349.94,
-      "timestamp": 1777639459204
+      "price": 384.39,
+      "changePct": -0.1065,
+      "changeAbs": -0.41,
+      "previousClose": 384.8,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com Inc.",
-      "price": 265.06,
-      "changePct": 0.7679,
-      "changeAbs": 2.02,
-      "previousClose": 263.04,
-      "timestamp": 1777639459204
+      "price": 271.47,
+      "changePct": 2.4183,
+      "changeAbs": 6.41,
+      "previousClose": 265.06,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "META",
       "name": "Meta Platforms Inc.",
-      "price": 611.91,
-      "changePct": -8.55,
-      "changeAbs": -57.21,
-      "previousClose": 669.12,
-      "timestamp": 1777639459204
+      "price": 613,
+      "changePct": 0.1781,
+      "changeAbs": 1.09,
+      "previousClose": 611.91,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp.",
-      "price": 199.57,
-      "changePct": -4.626,
-      "changeAbs": -9.68,
-      "previousClose": 209.25,
-      "timestamp": 1777639459204
+      "price": 200.34,
+      "changePct": 0.3858,
+      "changeAbs": 0.77,
+      "previousClose": 199.57,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc.",
-      "price": 381.63,
-      "changePct": 2.3686,
-      "changeAbs": 8.83,
-      "previousClose": 372.8,
-      "timestamp": 1777639459204
+      "price": 384.61,
+      "changePct": 0.7809,
+      "changeAbs": 2.98,
+      "previousClose": 381.63,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 354.49,
-      "changePct": 5.1556,
-      "changeAbs": 17.38,
-      "previousClose": 337.11,
-      "timestamp": 1777639459204
+      "price": 354.47,
+      "changePct": -0.0056,
+      "changeAbs": -0.02,
+      "previousClose": 354.49,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "INTC",
       "name": "Intel Corp.",
-      "price": 94.48,
-      "changePct": -0.285,
-      "changeAbs": -0.27,
-      "previousClose": 94.75,
-      "timestamp": 1777639459204
+      "price": 99.2,
+      "changePct": 4.9958,
+      "changeAbs": 4.72,
+      "previousClose": 94.48,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc.",
-      "price": 93.61,
-      "changePct": 1.6175,
-      "changeAbs": 1.49,
-      "previousClose": 92.12,
-      "timestamp": 1777639459204
+      "price": 93.93,
+      "changePct": 0.3418,
+      "changeAbs": 0.32,
+      "previousClose": 93.61,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "HIMS",
       "name": "",
-      "price": 27.17,
-      "changePct": 3.1903,
-      "changeAbs": 0.84,
-      "previousClose": 26.33,
-      "timestamp": 1777639459204
+      "price": 27.21,
+      "changePct": 0.1472,
+      "changeAbs": 0.04,
+      "previousClose": 27.17,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "HIMX",
       "name": "",
-      "price": 11.75,
-      "changePct": 2.6201,
-      "changeAbs": 0.3,
-      "previousClose": 11.45,
-      "timestamp": 1777639459204
+      "price": 11.78,
+      "changePct": 0.2553,
+      "changeAbs": 0.03,
+      "previousClose": 11.75,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "NOW",
       "name": "",
-      "price": 88.31,
-      "changePct": -0.6525,
-      "changeAbs": -0.58,
-      "previousClose": 88.89,
-      "timestamp": 1777639459204
+      "price": 88.59,
+      "changePct": 0.3171,
+      "changeAbs": 0.28,
+      "previousClose": 88.31,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "PYPL",
       "name": "",
-      "price": 50.14,
-      "changePct": -1.5705,
-      "changeAbs": -0.8,
-      "previousClose": 50.94,
-      "timestamp": 1777639459204
+      "price": 50.42,
+      "changePct": 0.5584,
+      "changeAbs": 0.28,
+      "previousClose": 50.14,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "PLTR",
       "name": "",
-      "price": 139.11,
-      "changePct": 0.8263,
-      "changeAbs": 1.14,
-      "previousClose": 137.97,
-      "timestamp": 1777639459204
+      "price": 142.46,
+      "changePct": 2.4082,
+      "changeAbs": 3.35,
+      "previousClose": 139.11,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "TSM",
       "name": "",
-      "price": 396.06,
-      "changePct": 0.5662,
-      "changeAbs": 2.23,
-      "previousClose": 393.83,
-      "timestamp": 1777639459204
+      "price": 401.65,
+      "changePct": 1.4114,
+      "changeAbs": 5.59,
+      "previousClose": 396.06,
+      "timestamp": 1777644539430
     },
     {
       "ticker": "GLD",
       "name": "",
-      "price": 423.66,
-      "changePct": 1.4973,
-      "changeAbs": 6.25,
-      "previousClose": 417.41,
-      "timestamp": 1777639459204
+      "price": 425.64,
+      "changePct": 0.4674,
+      "changeAbs": 1.98,
+      "previousClose": 423.66,
+      "timestamp": 1777644539430
     }
   ]
 }
