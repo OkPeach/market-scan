@@ -1,6 +1,50 @@
 {
-  "timestamp": 1777608160836,
+  "timestamp": 1777619723755,
   "items": [
+    {
+      "id": 140128398,
+      "headline": "Apple shares rise as iPhone 17 and MacBook Neo drive forecast",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0243060f03e5efa466ff637ff5f1c022946c5d2959fd34771fb6f305a24bb9e",
+      "summary": "STORY: Apple on Thursday touted blowout demand for its flagship iPhone 17 and the MacBook Neo that helped power a solid sales forecast sending its shares up nearly 4% after hours.The tech giant's executives said they expect sales growth of up to 17% in the current fiscal third quarter.That's above Wall Street estimates of 9.5%, according to LSEG data.In the second quarter ended March 28, sales and profits were at around $111 billion and $2 per share, above analyst expectations.In the latest quarter, sales of the iPhone, still the company's best-selling product, were $56.9 billion, slightly less than estimates.CEO Tim Cook said iPhone sales were held back in the quarter by supply constraints for the device's advanced processor chips.Mac sales, which included several weeks of Neo sales, were $8.4 billion, beating expectations.Analysts believe the Neo could help Apple crack a new $20 billion market for lower-priced laptops.In the fiscal second quarter, Apple’s existing inventory of memory chips helped it weather rising prices.But memory costs will catch up to Apple starting in the current quarter ending in June.Cook, in a conference call with analysts, said they believe it will \"drive an increasing impact\" on the business.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777611040000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140128397,
+      "headline": "Is This AI Stock a Buy After a Game-Changing Earnings Report?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d15b0742561bdfdfd8e6d6f0059c3335feab7c8d9a434810130e838299410e6d",
+      "summary": "The tech giant just turned in a quarter that's hard to find a flaw in -- with cloud-driven AI momentum doing much of the heavy lifting.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777608720000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140128400,
+      "headline": "Xcel Energy Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b45c1bddfcbe03676d55e6e66387271844e4086c66fdd59fd0fdb3d8e0e2b312",
+      "summary": "Xcel Energy (NASDAQ:XEL) reported first-quarter 2026 GAAP earnings of $0.89 per share and ongoing earnings of $0.91 per share, excluding two non-recurring items tied to a Prairie Island outage-related disallowance and updated insurance proceeds associated with Marshall Fire litigation. Vice Preside",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777608472000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140128403,
+      "headline": "Bitcoin, ETH, XRP, DOGE, MSTR Cashtags Go Live on X Web, Musk Says Most Crypto Are Scams",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d3d86d2d0bf1a1207559d273247dd835633ff79198edc4c3056d664b5b2806e",
+      "summary": "Elon Musk’s X rolls out the Smart Cashtags feature for stocks and crypto assets on the web version today. This new feature adds interactive, real-time financial data to users’ timelines, supporting major crypto and stocks trading such as Bitcoin, ETH, XRP, SOL, DOGE, TSLA, MSTR, and COIN. Meanwhile, Bitcoin and Dogecoin-fan Elon Musk says most",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777606711000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
     {
       "id": 140127702,
       "headline": "Upbound Group Q1 Earnings Call Highlights",
@@ -32,6 +76,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777605109000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140128818,
+      "headline": "Tesla registrations in Denmark rise 102% year-on-year in April",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f3e7a2308cef96138ce1991364f5addc91438d683cd46d232ea01bf4c83304a5",
+      "summary": "Registrations of new Teslacars in Denmark rose 101,67% in April from a yearearlier, to 363 vehicles, data from bilstatistik.dk showed onFriday.(Reporting by Soren Jeppesen and Louise Rasmussen;...",
+      "image": "",
+      "datetime": 1777604984000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140128816,
+      "headline": "Tesla new registrations in Denmark up 102% year-on-year in April, compiler Bilstatistik.dk says",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9569849f5899ad55109df1d5a192021f8517a060aaa88d787b44cfc926226111",
+      "summary": "Tesla new registrations in Denmark up 102% year-on-year in April, compiler Bilstatistik.dk says...",
+      "image": "",
+      "datetime": 1777604719000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -76,6 +142,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777603324000,
       "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140128546,
+      "headline": "PRESS DIGEST-Wall Street Journal - May 1",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ffadd20609f46fbb93aaa0b26d5281a5d9d60c01dd7dd0570b491fa850bab4eb",
+      "summary": "May 1 - The following are the top stories in the WallStreet Journal. Reuters has not verified these stories and doesnot vouch for their accuracy. - Meta Platforms CEO Mark Zuckerberg...",
+      "image": "",
+      "datetime": 1777602380000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140128524,
+      "headline": "Apple beats expectations on Mac strength, but weighed on by iPhone",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9c7cde363690d4ff2e5019e10d67b499af79256c9516793c8369d0e4790b7e9f",
+      "summary": "The group has posted solid Q2 results, bolstered by its computers and services, despite supply constraints weighing on iPhone sales.",
+      "image": "",
+      "datetime": 1777602054000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -164,6 +252,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777597893000,
       "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140128126,
+      "headline": "PRESS DIGEST-New York Times business news - May 1",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=79c52cc125eb19863bfb713285926a959082ce5bf8e466e35c9ebc717c85216c",
+      "summary": "May 1 - The following are the top stories onthe New York Times business pages. Reuters has not verifiedthese stories and does not vouch for their accuracy. - Apple on Thursday...",
+      "image": "",
+      "datetime": 1777597822000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -274,6 +373,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777594467000,
       "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140127839,
+      "headline": "EMEA Morning Briefing : Wall Street Posts Best Month Since 2020",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0fb1ae07cb343f2d60478959e779c35129221270405c3771f994f4df3aa29476",
+      "summary": "MARKET WRAPS Watch For: U.K. Nationwide house price index, money and credit, S&P Global Mfg PMI; trading updates for Pearson, NatWest Group Opening Call: European stock...",
+      "image": "",
+      "datetime": 1777594461000,
+      "ticker": "META",
       "category": "company"
     },
     {
@@ -531,10 +641,10 @@
     },
     {
       "id": 7876445,
-      "headline": "Oil rises over $1 with no sign of Iran conflict ending - Reuters",
+      "headline": "Oil prices rise with no sign of end to Iran war - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVJqNi1rMnBzZk5NaEl4S0xUUjdlZjMySnhFQ2hVekljdHNIaVVyMk5Kem1pV05sd1ZIazh3akJ4aVpkbjZ2S3FfcjA3VTdYR3hNeWwydUllS1pfVUhzVmxlRWE0ZHJTSnJoaUZSWGtCRFFFVDFnNDZTcU1mNEptNU5GRXBvZ2NKa1NxMnduQjRpalo0UGJRSGNLTS1nTFdOYjJNOFc4em9hN3BZUFBEZHVtcVZYTVl6b0xsSGNDYklSNDct?oc=5",
-      "summary": "Oil rises over $1 with no sign of Iran conflict ending  Reuters",
+      "summary": "Oil prices rise with no sign of end to Iran war  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777588740000,
       "ticker": null,
@@ -638,6 +748,17 @@
       "datetime": 1777586906000,
       "ticker": "MSFT",
       "category": "company"
+    },
+    {
+      "id": 7876855,
+      "headline": "'They are not representing Iran': protesters urge FIFA to ban Iran from World Cup - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNm9Nc1Q0eHlxbjVoRVROclBfZHlvMUpjQXIxNDctZVRCRkNHNzI0MnVQaWVYYXFFWlNhUExSbE13dU1mOW5qQVVIUjNVajVvYm9PN1NNVjJ4Vk11dlY2TFRIVEJlRDBaRGV5V0hucGpnd1hVVjFDTWFoM2Q2ZGVBQTY0Z3hXVXpFXzdJaFJMdmxNdmh5aW5OYUdnSVFhSTNmQlcwdkh2Z2U4TGk5TURZdmhLYkktQzRKVFk3Yg?oc=5",
+      "summary": "'They are not representing Iran': protesters urge FIFA to ban Iran from World Cup  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777586743000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140126029,
@@ -979,127 +1100,6 @@
       "datetime": 1777582189000,
       "ticker": "MSFT",
       "category": "company"
-    },
-    {
-      "id": 140124555,
-      "headline": "US Equity Indexes Jump as Tech Earnings, Q1 Economic Growth Help Trigger Broad-Based Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1570c50eafe24317999702f99b4010e6bc66edcc5b757fe095693720a11ef743",
-      "summary": "US equity indexes rose in a broad-based rally as the impact of artificial intelligence showed in cor",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777582184000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140124520,
-      "headline": "Nvidia vs. Intel: Diverging Paths in Quarterly Revenue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da8eb559ca0c3613521e1ab6d1079060d80492bc29881135d404f4ec14416c54",
-      "summary": "Nvidia has posted eight consecutive quarters of rising revenue, while Intel's figures have remained largely flat. Explore the financial trends shaping each chip company.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777582034000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140124546,
-      "headline": "Apple beats on Q2 earnings, thanks to China & iPhone sales",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d11994a484b637181a4fa9a1b5822134a7c1d1fd4938a5a0af775658ff63101",
-      "summary": "Apple (AAPL) reported second quarter results on Thursday after the closing bell. Adjusted earnings per share (EPS) came in at $2.01 (compared to analyst estimates of $1.96), and revenue came in at $111.2 billion (compared to analyst estimates of $109.66 billion). Yahoo Finance's Josh Lipton takes a closer look at the breaking numbers.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777581652000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124616,
-      "headline": "Meta Stock Slides After Q1 Results. Investors Are Debating If Facebook Parent Is 'AI Winner.'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7aea14e39306107abff1f8087170cb3f6ff2ed762700a8c5e534d89f388f93d6",
-      "summary": "Meta stock slid late Wednesday after the social media giant reported first-quarter results that beat estimates.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777581127000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140124568,
-      "headline": "'I'd Love To Be Able To Sell A $4 Burger, But It's Simply Impossible,' Founder Says As Halal Chain Pulls In $4 Million And Expands To 8 Locations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7637a7fc9387d2b9749fe03921685355d3ec59c60181a3ba6320cbf0cb045024",
-      "summary": "Shahezad Contractor started his halal burger business to address what he saw as a lack of halal burger options. The founder and CEO of Philadelphia-based Cousin's Food Inc., recently told CNBC that Cousin's Burger has grown to eight locations in...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777581074000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140124547,
-      "headline": "Apple sales forecast beats Wall Street expectations, shares rise",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3869030eec61e569ac4f4f48d01934d77883a83a33ee21e135f94844abba9be6",
-      "summary": "Apple on Thursday forecast sales that beat expectations, even as it said it expected to continue to face chip supply constraints, sending shares up more than 3%.  Apple executives said they expect sales growth of 14% to 17% in the current fiscal ‌third quarter, which was above Wall Street estimates of 9.5% growth to $102.93 billion, according to data from LSEG.  Earlier, Apple reported better-than-expected second-quarter results, with customers showing eagerness ‌to buy a new MacBook model driven by incoming CEO John Ternus, while supply constraints hindered iPhone sales.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777581073000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124548,
-      "headline": "Apple reports second quarter results",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f167368d49c9add7c09cd27ce2f14a264464ba8358b84bc65035db1832ff8e1b",
-      "summary": "CUPERTINO, Calif., April 30, 2026--Apple® today announced financial results for its fiscal 2026 second quarter ended March 28, 2026. The Company posted quarterly revenue of $111.2 billion, up 17 percent year over year. Diluted earnings per share was $2.01, up 22 percent year over year.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777581000000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140124521,
-      "headline": "Want to Be a Millionaire? Buy Governance Focused Cardano (ADA).",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ade0029a1b3b57b0a754f0287a2be618010d99fce5aae0c7cb97f411d863a60",
-      "summary": "Cardano's focus on scalability and security could drive its long-term gains.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777581000000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7875192,
-      "headline": "Rivian renegotiates DOE loan down to $4.5 billion, adjusts capacity plans for Georgia plant",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/30/rivian-renegotiates-doe-loan-adjusts-capacity-plans-for-georgia-plant.html",
-      "summary": "The DOE loan was previously set to support two phases of production for a total of 400,000 units annually.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108297781-1777308295201-108297781-1777308210048-gettyimages-2272326273-BIZ-AUTO-RIVIAN-R2-ROADSHOW-TB.jpeg?v=1777308342&w=1920&h=1080",
-      "datetime": 1777580927000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140124556,
-      "headline": "Amazon Stock Ekes Out Gain After Q1 Results Highlight AI Chip Demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=568e26b025a7715938d147fe39d45dd4d5043e4521e0abf9aa0e2cfd5948842c",
-      "summary": "Amazon stock was climbing Thursday after the tech giant reported first-quarter results that exceeded expectations.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777580903000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7876031,
-      "headline": "Trump says 'probably' when asked if he might pull US troops out of Italy, Spain - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0NxUDdSMmwyY2toWGN1clpNMXdmYUhmNjV5cHdnTWtrYVVfZW1tak9RWWdmUUE4dXdlajRuYnNnRDNMRHFGQmVsSDFrMXhYTkRnTFBsQkRJS25BaFNUelRHRlNYQTlXSjVlTmU5SGdxY2JuSlg1U25GbWt0MnRGTjc4Q25iZnJELXhDa2JsN1lHZkNWVkMtVzBybHh0M2VTUkotM3FHVEV5LVNhTnNHV1dwS3I0cVZnVDR1eXl3Yw?oc=5",
-      "summary": "Trump says 'probably' when asked if he might pull US troops out of Italy, Spain  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777580792000,
-      "ticker": null,
-      "category": "business"
     }
   ]
 }
