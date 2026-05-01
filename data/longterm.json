@@ -1,11 +1,11 @@
 {
-  "timestamp": 1777538285850,
+  "timestamp": 1777624054727,
   "tickers": {
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "fetchedAt": 1777538285850,
-      "price": 270.17,
+      "fetchedAt": 1777624054727,
+      "price": 271.35,
       "consensus": {
         "score": 0.9074074074074074,
         "total": 54
@@ -26,21 +26,21 @@
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
-        "date": "2026-04-30",
+        "date": "2026-07-29",
         "hour": "amc",
-        "epsEstimate": 1.9884,
-        "revenueEstimate": 111851415907
+        "epsEstimate": 1.7604,
+        "revenueEstimate": 104289595611
       },
       "score6m": null,
       "errors": [
-        "pt: pt AAPL: 403 Forbidden (37ms)"
+        "pt: pt AAPL: 403 Forbidden (83ms)"
       ]
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corp.",
-      "fetchedAt": 1777538285850,
-      "price": 424.46,
+      "fetchedAt": 1777624054727,
+      "price": 407.78,
       "consensus": {
         "score": 1.2615384615384615,
         "total": 65
@@ -68,14 +68,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt MSFT: 403 Forbidden (46ms)"
+        "pt: pt MSFT: 403 Forbidden (78ms)"
       ]
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. (Class A)",
-      "fetchedAt": 1777538285850,
-      "price": 349.94,
+      "fetchedAt": 1777624054727,
+      "price": 384.8,
       "consensus": {
         "score": 1.161764705882353,
         "total": 68
@@ -103,14 +103,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt GOOGL: 403 Forbidden (42ms)"
+        "pt: pt GOOGL: 403 Forbidden (83ms)"
       ]
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com Inc.",
-      "fetchedAt": 1777538285850,
-      "price": 263.04,
+      "fetchedAt": 1777624054727,
+      "price": 265.06,
       "consensus": {
         "score": 1.2105263157894737,
         "total": 76
@@ -138,14 +138,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt AMZN: 403 Forbidden (43ms)"
+        "pt: pt AMZN: 403 Forbidden (79ms)"
       ]
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms Inc.",
-      "fetchedAt": 1777538285850,
-      "price": 669.12,
+      "fetchedAt": 1777624054727,
+      "price": 611.91,
       "consensus": {
         "score": 1.1944444444444444,
         "total": 72
@@ -173,14 +173,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt META: 403 Forbidden (39ms)"
+        "pt: pt META: 403 Forbidden (77ms)"
       ]
     },
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corp.",
-      "fetchedAt": 1777538285850,
-      "price": 209.25,
+      "fetchedAt": 1777624054727,
+      "price": 199.57,
       "consensus": {
         "score": 1.2535211267605635,
         "total": 71
@@ -208,14 +208,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt NVDA: 403 Forbidden (33ms)"
+        "pt: pt NVDA: 403 Forbidden (88ms)"
       ]
     },
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla Inc.",
-      "fetchedAt": 1777538285850,
-      "price": 372.8,
+      "fetchedAt": 1777624054727,
+      "price": 381.63,
       "consensus": {
         "score": 0.43333333333333335,
         "total": 60
@@ -243,14 +243,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt TSLA: 403 Forbidden (39ms)"
+        "pt: pt TSLA: 403 Forbidden (87ms)"
       ]
     },
     "AMD": {
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
-      "fetchedAt": 1777538285850,
-      "price": 337.11,
+      "fetchedAt": 1777624054727,
+      "price": 354.49,
       "consensus": {
         "score": 0.9830508474576272,
         "total": 59
@@ -278,14 +278,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt AMD: 403 Forbidden (39ms)"
+        "pt: pt AMD: 403 Forbidden (84ms)"
       ]
     },
     "INTC": {
       "symbol": "INTC",
       "name": "Intel Corp.",
-      "fetchedAt": 1777538285850,
-      "price": 94.75,
+      "fetchedAt": 1777624054727,
+      "price": 94.48,
       "consensus": {
         "score": 0.23076923076923078,
         "total": 52
@@ -313,14 +313,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt INTC: 403 Forbidden (43ms)"
+        "pt: pt INTC: 403 Forbidden (82ms)"
       ]
     },
     "NFLX": {
       "symbol": "NFLX",
       "name": "Netflix Inc.",
-      "fetchedAt": 1777538285850,
-      "price": 92.12,
+      "fetchedAt": 1777624054727,
+      "price": 93.61,
       "consensus": {
         "score": 1.0338983050847457,
         "total": 59
@@ -348,14 +348,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt NFLX: 403 Forbidden (36ms)"
+        "pt: pt NFLX: 403 Forbidden (78ms)"
       ]
     },
     "HIMS": {
       "symbol": "HIMS",
       "name": "",
-      "fetchedAt": 1777538285850,
-      "price": 26.33,
+      "fetchedAt": 1777624054727,
+      "price": 27.17,
       "consensus": {
         "score": 0.5,
         "total": 22
@@ -383,14 +383,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt HIMS: 403 Forbidden (38ms)"
+        "pt: pt HIMS: 403 Forbidden (78ms)"
       ]
     },
     "HIMX": {
       "symbol": "HIMX",
       "name": "",
-      "fetchedAt": 1777538285850,
-      "price": 11.45,
+      "fetchedAt": 1777624054727,
+      "price": 11.75,
       "consensus": {
         "score": 1.0909090909090908,
         "total": 11
@@ -412,20 +412,20 @@
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-05-07",
-        "hour": "",
+        "hour": "bmo",
         "epsEstimate": 0.0459,
         "revenueEstimate": 198910200
       },
       "score6m": null,
       "errors": [
-        "pt: pt HIMX: 403 Forbidden (43ms)"
+        "pt: pt HIMX: 403 Forbidden (94ms)"
       ]
     },
     "NOW": {
       "symbol": "NOW",
       "name": "",
-      "fetchedAt": 1777538285850,
-      "price": 88.89,
+      "fetchedAt": 1777624054727,
+      "price": 88.31,
       "consensus": {
         "score": 1.1730769230769231,
         "total": 52
@@ -453,14 +453,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt NOW: 403 Forbidden (35ms)"
+        "pt: pt NOW: 403 Forbidden (77ms)"
       ]
     },
     "PYPL": {
       "symbol": "PYPL",
       "name": "",
-      "fetchedAt": 1777538285850,
-      "price": 50.94,
+      "fetchedAt": 1777624054727,
+      "price": 50.14,
       "consensus": {
         "score": 0.32,
         "total": 50
@@ -488,14 +488,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt PYPL: 403 Forbidden (41ms)"
+        "pt: pt PYPL: 403 Forbidden (77ms)"
       ]
     },
     "PLTR": {
       "symbol": "PLTR",
       "name": "",
-      "fetchedAt": 1777538285850,
-      "price": 137.97,
+      "fetchedAt": 1777624054727,
+      "price": 139.11,
       "consensus": {
         "score": 0.8333333333333334,
         "total": 36
@@ -523,14 +523,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt PLTR: 403 Forbidden (34ms)"
+        "pt: pt PLTR: 403 Forbidden (79ms)"
       ]
     },
     "TSM": {
       "symbol": "TSM",
       "name": "",
-      "fetchedAt": 1777538285850,
-      "price": 393.83,
+      "fetchedAt": 1777624054727,
+      "price": 396.06,
       "consensus": {
         "score": 1.2325581395348837,
         "total": 43
@@ -558,14 +558,14 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt TSM: 403 Forbidden (38ms)"
+        "pt: pt TSM: 403 Forbidden (77ms)"
       ]
     },
     "GLD": {
       "symbol": "GLD",
       "name": "",
-      "fetchedAt": 1777538285850,
-      "price": 417.41,
+      "fetchedAt": 1777624054727,
+      "price": 423.66,
       "consensus": null,
       "consensus3mAgo": null,
       "consensusTrend": null,
@@ -575,13 +575,13 @@
       "nextEarnings": null,
       "score6m": null,
       "errors": [
-        "pt: pt GLD: 403 Forbidden (44ms)"
+        "pt: pt GLD: 403 Forbidden (76ms)"
       ]
     },
     "SP": {
       "symbol": "SP",
       "name": "",
-      "fetchedAt": 1777538285850,
+      "fetchedAt": 1777624054727,
       "price": null,
       "consensus": {
         "score": -0.9,
@@ -605,13 +605,13 @@
       "nextEarnings": null,
       "score6m": null,
       "errors": [
-        "pt: pt SP: 403 Forbidden (37ms)"
+        "pt: pt SP: 403 Forbidden (81ms)"
       ]
     },
     "INX": {
       "symbol": "INX",
       "name": "",
-      "fetchedAt": 1777538285850,
+      "fetchedAt": 1777624054727,
       "price": null,
       "consensus": null,
       "consensus3mAgo": null,
@@ -622,7 +622,7 @@
       "nextEarnings": null,
       "score6m": null,
       "errors": [
-        "pt: pt INX: 403 Forbidden (32ms)"
+        "pt: pt INX: 403 Forbidden (85ms)"
       ]
     }
   }
