@@ -1,6 +1,28 @@
 {
-  "timestamp": 1777719490465,
+  "timestamp": 1777722863648,
   "items": [
+    {
+      "id": 140143697,
+      "headline": "META Platforms (NASDAQ:META) Passes Peter Lynch's GARP Screen as a Compelling Long-Term Investment",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=330492e25d2452e8d813c2a15d98c2e50faf0df3fee810ef9884da36da135c5f",
+      "summary": "Meta Platforms (META) passes Peter Lynch’s GARP screen with 24.85% EPS growth, a 0.80 PEG ratio, low debt, and strong profitability, making it a compelling long-term growth-at-a-reasonable-price candidate.",
+      "image": "https://www.chartmill.com/images/uploads/lynch_news_067b1bafe9.webp",
+      "datetime": 1777722043000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 7883099,
+      "headline": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RkdWg1QTVlQmNRQkpSRFhLSmU3QTZsZmtHV016RHB2cG5FOW05bUdPN3N6ZExBVjdCR1RkdXlwLW0yZ1VGazdOVkJKNkEyWVN2V2NBUWJBX3JhREUwUUQwNlQ2RGhsaUhyb193bVRRbGVSejZZTm5QWUlBcThCRlJuajBlTXgwLXNGRmNYelNWRWFYczBDVTFDUkliRFVkQmd0UFRBZFdoOVM2YXp3eU9EZi1DNThYenRnVUE2UnY2bHNXU3FkWkVQRXg?oc=5",
+      "summary": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777714673000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 140143040,
       "headline": "UFO ETF Faces a Critical Test: Can Pre-Profit Space Stocks Deliver on $1.85B Backlog",
@@ -120,6 +142,72 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777707480000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140143637,
+      "headline": "Have Markets Mispriced Commodity Risks As Oil Threat Builds?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b816abfe985a4ae5604ffc9dd8009338a291c1333a910fd3b415d2fe867f1dac",
+      "summary": "Stalled peace talks between US and Iran are keeping pressure on the Strait of Hormuz. TD Asset Management's Humza Hussain explains why he believes global commodities are grossly mispriced.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187670534/image_2187670534.jpg?io=getty-c-w1536",
+      "datetime": 1777707000000,
+      "ticker": "GLD",
+      "category": "company"
+    },
+    {
+      "id": 140143547,
+      "headline": "The Most Undervalued REITs I Am Buying Right Now",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cf37c49e33d91772685f14b4bd60b574f1f0635212f9e5b5f5501000631e2b71",
+      "summary": "I am finding investment opportunities in REITs that are in temporarily oversupplied sectors like storage and life science. Read the full analysis here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220726582/image_2220726582.jpg?io=getty-c-w1536",
+      "datetime": 1777706100000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 7882597,
+      "headline": "Iran executes two for spying for Israel - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTZ6MVlYOW9YNzN6OXdzb0Fvbjk1WnY4Z3Z3ejdtRXFSY3NrTHhndHllel9xR0ZJM0k1SkFicnFpQS1wZC1HSXg2aU9yN1RENVRUYlB4M1FRV1Nub1lTUGFFc2R6ZlJZMTQ3Z0JBS0gtSTA5Sk9NWXZYM29SMDhxMVl6Yk1VMWt5dzFvLUxB?oc=5",
+      "summary": "Iran executes two for spying for Israel  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777705404000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7882998,
+      "headline": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1F2ZWN6cV82RGNKcVFVSlE1YWVST2xLQmZGMU9HU0NwRlg3cFU0RVZPYWs3Qkl3WHJPaTFNSU5CMi1URjgzajBTbGhOYVhKLWxZTFdZWGdwU0phS25fNThqaUZQZzB1MGVRdXZHcGNiTFFtUGxHMlM3RTktdVV1UloyZUJzdHJtMWJFUUpyNFNTSEh0MDF5TGUwakpWa0F3OUowVkJVNlowLTJOTXE2dlBXdE5WOXRuMFNTdWRyVk5fV2ZDeEdxUQ?oc=5",
+      "summary": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777705382000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140143401,
+      "headline": "Apple shares soar after record quarterly revenue",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4d8e79822aab891f79b937795b4ee8d07eb65a143583cb393456206cfc8c46e0",
+      "summary": "Copyright © BusinessAMBE 2023Key takeawaysApple’s shares surged on Friday following the release of impressive quarterly results, marking the strongest growth in more than four years.Robust...",
+      "image": "",
+      "datetime": 1777705267000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140143433,
+      "headline": "Amazon: Why Is There No Focus On The Chip Business, Mr. Market?",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=86c5d958a7d88083463ce2923932531c47baeeef8af3416a7abc3c0ef380f810",
+      "summary": "Amazon delivered a breakout Q1 2026, with AWS revenue up 28% and robust sequential improvements across all segments. Read why AMZN stock is a strong buy.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2184965848/image_2184965848.jpg?io=getty-c-w1536",
+      "datetime": 1777705259000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -332,6 +420,17 @@
       "category": "company"
     },
     {
+      "id": 7882495,
+      "headline": "Iran standoff could leave Trump worse off than before he went to war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU0F5dU0yQWlzdGU4SlE5TVpWQlQ0X2RCMTgtYW5iYk9kZ0F2ekstUEpfYUdnS3FqOGlkbGNLY0RLR0YzTjNYMGUtREY2ZWtuQmF3Z2xWaDJMbkxMWklaOEJtQm80SXJKZGFta1FJTk43Y09sLTExUFVaTFNUdEo5bmdldy1DalR0NmhiNVh6YnJKdW9ZN1JmclRGOUpQLUsxT0ZuQ2xnSTJHWk1qODYwOGRic0RJV3JK?oc=5",
+      "summary": "Iran standoff could leave Trump worse off than before he went to war  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777698120000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140142717,
       "headline": "Elon Musk calls most cryptocurrencies “a scam”",
       "source": "Finnhub",
@@ -398,6 +497,17 @@
       "category": "company"
     },
     {
+      "id": 7881592,
+      "headline": "Trump says US Navy acting 'like pirates' to carry out naval blockade of Iranian ports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVc1ZkgxV3lpblVzQXlQU0oxM2xSbG15WmdYd0NscGg2Yy1xZVA2VFJ3RTJnTXpWQnhjRWdLQnBlSDlYTnBnS0NieGg4bXhYUEVFZGFkaHhfVlhEZ3ptNVk3dEZneTV5MmR0Y1A5dlpIczlxMGJtY3l3a1JRY1RPZGxPSWdfZFlBUVRnc0pPOE12WnN5X2I5MXpBYW5TWUkzWkNnRWJfelMzVGdYcmJkWWRuTnFlMk1UblNpSXFYcw?oc=5",
+      "summary": "Trump says US Navy acting 'like pirates' to carry out naval blockade of Iranian ports  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777687200000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140140801,
       "headline": "Amazon, Alphabet, Microsoft, Meta, and Apple Just Reported Earnings. I Think This Was the Best Report of Them All.",
       "source": "Yahoo",
@@ -462,6 +572,17 @@
       "datetime": 1777682820000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7881089,
+      "headline": "Spirit Airlines could shut down overnight. Here's what travelers need to know",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-flights-shut-down.html",
+      "summary": "What travelers who are ticketed on Spirit Airlines need to know if the carrier shuts down.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108185625-1755114289868-gettyimages-2229982940-_73a6547_sevvfeop.jpeg?v=1755114367&w=1920&h=1080",
+      "datetime": 1777681600000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140140133,
@@ -684,6 +805,17 @@
       "category": "company"
     },
     {
+      "id": 7883100,
+      "headline": "Trump's attacks on Europe's leaders worsen transatlantic frost - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNW1HYzBXc3FEM1o1Z0U5MlFuUzU0QW1kdHNqVEUwYUF1V2Fqb1VPYWVKelBZNlh4MVJlMkNWSzN1YksyLXVHYnBHM05FbjZxdFhlY3ZzTHlxNVk5S0FrWlZJUk16QkNqZzZ1a0Z4eGdJVnE0ZEVYS2EtV0Vfeno3TXZCN3ZZM0pFVlVialY5RmpuSWFYNVpMdVJOa0N1TzJ3Mlhsa3Jta202UQ?oc=5",
+      "summary": "Trump's attacks on Europe's leaders worsen transatlantic frost  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777673187000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140139445,
       "headline": "Why Remitly Global Rebounded 39.7% in April",
       "source": "Yahoo",
@@ -704,6 +836,17 @@
       "datetime": 1777672380000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7882296,
+      "headline": "US warns European allies including UK and Poland of arms shipment delays, FT reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVVuMDhCdXVSNFNJUmtLZDA3c0czTDJSRHJLMDI2c0tvY3VfNWZnZTRhaHRMV3gtb0R6OXJBX0NaZVBaM1ZZbmlhUjhFQlZTaXNYSEx6anlaUFBrTWpUR1ZqWXdwS3hYMy1lUTVqcHVPU09YYTktNFRzVTVpWnRtR1N2emQ3aERQc2RkMjVHUVl2djNxZVRzdWxBU2ZOSXZKUXA1NGlqMkh0ek16SEtIbnJQVk83SU9ILTc0blhsa1lLMFk?oc=5",
+      "summary": "US warns European allies including UK and Poland of arms shipment delays, FT reports  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777672303000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140138380,
@@ -759,6 +902,17 @@
       "datetime": 1777671078000,
       "ticker": "TSLA",
       "category": "company"
+    },
+    {
+      "id": 7880989,
+      "headline": "US withdrawing 5,000 troops from Germany, US officials say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUxnTi1fcnFiX0tMTlpIQmdIOGFIQk80clBPWENGTS1FcllKZHRqVlhDZGlud0FGam1WVGctME5QdHgtZHVaUDdaRnhPeUYtTmJrVm5qVldOSDN3N0haYVpzOUU4SVFhSnRXU3FBWkdmckloU1FsQ01DSlA2eS1vaXlvb1E4Mmc2alJ4bVplZXYyNVYtb2FwOA?oc=5",
+      "summary": "US withdrawing 5,000 troops from Germany, US officials say  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777671060000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140140058,
@@ -915,6 +1069,17 @@
       "category": "company"
     },
     {
+      "id": 7880373,
+      "headline": "Berkshire Hathaway’s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
+      "summary": "Greg Abel made a point of stopping by every booth in the hall, greeting employees and shaking hands with shareholders.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108300825-1777660323347-img_3179.jpg?v=1777664191&w=1920&h=1080",
+      "datetime": 1777669046000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
       "id": 140138386,
       "headline": "US Equity Indexes Scale New Peaks This Week Amid Lift From Mega-Cap Earnings, Crude Oil",
       "source": "Yahoo",
@@ -934,171 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777668744000,
       "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140139820,
-      "headline": "Musk vs. Altman as OpenAI trial begins in California",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=3a02e3eab7801b89d7a3dc7cc235745f7ab87debfb93b948eb0e4c991e57cc70",
-      "summary": "STORY: The lawsuit pitting Elon Musk against OpenAI and its CEO Sam Altman kicked off in a California courtroom this week... with Musk testifying for more than seven hours over three...",
-      "image": "",
-      "datetime": 1777668617000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140138406,
-      "headline": "S&P 500 Marks Fifth Weekly Gain, Reaches New Records on Earnings Strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9352bf1179ff9ec662bb3681da4b66bed89a9988f37718fc6474b6478c07ba9c",
-      "summary": "The Standard & Poor's 500 index rose 0.9% this week to another closing record high as the communicat",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777668584000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140138396,
-      "headline": "S&P 500, Nasdaq end at fresh records on tech earnings strength",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b33ed308461cfde2f675b2c9f83efd3bc7946d1dfb89098ab9066ae895574038",
-      "summary": "The Nasdaq and S&P 500 soared to fresh records Friday, cheering mostly strong earnings from tech giants and continuing to shrug off the prolonged US-Iran war that has lifted oil prices.Oil prices slid after Iranian state media reported that Iran delivered the text of a new proposal to mediator Pakistan on Thursday evening.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777668304000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140138397,
-      "headline": "Big Tech powers the market with strong earnings wins",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f517545b08d52248262526c16c66d37c26bf31a6c32e36b0b740a75799707b25",
-      "summary": "Concurrent Wealth Management chief investment strategist Leah Bennett joins Josh Lipton on Market Domination Overtime to discuss what investors should watch as Big Tech navigates geopolitical volatility.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777668276000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140140803,
-      "headline": "S&P 500 and Nasdaq 100 Post Record Highs on Solid Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96533a4c00c1031bc748152ab7cfa080de086708ecf92cd7f270a359b0c07871",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.29%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.31%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.94%. June E-mini S&P futures (ESM26 ) rose +0.19%, and June E-mini Nasdaq futures...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777667926000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140138471,
-      "headline": "Intel Stock Was Up 115% in April. How to Play It With Options Now.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=06ef9353efd4a975b905652db346a80000c5c3b485a4185125e92351971c60d4",
-      "summary": "Options strategies offer ways to participate in future upside for hot stocks—and protect yourself from a potential selloff.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777667580000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140138398,
-      "headline": "Stock Market Today: Nasdaq, S&P Make History; Buffett's Berkshire Reports Earnings Saturday (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bde84f1c7728bce7cb14424aa74c5e4a265e990f19b598579cd5db28f08299d8",
-      "summary": "The Nasdaq composite dominates the major indexes on Friday. Buffett stock Berkshire Hathaway reports earnings on Saturday.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777667245000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140138387,
-      "headline": "Starbucks' Same-Store Sales Roar Back, But Its Biggest Hurdle Remains",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a4f40b25d707c01554fe916ec447601a24ccb61e0b793079e7b4bdd0859e9977",
-      "summary": "The stock has had a strong start to the year.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777667100000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140138388,
-      "headline": "Nvidia, Google, Microsoft Win Major Pentagon AI Contracts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d90b158e7fd8b9865d0e45080e42504bdc607de1314f2e3309b07b88676113d5",
-      "summary": "AI Goes Classified: Pentagon Signs Deals With Google, Nvidia, OpenAI",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777667048000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140138399,
-      "headline": "Why Apple Stock is Jumping on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=065fcacb55224c3cba781a507acfeb27a882448f0bef1d374dd8d426e762a8a6",
-      "summary": "Apple Stock Rises After Earnings Beat. Strong iPhone Demand Is Driving Growth.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777666979000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140138473,
-      "headline": "INTC: Intel Stock Jumps to Record High",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a29aa31427394272786a71f7acc99c9a14fd09c353f4b67993c8657f0532f9be",
-      "summary": "Intel Shares Rise Sharply. Why Wall Street Is Turning Bullish Again",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777666915000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140138438,
-      "headline": "What's Going On With Tesla Stock Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ac2f9790ea77d497e47754b54e108c346d1431620ff0f709b9c3ad147914de2e",
-      "summary": "Tesla Stock Climbs as Semi Trucks Roll Off Line. Europe Helps",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777666855000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140138400,
-      "headline": "Nasdaq Smashes 25,000 Barrier in Historic First",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fe6ad92f7e0156955567c0721c12c0b47433d4e531e47df2d02c591b7958424",
-      "summary": "Stocks reached fresh highs as falling oil prices and strong earnings lifted market sentiment.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777666800000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140138439,
-      "headline": "Tesla generates over $500 Million from Musk-linked companies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fcde49a243af8c767e491b3fffc70c216495ebf1966372ade797d8d9e77f48ae",
-      "summary": "xAI and SpaceX drive growing internal revenue",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777666673000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140138474,
-      "headline": "Intel clears regulatory hurdle for AI partnership",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ada700a1f3c05b1eb4eb565c7f87cd6ae26bedc658f59c8fcbecc16ac089a57",
-      "summary": "SambaNova deal moves forward after early approval",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777666600000,
-      "ticker": "INTC",
       "category": "company"
     }
   ]
