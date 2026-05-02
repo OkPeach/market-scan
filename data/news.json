@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777745548423,
+  "timestamp": 1777750558402,
   "items": [
     {
       "id": 140146124,
@@ -915,6 +915,17 @@
       "category": "company"
     },
     {
+      "id": 140146254,
+      "headline": "5 Stocks Investors Couldn't Stop Buzzing About This Week: AAPL, GOOG, HOOD And More",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f11f152bb80ee8698b21a4eb50fe9ce930071c0093014e627118caad5b8783e6",
+      "summary": "Retail investors talked up five hot stocks this week (April 27 to May 1) on X and Reddit&#39;s r/WallStreetBets: AAPL, GOOG, HOOD, META, LLY.",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/05/02/Apple-Ceo-Tim-Cook-Smiles-And-Claps-Duri.jpeg?width=2048&height=1536",
+      "datetime": 1777708920000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140145694,
       "headline": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'",
       "source": "CNBC",
@@ -1088,17 +1099,6 @@
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1423026734/image_1423026734.jpg?io=getty-c-w1536",
       "datetime": 1777703270000,
       "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140142277,
-      "headline": "China Patent Ruling On Microsoft Interfaces Weighed Against Valuation Upside",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57d9e6f6d8e366d5b2a755667ebbf4041d21d8a4429e71ae04380e844e5b5544",
-      "summary": "China’s Supreme People’s Court is reviewing a high profile patent dispute involving Microsoft’s user interface technology. The case follows multiple unsuccessful attempts by Microsoft to invalidate the patent at lower courts. The outcome could affect Windows and Surface products in China and influence how software and interface patents are treated for global tech firms. Chinese IP authorities have highlighted the case for its legal significance, drawing both domestic and international...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702621000,
-      "ticker": "MSFT",
       "category": "company"
     }
   ]
