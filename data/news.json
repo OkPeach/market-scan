@@ -1,6 +1,149 @@
 {
-  "timestamp": 1777750558402,
+  "timestamp": 1777755126856,
   "items": [
+    {
+      "id": 140146747,
+      "headline": "1 Russell 2000 Stock Worth Your Attention and 2 That Underwhelm",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69059daf1b1987e1f2c9dbcf93ffb13ef774ca80c60b280d72ddd26016c25108",
+      "summary": "The Russell 2000 (^RUT) is home to many small-cap stocks, offering investors the chance to uncover hidden gems before the broader market catches on. However, these companies often come with higher volatility and risk, as their smaller size makes them more vulnerable to economic downturns.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777751335000,
+      "ticker": "HIMS",
+      "category": "company"
+    },
+    {
+      "id": 140146608,
+      "headline": "Micron vs. SanDisk: Which Stock Is the Better Buy for the AI Boom?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90b56ca45898bbcec4cebe6c7d748ec7c784885813761b9012963b2f32b9b5d3",
+      "summary": "Micron and SanDisk have crushed the S&P 500, but it's a tough call when deciding which memory storage solutions provider is the better buy.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777750980000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146609,
+      "headline": "Silicon Valley 101 and Power HF Host AI Infrastructure Forum, Spotlighting Power as the Next Battleground",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=277439b222c33fea246c063212f87e0d87934d76014cc94932761f71ef11ec93",
+      "summary": "Power, networking, cooling and financing are becoming major bottlenecks alongside GPU supply, HF Power Proposes Hybrid Power SolutionSan Francisco , May 02, 2026 (GLOBE NEWSWIRE) -- Silicon Valley 101 and publicly traded power equipment company Power HF (605100.SS) co-hosted an industry forum focused on the rapidly changing AI infrastructure landscape, where experts from GMI Cloud, Power HF, ZFLOW AI and Franchise Capital agreed that GPUs are no longer the only bottleneck limiting AI development",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777749780000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146615,
+      "headline": "Apple’s Record Quarter Meets “RAMageddon” Risks For Mac Margins And Supply",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fa98de04cf7f551f079dff29e190616d689b48e1d03a0094abd8f3ae4b7d5ef",
+      "summary": "Apple reported record March quarter results, with double digit iPhone and Services growth and its strongest March quarter on record. Management highlighted emerging pressure from a worsening global memory chip shortage, which it referred to as \"RAMageddon.\" Persistent Mac supply constraints and rising memory costs are expected to weigh on margins and product availability over the coming months. For investors tracking NasdaqGS:AAPL, the news lands while the share price sits at $280.14 and...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777749475000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140146610,
+      "headline": "Investors Should Buy the Stocks of These 3 OpenAI Partners Regardless of What Happens to OpenAI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71380b4b77f767e99415eabd527e361de809c11d7547546129c02421d80334aa",
+      "summary": "Amazon, CoreWeave, and Oracle can thrive with or without deals from OpenAI.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777748700000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140146611,
+      "headline": "The “Dead” Phone Company Nvidia Just Bet $1 Billion On",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0fa5911dd4f59c3b18ed496d947bade3aee2735a8527ba0a799a68913a7cc26",
+      "summary": "Nokia went from ruling the cellphone world to basically disappearing from the conversation. So why did Nvidia just drop $1B on them? *Want to find out the 7 brands that fell and came back? Read more here:* In this video, we unpack how Nokia pulled off one of the wildest business pivots in tech going from RIP Nokia to a $20B networks powerhouse sitting in the middle of the 5G (and soon 6G) arms race. Heres what we get into: - How phones like the Nokia 6110 and indestructible 3310 turned Nokia into a global icon - How Symbian, delay-riddled launches, and the failed iPhone killer N97 almost sank the company - How a forgotten networks division and a fat patent portfolio quietly became Nokias lifeboat - Why buying Bell Labs and AlcatelLucent set Nokia up to win in telecom hardware - Why Nvidia needs Nokias tech to plug AI directly into mobile networks 0:00 Intro 0:31 The Innovator 2:08 The Indestructible 3:35 Losing The Kingdom 6:34 A New Future Subscribe to The Hustle: Get the 5-minute newsletter keeping 2M+ innovators in the loop About HubSpot: HubSpot is a customer platform that provides education, software, and support to help businesses grow better. The platform includes marketing, sales, service, commerce, operations, and website management products that start free and scale to meet our customers needs at any stage of growth. Today, thousands of customers around the world use HubSpots powerful and easy-to-use tools and apps to attract, engage, and delight customers. #TheHustle #HubSpot",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777748421000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146616,
+      "headline": "Greg Abel runs his first Berkshire annual meeting, Buffett attends",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a7ab467e6882b272ec3dae17c9cd4f1d6fc758c882a19fce097e25c8db85183",
+      "summary": "STORY: :: May 1, 2026New Berkshire Hathaway CEO Greg Abel presided over his first annual meeting on Saturday, looking to earn the trust of shareholders at a critical moment for the conglomerate built by Warren Buffett.The 63-year-old, who succeeded Buffett in January, kicked off the Omaha event as a banner honoring Buffett’s 60 years at the helm drew applause. Buffett, now chairman, watched from the front row.Abel's task, as one attendee put it, is formidable: \"Replacing the greatest investor who ever lived.\" Since Buffett, who's 95, announced last year he would step down, Berkshire's shares have lagged the S&P 500 by nearly 40 percentage points.While Berkshire is sometimes considered a microcosm of the broader U.S. economy, it has also been viewed as out of step with broader market trends, most notably technology and AI-driven growth.Though Apple is one of its largest holdings, Berkshire is more known for its retail, industrial and insurance businesses, including Geico, BNSF railroad, Dairy Queen and See's Candies.Before the meeting, Berkshire reported higher first‑quarter operating profit and a record cash pile of nearly 400 billion dollars — along with its first share buybacks in almost two years.Still, questions remain over how Abel will deploy all that cash, something that also bedeviled Buffett, with Berkshire going a decade without making a needle-moving acquisition.The meeting is the centerpiece of a weekend of shareholder events around Omaha, including investment conferences, private get-togethers, and shopping from Berkshire-owned businesses in a downtown exhibit hall.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777747922000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140146612,
+      "headline": "Bull vs. Bear: Is Intel Stock a Buy or Sell?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b37d4aa94d60f311385d4e2d268ebf6c3df9ad660aa66376740159f960d974c",
+      "summary": "Looking at the bullish and bearish cases for Intel.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777747860000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146613,
+      "headline": "Jim Cramer to Brinker’s CEO: How Do You Make More Money When Every Cost Is Going the Wrong Way?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81e20886ed667bc2ecda746668353b5c2f8483d91b0e1c8ee91e24ba5108e1b0",
+      "summary": "Jim Cramer spent a chunk of Wednesday night’s Mad Money trying to figure out how a casual dining operator manages to print better numbers while every line on the cost ledger is moving against it. His guest, Brinker International (NYSE:EAT) CEO Kevin Hochman, had just reported a quarter the market was clearly not expecting. “How ... Jim Cramer to Brinker’s CEO: How Do You Make More Money When Every Cost Is Going the Wrong Way?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777747703000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146617,
+      "headline": "Berkshire meeting highlights tough balancing act for Greg Abel",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebde8649319007b9a9760961f16da0e587af43455f37271dc87f2ee33d088219",
+      "summary": "(Bloomberg) -- Greg Abel didn’t take long to address the elephant in the room.Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftTrump Rues State of Iran Talks, Says Prefers Not to StrikeSpirit Bailout Talks Said to Have Ended With Closure LoomingTrump Family-Backed Drone Firm Signs Weapons Deal With USWorld’s Largest Container Carrier Plans Route Avoiding HormuzIn his first few minutes addressing Berkshire Hathaway Inc. shareholders on Saturday — the first a",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777745791000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 7884822,
+      "headline": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUozQmZGUTZjZElkcVg4NGRnUVJCSlluVnZiSTk5bXBaUlp6ekJtb2dOMWduY2xRUlIxNC1BdnhzY1JzMTl5emVTOGhjN1YyOThpNG9XYVFYeTFmX25CZmk4cThSZDY0NFlRNnNJNHZ1Mk5STnM0YTZZSVZHV0NiWjF5eGQybHVobVJyMDJfNlVUZThYeEtMajRHNWJlandILXJDelBsTlBNWXZQT3JJeHpmUHlhNE55a193NlZaOC0?oc=5",
+      "summary": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777745222000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140146634,
+      "headline": "Donald Trump endorsed this stock and the market reacted",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c91ca9fcf956956d99deb44bc83c447f21eff943b5007183689ab1afa7a903b0",
+      "summary": "There is not a publicly traded company in America quite like this one right now. It is the only stock where the President of the United States logs onto social media to congratulate the country on its returns. That happened on April 30. And the market responded the same way it has every time the ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777744980000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 140146614,
+      "headline": "Missed Advanced Micro Devices' Big Move? Here's Why It's Still a Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0666783be234c5f70ea8a3c8f844c93fe5a93bb986ba55147361e6f2f025c0e",
+      "summary": "CEO Lisa Su: Customers are \"anxious\" to get the MI450 GPU in their data centers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777744620000,
+      "ticker": "META",
+      "category": "company"
+    },
     {
       "id": 140146124,
       "headline": "3 Cash-Heavy Stocks with Warning Signs",
@@ -418,6 +561,17 @@
       "datetime": 1777729500000,
       "ticker": "MSFT",
       "category": "company"
+    },
+    {
+      "id": 7884823,
+      "headline": "Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX1p6NVBtc2ZPUThhZ2RkbXZQSS01MWNwWHE5MEJFRUZFWUotMno5SHJrc0UtdEtMMC15VlJVVGdPd3ZKOGFvRDBaNE1ZTEpVcDlJV1F2cTVDemlNQzVPdkoySUVlTUt2MHlJdnJtTnBTWkN1dFVpcm11cHRmSVZvbVZwQ0VkYzBMWHgwVEZYdy03SDM1NDVmSWMyUWlOaWRuczhFRzNySmgwazZkLThDc0FReUpuUmstUmVNeVlFdlR4Znc4ZWZrblY5ZzhNUWM?oc=5",
+      "summary": "Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777729475000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140144619,
@@ -945,160 +1099,6 @@
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247042054/image_2247042054.jpg?io=getty-c-w1536",
       "datetime": 1777708800000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140143786,
-      "headline": "Handicapping The S&P 500's Top Stocks Like A Horse Race: Favorites, Long Shots And The Rest",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a85d92130af88db9bc803f8e40608b5c662a1c57bc38911c18a634c81a4bbcc8",
-      "summary": "A \"dark horse\" among the top stocks in the S&P 500? Read more on top selections from this index.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/185117540/image_185117540.jpg?io=getty-c-w1536",
-      "datetime": 1777708500000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140142266,
-      "headline": "Got $1,000? Which of These Beaten-Down Healthcare Stocks Is Worth Buying?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56a26d4bccfb6bdb8f0e402bfa3b59b1dfbecb284ea79eead9058f4593254a7f",
-      "summary": "These longtime market beaters may not have peaked yet.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777708200000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140142280,
-      "headline": "This Investment Gives You Access to All the Hottest Market Trends: Generative AI, SpaceX, Quantum Computing, Robotaxis, and More",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c4250eb6bc1ab02f208213798d78234b18a1d1f7a2c5f348e41c7d96d71a97e",
-      "summary": "This innovator has built a broad portfolio of market-leading products and investments.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777707480000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140143637,
-      "headline": "Have Markets Mispriced Commodity Risks As Oil Threat Builds?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b816abfe985a4ae5604ffc9dd8009338a291c1333a910fd3b415d2fe867f1dac",
-      "summary": "Stalled peace talks between US and Iran are keeping pressure on the Strait of Hormuz. TD Asset Management's Humza Hussain explains why he believes global commodities are grossly mispriced.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187670534/image_2187670534.jpg?io=getty-c-w1536",
-      "datetime": 1777707000000,
-      "ticker": "GLD",
-      "category": "company"
-    },
-    {
-      "id": 140144628,
-      "headline": "Spirit Shuts Operations After White House Bailout Collapses",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f57c240a57a38d39d9f8c7d8966b35ae858833c90599230358c37a99fdc6a285",
-      "summary": "(Bloomberg) -- Spirit Aviation Holdings Inc. is winding down operations after the troubled US discount carrier buckled under the weight of surging fuel prices and a government bailout dangled by US President Donald Trump fell through.Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftSpirit Bailout Talks Said to Have Ended With Closure LoomingTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Rues State of Iran Talks, Says Prefers Not to StrikeTwo",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777706723000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140143547,
-      "headline": "The Most Undervalued REITs I Am Buying Right Now",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=cf37c49e33d91772685f14b4bd60b574f1f0635212f9e5b5f5501000631e2b71",
-      "summary": "I am finding investment opportunities in REITs that are in temporarily oversupplied sectors like storage and life science. Read the full analysis here.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220726582/image_2220726582.jpg?io=getty-c-w1536",
-      "datetime": 1777706100000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 7882597,
-      "headline": "Iran executes two for spying for Israel - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTZ6MVlYOW9YNzN6OXdzb0Fvbjk1WnY4Z3Z3ejdtRXFSY3NrTHhndHllel9xR0ZJM0k1SkFicnFpQS1wZC1HSXg2aU9yN1RENVRUYlB4M1FRV1Nub1lTUGFFc2R6ZlJZMTQ3Z0JBS0gtSTA5Sk9NWXZYM29SMDhxMVl6Yk1VMWt5dzFvLUxB?oc=5",
-      "summary": "Iran executes two for spying for Israel  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777705404000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140143401,
-      "headline": "Apple shares soar after record quarterly revenue",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=4d8e79822aab891f79b937795b4ee8d07eb65a143583cb393456206cfc8c46e0",
-      "summary": "Copyright © BusinessAMBE 2023Key takeawaysApple’s shares surged on Friday following the release of impressive quarterly results, marking the strongest growth in more than four years.Robust...",
-      "image": "",
-      "datetime": 1777705267000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140143433,
-      "headline": "Amazon: Why Is There No Focus On The Chip Business, Mr. Market?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=86c5d958a7d88083463ce2923932531c47baeeef8af3416a7abc3c0ef380f810",
-      "summary": "Amazon delivered a breakout Q1 2026, with AWS revenue up 28% and robust sequential improvements across all segments. Read why AMZN stock is a strong buy.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2184965848/image_2184965848.jpg?io=getty-c-w1536",
-      "datetime": 1777705259000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140142267,
-      "headline": "This Beaten-Down Growth Stock Could Soar 165%, According to Wall Street",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0c343ec6a35341152086e386e5d425e075ebe406b076cdfed23db89d88cef09",
-      "summary": "It could just as well drop by 50% -- or more -- over the next 12 months.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777704600000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7882998,
-      "headline": "Nobel laureate Mohammadi's life in Iran's hands, Nobel committee chief says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1F2ZWN6cV82RGNKcVFVSlE1YWVST2xLQmZGMU9HU0NwRlg3cFU0RVZPYWs3Qkl3WHJPaTFNSU5CMi1URjgzajBTbGhOYVhKLWxZTFdZWGdwU0phS25fNThqaUZQZzB1MGVRdXZHcGNiTFFtUGxHMlM3RTktdVV1UloyZUJzdHJtMWJFUUpyNFNTSEh0MDF5TGUwakpWa0F3OUowVkJVNlowLTJOTXE2dlBXdE5WOXRuMFNTdWRyVk5fV2ZDeEdxUQ?oc=5",
-      "summary": "Nobel laureate Mohammadi's life in Iran's hands, Nobel committee chief says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777704480000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140142281,
-      "headline": "Why Alphabet (GOOGL) Stock Is Trading Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=57174ea18800206f23b3ed68c6343a0ed70744657179ef995c5dbdb8e1cb4d6a",
-      "summary": "Shares of online advertising giant Alphabet (NASDAQ:GOOGL) jumped 9.3% in the afternoon session after the company reported first-quarter 2026 financial results that significantly beat market expectations, driven by strong growth in its artificial intelligence (AI) and Cloud businesses.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777704295000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140143279,
-      "headline": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=96f22fd177eea1ff9d50c3b4e5d148a63d08e43eefd8a2d9ae09b87bcfc2c1d5",
-      "summary": "",
-      "image": "",
-      "datetime": 1777703705000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140143280,
-      "headline": "Palantir Q1 Earnings Preview: A Make Or Break Moment For The Bull Case",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=2bbe336bfecd92330ad94c670629c44aee55daf8ba2921df3c331c3598f58e84",
-      "summary": "Preview Palantirâs upcoming earnings: watch commercial backlog, RPO momentum, and GAAP operating margin to gauge a rerating despite 105x P/E. See more on PLTR.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1423026734/image_1423026734.jpg?io=getty-c-w1536",
-      "datetime": 1777703270000,
-      "ticker": "PLTR",
       "category": "company"
     }
   ]
