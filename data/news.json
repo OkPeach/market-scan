@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777722863648,
+  "timestamp": 1777729067580,
   "items": [
     {
       "id": 140143697,
@@ -19,9 +19,130 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RkdWg1QTVlQmNRQkpSRFhLSmU3QTZsZmtHV016RHB2cG5FOW05bUdPN3N6ZExBVjdCR1RkdXlwLW0yZ1VGazdOVkJKNkEyWVN2V2NBUWJBX3JhREUwUUQwNlQ2RGhsaUhyb193bVRRbGVSejZZTm5QWUlBcThCRlJuajBlTXgwLXNGRmNYelNWRWFYczBDVTFDUkliRFVkQmd0UFRBZFdoOVM2YXp3eU9EZi1DNThYenRnVUE2UnY2bHNXU3FkWkVQRXg?oc=5",
       "summary": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777714673000,
+      "datetime": 1777721781000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140143750,
+      "headline": "Ray Dalio: ‘We’re On the Brink’ of Major Problems Within 2 Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8af56189cc43714fa1e2bec54e5ec14068d67fe1e8ae56ed9244e0165ec4e804",
+      "summary": "Ray Dalio is compressing his timeline. On a recent Prof G Markets episode with Ed Elson titled “Ray Dalio: The World Order Has Unraveled,” the Bridgewater founder said “We’re on the brink of some of these problems” and pegged the window at “particularly in the vicinity of, you know, two years away from what obviously ... Ray Dalio: ‘We’re On the Brink’ of Major Problems Within 2 Years",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777721413000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140143751,
+      "headline": "SoFi Technologies Just Delivered Record Growth. Why Did Investors Want More?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e57eb51d5dcb4f69ee9c14cbbb1b20e601bf8e6ea1b058e97113a2c0cd06856e",
+      "summary": "As SoFi sets new records, it's getting harder to meet investors' ever-inflating expectations.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777721400000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140143752,
+      "headline": "Private Credit Is Getting a Gut Check. What It Means for Blackstone",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91d1f77cc0ceec6d104f272aca1224d5ae43f5b7a0ec067a92271bcb656608f0",
+      "summary": "Blackstone has faced some headwinds in private credit this year.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777720800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140143761,
+      "headline": "XRP Price Prediction: 3 AI Models Predict Where XRP Will Trade by December 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba1bfbce8236652f221af3447e0bcefa76cf2549ef401f414a57a6f2b1129f6a",
+      "summary": "XRP (CRYPTO: XRP) currently trades in the $1.35-$1.40 range, roughly 62% below the $3.65 peak it hit last July. Most XRP holders are at a loss right now. The token has had every reason to recover this year with a string of catalysts capable of pushing the price higher. There was the SEC and CFTC ... XRP Price Prediction: 3 AI Models Predict Where XRP Will Trade by December 2026",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777720680000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140143753,
+      "headline": "QDVO’s 32% Return Masks a Hidden Risk for Income Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a94a51b69ac2fbdc029c5a8b5e3a86f8995294933d0e5e984a65880cac75314d",
+      "summary": "Amplify CWP Growth & Income ETF (NYSEARCA:QDVO) sits in an awkward niche: it pays a monthly distribution funded partly by call-option premiums, yet the portfolio underneath is essentially a mega-cap technology growth fund. That combination has produced a 32% total return over the past year alongside steady monthly checks. The question for income investors is ... QDVO’s 32% Return Masks a Hidden Risk for Income Investors",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777720553000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140143754,
+      "headline": "Fed Chair Nominee Kevin Warsh Aims to Transform the Central Bank -- and the Biggest Loser May Be Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e58356dfdd740523bd36ab95001a487280e8557c48580af188ccdeb34f78aad1",
+      "summary": "Warsh's testimony before the Senate Banking Committee points to foundational changes at the Fed.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777719360000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140143755,
+      "headline": "2 Growth Stocks to Invest $500 in Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b42317659e90fb24ca847965c11eaa02423ecce08c1e06532091e4b2b41e1be",
+      "summary": "Growth investing is still in style.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777719000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140143765,
+      "headline": "How Much Is AMD Stock Expected to Move After Earnings?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9658c91e2bbc0f1df05102eef2dcb12a6e769608753f9e678171f091a6461743",
+      "summary": "Advanced Micro Devices is set to report earnings after markets close Tuesday, with the chipmaker's stock seen potentially climbing to new highs following the results.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777716900000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140143756,
+      "headline": "Iren vs. Nebius: Which Neocloud Provider Is the Better AI Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e9228e61ae5cf7171d664f652abe4d7b4b7519ab0f4de136a6a42269de40362",
+      "summary": "Both neocloud leaders stand to benefit from rising demand for AI computing power.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777716360000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140143763,
+      "headline": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45f03b5537ecd5bd630cb97a808bc7bfe682d048aeec22a0a0fd16d8e0dafb61",
+      "summary": "A trial beginning in New Mexico on Monday could prompt a judge to order sweeping changes to how Facebook, Instagram and WhatsApp operate - a move Meta Platforms has warned could force it to withdraw from the state.  The case, which will be tried before a judge in Santa Fe, stems from ‌a lawsuit filed by New Mexico Attorney General Raúl Torrez, a Democrat, accusing the social media giant of designing its products to addict young users and failing to protect ‌children from sexual exploitation on its platforms.  At the heart of the trial is whether Meta’s platforms have created a “public nuisance” under New Mexico law.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777716231000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140143757,
+      "headline": "The Warren Buffett Approved ETF Every Long-Term Investor Should Own",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=412ed23fd4aaf29386187960615984b2c8e841469fcd70c264b96028efec5cda",
+      "summary": "The Oracle of Omaha understands that most people just don't have the time, experience, or insight that he has when it comes to managing a market-beating portfolio.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777715640000,
+      "ticker": "NVDA",
+      "category": "company"
     },
     {
       "id": 140143040,
@@ -112,6 +233,17 @@
       "category": "company"
     },
     {
+      "id": 140143926,
+      "headline": "Invest In The Top Part Of The K-Shaped Economy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=be5ce315f984bdd7244a0690212840c2fe63b54f57133240c8cae0f18b2e19cb",
+      "summary": "Surging tech sector margins and massive AI infrastructure capex make the sector essential as ETFs like TDIV and TDVI offer growth with income. Learn more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/886733268/image_886733268.jpg?io=getty-c-w1536",
+      "datetime": 1777709700000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140143081,
       "headline": "Is ServiceNow’s Strong Q1, AI Push, and Google Cloud Tie-Up Altering The Investment Case For ServiceNow (NOW)?",
       "source": "Yahoo",
@@ -120,6 +252,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777709520000,
       "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140143868,
+      "headline": "Q1 GDP: Top-Heavy, Bifurcated, And Concerning",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4148dbc8ca41899d917400355908c583dcb5d677a656206c3b8b514856a13c57",
+      "summary": "U.S. Q1 2026 GDP grew 2.0% as AI capex and federal spending masked a 3.5-year low savings rate and an 8% housing slump. Learn why rising debt costs threaten stability.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247042054/image_2247042054.jpg?io=getty-c-w1536",
+      "datetime": 1777708800000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140143786,
+      "headline": "Handicapping The S&P 500's Top Stocks Like A Horse Race: Favorites, Long Shots And The Rest",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a85d92130af88db9bc803f8e40608b5c662a1c57bc38911c18a634c81a4bbcc8",
+      "summary": "A \"dark horse\" among the top stocks in the S&P 500? Read more on top selections from this index.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/185117540/image_185117540.jpg?io=getty-c-w1536",
+      "datetime": 1777708500000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -178,17 +332,6 @@
       "category": "business"
     },
     {
-      "id": 7882998,
-      "headline": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1F2ZWN6cV82RGNKcVFVSlE1YWVST2xLQmZGMU9HU0NwRlg3cFU0RVZPYWs3Qkl3WHJPaTFNSU5CMi1URjgzajBTbGhOYVhKLWxZTFdZWGdwU0phS25fNThqaUZQZzB1MGVRdXZHcGNiTFFtUGxHMlM3RTktdVV1UloyZUJzdHJtMWJFUUpyNFNTSEh0MDF5TGUwakpWa0F3OUowVkJVNlowLTJOTXE2dlBXdE5WOXRuMFNTdWRyVk5fV2ZDeEdxUQ?oc=5",
-      "summary": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777705382000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 140143401,
       "headline": "Apple shares soar after record quarterly revenue",
       "source": "Finnhub",
@@ -220,6 +363,17 @@
       "datetime": 1777704600000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7882998,
+      "headline": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1F2ZWN6cV82RGNKcVFVSlE1YWVST2xLQmZGMU9HU0NwRlg3cFU0RVZPYWs3Qkl3WHJPaTFNSU5CMi1URjgzajBTbGhOYVhKLWxZTFdZWGdwU0phS25fNThqaUZQZzB1MGVRdXZHcGNiTFFtUGxHMlM3RTktdVV1UloyZUJzdHJtMWJFUUpyNFNTSEh0MDF5TGUwakpWa0F3OUowVkJVNlowLTJOTXE2dlBXdE5WOXRuMFNTdWRyVk5fV2ZDeEdxUQ?oc=5",
+      "summary": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777704480000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140142281,
@@ -351,17 +505,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777702104000,
       "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140143086,
-      "headline": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=4fe577b7f13dac8cc93eba6987885c83854bf6f1440af0cdf187b2d6428c81b2",
-      "summary": "A trial beginning in New Mexico onMonday could prompt a judge to order sweeping changes to howFacebook, Instagram and WhatsApp operate - a move Meta Platformshas warned could force it to withdraw...",
-      "image": "",
-      "datetime": 1777701675000,
-      "ticker": "META",
       "category": "company"
     },
     {
@@ -956,149 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777670351000,
       "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140138382,
-      "headline": "The Smartest Growth Stock to Buy With $1,000 Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7415a4aa5b4c25df47d2ff49983fced3d4b57f62f2d50739d7245cc567429690",
-      "summary": "You don't have to dig deep for undervalued stocks when the largest company in the world is still a brilliant pick right now.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777670160000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140138383,
-      "headline": "Why Shares of Micron Technology Shot Up 53% Last Month",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8c593c80e77e6a35117929185c249d0e1b598538614e2817497464efa1286904",
-      "summary": "Memory chips are seeing insatiable demand from the aritifical intelligence growth supercycle.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777670058000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140138431,
-      "headline": "Meta Robotics Move Meets Undervalued View On Meta Platforms Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e69e77a7b2e2b0d1edf8f31127ff1908c567c46cd151546ca9f6913e8ca630e",
-      "summary": "Meta Platforms (NasdaqGS:META) has acquired Assured Robot Intelligence, an AI robotics startup. The acquired team will join Meta's Superintelligence Labs to work on foundational humanoid robotics technology. The move extends Meta's ambitions beyond software and cloud AI into physical AI systems and humanoid robots. Meta Platforms, trading at $611.91, has delivered a 3 year return of 164.9%, a 5 year return of 93.3% and a 1 year return of 2.8%. Shorter term performance has been mixed, with a...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777670028000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140138761,
-      "headline": "Data Breach Lawsuits Test Hims And Hers Health Valuation And Momentum",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc334b0747f786af968226fa091f34960bb322d82b22777f9e72575e1f076825",
-      "summary": "Two class action lawsuits claim Hims & Hers Health did not adequately safeguard sensitive customer data during recent data breaches. The suits allege delayed notification to affected customers and increased risk of identity theft, and they seek damages plus stronger data security oversight. These cases introduce fresh legal and reputational questions for NYSE:HIMS that have not been widely covered so far. For investors watching NYSE:HIMS, this legal development adds a new angle to a stock...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777669945000,
-      "ticker": "HIMS",
-      "category": "company"
-    },
-    {
-      "id": 140138393,
-      "headline": "Dow Jones Futures: Stock Market Hits Highs After Bullish Pause; Apple, Broadcom In Buy Zones",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=080e6e53474c3897c8498173cea024db874e717fa70f9a57030caf345fcae93d",
-      "summary": "The stock market rebounded late last week after a short pause. The S&P 500 and Nasdaq are at highs while Apple and Broadcom are in buy zones.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777669918000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140139993,
-      "headline": "Markets Weekly Outlook: The Peace Process Is Stalling Ahead Of April Non-Farm Payrolls",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=0daac638be0468841cce388259220d9e40e8ad7cd063491167a1aa80c28d7e6e",
-      "summary": "Discover our weekly market outlook, exploring themes and events that forged financial flows throughout the week.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1040865674/image_1040865674.jpg?io=getty-c-w1536",
-      "datetime": 1777669800000,
-      "ticker": "GLD",
-      "category": "company"
-    },
-    {
-      "id": 140138437,
-      "headline": "Tesla ends week nearly 4% higher. What's driving the EV stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c52a23994bbde393b98138cdb8250d0f2361db1d093e0fc217274af4bb03975d",
-      "summary": "Tesla shares (TSLA) ended this trading week nearly 4% higher — gaining back some ground from post-earnings declines — after the EV maker announced that the first of its long-awaited Tesla Semi truck has come off the \"high volume\" production line Yahoo Finance Senior Autos Reporter Pras Subramanian highlights Tesla's weekly gains while underlining the 2025 sales boost that came from purchases from SpaceX (SPAX.PVT) and xAI — both ventures owned by CEO Elon Musk.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777669583000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140138394,
-      "headline": "Nasdaq, S&P 500 Log Record Finish, Extend Streak of Weekly Gains",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=680ac47cc0a33fbda04568457dbd25cb4fb688b686dbd40a5516a19be26c945b",
-      "summary": "The Nasdaq Composite and the S&P 500 reached new peaks on Friday, scoring their fifth consecutive we",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777669455000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140138384,
-      "headline": "Why Newell Brands Flew Higher on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7da21f3d303121791abbd3fae818b184356460d040ae7e4af9880f69779a9b62",
-      "summary": "The company's familiar household products brought in more than $1.5 billion in sales in the first quarter.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777669371000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140138385,
-      "headline": "Is Bitcoin a Great Investment for Retirement Savings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=85b190bcb34be5a79633cabbb42674c88c16514aac316011584ed0c6d929fcb7",
-      "summary": "This asset has a lot to offer, but its volatility is an obstacle.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777669260000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7880373,
-      "headline": "Berkshire Hathaway’s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
-      "summary": "Greg Abel made a point of stopping by every booth in the hall, greeting employees and shaking hands with shareholders.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108300825-1777660323347-img_3179.jpg?v=1777664191&w=1920&h=1080",
-      "datetime": 1777669046000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 140138386,
-      "headline": "US Equity Indexes Scale New Peaks This Week Amid Lift From Mega-Cap Earnings, Crude Oil",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f16d2bab94c176aeb30e1ba526ae86ff29d84ca6de528b87b567a182e540f58",
-      "summary": "US equity indexes jumped this week as communications services and energy topped sector charts in a b",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777668829000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140138395,
-      "headline": "US Equity Indexes Close Mixed as Earnings Lift Technology While Trump 'Not Happy' With Iran Peace Plan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9dab417b7fc92c150206d1563a5fa4f1c5edfe6a1acebc7ef12c50114392db76",
-      "summary": "US equity indexes were mixed on Friday as earnings helped lift technology and communication services",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777668744000,
-      "ticker": "AAPL",
       "category": "company"
     }
   ]
