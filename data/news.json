@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777709411769,
+  "timestamp": 1777714968818,
   "items": [
     {
       "id": 140142266,
@@ -22,6 +22,17 @@
       "datetime": 1777707480000,
       "ticker": "GOOGL",
       "category": "company"
+    },
+    {
+      "id": 7882597,
+      "headline": "Iran executes two for spying for Israel - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTZ6MVlYOW9YNzN6OXdzb0Fvbjk1WnY4Z3Z3ejdtRXFSY3NrTHhndHllel9xR0ZJM0k1SkFicnFpQS1wZC1HSXg2aU9yN1RENVRUYlB4M1FRV1Nub1lTUGFFc2R6ZlJZMTQ3Z0JBS0gtSTA5Sk9NWXZYM29SMDhxMVl6Yk1VMWt5dzFvLUxB?oc=5",
+      "summary": "Iran executes two for spying for Israel  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777705404000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140142267,
@@ -209,6 +220,17 @@
       "datetime": 1777698120000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140142717,
+      "headline": "Elon Musk calls most cryptocurrencies “a scam”",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=87054e212e8692ceb68b2d2b27d6aec9c490d319fc58f1e067e4c9ce401bfe7e",
+      "summary": "Copyright © BusinessAMBE 2023Key takeawaysElon Musk believes that most cryptocurrencies are scams, which contradicts his earlier support for digital currencies such as Bitcoin.Despite...",
+      "image": "",
+      "datetime": 1777698067000,
+      "ticker": "TSLA",
+      "category": "company"
     },
     {
       "id": 140141530,
@@ -1077,28 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777666193000,
       "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140138462,
-      "headline": "Nasdaq Tops 25,000. Tech Is Back In Control.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3fd73532e45f74bd36a9bc25934230c16bdee6a134c2a1f56b68aad4127a25e5",
-      "summary": "The Nasdaq rode a software stock rally on Friday to its first close above 25,000 on record.  The Dow fell 153 points, or 0.3%.  A majority of stocks actually closed lower, but a surge in software stocks helped push the Nasdaq and S&P higher.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777665710000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140138390,
-      "headline": "Tesla, Rivian, or Lucid: Which EV Stock Came Out Ahead in April?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7ef01db44176871f9cdc3c577879eb30da059dad2e3f1fca90931c3920e983e5",
-      "summary": "The April scoreboard for electric vehicle (EV) stocks delivers a surprise. Rivian (NASDAQ:RIVN) stock outpaced the field with a 9% monthly rally in April, while Tesla (NASDAQ:TSLA) stock managed a more modest 3% gain. Meanwhile, Lucid Group (NASDAQ:LCID) stock dropped 33%, losing roughly a third of its value in a single month. Most retail investors ... Tesla, Rivian, or Lucid: Which EV Stock Came Out Ahead in April?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777665555000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
