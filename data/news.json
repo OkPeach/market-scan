@@ -1,6 +1,28 @@
 {
-  "timestamp": 1777762373548,
+  "timestamp": 1777766056043,
   "items": [
+    {
+      "id": 7883711,
+      "headline": "Germany says US troop drawdown should spur Europe, but top Republicans worried - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeng2WUI0R1hXdmJicTZHd21sUXBER3lWbExOeHNPQnQ2U2t2UDNYNlBIZ1RzWTlYeEJqM0tha1pJanl1SU5CcHhUUzcyTEVvdjcwTDNycTFUWHFMaXEySkhhazBNOUkzZHdmZE5FRHBGWXZyZm44b3ppRFd5UG1yLW1OdDhNNnR0YTJOYUU3ZFh5SGhMU0hXV1ZWTlJhQmQzWlB4Tkd3Ty1NSmU0aERIcEtwaXlJQmFkdktWbG5YZXBFbnlPS1AyRTItWVo0RkNkVDJ6amlB?oc=5",
+      "summary": "Germany says US troop drawdown should spur Europe, but top Republicans worried  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777763025000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7884822,
+      "headline": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUozQmZGUTZjZElkcVg4NGRnUVJCSlluVnZiSTk5bXBaUlp6ekJtb2dOMWduY2xRUlIxNC1BdnhzY1JzMTl5emVTOGhjN1YyOThpNG9XYVFYeTFmX25CZmk4cThSZDY0NFlRNnNJNHZ1Mk5STnM0YTZZSVZHV0NiWjF5eGQybHVobVJyMDJfNlVUZThYeEtMajRHNWJlandILXJDelBsTlBNWXZQT3JJeHpmUHlhNE55a193NlZaOC0?oc=5",
+      "summary": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777759089000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 140147169,
       "headline": "Farewell, Jeeves: Ask.com shuts down",
@@ -123,6 +145,17 @@
       "category": "company"
     },
     {
+      "id": 140147596,
+      "headline": "Microsoft Corporation 2026 Q3 - Results - Earnings Call Presentation",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e81ed76b85b4de441d2a4a24c0e4a076e397369ad49fa6c7d44d0e036863eda9",
+      "summary": "2026-05-02. The following slide deck was published by Microsoft Corporation in conjunction with their 2026 Q3 earnings call.",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1777749031000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140146610,
       "headline": "Investors Should Buy the Stocks of These 3 OpenAI Partners Regardless of What Happens to OpenAI",
       "source": "Yahoo",
@@ -189,17 +222,6 @@
       "category": "company"
     },
     {
-      "id": 7884822,
-      "headline": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUozQmZGUTZjZElkcVg4NGRnUVJCSlluVnZiSTk5bXBaUlp6ekJtb2dOMWduY2xRUlIxNC1BdnhzY1JzMTl5emVTOGhjN1YyOThpNG9XYVFYeTFmX25CZmk4cThSZDY0NFlRNnNJNHZ1Mk5STnM0YTZZSVZHV0NiWjF5eGQybHVobVJyMDJfNlVUZThYeEtMajRHNWJlandILXJDelBsTlBNWXZQT3JJeHpmUHlhNE55a193NlZaOC0?oc=5",
-      "summary": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777745222000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 140146634,
       "headline": "Donald Trump endorsed this stock and the market reacted",
       "source": "Yahoo",
@@ -253,17 +275,6 @@
       "datetime": 1777742400000,
       "ticker": "NVDA",
       "category": "company"
-    },
-    {
-      "id": 7883711,
-      "headline": "Germany says US troop drawdown should spur Europe, but top Republicans worried - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeng2WUI0R1hXdmJicTZHd21sUXBER3lWbExOeHNPQnQ2U2t2UDNYNlBIZ1RzWTlYeEJqM0tha1pJanl1SU5CcHhUUzcyTEVvdjcwTDNycTFUWHFMaXEySkhhazBNOUkzZHdmZE5FRHBGWXZyZm44b3ppRFd5UG1yLW1OdDhNNnR0YTJOYUU3ZFh5SGhMU0hXV1ZWTlJhQmQzWlB4Tkd3Ty1NSmU0aERIcEtwaXlJQmFkdktWbG5YZXBFbnlPS1AyRTItWVo0RkNkVDJ6amlB?oc=5",
-      "summary": "Germany says US troop drawdown should spur Europe, but top Republicans worried  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777742246000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 140146036,
@@ -1088,17 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777713900000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140143045,
-      "headline": "Amazon Opens Audible Story House As Shares Trade Below Targets",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0b39cca4ff347ad994f45e9fed8269ad31c826febde5c83d26d5d5f46225f03d",
-      "summary": "Amazon.com (NasdaqGS:AMZN) plans to open Audible Story House, a bookless bookstore and audio listening lounge, in New York City. The new space will serve as Audible's first dedicated physical retail location, focused on listening stations, live events, and community gatherings. The move represents a fresh push into bricks and mortar for Amazon's audio brand following prior pullbacks in physical bookstores. For readers watching NasdaqGS:AMZN, the Audible Story House concept arrives as...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777713356000,
-      "ticker": "AMZN",
       "category": "company"
     }
   ]
