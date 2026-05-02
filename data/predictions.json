@@ -1,9 +1,9 @@
 {
-  "timestamp": 1777752108000,
+  "timestamp": 1777755470628,
   "meta": {
-    "stocksTimestamp": 1777752082415,
-    "newsTimestamp": 1777750558402,
-    "sentimentTimestamp": 1777750558402,
+    "stocksTimestamp": 1777755445124,
+    "newsTimestamp": 1777755126856,
+    "sentimentTimestamp": 1777755126856,
     "tickersWithSentiment": 0,
     "tickersWithStddev": 17,
     "fallbackStddevPct": 1.5
@@ -53,9 +53,9 @@
       "zMom": 0.0277642812522453,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 3,
-      "newsSignal": 0.6931471805599453,
-      "score": 10.687882775311579
+      "newsCount": 2,
+      "newsSignal": 0.5493061443340548,
+      "score": 10.601578153576044
     },
     {
       "ticker": "AAPL",
@@ -69,9 +69,9 @@
       "zMom": 0.01427857499828336,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 10,
-      "newsSignal": 1.1989476363991853,
-      "score": 10.014443452567603
+      "newsCount": 9,
+      "newsSignal": 1.151292546497023,
+      "score": 9.985850398626306
     },
     {
       "ticker": "NOW",
@@ -158,16 +158,16 @@
       "name": "",
       "price": 27.41,
       "base": 0.8833,
-      "momentum": 0.025538124771999272,
+      "momentum": 0.025538124771973352,
       "stddev": 0.012158794433025782,
       "usedFallbackStddev": false,
       "zBase": 2.523714285714286,
-      "zMom": 0.07296607077714078,
+      "zMom": 0.07296607077706672,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 0,
-      "newsSignal": 0,
-      "score": 2.578957940272099
+      "newsCount": 1,
+      "newsSignal": 0.34657359027997264,
+      "score": 2.7869020944400265
     },
     {
       "ticker": "PYPL",
@@ -197,9 +197,9 @@
       "zMom": 0.010371023360737532,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 10,
-      "newsSignal": 1.1989476363991853,
-      "score": 1.3822818541566586
+      "newsCount": 8,
+      "newsSignal": 1.0986122886681098,
+      "score": 1.3220806455180132
     },
     {
       "ticker": "TSM",
@@ -229,9 +229,9 @@
       "zMom": 0.00945224254455045,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 1,
-      "newsSignal": -0.34657359027997264,
-      "score": -0.5320256189955141
+      "newsCount": 0,
+      "newsSignal": 0,
+      "score": -0.3240814648275306
     },
     {
       "ticker": "META",
@@ -239,15 +239,15 @@
       "price": 608.745,
       "base": -0.5172,
       "momentum": 0.002874766938544206,
-      "stddev": 0.0013689085289973763,
+      "stddev": 0.0013689085289973761,
       "usedFallbackStddev": false,
       "zBase": -1.4777142857142858,
       "zMom": 0.008213619824412018,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 5,
-      "newsSignal": -0.8958797346140275,
-      "score": -2.0166986124849373
+      "newsCount": 6,
+      "newsSignal": -0.9729550745276566,
+      "score": -2.0629438164331146
     },
     {
       "ticker": "NVDA",
@@ -261,9 +261,9 @@
       "zMom": 0.02015621063237459,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 40,
-      "newsSignal": -1.856786033352154,
-      "score": -2.7213784767222258
+      "newsCount": 43,
+      "newsSignal": -1.8920948169591305,
+      "score": -2.742563746886412
     },
     {
       "ticker": "NFLX",
@@ -327,9 +327,9 @@
       "zMom": 0.0277642812522453,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 3,
-      "newsSignal": 0.6931471805599453,
-      "score": 10.687882775311579
+      "newsCount": 2,
+      "newsSignal": 0.5493061443340548,
+      "score": 10.601578153576044
     },
     {
       "ticker": "AAPL",
@@ -343,9 +343,9 @@
       "zMom": 0.01427857499828336,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 10,
-      "newsSignal": 1.1989476363991853,
-      "score": 10.014443452567603
+      "newsCount": 9,
+      "newsSignal": 1.151292546497023,
+      "score": 9.985850398626306
     },
     {
       "ticker": "NOW",
@@ -393,9 +393,9 @@
       "zMom": 0.02015621063237459,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 40,
-      "newsSignal": -1.856786033352154,
-      "score": -2.7213784767222258
+      "newsCount": 43,
+      "newsSignal": -1.8920948169591305,
+      "score": -2.742563746886412
     },
     {
       "ticker": "META",
@@ -403,15 +403,15 @@
       "price": 608.745,
       "base": -0.5172,
       "momentum": 0.002874766938544206,
-      "stddev": 0.0013689085289973763,
+      "stddev": 0.0013689085289973761,
       "usedFallbackStddev": false,
       "zBase": -1.4777142857142858,
       "zMom": 0.008213619824412018,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 5,
-      "newsSignal": -0.8958797346140275,
-      "score": -2.0166986124849373
+      "newsCount": 6,
+      "newsSignal": -0.9729550745276566,
+      "score": -2.0629438164331146
     },
     {
       "ticker": "GLD",
@@ -425,9 +425,9 @@
       "zMom": 0.00945224254455045,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 1,
-      "newsSignal": -0.34657359027997264,
-      "score": -0.5320256189955141
+      "newsCount": 0,
+      "newsSignal": 0,
+      "score": -0.3240814648275306
     }
   ]
 }
