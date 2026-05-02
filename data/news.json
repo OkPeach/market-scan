@@ -1,6 +1,226 @@
 {
-  "timestamp": 1777729067580,
+  "timestamp": 1777733780101,
   "items": [
+    {
+      "id": 7883711,
+      "headline": "Germany urges stronger European defence after US announces troop drawdown - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeng2WUI0R1hXdmJicTZHd21sUXBER3lWbExOeHNPQnQ2U2t2UDNYNlBIZ1RzWTlYeEJqM0tha1pJanl1SU5CcHhUUzcyTEVvdjcwTDNycTFUWHFMaXEySkhhazBNOUkzZHdmZE5FRHBGWXZyZm44b3ppRFd5UG1yLW1OdDhNNnR0YTJOYUU3ZFh5SGhMU0hXV1ZWTlJhQmQzWlB4Tkd3Ty1NSmU0aERIcEtwaXlJQmFkdktWbG5YZXBFbnlPS1AyRTItWVo0RkNkVDJ6amlB?oc=5",
+      "summary": "Germany urges stronger European defence after US announces troop drawdown  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777731007000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140144587,
+      "headline": "Warren Buffett’s Parting Gift to Investors Is Crushing the Market 6 Months Later",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f52a7c55f9ec0a7cba15271d6b27c0b06b877713670a7da7a8794d03bce29d4",
+      "summary": "For nearly 60 years, investors have measured themselves against one benchmark: Warren Buffett. Since taking control of Berkshire Hathaway (NYSE:BRK-A)(NYSE:BRK-B) in the mid-1960s, Buffett turned a struggling textile mill into a $1 trillion empire while delivering returns that left the broader market in the dust. According to Berkshire’s annual reports, the company generated compounded annual ... Warren Buffett’s Parting Gift to Investors Is Crushing the Market 6 Months Later",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777729560000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140144588,
+      "headline": "URAN’s Nearly 75% Gain Masks a Valuation Risk Most Investors Are Missing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48f0aab6e554e6997c4bcbb5e5999cde048e3a9281142ac8fe8dbfd7fd2734ea",
+      "summary": "The Themes Uranium & Nuclear ETF (NYSEARCA:URAN) has handed investors a nearly 75% gain over the past year, riding a thesis that ties artificial intelligence power demand, government support for nuclear, and a structural uranium supply deficit into one tidy package. The fund launched in September 2024 and gives investors single-ticker exposure to uranium miners ... URAN’s Nearly 75% Gain Masks a Valuation Risk Most Investors Are Missing",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777729547000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144619,
+      "headline": "Market Week Ahead: Is May A Good Month For The Stock Market?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92d8545068ee686958b40ba77c5c7ce7c469c323342b6672fc6b2848ba52c9f6",
+      "summary": "Is May A Good Month For The Stock Market? Here are a few points to consider as Advanced Micro Devices and Palantir prepare to report.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777728973000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140144610,
+      "headline": "Mark Zuckerberg sends startling message to Meta employees",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32b6a56cd7776f8239a0fc164bea27d2cc4422af8fe285d51dea1d201e86eae3",
+      "summary": "Mark Zuckerberg held a company town hall on April 30 to address Meta employees directly about the layoffs. It was the first time he had spoken to staff about the cuts since Reuters first reported the plan in March. What he said did not reassure them. And what he did not say may have worried them ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777728780000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140144611,
+      "headline": "Mark Zuckerberg Says Meta Layoffs Are Being Driven By Soaring AI Spending, Warns More Job Cuts May Follow: 'I Wish That I Can Tell You...'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff5b3d7e33162f1daac577996213b6aa625869e05020e626ae0d38f15bb39a64",
+      "summary": "Meta Platforms Inc. CEO Mark Zuckerberg told employees on Thursday that the company's aggressive artificial intelligence spending is directly contributing to planned layoffs. Meta's AI Investment Reshapes Workforce Priorities During a company town hall, Zuckerberg said Meta's expanding AI infrastructure budget is forcing difficult financial trade-offs between funding advanced compute systems and maintaining headcount, Reuters reported. Zuckerberg explained that Meta's two primary expenses are in",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777728670000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140144589,
+      "headline": "While Oil Prices Skyrocketed in the First Quarter, ExxonMobil's Profits Fell. Here's What Happened.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1fc5c889d95d5e5163afaf73ae7652af940ffc9764682725201507bdee4c683",
+      "summary": "Exxon faced a couple of headwinds in the first quarter.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777728000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144590,
+      "headline": "Nvidia Is Using AI to Fix Quantum Computing's Biggest Problem",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc760baaeed56206a9e087333ea6c54d9a2a13a15e775a86216a4bdb8baf42fc",
+      "summary": "The company is establishing itself as an integral player in this emerging technology.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777727880000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7883608,
+      "headline": "The U.S.-Iran war is coming for your credit score and mortgage application",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/02/us-iran-war-credit-score-loans-mortgage-rates.html",
+      "summary": "The U.S.-Iran war and Strait of Hormuz closure have caused a global economic ripple effect, your credit score included as banks and lenders get tighter.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108289438-1775762935321-gettyimages-2269517561-US_STOCKS.jpeg?v=1777726782&w=1920&h=1080",
+      "datetime": 1777727838000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 140144591,
+      "headline": "NVIDIA’s New Quantum‑AI Models Are Impressive — and the Market Doesn’t Seem Ready to Price the Step‑Change",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=403140a6bb1e6b5738f4586443c3b57aca03da454f9758dc1b8491f5b1aa378e",
+      "summary": "As shares of Nvidia (NASDAQ:NVDA) start drifting lower again, interested investors might be able to pick up shares at a reasonable price despite the new innovations that the firm pulled the curtain on in the past several months. Indeed, a lot has happened for Nvidia and Jensen Huang since the new year began. Still, the stock ... NVIDIA’s New Quantum‑AI Models Are Impressive — and the Market Doesn’t Seem Ready to Price the Step‑Change",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777727076000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144592,
+      "headline": "Infleqtion Went Public in February -- Here's Why This Cold Atom Stock Could Be a Breakout Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3301b9f04bbefd8b62d9e32d667a9d55c305de6b2a8fb5f50c75d94cbe9939c1",
+      "summary": "The quantum sensor and timing device maker deserves more attention.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777726200000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144593,
+      "headline": "Amazon Just Proved It's No Longer an AI Underdog",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64e3c884c6c2094ea0a24cc61a5bf08609cee5480a57bc4afbdf05def4c93964",
+      "summary": "AWS continues to show accelerated revenue growth.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777725960000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140144594,
+      "headline": "EDIV’s 24% Rally Masks a Dividend Trap for Income Seekers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc363a2e9a828682b290253133a0dff7419132dbe5d07211774d580065556f10",
+      "summary": "SPDR S&P Emerging Markets Dividend ETF (NYSEARCA:EDIV) has quietly put together a strong run, with shares up about 24% over the past year and about 7% year-to-date through April 17, 2026. For income-focused investors, the question is whether the distributions backing that yield are durable or whether the fund’s structure introduces more risk than the ... EDIV’s 24% Rally Masks a Dividend Trap for Income Seekers",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777725450000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144604,
+      "headline": "This Tech Billionaire's Net Worth Crossed $300 Billion In April On AI Rally As Elon Musk Stays Richest In The World",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf287dd1ea5344726a3e3050ae18cb6d2910980added1635cb924ec59ae0580c",
+      "summary": "A surge in AI-driven technology stocks reshaped global billionaire rankings in April, pushing Google co-founder Larry Page into the $300 billion club while keeping Elon Musk at the top of the world's richest list, according to Forbes’ compilation as of 12 a.m. EST on Friday. April was a strong month for markets. The S&P 500 rose 10.4%, its best monthly performance since November 2020, while the Nasdaq climbed 15.3%, marking its strongest gain since April 2020. The rally lifted the combined net w",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777725131000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140144595,
+      "headline": "Watch These 3 Contract Signals Before EUAD’s Next Move",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fca17ef583c9d36a2f7bcb24da408cceca0eea2476a1ccf93880a2307aca26e0",
+      "summary": "Select STOXX Europe Aerospace & Defense ETF (NASDAQ:EUAD) was the cleanest way to own European defense stocks from a U.S. brokerage account in 2025. The fund launched by Tuttle Capital Management on October 22, 2024 solves a simple problem: U.S. investors wanting concentrated exposure to Airbus, BAE Systems, Rheinmetall, Leonardo, and Europe’s prime contractors had ... Watch These 3 Contract Signals Before EUAD’s Next Move",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777725021000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144596,
+      "headline": "Forget Hyperliquid: High Beta, Low Conviction",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01860ad83bf29f1d9e1b5b290f2de451e9cc0ad86b622bf5a4a40ee9210625ae",
+      "summary": "This little token is still too hot to handle.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777725000000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144612,
+      "headline": "Tesla's (NASDAQ:TSLA) Shareholders Have More To Worry About Than Only Soft Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7c42834d7cc23a7c493c9b102f8a7445d284d1dac34926e8a71176d4625e07b",
+      "summary": "A lackluster earnings announcement from Tesla, Inc. ( NASDAQ:TSLA ) last week didn't sink the stock price. We think...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777724850000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140144597,
+      "headline": "UFO ETF Faces a Critical Test: Can Pre-Profit Space Stocks Deliver on $1.85B Backlog",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2fb3c17bedd65f5e26391b5bf5a95f3bce09d8cad904ffaa9bfd079a4cab352",
+      "summary": "The Procure Space ETF (NYSEARCA:UFO) was built to give investors a single ticket to a fragmented industry: rocket builders, satellite operators, ground-segment vendors, and direct-to-device communications upstarts that rarely fit cleanly into a sector ETF. The prospectus is direct about the design, requiring at least 80% of index weight in companies that derive a majority ... UFO ETF Faces a Critical Test: Can Pre-Profit Space Stocks Deliver on $1.85B Backlog",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777723810000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144598,
+      "headline": "This Artificial Intelligence (AI) Stock Is Down 20% in 2026, but Here's Why It's a Screaming Buy Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21781f643872772d7c532a245de9fc1eececd8b3bb11497f86ddafd74dfab494",
+      "summary": "Lemonade's in-force premium growth just accelerated for the 10th consecutive quarter.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777723500000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140144599,
+      "headline": "April Was the Best Month for the Market Since 2020. Here's What's Driving It.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10b10efcd07129eb343fd8df534aa0c42f7df2cd72dc3d5890f91c6aca17a46c",
+      "summary": "Massive AI infrastructure spending is driving revenues and profits higher across multiple industries.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777723200000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 140143697,
       "headline": "META Platforms (NASDAQ:META) Passes Peter Lynch's GARP Screen as a Compelling Long-Term Investment",
@@ -145,13 +365,13 @@
       "category": "company"
     },
     {
-      "id": 140143040,
-      "headline": "UFO ETF Faces a Critical Test: Can Pre-Profit Space Stocks Deliver on $1.85B Backlog",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d403674866803fe75ea55a93133e908b49d367da33ae5bd7b51698eb9708edec",
-      "summary": "The Procure Space ETF (NYSEARCA:UFO) was built to give investors a single ticket to a fragmented industry: rocket builders, satellite operators, ground-segment vendors, and direct-to-device communications upstarts that rarely fit cleanly into a sector ETF. The prospectus is direct about the design, requiring at least 80% of index weight in companies that derive a majority ... UFO ETF Faces a Critical Test: Can Pre-Profit Space Stocks Deliver on $1.85B Backlog",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777714257000,
+      "id": 140144556,
+      "headline": "Nvidia's Next Leg Is Hidden",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5662cdd7b3c5557646a1172edf59e80970d4416fee2f84a3680e781450069c79",
+      "summary": "Blackwell and Vera Rubin transition Nvidia from chips to full AI factory systems, increasing monetization per deployment. Find out why NVDA stock is a strong buy.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1432776766/image_1432776766.jpg?io=getty-c-w1536",
+      "datetime": 1777715110000,
       "ticker": "NVDA",
       "category": "company"
     },
@@ -307,6 +527,17 @@
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187670534/image_2187670534.jpg?io=getty-c-w1536",
       "datetime": 1777707000000,
       "ticker": "GLD",
+      "category": "company"
+    },
+    {
+      "id": 140144628,
+      "headline": "Spirit Shuts Operations After White House Bailout Collapses",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f57c240a57a38d39d9f8c7d8966b35ae858833c90599230358c37a99fdc6a285",
+      "summary": "(Bloomberg) -- Spirit Aviation Holdings Inc. is winding down operations after the troubled US discount carrier buckled under the weight of surging fuel prices and a government bailout dangled by US President Donald Trump fell through.Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftSpirit Bailout Talks Said to Have Ended With Closure LoomingTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Rues State of Iran Talks, Says Prefers Not to StrikeTwo",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777706723000,
+      "ticker": "INTC",
       "category": "company"
     },
     {
@@ -618,6 +849,17 @@
       "category": "company"
     },
     {
+      "id": 140144600,
+      "headline": "Microsoft, Amazon Hand Pentagon More Control Over AI Systems",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59ead70cda206bac5a8aa10d0db9766d8477bc8ce866305cf8ae7309cd47c712",
+      "summary": "(Bloomberg) -- The Pentagon has struck agreements with more technology companies for expanded use of advanced artificial intelligence tools on classified military networks, according to a Defense Department statement and two defense officials briefed on the matter.Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftSpirit Bailout Talks Said to Have Ended With Closure LoomingTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Rues State of Iran Talks",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777690885000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140140799,
       "headline": "4 Low-Cost Vanguard ETFs That Make Retirement Investing Easier",
       "source": "Yahoo",
@@ -857,248 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777676850000,
       "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140139448,
-      "headline": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea6583cbcf8380c6cd9733e956faaffc053bf001cd1d9dcc70554eec51386719",
-      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777676810000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140139443,
-      "headline": "The Memory Supercycle Is Back in Motion — and Samsung and SK Hynix May Be the Stocks With the Most Torque",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f572a1467731555c59152f1ff469f557a4648725475eb437df19a1b0c7112d7e",
-      "summary": "Memory chip makers used to be cyclical and risky to enter after explosive upside runs. But what if things are different this time around, with the AI revolution continuing to move forward while AI data center builds continue hogging up all the DRAM and SSDs? Indeed, the memory supercycle has continued to run higher, and ... The Memory Supercycle Is Back in Motion — and Samsung and SK Hynix May Be the Stocks With the Most Torque",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777676528000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140139474,
-      "headline": "AMD earnings, Fed commentary, April jobs report: What to Watch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b85f7579ce75a57ea4225cf0641b8a9786a1e9261461249b42aec41e5f3bc40",
-      "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come throughout next week,  including earnings results out from companies like Advanced Micro Devices (AMD), Paramount Skydance (PSKY), Disney (DIS), Novo Nordisk (NVO), Pfizer (PFE), Warner Bros. Discovery (WBD), McDonald's (MCD), and Coinbase (COIN); a wave of fresh commentary from top Federal Reserve officials; and April's jobs reports due out next Friday. May 8.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777676400000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140139449,
-      "headline": "Stock Market Today, May 1: Apple Jumps After Record Quarter and $100 Billion Share Buyback",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5f42ee6fcd537eb648e34d62c1eb8f939379e36f81f10410d6b8ccfb5e47c359",
-      "summary": "Record quarterly profits, upbeat guidance, and an enormous buyback are reshaping the risk–reward profile for investors, today, May 1, 2026.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777675089000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140139450,
-      "headline": "S&P 500, Nasdaq end higher, notch weekly gains",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56665751543f1e88f760e150583d36042927a53fa4fc07a97339478c6191f610",
-      "summary": "STORY: U.S. stocks ended mostly higher on Friday, with the Dow the only outlier, dipping about three-tenths of a percent, while the S&P 500 gained about three-tenths of a percent and the Nasdaq climbed nine-tenths of a percent.Both the S&P 500 and the Nasdaq logged their sixth consecutive week of gains, their longest weekly winning stretches since October of 2024.It was a big week for corporate earnings, with five of the Magnificent Seven megacaps reporting.Among them, Apple climbed more than 3% on Friday, a day after the tech giant provided a solid sales forecast, touting strong demand for its flagship iPhone 17 and the MacBook Neo.Analysts now see overall first-quarter earnings growth of nearly 28% year-over-year, according to LSEG I/B/E/S Estimates.That's an 11.7 percentage point increase from where the estimate stood a week ago, and marks the biggest earnings growth since the fourth quarter of 2021.Melissa Brown is managing director of investment decision research at SimCorp.\"I think we're just seeing the continuation of this AI trade and maybe the complete ignoring of some of the other red flags that are out there - higher oil prices leading to higher inflation, you know, many other things that might give investors pause. But we're coming through a good earning season, particularly for some of these tech companies, and investors are, I guess, saying it's still time to buy there.\"Among other movers, shares of Atlassian surged more than 29% after the enterprise software firm hiked its forecast. Peers Salesforce and ServiceNow also gained.Shares of Reddit jumped 13% after the social media site gave an upbeat quarterly revenue forecast.On the flip side, shares of Roblox tumbled more than 18% after the online game platform cut its annual bookings forecast.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777674959000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140139444,
-      "headline": "1 Overlooked Detail to Watch as NuScale's SMR Project Moves Forward",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b45692ab3a9eb897ed7411f982bd9a59df7292111b2336a5a1c909048c3f64d",
-      "summary": "NuScale's SMR marks progress, but it's not operating in a vacuum. It's competing directly with energy solutions that are already cheaper and faster to deploy.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777674300000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140139452,
-      "headline": "PayPal Store Sync Links BigCommerce Merchants To AI Shopping And Valuation Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=671d36beaff15fcb3643f7fa0c5f6b40bb1b5e5c3b4eae1fca1973addaeef7cc",
-      "summary": "PayPal Holdings (NasdaqGS:PYPL) has introduced PayPal Store Sync, connecting BigCommerce merchant catalogs to AI shopping tools including Microsoft Copilot, Meta and Perplexity. The launch is designed to make merchant products more easily discoverable and purchasable inside these AI powered experiences. This move extends PayPal's role beyond payment processing into AI driven retail channels and new partner based commerce flows. For investors watching NasdaqGS:PYPL at a share price of...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777673867000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140139465,
-      "headline": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c21ebdecd05dc8176edef1bfefd931ebaa5b89fc0faf08d146368602cd629b9",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777673607000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 7883100,
-      "headline": "Trump's attacks on Europe's leaders worsen transatlantic frost - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNW1HYzBXc3FEM1o1Z0U5MlFuUzU0QW1kdHNqVEUwYUF1V2Fqb1VPYWVKelBZNlh4MVJlMkNWSzN1YksyLXVHYnBHM05FbjZxdFhlY3ZzTHlxNVk5S0FrWlZJUk16QkNqZzZ1a0Z4eGdJVnE0ZEVYS2EtV0Vfeno3TXZCN3ZZM0pFVlVialY5RmpuSWFYNVpMdVJOa0N1TzJ3Mlhsa3Jta202UQ?oc=5",
-      "summary": "Trump's attacks on Europe's leaders worsen transatlantic frost  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777673187000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140139445,
-      "headline": "Why Remitly Global Rebounded 39.7% in April",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51db2964fc3eefb790c2f3612d73d1e1d6f9a6bd9c45a2e14cf1c3b8551efd5e",
-      "summary": "The company is integrating with AI providers while investors realize it is not at risk from stablecoins or immigration crackdowns.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777672562000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140139446,
-      "headline": "AI Is Now the Bull Case for the Broader Market—Enough to Even Revive Old Tech",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c81360c40c809b20f063c56f16d43922e92d0b8c5afb528bdc9e2015d413d02",
-      "summary": "Many companies are benefiting from the feedback loop being created by AI demand. Just don’t call it “parabolic.”",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777672380000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7882296,
-      "headline": "US warns European allies including UK and Poland of arms shipment delays, FT reports - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVVuMDhCdXVSNFNJUmtLZDA3c0czTDJSRHJLMDI2c0tvY3VfNWZnZTRhaHRMV3gtb0R6OXJBX0NaZVBaM1ZZbmlhUjhFQlZTaXNYSEx6anlaUFBrTWpUR1ZqWXdwS3hYMy1lUTVqcHVPU09YYTktNFRzVTVpWnRtR1N2emQ3aERQc2RkMjVHUVl2djNxZVRzdWxBU2ZOSXZKUXA1NGlqMkh0ek16SEtIbnJQVk83SU9ILTc0blhsa1lLMFk?oc=5",
-      "summary": "US warns European allies including UK and Poland of arms shipment delays, FT reports  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777672303000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140138380,
-      "headline": "Oklo Stock Is Down 15%. Is It Finally Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=68db9f68187a18b33516c7daddb44d42384a167774d09a062a15705ce1c3bb5c",
-      "summary": "After a huge 238% gain in 2026, Oklo has had a lackluster run in 2026. Time to buy, or should you pass this one up?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777672200000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140138381,
-      "headline": "Why Quantum Stock IonQ Soared 56.5% In April",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4585ce4205b1b0e2340fbe2939a8eae0aeddb883b54e371262104a780a3a6abc",
-      "summary": "Shares are still down 44% from recent highs.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777671323000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140138392,
-      "headline": "Stock Market Today, May 1: S&P 500 and Nasdaq Power to New Highs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55e6eb11956a473be9c381bb0ec8bf3965c07c1b529bd8c40cb8c105b62bf5fb",
-      "summary": "Today, May 1, 2026, Apple’s upbeat outlook helped propel tech to fresh Nasdaq records even as the Dow slipped and caution lingered.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777671256000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140139447,
-      "headline": "U.S. Dips Into Oil Reserves as Iran War Enters Its Third Month",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b39dff95035c61509e97b18cc5b41c3c9d81f45d32c66a031c5b46e851b132e1",
-      "summary": "U.S. petroleum inventories are declining, although they are still above year-ago levels. Plus, market newsletter commentary on the Federal Reserve, consumer spending, and the growth of the venture-capital market.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777671180000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140138436,
-      "headline": "Stock Market Today, May 1: Rivian Falls After Investors Focus on Cash Burn Despite Beating Q1 Expectations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=670d8c0c557db78bafc5665672e2ef70e801b200f5f471858e4f1333d47d65b6",
-      "summary": "Today, May 1, 2026, investors are weighing Rivian’s cash burn and R2 ramp plans against its Q1 beat.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777671078000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 7880989,
-      "headline": "US withdrawing 5,000 troops from Germany, US officials say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUxnTi1fcnFiX0tMTlpIQmdIOGFIQk80clBPWENGTS1FcllKZHRqVlhDZGlud0FGam1WVGctME5QdHgtZHVaUDdaRnhPeUYtTmJrVm5qVldOSDN3N0haYVpzOUU4SVFhSnRXU3FBWkdmckloU1FsQ01DSlA2eS1vaXlvb1E4Mmc2alJ4bVplZXYyNVYtb2FwOA?oc=5",
-      "summary": "US withdrawing 5,000 troops from Germany, US officials say  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777671060000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140140058,
-      "headline": "Top 25 High-Growth Dividend Stocks For May 2026",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=15eee8c7804a699f9259c14860746d30e7276194b125bdc33ae9cd39e6db1ad4",
-      "summary": "May 2026âs top 25 high-growth dividend stocks: quality picks trading ~29% undervalued with 16% dividend CAGR and +21% return potential.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2248559295/image_2248559295.jpg?io=getty-c-w1536",
-      "datetime": 1777670826000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140139454,
-      "headline": "Alphabet Takes the Spotlight Among Mag 7 Hyperscalers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=938c04ebc8a72be4c1e17ea7c3416d320fcea6c0802a17315d312d41c4511ad8",
-      "summary": "At a pivotal moment, when the AI boom is being defined by the hyperscale race, Alphabet's cloud growth was dramatically stronger than Microsoft's and Amazon's.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777670580000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140139458,
-      "headline": "Why These 3 Red Hot Tech Stocks Keep Climbing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3b7e0fbd60ae3b34842d2a5df8b215b3999fef596e4681bee8b3eb349333253e",
-      "summary": "Micron, SanDisk, and Alphabet all continue to gain notable attention among investors, with shares of each remaining red-hot. But what's driving the positivity?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777670460000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140138409,
-      "headline": "Vanguard partners with Amazon Alexa for voice-activated proxy voting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9a50620b9ac68cf8a6e67ef49807b7fcc1427f1bad48efb5746d156e532d2f59",
-      "summary": "Vanguard head of investor engagement John Galloway comes on Market Domination Overtime to discuss the asset manager's new partnership with Amazon's Alexa+ (AMZN) that makes for a more interactive way for investors to engage with the firm's Vanguard Investor Choice proxy voting program.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777670351000,
-      "ticker": "AMZN",
       "category": "company"
     }
   ]
