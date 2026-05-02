@@ -1,6 +1,39 @@
 {
-  "timestamp": 1777741207425,
+  "timestamp": 1777745548423,
   "items": [
+    {
+      "id": 140146124,
+      "headline": "3 Cash-Heavy Stocks with Warning Signs",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa4ee753deeca2da0db9a4c39a527bcfcd2fad01595c3ff801224d802c234335",
+      "summary": "Companies with more cash than debt can be financially resilient, but that doesn’t mean they’re all strong investments. Some lack leverage because they struggle to grow or generate consistent profits, making them unattractive borrowers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777743655000,
+      "ticker": "PYPL",
+      "category": "company"
+    },
+    {
+      "id": 140146034,
+      "headline": "Chevron's Production Soared Along With Oil Prices in the First Quarter, But Its Profits Fell. What Happened With the Oil Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5e484a6d4c6e8d97a72111034cab6f88efb038acc38bd237db9986dfb01de52",
+      "summary": "Chevron faced some war-driven headwinds in the first quarter.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777742700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146035,
+      "headline": "Elon Musk Just Announced Fanastic News to Nvidia Stock Investors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03bbfdbe1be57fd50aa17ce5254fa64deaf723c7673b0eccbcd3ccb353056c48",
+      "summary": "These longtime market-beaters still have quite aggressive ambitions.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777742400000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 7883711,
       "headline": "Germany says US troop drawdown should spur Europe, but top Republicans worried - Reuters",
@@ -8,9 +41,130 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeng2WUI0R1hXdmJicTZHd21sUXBER3lWbExOeHNPQnQ2U2t2UDNYNlBIZ1RzWTlYeEJqM0tha1pJanl1SU5CcHhUUzcyTEVvdjcwTDNycTFUWHFMaXEySkhhazBNOUkzZHdmZE5FRHBGWXZyZm44b3ppRFd5UG1yLW1OdDhNNnR0YTJOYUU3ZFh5SGhMU0hXV1ZWTlJhQmQzWlB4Tkd3Ty1NSmU0aERIcEtwaXlJQmFkdktWbG5YZXBFbnlPS1AyRTItWVo0RkNkVDJ6amlB?oc=5",
       "summary": "Germany says US troop drawdown should spur Europe, but top Republicans worried  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777737347000,
+      "datetime": 1777742246000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140146036,
+      "headline": "This Dividend ETF Is up 30% in 6 Months With a 3.7% Dividend Yield",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e60557cb7f18aa3f1305541366b40c8ce86363710223154342d53fe13143ef6",
+      "summary": "Most energy ETFs are a way to play oil prices. The VanEck Energy Income ETF (NYSEARCA:EINC) is something more boring and arguably more useful. EINC has a basket of pipeline operators. These operators are paid by the barrel regardless of what crude does. The pitch is fee-based cash flows, the kind of economics that deliver ... This Dividend ETF Is up 30% in 6 Months With a 3.7% Dividend Yield",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777742060000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146046,
+      "headline": "How The Microsoft (MSFT) Investment Story Is Shifting With AI Spending And OpenAI Uncertainty",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc1359e6a20f3aea181bbdd500ff73f001c726ad2b60d9819ec49422c9d85f84",
+      "summary": "Microsoft’s updated analyst models now point to a fair value price target of $561.93, trimmed from $579.57 as assumptions across the forecast period are refreshed. That shift sits within a broader split in analyst views, with some firms cutting targets and flagging execution risk around AI spending, while others keep leaning into Microsoft’s AI and OpenAI exposure as a long term driver. As you read on, you will see how this evolving narrative might shape the way you track the stock from...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777742020000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140146037,
+      "headline": "Here's Why I Wouldn't Touch Hyperliquid With a 10-Foot Pole",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f93ab92a75d8b60da9eca94a1d1aaafa639a58780a6555ec33c2a93cc6e22647",
+      "summary": "This decentralized exchange is growing quickly, but there are a few red flags investors should know about.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777741260000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146038,
+      "headline": "Tilray Brands to Expand Into the U.S. Marijuana Market? Why You Shouldn't Count on That Anytime Soon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4798a133f24a4f884ad683a86da606ce22b5bcfbbbdd8c060abe163832dc912",
+      "summary": "Marijuana rescheduling may have taken place in the U.S., but that doesn't mean legalization will happen anytime soon.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777740600000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146039,
+      "headline": "If the Market Crashes, I'm Buying These 3 Stocks Before the Dust Settles",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28e761d0ce5a144f50aeeaf26aa56ad0f7f11d611602dd70ae2c45f773ec0af6",
+      "summary": "Windows of opportunity usually aren't open for very long. To act in time, you'll want to plan ahead.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777739700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146040,
+      "headline": "Analyst: Forget the Chip Cycle, Because AI Demand Has Permanently Rewired Semiconductor Pricing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2768f3bc9dca15365e0d0ee8d6f55bc6bf79032733a05d5dd5791002e676af83",
+      "summary": "The chip cycle that investors have grown accustomed to (boom, glut, correction, repeat) may be giving way to something different. According to IDC analyst Jeff Janochowicz, speaking on Marketplace’s “All-in-One” segment about Middle East tensions putting tech supply chains under pressure, the price spikes hitting semiconductors right now are the leading edge of a multi-year ... Analyst: Forget the Chip Cycle, Because AI Demand Has Permanently Rewired Semiconductor Pricing",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777739399000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146041,
+      "headline": "LinkedIn Co-Founder: AI Will Give Everyone Free Lawyers, Doctors and Teachers Within Years",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85b172f08c6e2dfa61a8f07a83b6897224c3524142814f5eae5fa5fd4869459a",
+      "summary": "Reid Hoffman, the LinkedIn co-founder and prolific Silicon Valley investor, is making one of the boldest calls of his career on artificial intelligence. Speaking on “Money And Wealth With John Hope Bryant” in an episode titled “AI Is the Tsunami: Reid Hoffman on Jobs, Wealth & the Future of Work,” Hoffman argued that AI is ... LinkedIn Co-Founder: AI Will Give Everyone Free Lawyers, Doctors and Teachers Within Years",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777739284000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146042,
+      "headline": "Poppi’s Allison Ellsworth: ‘We Did $100,000 While We Were Sleeping’ From 1 TikTok Video",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3f7dcddfb7fe13e643f22230430eb01d7c28730ffb97c61726e0a39ab9e10d2",
+      "summary": "Allison Ellsworth, co-founder of prebiotic soda brand Poppi, has a story that should reset how operator-investors think about marketing spend. Sitting down one Friday night with wet hair after a shower, she filmed a single TikTok telling her own story. The script was simple: “Hi, I’m Allison. Poppi has 5 grams of sugar. And I ... Poppi’s Allison Ellsworth: ‘We Did $100,000 While We Were Sleeping’ From 1 TikTok Video",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777739140000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140146043,
+      "headline": "Lemonade Has Momentum, but Investors Need More Than Growth",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7702333bf825991fe0ca09c478e6b12e152b5d0a7a7b4c9247bcff8bd5f02774",
+      "summary": "Other key metrics for Lemonade are also improving.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777738920000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146044,
+      "headline": "Missed Dell's Big Move? These AI Stocks Could Be Next.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6aa75407170f12597f26fca15233b210c2298172e62fb2d7941974b787d80573",
+      "summary": "These stocks have been consolidating ahead of a potential breakout.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777738020000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146053,
+      "headline": "Here's the Real Problem With Meta's Latest Earnings Report",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=849d2fbbf59af78b3657df99830fc9d518c663e9b40661dabc130fff0fd561d8",
+      "summary": "The headlines blame the spending plan. But I think there's an even bigger concern.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777737360000,
+      "ticker": "META",
+      "category": "company"
     },
     {
       "id": 140145194,
@@ -32,6 +186,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777736441000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146045,
+      "headline": "Abel: Chunk of Equity Portfolio Doesn't Need Much Management",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41dca95ad75d9438c7a1daec10b6aeb93c7f350b42bc492b0010ce9448699179",
+      "summary": "Abel was asked about how he balances his time between operations and investments. He didn't give a direct answer but noted that a big chunk of Berkshire's nearly $300 billion equities portfolio requires \"limited\" management.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777736305000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -241,6 +406,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777729547000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140146004,
+      "headline": "Quantum Computing: Moving Out Of The Lab",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cac03e21fc33cabb1b277a90c80293269dd0097ff951c47e57230b15e38f2954",
+      "summary": "",
+      "image": "",
+      "datetime": 1777729500000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -618,6 +794,17 @@
       "category": "company"
     },
     {
+      "id": 140145825,
+      "headline": "Netflix’s 'Beef' highlights a $5,000 deductible — how to handle your own healthcare costs",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b1430b7b705442a99bf25c2cce14999662c620bc01753d7ca82cf10421f66252",
+      "summary": "A scene in the new season of Netflix's show \"Beef,\" about a high health insurance deductible, illustrates a pain many Americans experience. ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108294110-1776705662583-AAAAQfjdXdHtVgCVf2SFdRFIml4E4Ou14myjmiTmnYi_jhAQuTjBsVPyzQ8JusGLkweiBpXsufw1tz4H9mX8UCqt-9Lj12j3CfqvlF-DHlclzipmQ7hXxQpsqRI7tE1bgoZI1zcbcQ5FYjzmN28n5QtltW8n.jpg?v=1776705767&w=1920&h=1080",
+      "datetime": 1777714201000,
+      "ticker": "NFLX",
+      "category": "company"
+    },
+    {
       "id": 140143041,
       "headline": "Can Europe Compete With SpaceX Launch Price? Only If Elon Musk Says \"Yes.\"",
       "source": "Yahoo",
@@ -725,6 +912,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777709520000,
       "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140145694,
+      "headline": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=896a09019b5823feb0e5d59229036f879a64c3d0a3d76dca1cddfe39c6d7e2eb",
+      "summary": "Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman. ",
+      "image": "https://image.cnbcfm.com/api/v1/image/108300077-1777564113758-gettyimages-2273245544-2026_apr_30_muskvsaltman_0666.jpeg?v=1777564136&w=1920&h=1080",
+      "datetime": 1777708801000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -901,204 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777702621000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140142284,
-      "headline": "Here’s What Jim Cramer Had Said About Meta (META) Before Its Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0dd84df993be44deb66c56661ac712cd37e87fa8fd4a95d0ea66cb7961f34d3c",
-      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Meta Platforms, Inc. (NASDAQ:META) is one of the stocks discussed by Jim Cramer. Cramer has continued to defend social media giant Meta Platforms, Inc. (NASDAQ:META) over the course of the past year. While the shares struggled in 2025’s […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702291000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140142275,
-      "headline": "Jim Cramer’s a Believer in Corning (GLW) & Data Centers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e0212213b352587c2c0b323b9ee823d81f0368ccc45316c49675a8e4df43a7a",
-      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Corning Incorporated (NYSE:GLW) is one of the stocks discussed by Jim Cramer. Glass manufacturer Corning Incorporated (NYSE:GLW) is one of Jim Cramer’s favorite data center stocks, as he believes that the firm’s aim to replace copper with glass […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702284000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140142295,
-      "headline": "Jim Cramer Reveals Why Advanced Micro Devices (AMD) Was Successful",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=27ee3298e0ca98fc21c5ab5c336f54893241d6be023cfc1a2d4afd5f06f0876e",
-      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the stocks discussed by Jim Cramer. Chip designer Advanced Micro Devices, Inc. (NASDAQ:AMD)’s shares are up by 56% year-to-date and by a strong 71% over the past month. Since the […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702243000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140142301,
-      "headline": "Jim Cramer Shares Major Factor For Intel (INTC)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cb7af15b9e03898d1d741b2d5a777bf34ad72380b4b9cc74560e767509910777",
-      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Intel Corporation (NASDAQ:INTC) is one of the stocks discussed by Jim Cramer. Chip manufacturing giant Intel Corporation (NASDAQ:INTC) has been one of Cramer’s top stocks ever since its CEO, Lip-Bu Tan, took over. The CNBC TV host continued […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702190000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140142268,
-      "headline": "Jim Cramer Goes Against The Sentiment For NVIDIA (NVDA)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d1feaa74325b0b02c1ba0449a700fae780194c43734bbc22877d5c240d0cf28d",
-      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks discussed by Jim Cramer. AI GPU giant NVIDIA Corporation (NASDAQ:NVDA)’s shares have performed well lately, as they are up by 29% over the past month. The performance has vindicated Cramer, […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702177000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140142303,
-      "headline": "Jim Cramer Makes Big Claim About Arm (ARM)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17fabebd149eddcb22113373c9f86e17d95d84c23e8d8f3993bf85f6688ae85f",
-      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Arm Holdings plc (NASDAQ:ARM) is one of the stocks discussed by Jim Cramer. British design house Arm Holdings plc (NASDAQ:ARM)’s shares have been on a tear lately. They are up by a strong 45% over the past month […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702168000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140142285,
-      "headline": "Here’s What Jim Cramer Thinks You Should Do With Tesla (TSLA) Shares",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a940521c11786d36fb20d08a9eb9f80378343feb8981e40210bd92afd00ba948",
-      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Tesla Inc. (NASDAQ:TSLA) is one of the stocks discussed by Jim Cramer. Electric vehicle manufacturer Tesla Inc. (NASDAQ:TSLA)’s shares are up by 33% over the past year and are down 13.8% year-to-date. Canaccord Genuity discussed the firm on […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702149000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140142278,
-      "headline": "Jim Cramer Continues to Gush About Amazon.com (AMZN) CEO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c6d2a9d2aeea5b823534e32f1f30c655d6363db57c5f5c1fd59b0c78832c901",
-      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks discussed by Jim Cramer. Amazon.com, Inc. (NASDAQ:AMZN)’s shares are up by 40% over the past year and by 14% year-to-date. Oppenheimer discussed the firm on April 24th, as per The […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777702104000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140141531,
-      "headline": "Why Microsoft (MSFT) Shares Are Sliding Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=183f6842bbdb02f67d04958dd395e0c37e068a72fc1a4a30d16b1d643d396eb7",
-      "summary": "Shares of technology giant Microsoft (NASDAQ:MSFT) fell 4% in the afternoon session after investors reacted to its massive spending on artificial intelligence, which overshadowed an otherwise strong first-quarter earnings report.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777699495000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140141529,
-      "headline": "Soda Is Back! Is Now the Time to Buy Coca-Cola Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1af7c4a6246681750acbaf53109ccc314799804e6419bbe918c3f41fc1fa4e2",
-      "summary": "Coca-Cola is seeing the benefits of increasing soda popularity.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777699200000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140141535,
-      "headline": "Why Meta (META) Shares Are Plunging Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6dc08f7d8053cacf875a1b57c17bcf8a693db949bd8fe7627b45f05627c9dda4",
-      "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) fell 8.1% in the afternoon session after the company's forecast for a significant increase in spending overshadowed its strong first-quarter results.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777699015000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140141536,
-      "headline": "How Surging AI Data Center Demand And Big-Name Deals At AMD (AMD) Has Changed Its Investment Story",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=967b156160d161f771ae5cfa827adc967bde336dd5e75ed01c1c1315ed2f1cf3",
-      "summary": "In recent weeks, Advanced Micro Devices has drawn heightened attention as analysts project strong year-over-year gains in earnings and revenue ahead of its 5 May 2026 first-quarter results, largely tied to robust demand for EPYC server processors and Instinct accelerators in data centers. At the same time, large AI infrastructure contracts with customers such as OpenAI and Meta, alongside growing concerns about AI monetization and competition, have underscored both the potential and the...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777698530000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140141533,
-      "headline": "OGE Energy Q1 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e7e0f07930158797812237269ead2ec05c0e759462fe02db86533ff48c856d2e",
-      "summary": "OGE Energy (NYSE:OGE) reported first-quarter 2026 consolidated earnings of $0.24 per diluted share, down from $0.31 in the same period last year, as management pointed to mild weather and timing-related operating and maintenance expense as key headwinds. Despite the softer start to the year, executi",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777698347000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 7882495,
-      "headline": "Iran standoff could leave Trump worse off than before he went to war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU0F5dU0yQWlzdGU4SlE5TVpWQlQ0X2RCMTgtYW5iYk9kZ0F2ekstUEpfYUdnS3FqOGlkbGNLY0RLR0YzTjNYMGUtREY2ZWtuQmF3Z2xWaDJMbkxMWklaOEJtQm80SXJKZGFta1FJTk43Y09sLTExUFVaTFNUdEo5bmdldy1DalR0NmhiNVh6YnJKdW9ZN1JmclRGOUpQLUsxT0ZuQ2xnSTJHWk1qODYwOGRic0RJV3JK?oc=5",
-      "summary": "Iran standoff could leave Trump worse off than before he went to war  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777698120000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140142717,
-      "headline": "Elon Musk calls most cryptocurrencies “a scam”",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=87054e212e8692ceb68b2d2b27d6aec9c490d319fc58f1e067e4c9ce401bfe7e",
-      "summary": "Copyright © BusinessAMBE 2023Key takeawaysElon Musk believes that most cryptocurrencies are scams, which contradicts his earlier support for digital currencies such as Bitcoin.Despite...",
-      "image": "",
-      "datetime": 1777698067000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140141530,
-      "headline": "Meta Buys Robotics Startup Assured Robot Intelligence To Power Humanoid Push As $5 Trillion Market Race Heats Up",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8cb92a4f133a2fc9fddabecbcf812a5b930976886a3faa4095b0a2949aedf9d",
-      "summary": "Meta Platforms (NASDAQ:META) acquired Assured Robot Intelligence, a humanoid robotics startup, for an undisclosed sum on Friday, adding the team to its Superintelligence Labs research division as it advances its humanoid robotics ambitions. The deal positions Meta directly in a rapidly commercializing humanoid robotics sector, where big tech, automakers and well-funded startups are competing to deploy physical AI at scale. Founders With Deep Robotics Pedigree ARI co-founder Lerrel Pinto previous",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777696593000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140145392,
-      "headline": "Elon Musk's $4.8 Million Security Tab Reveals Rising Risks For Billionaire CEOs",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=3d647ddd17a811a8e47cfb2cbaed4e44da6fe1b7c8ea7711bfe24bd8cd87faab",
-      "summary": "Tesla increased security spending for CEO Elon Musk to $4.8 million in 2025, reflecting rising executive safety concerns.",
-      "image": "https://cdn.benzinga.com/files/images/story/2026/05/02/National-Harbor--Md--Usa--February-20-20.jpeg?width=2048&height=1536",
-      "datetime": 1777693756000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140140811,
-      "headline": "Bank of America resets Meta stock price target following earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=896ab882f82c828e6076056f4e456bf35d493b5f44ffde82d6d73dd4ba8167d1",
-      "summary": "Meta Platforms (META) delivered a quarter that most businesses would be happy to take. For perspective, Meta posted its Q1 earnings report on April 29, 2026, covering the quarter ended March 31, 2026. The headline numbers impressed, delivering another double beat, with operating income coming in ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777692780000,
-      "ticker": "META",
       "category": "company"
     }
   ]
