@@ -1,6 +1,149 @@
 {
-  "timestamp": 1777702509585,
+  "timestamp": 1777709411769,
   "items": [
+    {
+      "id": 140142266,
+      "headline": "Got $1,000? Which of These Beaten-Down Healthcare Stocks Is Worth Buying?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56a26d4bccfb6bdb8f0e402bfa3b59b1dfbecb284ea79eead9058f4593254a7f",
+      "summary": "These longtime market beaters may not have peaked yet.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777708200000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140142280,
+      "headline": "This Investment Gives You Access to All the Hottest Market Trends: Generative AI, SpaceX, Quantum Computing, Robotaxis, and More",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c4250eb6bc1ab02f208213798d78234b18a1d1f7a2c5f348e41c7d96d71a97e",
+      "summary": "This innovator has built a broad portfolio of market-leading products and investments.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777707480000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140142267,
+      "headline": "This Beaten-Down Growth Stock Could Soar 165%, According to Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0c343ec6a35341152086e386e5d425e075ebe406b076cdfed23db89d88cef09",
+      "summary": "It could just as well drop by 50% -- or more -- over the next 12 months.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777704600000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140142281,
+      "headline": "Why Alphabet (GOOGL) Stock Is Trading Up Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57174ea18800206f23b3ed68c6343a0ed70744657179ef995c5dbdb8e1cb4d6a",
+      "summary": "Shares of online advertising giant Alphabet (NASDAQ:GOOGL) jumped 9.3% in the afternoon session after the company reported first-quarter 2026 financial results that significantly beat market expectations, driven by strong growth in its artificial intelligence (AI) and Cloud businesses.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777704295000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140142277,
+      "headline": "China Patent Ruling On Microsoft Interfaces Weighed Against Valuation Upside",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57d9e6f6d8e366d5b2a755667ebbf4041d21d8a4429e71ae04380e844e5b5544",
+      "summary": "China’s Supreme People’s Court is reviewing a high profile patent dispute involving Microsoft’s user interface technology. The case follows multiple unsuccessful attempts by Microsoft to invalidate the patent at lower courts. The outcome could affect Windows and Surface products in China and influence how software and interface patents are treated for global tech firms. Chinese IP authorities have highlighted the case for its legal significance, drawing both domestic and international...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702621000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140142284,
+      "headline": "Here’s What Jim Cramer Had Said About Meta (META) Before Its Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dd84df993be44deb66c56661ac712cd37e87fa8fd4a95d0ea66cb7961f34d3c",
+      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Meta Platforms, Inc. (NASDAQ:META) is one of the stocks discussed by Jim Cramer. Cramer has continued to defend social media giant Meta Platforms, Inc. (NASDAQ:META) over the course of the past year. While the shares struggled in 2025’s […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702291000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140142275,
+      "headline": "Jim Cramer’s a Believer in Corning (GLW) & Data Centers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e0212213b352587c2c0b323b9ee823d81f0368ccc45316c49675a8e4df43a7a",
+      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Corning Incorporated (NYSE:GLW) is one of the stocks discussed by Jim Cramer. Glass manufacturer Corning Incorporated (NYSE:GLW) is one of Jim Cramer’s favorite data center stocks, as he believes that the firm’s aim to replace copper with glass […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702284000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140142295,
+      "headline": "Jim Cramer Reveals Why Advanced Micro Devices (AMD) Was Successful",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27ee3298e0ca98fc21c5ab5c336f54893241d6be023cfc1a2d4afd5f06f0876e",
+      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the stocks discussed by Jim Cramer. Chip designer Advanced Micro Devices, Inc. (NASDAQ:AMD)’s shares are up by 56% year-to-date and by a strong 71% over the past month. Since the […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702243000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140142301,
+      "headline": "Jim Cramer Shares Major Factor For Intel (INTC)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb7af15b9e03898d1d741b2d5a777bf34ad72380b4b9cc74560e767509910777",
+      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Intel Corporation (NASDAQ:INTC) is one of the stocks discussed by Jim Cramer. Chip manufacturing giant Intel Corporation (NASDAQ:INTC) has been one of Cramer’s top stocks ever since its CEO, Lip-Bu Tan, took over. The CNBC TV host continued […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702190000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 140142268,
+      "headline": "Jim Cramer Goes Against The Sentiment For NVIDIA (NVDA)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1feaa74325b0b02c1ba0449a700fae780194c43734bbc22877d5c240d0cf28d",
+      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks discussed by Jim Cramer. AI GPU giant NVIDIA Corporation (NASDAQ:NVDA)’s shares have performed well lately, as they are up by 29% over the past month. The performance has vindicated Cramer, […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702177000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140142303,
+      "headline": "Jim Cramer Makes Big Claim About Arm (ARM)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17fabebd149eddcb22113373c9f86e17d95d84c23e8d8f3993bf85f6688ae85f",
+      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Arm Holdings plc (NASDAQ:ARM) is one of the stocks discussed by Jim Cramer. British design house Arm Holdings plc (NASDAQ:ARM)’s shares have been on a tear lately. They are up by a strong 45% over the past month […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702168000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 140142285,
+      "headline": "Here’s What Jim Cramer Thinks You Should Do With Tesla (TSLA) Shares",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a940521c11786d36fb20d08a9eb9f80378343feb8981e40210bd92afd00ba948",
+      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Tesla Inc. (NASDAQ:TSLA) is one of the stocks discussed by Jim Cramer. Electric vehicle manufacturer Tesla Inc. (NASDAQ:TSLA)’s shares are up by 33% over the past year and are down 13.8% year-to-date. Canaccord Genuity discussed the firm on […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702149000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140142278,
+      "headline": "Jim Cramer Continues to Gush About Amazon.com (AMZN) CEO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c6d2a9d2aeea5b823534e32f1f30c655d6363db57c5f5c1fd59b0c78832c901",
+      "summary": "We have recently shared Jim Cramer Made A Big Prediction About OpenAI & Discussed These 20 Stocks. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks discussed by Jim Cramer. Amazon.com, Inc. (NASDAQ:AMZN)’s shares are up by 40% over the past year and by 14% year-to-date. Oppenheimer discussed the firm on April 24th, as per The […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777702104000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
     {
       "id": 140141531,
       "headline": "Why Microsoft (MSFT) Shares Are Sliding Today",
@@ -55,6 +198,17 @@
       "datetime": 1777698347000,
       "ticker": "GOOGL",
       "category": "company"
+    },
+    {
+      "id": 7882495,
+      "headline": "Iran standoff could leave Trump worse off than before he went to war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU0F5dU0yQWlzdGU4SlE5TVpWQlQ0X2RCMTgtYW5iYk9kZ0F2ekstUEpfYUdnS3FqOGlkbGNLY0RLR0YzTjNYMGUtREY2ZWtuQmF3Z2xWaDJMbkxMWklaOEJtQm80SXJKZGFta1FJTk43Y09sLTExUFVaTFNUdEo5bmdldy1DalR0NmhiNVh6YnJKdW9ZN1JmclRGOUpQLUsxT0ZuQ2xnSTJHWk1qODYwOGRic0RJV3JK?oc=5",
+      "summary": "Iran standoff could leave Trump worse off than before he went to war  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777698120000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140141530,
@@ -299,6 +453,17 @@
       "category": "company"
     },
     {
+      "id": 140142276,
+      "headline": "At Risk in North American Trade Talks: Cheap Cars",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22768d0bbf6d36dcf578f0ffd4da072ee6fcad59699d2f90c673f096386b569a",
+      "summary": "Average car prices have been rising since the pandemic and tariffs. Now the availability of low-cost new cars hangs in the balance as the United States, Mexico, Canada trade deal talks begin.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777677240000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140139463,
       "headline": "Assessing Entergy (ETR) After Meta Data Center Deal And Expanded US$40b Capital Plan",
       "source": "Yahoo",
@@ -431,6 +596,17 @@
       "category": "company"
     },
     {
+      "id": 7882296,
+      "headline": "US warns European allies including UK and Poland of arms shipment delays, FT reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVVuMDhCdXVSNFNJUmtLZDA3c0czTDJSRHJLMDI2c0tvY3VfNWZnZTRhaHRMV3gtb0R6OXJBX0NaZVBaM1ZZbmlhUjhFQlZTaXNYSEx6anlaUFBrTWpUR1ZqWXdwS3hYMy1lUTVqcHVPU09YYTktNFRzVTVpWnRtR1N2emQ3aERQc2RkMjVHUVl2djNxZVRzdWxBU2ZOSXZKUXA1NGlqMkh0ek16SEtIbnJQVk83SU9ILTc0blhsa1lLMFk?oc=5",
+      "summary": "US warns European allies including UK and Poland of arms shipment delays, FT reports  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777672303000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140138380,
       "headline": "Oklo Stock Is Down 15%. Is It Finally Time to Buy?",
       "source": "Yahoo",
@@ -473,17 +649,6 @@
       "datetime": 1777671180000,
       "ticker": "MSFT",
       "category": "company"
-    },
-    {
-      "id": 7879853,
-      "headline": "Trump says Iran war 'terminated,' as war powers deadline arrives - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDg4aERUdmNzSmNVNWlLQWpydnREOTlGZ1d5RHI1U3NCbUhHTTBLUnNUb1Q1LTFOZElZMGZHNjZhRndwNG1OYXVqU1dYWjVDVXJvVE1iMGFJNWptTG9rYWZRQWNzUHRkOFY4NGtlM2p6akkyQS1hOVlyQnprb01Xa192LWhzbFFZTm1iVDJDY1hrSnpROU1Bb3B1UEdBLV9ybnFZNXF1Z3B2ZEdfWjJla2YxaElNX3FhNXhZ?oc=5",
-      "summary": "Trump says Iran war 'terminated,' as war powers deadline arrives  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777671090000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 140138436,
@@ -934,171 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777665555000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140138408,
-      "headline": "Earnings: Google is biggest AI winner, OpenAI could be a 'surprise' loser",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e87702063952278838c4ba16d915c285d0511d07f8e85ce0ac5abdf6b6dbf9e3",
-      "summary": "Five of the tech stocks making up the Magnificent Seven reported earnings this week — Alphabet (GOOG, GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), and Microsoft (MSFT). Niles Investment Management founder and portfolio manager Dan Niles comes on Market Domination to make his case as to why Google's parent company may be Big Tech's biggest winner in AI this quarter. He goes on to share his perspective on Microsoft (MSFT) and OpenAI's (OPAI.PVT) standings in the AI race. Nvidia (NVDA) will close out the Mag 7's earnings season when it releases its first quarter 2027 results on Wednesday, May 20.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777665414000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140137234,
-      "headline": "US Equity Indexes Mixed in Final Leg of Trading as Trump 'Not Happy' With Iran's Revised Peace Plan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0cb857be802229e7d0b3cfb7380740d310fd9c0eedb61e09bc19571fe8f4cbab",
-      "summary": "US equity indexes were mixed ahead of Friday's close, as President Donald Trump expressed displeasur",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777665202000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140138391,
-      "headline": "Why Nebius Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dbd7b5c3a7fa1fa1c85f5aa7833a5b9b1cbe4aebc32d1fc5cc8a5c506092e420",
-      "summary": "A smart acquisition could bolster the AI cloud operator's expansion prospects.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777665013000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140137217,
-      "headline": "The 4 Best AI Stocks to Buy in May",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8ec7f2f3931991d74a2ae4453dcd4819219f0c86c9b0e689fd8baae27e3e1daa",
-      "summary": "The artificial intelligence (AI) investment trend is heating up again.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777664820000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140138421,
-      "headline": "Cathie Wood’s ARK Bought Alphabet, Meta—and Sold This Chip Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5fc63c45544dff7026c73ffb0df973568b1570796fe03b48b64917e2021bdebd",
-      "summary": "INSIDE SCOOP  Cathie Wood’s ARK Invest doubled down on Big Tech this week, following through on its strategy of buying high-conviction names at any price. Even though first-quarter earnings pushed shares higher, ARK bought Alphabet across three of its actively managed funds.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777664640000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140137248,
-      "headline": "They Are Ready To Scale From Landlord To Property Manager, But Some Say Managing Owners Is The Real Nightmare",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5c26b4e88f25127faba14c626dd55344da41fcd27afba1c447f177901e5237c2",
-      "summary": "A small landlord managing around 10 units recently floated a question that comes up often for many real estate investors: if you are already doing the work, why not scale up and manage properties for others? On the surface, it...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777663862000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140137277,
-      "headline": "Tesla Just Dropped Big News About Its Electric Semi Truck",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e9dc7eb8a9eb418634f36825692b25c62cc255302fa353335fe4ccfe5a0953dd",
-      "summary": "Tesla Inc is trending after the market close on Wednesday after the company provided an update on the long-awaited Tesla Semi. Tesla High-Volume Semi Production Begins In a social post on X late Wednesday, Tesla announced that its first Tesla Semi has rolled off the high-volume production line. Don't Miss: A single bad hire can set a startup back years. Here are the 5 hires founders most often misjudge — and why Still Learning the Market? These 50 Must-Know Terms Can Help You Catch Up Fast “Firs",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777663862000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140137249,
-      "headline": "Estee Lauder to cut up to 3,000 more jobs as it pursues Puig deal",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff4582001efaf7a8f576760346bcd43ae1462d64738203b24690121853d27522",
-      "summary": "STORY: Shares of Estee Lauder rose as much as 12% on Friday after the company raised its annual profit forecast and said it would cut up to 3,000 more jobs as it accelerates a broad restructuring.The cosmetics firm, which also owns Clinique and M.A.C, is in talks to merge with Spanish fashion and fragrance company Puig, whose brands include Jean-Paul Gaultier and Carolina Herrera.:: ArchiveAs a result, Estee Lauder now expects total job cuts could reach as many as 10,000, up from a prior estimate of 7,000 jobs, as it aims to save as much as $1.2 billion in annual costs.The new target for job cuts would amount to about 17.5% of its global workforce, according to Estée Lauder's latest annual filing.:: AmazonThe company said more than 70% of the additional job cuts will come from department store roles, as the company shifts its focus towards faster-growing digital and specialty retail channels such as Ulta, Sephora, Amazon and TikTok Shop.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777663676000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 7880058,
-      "headline": "What Sandisk's play on surging memory prices means for our tech stocks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/01/what-sandisks-play-on-surging-memory-prices-means-for-our-tech-stocks.html",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108259843-1769808873890-gettyimages-2259118265-_73a8666_welxx1ya.jpeg?v=1769808991&w=1920&h=1080",
-      "datetime": 1777663672000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 140138402,
-      "headline": "Apple Stock Surged After Earnings. 3 Concerns Lurking Beneath the Surface.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9c907e48d74b63dc8f9fcafb30a4ed28fde8caef86323748985abd61d4938a2",
-      "summary": "“We believe memory costs will drive an increasing impact on our business,” CEO Tim Cook said Thursday night.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777663500000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140137235,
-      "headline": "3 Stocks That Could Be Your Easy Ticket to Creating Generational Wealth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0572e3939ea935af83e4a6ac6ad8cf5a2f38d327037cdc5df3a88c54a8c5d4f9",
-      "summary": "These are all giants in their industries, and they have proved their mettle over time.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777663500000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140137218,
-      "headline": "Why SoundHound AI Stock Jumped 17% Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=422e0bd2f692d75df3c32bfbac46c6c6fafc45f93dfa0f92ed73a8e1592ea5cc",
-      "summary": "SoundHound AI rode Twilio's coattails today. The voice AI market is heating up.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777663351000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140137219,
-      "headline": "SoundHound, Palantir, or C3.ai: Which AI Stock Won April? The Answer Will Surprise You",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=51a4ee4c1f020cb50bae10598c1f12d00cb230b6b395a7bb8d0c6342003e6700",
-      "summary": "The April scoreboard for dedicated artificial intelligence (AI) stocks just landed, and the result is not what most retail investors would guess. SoundHound AI (NASDAQ:SOUN) led the pack with a 16% April gain, while Palantir Technologies (NASDAQ:PLTR) was actually down 5% for the month. C3.ai (NYSE:AI) landed in the middle, rising 5% in April from ... SoundHound, Palantir, or C3.ai: Which AI Stock Won April? The Answer Will Surprise You",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777662706000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140140139,
-      "headline": "3 Reasons to Buy the Dip in Meta Stock — And 3 Reasons to Stay Away",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1bdb7d02600087480f2ae7b3c885db3aba419e77b9322083a9aa88a926de0a72",
-      "summary": "META stock is down after its Q1 2026 earnings report failed to cheer markets. Should you buy the dip in Meta Platforms stock?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777662589000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140136876,
-      "headline": "These S&P500 stocks are moving in today's session",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=810466093ea051344ded64a3e638ee8996ecf5c3b4542a354925aaf15f11caf1",
-      "summary": "Curious about the top performers within the S&P500 index one hour before the close of the markets on Friday? Dive into the list of today's session's top gainers and losers for a comprehensive overview.",
-      "image": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
-      "datetime": 1777662304000,
-      "ticker": "INTC",
       "category": "company"
     }
   ]
