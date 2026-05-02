@@ -1,6 +1,116 @@
 {
-  "timestamp": 1777692933728,
+  "timestamp": 1777702509585,
   "items": [
+    {
+      "id": 140141531,
+      "headline": "Why Microsoft (MSFT) Shares Are Sliding Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=183f6842bbdb02f67d04958dd395e0c37e068a72fc1a4a30d16b1d643d396eb7",
+      "summary": "Shares of technology giant Microsoft (NASDAQ:MSFT) fell 4% in the afternoon session after investors reacted to its massive spending on artificial intelligence, which overshadowed an otherwise strong first-quarter earnings report.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777699495000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140141529,
+      "headline": "Soda Is Back! Is Now the Time to Buy Coca-Cola Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1af7c4a6246681750acbaf53109ccc314799804e6419bbe918c3f41fc1fa4e2",
+      "summary": "Coca-Cola is seeing the benefits of increasing soda popularity.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777699200000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140141535,
+      "headline": "Why Meta (META) Shares Are Plunging Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6dc08f7d8053cacf875a1b57c17bcf8a693db949bd8fe7627b45f05627c9dda4",
+      "summary": "Shares of social network operator Meta Platforms (NASDAQ:META) fell 8.1% in the afternoon session after the company's forecast for a significant increase in spending overshadowed its strong first-quarter results.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777699015000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140141536,
+      "headline": "How Surging AI Data Center Demand And Big-Name Deals At AMD (AMD) Has Changed Its Investment Story",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=967b156160d161f771ae5cfa827adc967bde336dd5e75ed01c1c1315ed2f1cf3",
+      "summary": "In recent weeks, Advanced Micro Devices has drawn heightened attention as analysts project strong year-over-year gains in earnings and revenue ahead of its 5 May 2026 first-quarter results, largely tied to robust demand for EPYC server processors and Instinct accelerators in data centers. At the same time, large AI infrastructure contracts with customers such as OpenAI and Meta, alongside growing concerns about AI monetization and competition, have underscored both the potential and the...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777698530000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140141533,
+      "headline": "OGE Energy Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7e0f07930158797812237269ead2ec05c0e759462fe02db86533ff48c856d2e",
+      "summary": "OGE Energy (NYSE:OGE) reported first-quarter 2026 consolidated earnings of $0.24 per diluted share, down from $0.31 in the same period last year, as management pointed to mild weather and timing-related operating and maintenance expense as key headwinds. Despite the softer start to the year, executi",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777698347000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140141530,
+      "headline": "Meta Buys Robotics Startup Assured Robot Intelligence To Power Humanoid Push As $5 Trillion Market Race Heats Up",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8cb92a4f133a2fc9fddabecbcf812a5b930976886a3faa4095b0a2949aedf9d",
+      "summary": "Meta Platforms (NASDAQ:META) acquired Assured Robot Intelligence, a humanoid robotics startup, for an undisclosed sum on Friday, adding the team to its Superintelligence Labs research division as it advances its humanoid robotics ambitions. The deal positions Meta directly in a rapidly commercializing humanoid robotics sector, where big tech, automakers and well-funded startups are competing to deploy physical AI at scale. Founders With Deep Robotics Pedigree ARI co-founder Lerrel Pinto previous",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777696593000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140140811,
+      "headline": "Bank of America resets Meta stock price target following earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=896ab882f82c828e6076056f4e456bf35d493b5f44ffde82d6d73dd4ba8167d1",
+      "summary": "Meta Platforms (META) delivered a quarter that most businesses would be happy to take. For perspective, Meta posted its Q1 earnings report on April 29, 2026, covering the quarter ended March 31, 2026. The headline numbers impressed, delivering another double beat, with operating income coming in ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777692780000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140140806,
+      "headline": "Sergey Brin, Who Fled The Soviet Union, Now Warns California Could Head The Same Way As He Spends $57 Million Fighting Billionaire Tax",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c534f7942cb41c0999b3ebc622accd66135f2bd6a4a1392e68d3de34c4ba67d",
+      "summary": "Alphabet Inc. board member and Google co-founder Sergey Brin, who is also a former resident of California, has warned that the state risks becoming a socialist system like the Soviet Union, as he escalates a $57 million campaign against the proposed billionaire tax. From Soviet Refugee To Billionaire Combatant “I fled socialism with my family in 1979 and know the devastating, oppressive society it created in the Soviet Union,” Brin said in a rare statement to The New York Times. “I don’t want Ca",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777692677000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140140799,
+      "headline": "4 Low-Cost Vanguard ETFs That Make Retirement Investing Easier",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c607241845f5b599b49a2adfec5c271d6d36810969534b706be5b2071f91987f",
+      "summary": "These Vanguard funds focus on low cost, liquidity, diversification, and no frills, making them ideal retirement saving vehicles.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777690200000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140140800,
+      "headline": "This High-Yield ETF Combines Bond Investing With Emerging Market Currencies",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=774dcab0d609929077f665ae58f8821bdc1464b9ed02b79fe19797143ae27bd4",
+      "summary": "Most US investors hold bonds priced in dollars, which means their fixed-income returns rise and fall almost entirely on what the Federal Reserve does next. VanEck J.P. Morgan EM Local Currency Bond ETF (NYSEARCA:EMLC) is built for the investor who wants the opposite: yield sourced from sovereign bonds issued by emerging market governments in their ... This High-Yield ETF Combines Bond Investing With Emerging Market Currencies",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777687533000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 7881592,
       "headline": "Trump says US Navy acting 'like pirates' to carry out naval blockade of Iranian ports - Reuters",
@@ -11,6 +121,17 @@
       "datetime": 1777687200000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140140801,
+      "headline": "Amazon, Alphabet, Microsoft, Meta, and Apple Just Reported Earnings. I Think This Was the Best Report of Them All.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bc6d6f3720383c0e0aba458428b30ac48801ff4f5c13f8d9c9e1c12e9c39c4f",
+      "summary": "One of these tech giants posted accelerating growth and expanding margins -- and didn't need to commit hundreds of billions to AI infrastructure to do it.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777686720000,
+      "ticker": "AAPL",
+      "category": "company"
     },
     {
       "id": 140140129,
@@ -131,6 +252,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777679700000,
       "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140140816,
+      "headline": "Alphabet Q1 2026: Stratospheric Heights In Performance And Expectations",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aa5efe27d5850e71af57bbfdc15d65d3a1d622126f85ca6dc827f32f4a69840b",
+      "summary": "",
+      "image": "",
+      "datetime": 1777679700000,
+      "ticker": "GOOGL",
       "category": "company"
     },
     {
@@ -607,6 +739,17 @@
       "category": "company"
     },
     {
+      "id": 140140803,
+      "headline": "S&P 500 and Nasdaq 100 Post Record Highs on Solid Earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96533a4c00c1031bc748152ab7cfa080de086708ecf92cd7f270a359b0c07871",
+      "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.29%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.31%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.94%. June E-mini S&P futures (ESM26 ) rose +0.19%, and June E-mini Nasdaq futures...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777667926000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140138471,
       "headline": "Intel Stock Was Up 115% in April. How to Play It With Options Now.",
       "source": "Yahoo",
@@ -956,149 +1099,6 @@
       "image": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
       "datetime": 1777662304000,
       "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140137221,
-      "headline": "Spotify Stock Is Down 44%. Should You Buy the Dip or Run for the Hills?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1ca51e6a7ef88a65223b51d88cadb175396978f899ecf4771873952b5dabd65c",
-      "summary": "The world's largest music streaming platform is currently on sale.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777662180000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140137220,
-      "headline": "Don't Buy Cryptocurrency XRP (Ripple) Until This Happens",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ffaf6647571d14f2d79e96bccef07a554ebd530b023b8226bf7aa4c30e0ef239",
-      "summary": "The arrival of altcoin season could be the catalyst to send XRP much higher.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777662180000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7879956,
-      "headline": "Trump's new executive order, with help from Congress, could increase U.S. retirement wealth up to 77%, researchers find",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/01/legislative-action-could-increase-us-retirement-wealth.html",
-      "summary": "Trump's executive order created a new way for Americans to save for retirement and called on Congress to expand the parameters of the deal.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108300249-1777651097553-108300249-1777575598972-gettyimages-2273263587-AFP_A9HP7G2.jpg?v=1777651118&w=1920&h=1080",
-      "datetime": 1777662009000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 140137222,
-      "headline": "Sandisk Earnings Were Excellent. Why This Analyst Says the Stock Could Double.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=142e08a1dae068d4d7dd8ac38581ce3d4480328075302cadd914067a112713f2",
-      "summary": "SanDisk reports better-than-expected earnings after a massive run fueled by AI data-center demand, tight supply, and rising storage prices.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777661760000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140138403,
-      "headline": "Apple Warns the Memory Shortage Is Getting Worse. Experts Say It Could Drive Up Prices",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a3a39c01dff50d6d95bba4f4d3e5b6f583e946d1b18ad89d7e78689368d979b7",
-      "summary": "Apple CEO Tim Cook on Thursday warned headwinds from an AI-driven memory supply crunch are only getting stronger.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777661654000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 7878458,
-      "headline": "Exxon net income falls, output hit by Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnc1S3VOZEI5bVhCUjFLbGQ0LWZmLTFRYl9iU3pMTjl2WjNRRjRDZlN6dDFabEtYaFBrNExOQXlaSlM1dnFncjdzeWNWT2JiNXV6NW9wTW5fWUNBMkVNOWRUQkVLYVdHSWxiNWhTTHpQTEhCRHN6NldMbllwc0tLN0VjUm5yTnYzd1hGVW9YT3d2MlRiSWt1MDhyZmhRUDlQVmM0TnhMN25wM3c1MjFnR090aU1PU1VXTjQxMVl3?oc=5",
-      "summary": "Exxon net income falls, output hit by Iran war  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777661506000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140137278,
-      "headline": "The Reason GM Stock Is Beating Ford and Tesla. (It Has Nothing to Do With Cars or Tariffs.)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=213fb80e5964951590f76e9bab9af16530a32fbe73c0fb956820bcb36329fdc8",
-      "summary": "General Motors  was the exception.  Tesla reported better pricing and more subscriptions for its Full Self-Driving driver-assistance product.  Stellantis was “steady,” if not stellar, according to Oxcap analyst Stuart Pearson.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777661040000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140137311,
-      "headline": "Paramount Skydance Stock Pops After Double Upgrade. Why Morgan Stanley Analyst Says It’s the ‘Riskiest’ Call.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9311b20d4bf5f634efbe20832d7eccba72b10c5aec48cf1086a50e896fb1aaa6",
-      "summary": "Paramount Skydance shares are moving higher on Friday after receiving a bullish double upgrade from Morgan Stanley.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777660920000,
-      "ticker": "NFLX",
-      "category": "company"
-    },
-    {
-      "id": 140137223,
-      "headline": "Dell, Super Micro, or HPE: Which AI Server Stock Crushed It in April?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a646af27ee17ad00d122847742f6827e61e09677867e0474d807224ff0ba667",
-      "summary": "The April scoreboard is in for the three biggest pure plays on artificial intelligence (AI) server hardware, and the spread between first and last is wider than the headline gains suggest. Shares of Dell Technologies (NYSE:DELL) closed the month up 28%, pulling away from Hewlett Packard Enterprise (NYSE:HPE) at 21% and Super Micro Computer (NASDAQ:SMCI) ... Dell, Super Micro, or HPE: Which AI Server Stock Crushed It in April?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777660907000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140137236,
-      "headline": "Dan Ives: Tech stocks have 12–15% more upside — his top AI buys now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=13088f58a2ab0df5d205d9c9a49feafcb416a38b9402138748e68c91566f9dec",
-      "summary": "Transcript:Caroline WoodsWe couldn't let the biggest week for tech earnings pass without checking in with one of the biggest bulls on Wall Street. Dan Ives joins us now. He's managing director and senior equity research analyst at Wedbush Securities. Dan, always great to have you on. Dan IvesAlways ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777660854000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140137224,
-      "headline": "Nvidia Is Worth $5 Trillion Once Again. Here's Why It Could Become the First $10 Trillion Stock Within the Next 3 Years.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=765437d06eb5cc046c1e1e0feb8f11f6b7a9569bfd3d171215fe49afaa3e0d81",
-      "summary": "Its focus on chips that are well-suited to inference workloads will help it maintain its power in the artificial intelligence space.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777660620000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140137237,
-      "headline": "3 Takeaways From Apple Earnings. The Stock Is Surging.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dc2ebbe581413f4b3e71ce72ec6cc9b2cfc76f6d084c55076bedc8199a301ad0",
-      "summary": "“We believe memory costs will drive an increasing impact on our business,” CEO Tim Cook said Thursday night.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777660560000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140138441,
-      "headline": "CEOs got an 11% pay raise in 2025. Workers got 0.5%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9ceced2c7144f49fffae64e1292e143501ee020fe62d1cb51fb7f0e724f9c399",
-      "summary": "A new ITUC-Oxfam report covering 1,500 companies found CEO pay is outpacing worker wages by a factor of 20—and the gap is only getting wider.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777660264000,
-      "ticker": "TSLA",
       "category": "company"
     }
   ]
