@@ -1,14 +1,14 @@
 {
-  "timestamp": 1777733780101,
+  "timestamp": 1777737359050,
   "items": [
     {
       "id": 7883711,
-      "headline": "Germany urges stronger European defence after US announces troop drawdown - Reuters",
+      "headline": "Germany takes US troop drawdown in stride but deterrence gaps remain - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeng2WUI0R1hXdmJicTZHd21sUXBER3lWbExOeHNPQnQ2U2t2UDNYNlBIZ1RzWTlYeEJqM0tha1pJanl1SU5CcHhUUzcyTEVvdjcwTDNycTFUWHFMaXEySkhhazBNOUkzZHdmZE5FRHBGWXZyZm44b3ppRFd5UG1yLW1OdDhNNnR0YTJOYUU3ZFh5SGhMU0hXV1ZWTlJhQmQzWlB4Tkd3Ty1NSmU0aERIcEtwaXlJQmFkdktWbG5YZXBFbnlPS1AyRTItWVo0RkNkVDJ6amlB?oc=5",
-      "summary": "Germany urges stronger European defence after US announces troop drawdown  Reuters",
+      "summary": "Germany takes US troop drawdown in stride but deterrence gaps remain  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777731007000,
+      "datetime": 1777733990000,
       "ticker": null,
       "category": "business"
     },
@@ -222,6 +222,17 @@
       "category": "company"
     },
     {
+      "id": 140145142,
+      "headline": "Alphabet Going After OpenAI Complex's Lunch (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9145c4b38c068a557b9cd8552b7333c3e974c48067b460f02553b0cc1d0a6662",
+      "summary": "Alphabetâs Q1 CY26 beat shows Google Cloud +63% and Gemini Enterprise subs +40% q/q, signaling AI share gains and undervalued EPS growthâread now.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1371736610/image_1371736610.jpg?io=getty-c-w1536",
+      "datetime": 1777722235000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140143697,
       "headline": "META Platforms (NASDAQ:META) Passes Peter Lynch's GARP Screen as a Compelling Long-Term Investment",
       "source": "ChartMill",
@@ -296,6 +307,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777720553000,
       "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140145049,
+      "headline": "One May Dog Of The Dow To Buy",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b7bb97d8f1593eb8cd0649cc1231b1ba3ac27eeddce2ddf8dcd1dae7a9052980",
+      "summary": "Verizon is the only âfairly pricedâ Dow dividend dog with strong free cash flow coverage.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1839458057/image_1839458057.jpg?io=getty-c-w1536",
+      "datetime": 1777719955000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140145018,
+      "headline": "From AMD To Disney, The Wall Street Week Ahead Is Packed",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=04975de2822942aa070119389f5cac984048865980889d9c92f0208b9c1926af",
+      "summary": "Wall Street Week Ahead: key earnings (AMD, Pfizer and Disney); jobs and quarterly GDP numbers will be released. Read here for more details.",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1777719600000,
+      "ticker": "AMD",
       "category": "company"
     },
     {
@@ -1066,39 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777677720000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140142276,
-      "headline": "At Risk in North American Trade Talks: Cheap Cars",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=22768d0bbf6d36dcf578f0ffd4da072ee6fcad59699d2f90c673f096386b569a",
-      "summary": "Average car prices have been rising since the pandemic and tariffs. Now the availability of low-cost new cars hangs in the balance as the United States, Mexico, Canada trade deal talks begin.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777677240000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140139463,
-      "headline": "Assessing Entergy (ETR) After Meta Data Center Deal And Expanded US$40b Capital Plan",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f340a389eb0517adbfa8303eb07bbbe2e215f6e627de00fb6d8446681d9ca1d6",
-      "summary": "Entergy (ETR) is back in focus after Q1 2026 results and a large-scale electric service agreement with Meta. Together, these developments tie earnings guidance, capital spending plans, and growing data center demand into one story for investors. See our latest analysis for Entergy. Entergy’s recent Q1 2026 update and the large Meta data center agreement arrive after a strong run, with a 90 day share price return of 21.42% and a 1 year total shareholder return of 41.36%, suggesting momentum...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777677080000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140139464,
-      "headline": "IDACORP Q1 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0803425430a2213212a2997b5c7ed255e9acdade92f17d70a486150f8bb1ebe0",
-      "summary": "IDACORP (NYSE:IDA) reported first-quarter 2026 diluted earnings of $1.21 per share, up from $1.10 in the prior-year quarter, as the utility benefited from rate increases and customer growth even as unusually mild weather weighed on usage in key classes. Amy Shaw, vice president of finance, complian",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777676850000,
-      "ticker": "META",
       "category": "company"
     }
   ]
