@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777729549029,
+  "timestamp": 1777732619812,
   "stocks": [
     {
       "ticker": "AAPL",
@@ -8,7 +8,7 @@
       "changePct": 3.2467,
       "changeAbs": 8.81,
       "previousClose": 271.35,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "MSFT",
@@ -17,7 +17,7 @@
       "changePct": 1.6381,
       "changeAbs": 6.68,
       "previousClose": 407.78,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "GOOGL",
@@ -26,7 +26,7 @@
       "changePct": 0.2365,
       "changeAbs": 0.91,
       "previousClose": 384.8,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "AMZN",
@@ -35,7 +35,7 @@
       "changePct": 1.2148,
       "changeAbs": 3.22,
       "previousClose": 265.06,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "META",
@@ -44,7 +44,7 @@
       "changePct": -0.5131,
       "changeAbs": -3.14,
       "previousClose": 611.91,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "NVDA",
@@ -53,7 +53,7 @@
       "changePct": -0.5512,
       "changeAbs": -1.1,
       "previousClose": 199.57,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "TSLA",
@@ -62,7 +62,7 @@
       "changePct": 2.4133,
       "changeAbs": 9.21,
       "previousClose": 381.63,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "AMD",
@@ -71,7 +71,7 @@
       "changePct": 1.7123,
       "changeAbs": 6.07,
       "previousClose": 354.49,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "INTC",
@@ -80,7 +80,7 @@
       "changePct": 5.4615,
       "changeAbs": 5.16,
       "previousClose": 94.48,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "NFLX",
@@ -89,7 +89,7 @@
       "changePct": -1.6344,
       "changeAbs": -1.53,
       "previousClose": 93.61,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "HIMS",
@@ -98,7 +98,7 @@
       "changePct": 0.9201,
       "changeAbs": 0.25,
       "previousClose": 27.17,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "HIMX",
@@ -107,7 +107,7 @@
       "changePct": 4.8511,
       "changeAbs": 0.57,
       "previousClose": 11.75,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "NOW",
@@ -116,7 +116,7 @@
       "changePct": 3.2499,
       "changeAbs": 2.87,
       "previousClose": 88.31,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "PYPL",
@@ -125,7 +125,7 @@
       "changePct": 0.6382,
       "changeAbs": 0.32,
       "previousClose": 50.14,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "PLTR",
@@ -134,7 +134,7 @@
       "changePct": 3.5799,
       "changeAbs": 4.98,
       "previousClose": 139.11,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "TSM",
@@ -143,7 +143,7 @@
       "changePct": 0.4116,
       "changeAbs": 1.63,
       "previousClose": 396.06,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     },
     {
       "ticker": "GLD",
@@ -152,7 +152,7 @@
       "changePct": -0.1086,
       "changeAbs": -0.46,
       "previousClose": 423.66,
-      "timestamp": 1777729549029
+      "timestamp": 1777732619812
     }
   ]
 }
