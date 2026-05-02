@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777755126856,
+  "timestamp": 1777758718154,
   "items": [
     {
       "id": 140146747,
@@ -772,6 +772,17 @@
       "category": "company"
     },
     {
+      "id": 7885123,
+      "headline": "UAE says air traffic back to normal after precautionary measures lifted - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2xpakRpdm9Eckk5b1NQemx3RjdYQkRoNmNkbV9iMnJwenAzeUtJZDkxMmxZZjJoNVlJRFVySDl4Y2VXUWhyb0ZQTktFdmNNQlFxc2ZqYV9CVXUyZ3kyQjJoejU5WEx5UVBBY3pwNnVJalFxQzNpN1AxM294NHhGd2IzWnJnRkVrMTRVRnZWN2h4TDktQTIwYVBXbGxQSHNLTWxZcnh6SWVBMGY2WkE4NzJXMmIzRzlmb2ZXbkVRaw?oc=5",
+      "summary": "UAE says air traffic back to normal after precautionary measures lifted  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777722209000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140143697,
       "headline": "META Platforms (NASDAQ:META) Passes Peter Lynch's GARP Screen as a Compelling Long-Term Investment",
       "source": "ChartMill",
@@ -1087,17 +1098,6 @@
       "summary": "Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman. ",
       "image": "https://image.cnbcfm.com/api/v1/image/108300077-1777564113758-gettyimages-2273245544-2026_apr_30_muskvsaltman_0666.jpeg?v=1777564136&w=1920&h=1080",
       "datetime": 1777708801000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140143868,
-      "headline": "Q1 GDP: Top-Heavy, Bifurcated, And Concerning",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=4148dbc8ca41899d917400355908c583dcb5d677a656206c3b8b514856a13c57",
-      "summary": "U.S. Q1 2026 GDP grew 2.0% as AI capex and federal spending masked a 3.5-year low savings rate and an 8% housing slump. Learn why rising debt costs threaten stability.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247042054/image_2247042054.jpg?io=getty-c-w1536",
-      "datetime": 1777708800000,
       "ticker": "MSFT",
       "category": "company"
     }
