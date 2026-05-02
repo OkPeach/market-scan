@@ -1,6 +1,83 @@
 {
-  "timestamp": 1777758718154,
+  "timestamp": 1777762373548,
   "items": [
+    {
+      "id": 140147169,
+      "headline": "Farewell, Jeeves: Ask.com shuts down",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f990e1ad72a387dd29557a83f789412efcb9dee41adda48dc3f6d2ca62cf679",
+      "summary": "Owner IAC says it's discontinuing its search business.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777756288000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140147166,
+      "headline": "Bank of America revamps Amazon stock target after earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2efec4d3131e0c501ca82f4466fea80bfbd9227b338cb7efc29154702b80bac3",
+      "summary": "Amazon (AMZN) gave Wall Street a lot to like, and BofA analysts have responded in kind. The bank kept its buy rating on Amazon stock, while raising its price target to $310 from $298, implying roughy 18% upside from its recent $263 level. Three primary drivers anchoring the call include a robust ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777755780000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140147156,
+      "headline": "Major Hyperscalers Just Reported Earnings. Nvidia Was The Winner",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e25d7b7ce416bd83a28abc01eb552f2c033d6d64e0e7b8ef0fd26bd43b48e388",
+      "summary": "Nvidia's shareholders should be celebrating.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777755000000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140147157,
+      "headline": "Why Apple Stock Climbed This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd99b111031fae7e78ca6e0ceea14afa54472b0e2dc68ae63dc8f75ff780e83a",
+      "summary": "Blockbuster iPhone sales and new, budget-friendly Macs are boosting the technology giant's profits.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777754370000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140147158,
+      "headline": "Billionaire Charlie Munger Called Elon Musk Talented, Unusual, And Peculiar— 'I Don't Buy Him And I Don't Sell Him Short'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac66d9eaa6545f7f81cd44f600785ac592f43ad025538eee93ca769c0e16eed1",
+      "summary": "Not every billionaire critique comes with a compliment baked in. But when Charlie Munger sized up Tesla CEO Elon Musk, he didn't dismiss him or cheer him on. He did something rarer. He separated the talent from the investment. Speaking...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777753868000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140147159,
+      "headline": "What Could Happen if You Put $10,000 Into Oklo Today?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73bc46912ff174aa2f9592a36a85ea5f8cf9de68fc8cce8f18f8a69ee802afd9",
+      "summary": "Oklo stock hasn't quite taken off in 2026. What would happen if you invest $10,000 while the share price is below $100?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777753320000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140147160,
+      "headline": "Top 3 Unstoppable Dividend Growth Stocks to Buy (and Hold) for the Next Decade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0052bd4a1e5ab89194e3587fafbd1351711b11f1dca0243f1bc6e92650afd2b7",
+      "summary": "From a 64-year dividend growth streak to a 16% recent hike, these three names offer different paths to growing income.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777752360000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 140146747,
       "headline": "1 Russell 2000 Stock Worth Your Attention and 2 That Underwhelm",
@@ -233,6 +310,17 @@
       "category": "company"
     },
     {
+      "id": 140147161,
+      "headline": "Jensen Huang says some CEOs have a ‘God complex’ when it comes to AI apocalypse warnings, which can create shortages of critical workers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f84f8563b01fe24c25dd13dfbef6da443cdaa4ccdb8aa10a674f1beb8573473e",
+      "summary": "\"So we have to be mindful of how we communicate the importance of this technology and what it's able to do.\"",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777740418000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
       "id": 140146039,
       "headline": "If the Market Crashes, I'm Buying These 3 Stocks Before the Dust Settles",
       "source": "Yahoo",
@@ -340,6 +428,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777736305000,
       "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140147186,
+      "headline": "These Are April's 2 Hottest AI Stocks. Should You Buy Them in May?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=896facdb7e8386ec5c54440eb78be3d1aa055d80854d1c77cfd35f252bbd99f0",
+      "summary": "These AI winners surged in April, but upcoming earnings will decide if their rally has more room to run.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777735802000,
+      "ticker": "AMD",
       "category": "company"
     },
     {
@@ -516,6 +615,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777730485000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140147165,
+      "headline": "Google Just Warned of a Significant Increase in 2027 CapEx. Why GOOGL Stock Investors Don’t Seem to Care.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e0e128f8cbe7ab31c634431a0eaf5a4c5cf502a9fb9d8c9734b91c39b16b530b",
+      "summary": "Alphabet is ramping capital spending to unprecedented levels, but investors are largely shrugging because earnings and Cloud momentum are strong enough to absorb the hit and still deliver double‑digit growth.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777730402000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -989,116 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777713356000,
       "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140145313,
-      "headline": "Benzinga Bulls And Bears: Apple, Intel, Tesla — And Markets Extend April Rally",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=ea0d771c868ad84ea49725306be88ac5f8630e8b36141ef4f62f2c8a8296512b",
-      "summary": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
-      "image": "https://cdn.benzinga.com/files/images/story/2026/05/02/Bulls-and-Bears-1.jpeg?width=2048&height=1536",
-      "datetime": 1777712549000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140143044,
-      "headline": "Standard Oil Was a Rapacious Octopus. How the Beast Was Tamed.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cd5732d88c6b03d37159c124be929def2a63a97be5c531113d045f34ff5e90af",
-      "summary": "The giant industrial companies of the past were eventually broken up—but it wasn’t easy. The next target: the tech giants.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777712400000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140143069,
-      "headline": "Palantir courts Home Office for border force contracts",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2db106f25f4c83a13b177ecfdcfcbc44ccbea534903752c8992864137aea8463",
-      "summary": "Palantir has been courting the Home Office unit charged with tackling small boat crossings as it seeks to deepen its ties with the British state.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777712400000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140143042,
-      "headline": "Is This Acquisition a Game Changer for Netflix?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9c9f95b7919cd430ca31dabb660683a1f17e8354601382b77e97a174108ca9c1",
-      "summary": "At the very least, it didn't cost the company tens of billions of dollars.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777711800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140143043,
-      "headline": "Nvidia Stock vs. Intel Stock: A Wall Street Analyst Says Buy One and Sell the Other",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b43b4876baa9338811951cf10781fc4eb5d68fbc3c95c9694c5ace140c5555b8",
-      "summary": "JPMorgan Chase analyst Harlan Sur sees upside in Nvidia and downside in Intel.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777710720000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140143070,
-      "headline": "Prediction: May 5 Will Be a Huge Day for Palantir's Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62b04a58ed59accbc17e0fd88860118136095011513b10ae0a26ef5b30199bd6",
-      "summary": "Palantir must live up to some mighty expectations.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777710540000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140143926,
-      "headline": "Invest In The Top Part Of The K-Shaped Economy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=be5ce315f984bdd7244a0690212840c2fe63b54f57133240c8cae0f18b2e19cb",
-      "summary": "Surging tech sector margins and massive AI infrastructure capex make the sector essential as ETFs like TDIV and TDVI offer growth with income. Learn more here.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/886733268/image_886733268.jpg?io=getty-c-w1536",
-      "datetime": 1777709700000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140143081,
-      "headline": "Is ServiceNow’s Strong Q1, AI Push, and Google Cloud Tie-Up Altering The Investment Case For ServiceNow (NOW)?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3f195547e6fe0166ee11c7e3893b6b708ed96afe88d913e204a8727b9623e187",
-      "summary": "In late April 2026, ServiceNow reported Q1 revenue of US$3.77 billion with higher net income, raised its full-year subscription revenue outlook, and advanced its AI-native platform through new industry solutions, including manufacturing, and expanded partnerships with Google Cloud and Simplify Alpha amid heightened regulatory and cost pressures. An interesting aspect is how ServiceNow is using agentic AI and tightly integrated partner solutions to automate complex, regulated workflows across...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777709520000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 140146254,
-      "headline": "5 Stocks Investors Couldn't Stop Buzzing About This Week: AAPL, GOOG, HOOD And More",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f11f152bb80ee8698b21a4eb50fe9ce930071c0093014e627118caad5b8783e6",
-      "summary": "Retail investors talked up five hot stocks this week (April 27 to May 1) on X and Reddit&#39;s r/WallStreetBets: AAPL, GOOG, HOOD, META, LLY.",
-      "image": "https://cdn.benzinga.com/files/images/story/2026/05/02/Apple-Ceo-Tim-Cook-Smiles-And-Claps-Duri.jpeg?width=2048&height=1536",
-      "datetime": 1777708920000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140145694,
-      "headline": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=896a09019b5823feb0e5d59229036f879a64c3d0a3d76dca1cddfe39c6d7e2eb",
-      "summary": "Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman. ",
-      "image": "https://image.cnbcfm.com/api/v1/image/108300077-1777564113758-gettyimages-2273245544-2026_apr_30_muskvsaltman_0666.jpeg?v=1777564136&w=1920&h=1080",
-      "datetime": 1777708801000,
-      "ticker": "MSFT",
       "category": "company"
     }
   ]
