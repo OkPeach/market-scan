@@ -1,6 +1,28 @@
 {
-  "timestamp": 1777810054958,
+  "timestamp": 1777816506126,
   "items": [
+    {
+      "id": 7888444,
+      "headline": "Healthcare cost surge makes generous parental paid leave benefits a target of workplace cuts",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/03/healthcare-costs-parental-paid-leave-employee-benefits-cuts.html",
+      "summary": "As healthcare costs soar and companies search for savings, generous paid parental leave is a benefit being cut, with recent examples from Zoom and Deloitte.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107360264-1705501936220-gettyimages-559498287-b81dab4f-503c-42be-a858-f1f1b717a3f6.jpeg?v=1777657774&w=1920&h=1080",
+      "datetime": 1777814624000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 7888445,
+      "headline": "Fewer features, more value: Why some Americans are buying simpler cars",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/03/why-some-americans-are-buying-simpler-cars.html",
+      "summary": "Cloth seats, manual controls and analog gauges are back as buyers look for cars with sticker prices closer to $30,000.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108294883-1776799121651-gettyimages-121526212-ky350063.jpeg?v=1776799191&w=1920&h=1080",
+      "datetime": 1777813201000,
+      "ticker": null,
+      "category": "top news"
+    },
     {
       "id": 140151479,
       "headline": "Apple (AAPL) Stock Trades Up, Here Is Why",
@@ -156,6 +178,17 @@
       "category": "company"
     },
     {
+      "id": 7888344,
+      "headline": "Slovakia's PM Fico to attend Victory Day parade in Moscow, Russian TV says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWm5ZNUN3cmxaNFBmcXk0cFU4SVFfd0FzdWMxZ3hEazl2eEZpamdpSEdlWWNaQjZic0dGMTQwd29OMDlVd2UtR2xmVmV5VkdvNWNUUl9UV2M0ZEpxMHJtLTM5YkhOSDYzX21FRHpDOVA2Ymp0cmRQRjVDdFpJVUpHQ0ltUThDNW91d3F3VEIwQkI5V0U2UVJsQmxSb2ZkR1dDaDNUSzRhUUdfY25t?oc=5",
+      "summary": "Slovakia's PM Fico to attend Victory Day parade in Moscow, Russian TV says  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777804543000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140151474,
       "headline": "Europe Wants to Go to Mars -- but Needs SpaceX to Help",
       "source": "Yahoo",
@@ -255,6 +288,17 @@
       "category": "company"
     },
     {
+      "id": 140152061,
+      "headline": "PayPal's Epic Fall In Numbers",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=68127747b8f911fa8b861d2b57a0d8a63b8f474d73d8405dedd2a20a8002921e",
+      "summary": "PayPal has transitioned from a high-growth Wall Street darling to a value stock with stagnant user and revenue growth. Read the latest analysis on PYPL stock here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/899691998/image_899691998.jpg?io=getty-c-w1536",
+      "datetime": 1777800600000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
       "id": 140150776,
       "headline": "Forget This Trump eVTOL Darling: A Diversified Defense Contractor Is the Smarter Long‑Term Holding",
       "source": "Yahoo",
@@ -296,6 +340,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777796760000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140151584,
+      "headline": "Nebius: Very Close To Breaking Out And Silencing The AI Bears",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5e8e39c8c460ef0a7bc932af20f5a59890308f028a932896ec8d2034276aca90",
+      "summary": "Nebius Group (NBIS) rides booming AI infrastructure demand with Meta/Nvidia deals, Eigen AI acquisition, and 2030 visibilityâsee why itâs a Buy now.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2240900371/image_2240900371.jpg?io=getty-c-w1536",
+      "datetime": 1777795440000,
+      "ticker": "META",
       "category": "company"
     },
     {
@@ -1044,61 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777744620000,
       "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 7884822,
-      "headline": "Trump says US could restart Iran strikes 'if they misbehave' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUozQmZGUTZjZElkcVg4NGRnUVJCSlluVnZiSTk5bXBaUlp6ekJtb2dOMWduY2xRUlIxNC1BdnhzY1JzMTl5emVTOGhjN1YyOThpNG9XYVFYeTFmX25CZmk4cThSZDY0NFlRNnNJNHZ1Mk5STnM0YTZZSVZHV0NiWjF5eGQybHVobVJyMDJfNlVUZThYeEtMajRHNWJlandILXJDelBsTlBNWXZQT3JJeHpmUHlhNE55a193NlZaOC0?oc=5",
-      "summary": "Trump says US could restart Iran strikes 'if they misbehave'  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777744560000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140146124,
-      "headline": "3 Cash-Heavy Stocks with Warning Signs",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=aa4ee753deeca2da0db9a4c39a527bcfcd2fad01595c3ff801224d802c234335",
-      "summary": "Companies with more cash than debt can be financially resilient, but that doesn’t mean they’re all strong investments. Some lack leverage because they struggle to grow or generate consistent profits, making them unattractive borrowers.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777743655000,
-      "ticker": "PYPL",
-      "category": "company"
-    },
-    {
-      "id": 140146034,
-      "headline": "Chevron's Production Soared Along With Oil Prices in the First Quarter, But Its Profits Fell. What Happened With the Oil Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b5e484a6d4c6e8d97a72111034cab6f88efb038acc38bd237db9986dfb01de52",
-      "summary": "Chevron faced some war-driven headwinds in the first quarter.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777742700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140146035,
-      "headline": "Elon Musk Just Announced Fanastic News to Nvidia Stock Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03bbfdbe1be57fd50aa17ce5254fa64deaf723c7673b0eccbcd3ccb353056c48",
-      "summary": "These longtime market-beaters still have quite aggressive ambitions.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777742400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140146036,
-      "headline": "This Dividend ETF Is up 30% in 6 Months With a 3.7% Dividend Yield",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e60557cb7f18aa3f1305541366b40c8ce86363710223154342d53fe13143ef6",
-      "summary": "Most energy ETFs are a way to play oil prices. The VanEck Energy Income ETF (NYSEARCA:EINC) is something more boring and arguably more useful. EINC has a basket of pipeline operators. These operators are paid by the barrel regardless of what crude does. The pitch is fee-based cash flows, the kind of economics that deliver ... This Dividend ETF Is up 30% in 6 Months With a 3.7% Dividend Yield",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777742060000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
