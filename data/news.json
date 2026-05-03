@@ -1,6 +1,17 @@
 {
-  "timestamp": 1777833012332,
+  "timestamp": 1777838185212,
   "items": [
+    {
+      "id": 7889671,
+      "headline": "Big Tech earnings show how big, smart spending can be rewarded by the market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/03/big-tech-earnings-show-how-big-smart-spending-can-be-rewarded-by-the-market.html",
+      "summary": "It's obvious from this quarter that the bubble talk has been proven wrong.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108080987-1755613115045-108080987-1755610449468-108080987-1735653388433-gettyimages-2191194281-avils-notitle241230_np5bz.jpeg?v=1770839823&w=1920&h=1080",
+      "datetime": 1777836018000,
+      "ticker": null,
+      "category": "top news"
+    },
     {
       "id": 7888551,
       "headline": "Hezbollah pays steep price in battle to reverse its fortunes - Reuters",
@@ -596,6 +607,17 @@
       "category": "top news"
     },
     {
+      "id": 7889571,
+      "headline": "Gulf bourses close higher, but U.S.-Iran uncertainty caps upside - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEw1RGVIVC1UUlFuYWlVTXdKNXRjdlp2WTVPMGhDdWpvRUZUUHpJSWE3MUxSS013MWZHMUdaa0Q1amhTcUtvTG9yMFdLdVpnVkVvQ3EzSXRrN2Q4Unc2SFRuR0hrcnlBT1UzcTdIWDVKUVRGd0phUEstcUtiXzA3a0wzUFRwaGJUcGRWa0R6d3dFWVlyZlRZMlVxeHI5bnZxLS1rREthb1ZLR2dZckV4Mg?oc=5",
+      "summary": "Gulf bourses close higher, but U.S.-Iran uncertainty caps upside  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777814023000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140152212,
       "headline": "Agilysys, Teradata, and Rapid7 Shares Are Soaring, What You Need To Know",
       "source": "Yahoo",
@@ -1077,28 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777803019000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140151494,
-      "headline": "Tesla’s xAI And SpaceX Deals Reshape Growth Story And Governance Questions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=426b0b62471e0e5112f17cbd8907bddb05d154170fcf5ce8121a9d745abe10b1",
-      "summary": "Tesla disclosed over $500 million in revenue from transactions with Elon Musk controlled companies, including xAI and SpaceX, in an amended annual filing. The filing highlights deepening business ties between NasdaqGS:TSLA and Musk's other ventures, raising related party and governance questions. These dealings cover technology integration and chip related collaborations that could influence Tesla's future products and services. Tesla, trading at $390.82, continues to attract attention as...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777802946000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140152335,
-      "headline": "AMD: Cooling My Rating, Not My Conviction",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=68acd564410555347fa89288e2a4129658b9006c83d75cd9e192c8d473f48072",
-      "summary": "AMD remains one of the leading AI names, and strong quarterly performance could set a positive tone for the markets. See why AMD stock is downgraded to a buy.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2264412310/image_2264412310.jpg?io=getty-c-w1536",
-      "datetime": 1777802538000,
-      "ticker": "AMD",
       "category": "company"
     }
   ]
