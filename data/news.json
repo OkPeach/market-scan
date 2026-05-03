@@ -1,6 +1,72 @@
 {
-  "timestamp": 1777798345928,
+  "timestamp": 1777803132353,
   "items": [
+    {
+      "id": 140150775,
+      "headline": "5 big analyst AI moves: JPM downgrades Meta; Micron gets a fresh Street-high PT",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26e32d02c56043a56645c48edea6b94eac214ed342b80f19d18e5f2bbebe940f",
+      "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777800602000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140150776,
+      "headline": "Forget This Trump eVTOL Darling: A Diversified Defense Contractor Is the Smarter Long‑Term Holding",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3e6521346072bc51f09f5aba3e239a0a5e745fb94419f41f3b052f088a26a81",
+      "summary": "Untested drone start-up or established aerospace giant? One stock is clearly safer than the other.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777800300000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140150777,
+      "headline": "Warren Buffett's Best Advice for Buying Stocks During Market Uncertainty",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f9d907a8087363e2da68abfc2f5983797c4970c5a449cfb1a35259cc9fa0cbe",
+      "summary": "Uncertainty can work to investors' advantage by following in the footsteps of the \"Oracle of Omaha.\"",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777799040000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140150778,
+      "headline": "Roblox Shares Tumble After the Company Slashed Guidance. Is It Time to Buy the Dip or Stay Away?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c419a321609c11d74afea62a3c964d3260f2a6dcff1cc376990831de5d58ec33",
+      "summary": "Roblox shares sank after the company lowered its booking guidance.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777798320000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140150779,
+      "headline": "President Donald Trump Vowed Not to Touch Social Security -- but He May Have Indirectly Broken That Promise",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8aa37a6e9b30fc4441a96b265481d4504ad6e9c6dda9227fd49188e1f742ca1",
+      "summary": "A $169 billion surprise awaits America's leading retirement program, courtesy of President Trump.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777796760000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140150780,
+      "headline": "Warren Buffett's Successor, Greg Abel, Just Perpetuated the Oracle of Omaha's $195 Billion Warning to Wall Street -- and It's Terrible News for Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca61ff14bf8ca6fe2276ba1b015c9d01de2aee26db0b6da534b0271104e6b2b2",
+      "summary": "Berkshire Hathaway's now-retired billionaire boss and its new leader have collectively been net sellers of stocks for 14 consecutive quarters.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777795440000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 140150161,
       "headline": "Analysts Reaffirm Buy Rating on Meta (META), Cite Growth and AI Potential",
@@ -33,6 +99,17 @@
       "datetime": 1777793547000,
       "ticker": "GOOGL",
       "category": "company"
+    },
+    {
+      "id": 7887533,
+      "headline": "Iran executes man convicted over killing of security officer in 2022 unrest - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjR5MVc5U1lSbUF5U1NwWXYxY0JPYld2SGdhZVN5a2RoOUZ1aFI0aWh6N1BwRHVjSm5oNW9WVW8zNnlEeXBmM3cwT0F0RFFlQWxjRjVjV2JJY2FGbENrWnY0WjlHTXprMnFzb3liR0R6bWhMTnN6ZFFlRkEyR1RuUVdJZEJGUnRsRTF2MFN5SVBqbnVqQ3Bxc1Q0ek9Oak5NZ1dIRHBaanhlWHlNWnJ4emV1QWpaUlVpcWZmbkZtbGE?oc=5",
+      "summary": "Iran executes man convicted over killing of security officer in 2022 unrest  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777792629000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140150155,
@@ -1022,83 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777731900000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140145180,
-      "headline": "Fed’s Rate Freeze Could Sting for Social Security Recipients",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=62ce5ff37fbdec132e0883811888e9635d252485faaacefdb50c9fec70022028",
-      "summary": "When inflation rose 3.3% in March, it signaled that the Federal Reserve would most likely not lower its benchmark interest rate in the course of its late April meeting. And sure enough, the Fed just opted to hold its federal funds rate steady once again. The Fed typically lowers interest rates to encourage consumers to ... Fed’s Rate Freeze Could Sting for Social Security Recipients",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777731601000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140145181,
-      "headline": "Why Rocket Lab Stock Zoomed 28.5% Higher In April",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f7b49f646dea2bbe047973d82e72295c4ae06acc6ac9e81f70f80bb7bc4e006",
-      "summary": "Investors are getting more bullish on the space economy ahead of a rumored SpaceX IPO.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777731287000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140145182,
-      "headline": "Bull vs. Bear: Is AMD Stock a Buy or Sell?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5cd783e962d213cf5bd18ac254a7f62efb055ea7b47cd40b6e657b1759a58c91",
-      "summary": "A look at the bull and bear cases for AMD.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777730700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140145192,
-      "headline": "A Florida Gen Xer With A Good Job Says 'I Feel Like I'm Drowning.' They Feel Like There's No Way Off The Hamster Wheel Because Of The Bills",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ce46b15cbb36405ab9a75f9fa16669134f072b194771b452a15d96c0d6048d4",
-      "summary": "A Florida-based Gen Xer with what they describe as a “pretty decent job” says the rising cost of living has left them feeling stuck and overwhelmed. “I feel like I’m drowning,” they wrote in a recent Reddit post, describing the...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777730485000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140147165,
-      "headline": "Google Just Warned of a Significant Increase in 2027 CapEx. Why GOOGL Stock Investors Don’t Seem to Care.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e0e128f8cbe7ab31c634431a0eaf5a4c5cf502a9fb9d8c9734b91c39b16b530b",
-      "summary": "Alphabet is ramping capital spending to unprecedented levels, but investors are largely shrugging because earnings and Cloud momentum are strong enough to absorb the hit and still deliver double‑digit growth.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777730402000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140145183,
-      "headline": "Buffett Hails Abel's Leadership, Highlights Big Gain in Apple Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f4306cd7fffaa8a1747590ce9383c8c08bf8cd8e57b0de46976d361faa2d7ab",
-      "summary": "Abel called on Buffett, who is sitting with other directors.  Buffett then noted two anniversaries: the one-year anniversary of his decision to step down as CEO and the 10-year anniversary of Berkshire's investment in Apple stock.  Buffett said Abel is \"doing everything that I did and then some.\"",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777730286000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140144587,
-      "headline": "Warren Buffett’s Parting Gift to Investors Is Crushing the Market 6 Months Later",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4f52a7c55f9ec0a7cba15271d6b27c0b06b877713670a7da7a8794d03bce29d4",
-      "summary": "For nearly 60 years, investors have measured themselves against one benchmark: Warren Buffett. Since taking control of Berkshire Hathaway (NYSE:BRK-A)(NYSE:BRK-B) in the mid-1960s, Buffett turned a struggling textile mill into a $1 trillion empire while delivering returns that left the broader market in the dust. According to Berkshire’s annual reports, the company generated compounded annual ... Warren Buffett’s Parting Gift to Investors Is Crushing the Market 6 Months Later",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777729560000,
-      "ticker": "GOOGL",
       "category": "company"
     }
   ]
