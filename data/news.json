@@ -1,6 +1,171 @@
 {
-  "timestamp": 1777780669068,
+  "timestamp": 1777790007158,
   "items": [
+    {
+      "id": 140149464,
+      "headline": "Why ServiceNow Stock Fell 16% in April",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a178c219b83fcc5302c9a660b99f44a49979720ad9ddbe3f605374c5f6a9f52e",
+      "summary": "The first-quarter earnings report wasn't the only problem.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777787400000,
+      "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140149426,
+      "headline": "My Top 5 Stocks to Buy in May",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3ee97f249c35b44036768684673b0dd9de8219e663fa4fcf70ec91da4bf3564",
+      "summary": "The AI build-out is driving many stocks higher.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777786320000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140149423,
+      "headline": "SpaceX IPO: Is This the 10X Stock You've Been Waiting For?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44d696d43b529ec19f2817372da17ed9ddaa28479ae752a8778e772f438cabd7",
+      "summary": "The SpaceX IPO should be one of the biggest in history.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777785900000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140149424,
+      "headline": "Oklo Links Nuclear Reactors To AI Growth With NVIDIA And LANL Partnership",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2e26fec698bb9e87f12c8531083f98a43c5304ddc232154b1bd1c99ac5db073",
+      "summary": "Oklo (NYSE:OKLO) has entered into a partnership with NVIDIA and Los Alamos National Laboratory to support nuclear powered AI infrastructure and plutonium fuel research. The collaboration aims to combine Oklo's advanced reactor work with NVIDIA's AI systems and LANL's nuclear research capabilities to support energy hungry data centers and nuclear R&D. The news highlights Oklo's effort to link its reactor projects to the growing demand from AI and advanced computing sectors. For investors...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777785056000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140149440,
+      "headline": "A Look At Palantir Technologies (PLTR) Valuation After Recent Share Price Volatility",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c84d237be3cd8bb760d9355c63134c8fccee23e713c6eea78a789a7eb4d60f7",
+      "summary": "Palantir’s recent performance and what it might mean for investors Palantir Technologies (PLTR) has drawn investor attention after a mixed stretch in the stock, with a 1 day gain of 3.6% but negative returns over the past month and past 3 months. See our latest analysis for Palantir Technologies. That 3.6% 1 day share price gain to around $144 comes after a weaker stretch, with a 30 day share price return of roughly 3% and a year to date share price decline of about 14%. At the same time, the...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777785035000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140149425,
+      "headline": "Why Nike Stock Lost 16% in April",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=def128bb890085390ed84b82b86fce63be8e097212aaeb919b8d9c19e6ec1446",
+      "summary": "The stock tumbled on earnings and never recovered.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777783800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140149429,
+      "headline": "Cipher Digital Shifts From Bitcoin Mining To AI Infrastructure With Tech Giants",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e9d2000aee04748c522dbf882af4edbb9a4b144acd5d3eabae0ea2e95eaa816",
+      "summary": "Cipher Digital (NasdaqGS:CIFR) is shifting from Bitcoin mining to AI infrastructure services. The company has entered into multi billion dollar, long term leasing agreements with Amazon Web Services and Google. These contracts position Cipher Digital as a high performance computing data center provider to two major cloud platforms. Cipher Digital has historically operated in Bitcoin mining, a business tied closely to crypto price cycles and mining difficulty. By committing capacity to...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777781998000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140149427,
+      "headline": "3 High-Flying Stocks to Target This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42244bcac7c638509ff89df468540932ce3dbbfe89eb33a941d37fb6c6746bc2",
+      "summary": "Expensive stocks often command premium valuations because the market thinks their business models are exceptional. However, the downside is that high expectations are already baked into their prices, leaving little room for error if they stumble even slightly.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777781095000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140149430,
+      "headline": "Cathie Wood sells $79.9M of strong, surging semiconductor stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=645a83acbdda77996e2beb690d2df9c3b4acd9e3edd03371caa93a5f97b6f709",
+      "summary": "When a stock runs 68% in a matter of weeks, even the most convinced bulls start doing the math on what to do next. That appears to be exactly where Cathie Wood found herself with American multinational semiconductor company Advanced Micro Devices (AMD). That’s a name ARK Invest has held through ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777780980000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140148842,
+      "headline": "Netflix Buys InterPositive As Investors Weigh AI Impact On Margins",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1df30f35b566078366c2a38e0509a7e401e94a78c6c546001498736dfa1095cf",
+      "summary": "Netflix (NasdaqGS:NFLX) has acquired AI content production startup InterPositive. The deal focuses on AI powered filmmaking tools aimed at speeding up and streamlining content creation. The acquisition is positioned to influence Netflix's content production costs and release cadence. Netflix operates a global streaming platform built around subscription based access to films, series, and original programming. Competition across streaming has intensified as media and tech companies fight for...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777778016000,
+      "ticker": "NFLX",
+      "category": "company"
+    },
+    {
+      "id": 140148837,
+      "headline": "NVIDIA Extends AI Reach Into Defense Nuclear And Healthcare Sectors",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b6bb321c6926550f3ca6947c249150cf4264c419bafd781ca85a287f172a1d8",
+      "summary": "NVIDIA (NasdaqGS:NVDA) has been selected by the U.S. Department of Defense to supply AI tools for classified military and intelligence environments. The company has released open source Ising quantum AI models, targeting early stage quantum and AI research. NVIDIA is also working on collaborations that connect its AI platforms to nuclear infrastructure projects and intelligent healthcare robotics. NVIDIA is widely known for its AI chips and data center platforms, and this set of...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777777941000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140148838,
+      "headline": "Nvidia’s pivot to physical AI ignites rally across Asian supply chain",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7135930bee83af8f7494763dc7bfa198da75cc2d81717aefdff828140162163e",
+      "summary": "Investing.com -- Nvidia Corp.’s strategic expansion into \"physical AI\" is driving a significant rally among its Asian partners as the region becomes increasingly integral to the chip giant’s production ecosystem, according to a report from Bloomberg.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777777491000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140148840,
+      "headline": "AAPL Q1 Deep Dive: Leadership Transition and Broad-Based Growth Drive Outperformance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a176b8781b820e3befe64b23b1ee3ded8e73e593df9e5363943f56d2092b460",
+      "summary": "iPhone and iPad maker Apple (NASDAQ:AAPL) announced better-than-expected revenue in Q1 CY2026, with sales up 16.6% year on year to $111.2 billion. Its non-GAAP profit of $2.01 per share was 3.6% above analysts’ consensus estimates.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777774855000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140148841,
+      "headline": "Is It Too Late To Consider Amazon.com (AMZN) After Its Strong Multi‑Year Share Price Run?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=028510aba896345f1b9e3ee7e0358fcf5d91a8679c6887743af0dc508161e6be",
+      "summary": "Wondering if Amazon.com is still reasonably priced after its long run as a market favorite, or if the current share price already reflects most of the opportunity? The stock last closed at US$268.26, with returns of 1.6% over 7 days, 27.9% over 30 days, 18.4% year to date, 41.2% over 1 year and 153.9% over 3 years, compared to 63.0% over 5 years. Recent coverage has focused on Amazon.com's position in online retail and cloud services, along with its ongoing investments across logistics and...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777774545000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140148839,
+      "headline": "This High-Yield Emerging Funds ETF Offers International Diversification",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c980f6a11d1bcc9032506ab38b42cb042f422ca84bb3ad0c96bda6642652e07",
+      "summary": "The WisdomTree Emerging Markets High Dividend Fund (NYSEARCA:DEM) was built for a specific problem: U.S. investors who own the S&P 500, a few mega-cap tech names, and call it a day are sitting on a portfolio that is almost entirely tied to one currency, one economy, and one set of Federal Reserve decisions. DEM screens ... This High-Yield Emerging Funds ETF Offers International Diversification",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777773937000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 140148258,
       "headline": "Alphabet Is Outgrowing Amazon and Microsoft Where It Matters Most -- Why This Makes Alphabet Stock a Buy",
@@ -21,6 +186,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777771281000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140149250,
+      "headline": "Cardinal Health Among 9 Companies To Announce Dividend Increases In The First Half Of May",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a9d8eb4124e4b53cc474ce2d1bcb89a767245f2f93e38bdc6dfb56407cec9f5c",
+      "summary": "Apple ramps $100B buybacks and 4% dividend; May dividend hike forecasts include Cardinal Health (1â3%) plus bigger boosts from NOC, TTEK.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201143780/image_2201143780.jpg?io=getty-c-w1536",
+      "datetime": 1777770364000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -923,182 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777728802000,
       "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140144610,
-      "headline": "Mark Zuckerberg sends startling message to Meta employees",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=32b6a56cd7776f8239a0fc164bea27d2cc4422af8fe285d51dea1d201e86eae3",
-      "summary": "Mark Zuckerberg held a company town hall on April 30 to address Meta employees directly about the layoffs. It was the first time he had spoken to staff about the cuts since Reuters first reported the plan in March. What he said did not reassure them. And what he did not say may have worried them ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777728780000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140144611,
-      "headline": "Mark Zuckerberg Says Meta Layoffs Are Being Driven By Soaring AI Spending, Warns More Job Cuts May Follow: 'I Wish That I Can Tell You...'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ff5b3d7e33162f1daac577996213b6aa625869e05020e626ae0d38f15bb39a64",
-      "summary": "Meta Platforms Inc. CEO Mark Zuckerberg told employees on Thursday that the company's aggressive artificial intelligence spending is directly contributing to planned layoffs. Meta's AI Investment Reshapes Workforce Priorities During a company town hall, Zuckerberg said Meta's expanding AI infrastructure budget is forcing difficult financial trade-offs between funding advanced compute systems and maintaining headcount, Reuters reported. Zuckerberg explained that Meta's two primary expenses are in",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777728670000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140144589,
-      "headline": "While Oil Prices Skyrocketed in the First Quarter, ExxonMobil's Profits Fell. Here's What Happened.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1fc5c889d95d5e5163afaf73ae7652af940ffc9764682725201507bdee4c683",
-      "summary": "Exxon faced a couple of headwinds in the first quarter.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777728000000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140144590,
-      "headline": "Nvidia Is Using AI to Fix Quantum Computing's Biggest Problem",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc760baaeed56206a9e087333ea6c54d9a2a13a15e775a86216a4bdb8baf42fc",
-      "summary": "The company is establishing itself as an integral player in this emerging technology.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777727880000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7883608,
-      "headline": "The U.S.-Iran war is coming for your credit score and mortgage application",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/02/us-iran-war-credit-score-loans-mortgage-rates.html",
-      "summary": "The U.S.-Iran war and Strait of Hormuz closure have caused a global economic ripple effect, your credit score included as banks and lenders get tighter.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108289438-1775762935321-gettyimages-2269517561-US_STOCKS.jpeg?v=1777726782&w=1920&h=1080",
-      "datetime": 1777727838000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 140144591,
-      "headline": "NVIDIA’s New Quantum‑AI Models Are Impressive — and the Market Doesn’t Seem Ready to Price the Step‑Change",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=403140a6bb1e6b5738f4586443c3b57aca03da454f9758dc1b8491f5b1aa378e",
-      "summary": "As shares of Nvidia (NASDAQ:NVDA) start drifting lower again, interested investors might be able to pick up shares at a reasonable price despite the new innovations that the firm pulled the curtain on in the past several months. Indeed, a lot has happened for Nvidia and Jensen Huang since the new year began. Still, the stock ... NVIDIA’s New Quantum‑AI Models Are Impressive — and the Market Doesn’t Seem Ready to Price the Step‑Change",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777727076000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140144592,
-      "headline": "Infleqtion Went Public in February -- Here's Why This Cold Atom Stock Could Be a Breakout Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3301b9f04bbefd8b62d9e32d667a9d55c305de6b2a8fb5f50c75d94cbe9939c1",
-      "summary": "The quantum sensor and timing device maker deserves more attention.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777726200000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140144593,
-      "headline": "Amazon Just Proved It's No Longer an AI Underdog",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64e3c884c6c2094ea0a24cc61a5bf08609cee5480a57bc4afbdf05def4c93964",
-      "summary": "AWS continues to show accelerated revenue growth.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777725960000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140144594,
-      "headline": "EDIV’s 24% Rally Masks a Dividend Trap for Income Seekers",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bc363a2e9a828682b290253133a0dff7419132dbe5d07211774d580065556f10",
-      "summary": "SPDR S&P Emerging Markets Dividend ETF (NYSEARCA:EDIV) has quietly put together a strong run, with shares up about 24% over the past year and about 7% year-to-date through April 17, 2026. For income-focused investors, the question is whether the distributions backing that yield are durable or whether the fund’s structure introduces more risk than the ... EDIV’s 24% Rally Masks a Dividend Trap for Income Seekers",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777725450000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140144604,
-      "headline": "This Tech Billionaire's Net Worth Crossed $300 Billion In April On AI Rally As Elon Musk Stays Richest In The World",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cf287dd1ea5344726a3e3050ae18cb6d2910980added1635cb924ec59ae0580c",
-      "summary": "A surge in AI-driven technology stocks reshaped global billionaire rankings in April, pushing Google co-founder Larry Page into the $300 billion club while keeping Elon Musk at the top of the world's richest list, according to Forbes’ compilation as of 12 a.m. EST on Friday. April was a strong month for markets. The S&P 500 rose 10.4%, its best monthly performance since November 2020, while the Nasdaq climbed 15.3%, marking its strongest gain since April 2020. The rally lifted the combined net w",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777725131000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140144595,
-      "headline": "Watch These 3 Contract Signals Before EUAD’s Next Move",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fca17ef583c9d36a2f7bcb24da408cceca0eea2476a1ccf93880a2307aca26e0",
-      "summary": "Select STOXX Europe Aerospace & Defense ETF (NASDAQ:EUAD) was the cleanest way to own European defense stocks from a U.S. brokerage account in 2025. The fund launched by Tuttle Capital Management on October 22, 2024 solves a simple problem: U.S. investors wanting concentrated exposure to Airbus, BAE Systems, Rheinmetall, Leonardo, and Europe’s prime contractors had ... Watch These 3 Contract Signals Before EUAD’s Next Move",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777725021000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140144596,
-      "headline": "Forget Hyperliquid: High Beta, Low Conviction",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01860ad83bf29f1d9e1b5b290f2de451e9cc0ad86b622bf5a4a40ee9210625ae",
-      "summary": "This little token is still too hot to handle.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777725000000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140144612,
-      "headline": "Tesla's (NASDAQ:TSLA) Shareholders Have More To Worry About Than Only Soft Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d7c42834d7cc23a7c493c9b102f8a7445d284d1dac34926e8a71176d4625e07b",
-      "summary": "A lackluster earnings announcement from Tesla, Inc. ( NASDAQ:TSLA ) last week didn't sink the stock price. We think...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777724850000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140144598,
-      "headline": "This Artificial Intelligence (AI) Stock Is Down 20% in 2026, but Here's Why It's a Screaming Buy Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=21781f643872772d7c532a245de9fc1eececd8b3bb11497f86ddafd74dfab494",
-      "summary": "Lemonade's in-force premium growth just accelerated for the 10th consecutive quarter.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777723500000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140144599,
-      "headline": "April Was the Best Month for the Market Since 2020. Here's What's Driving It.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10b10efcd07129eb343fd8df534aa0c42f7df2cd72dc3d5890f91c6aca17a46c",
-      "summary": "Massive AI infrastructure spending is driving revenues and profits higher across multiple industries.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777723200000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140145142,
-      "headline": "Alphabet Going After OpenAI Complex's Lunch (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=9145c4b38c068a557b9cd8552b7333c3e974c48067b460f02553b0cc1d0a6662",
-      "summary": "Alphabetâs Q1 CY26 beat shows Google Cloud +63% and Gemini Enterprise subs +40% q/q, signaling AI share gains and undervalued EPS growthâread now.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1371736610/image_1371736610.jpg?io=getty-c-w1536",
-      "datetime": 1777722235000,
-      "ticker": "GOOGL",
       "category": "company"
     }
   ]
