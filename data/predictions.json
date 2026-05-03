@@ -1,9 +1,9 @@
 {
-  "timestamp": 1777842597209,
+  "timestamp": 1777845620650,
   "meta": {
-    "stocksTimestamp": 1777842572856,
-    "newsTimestamp": 1777841782113,
-    "sentimentTimestamp": 1777841782113,
+    "stocksTimestamp": 1777845594998,
+    "newsTimestamp": 1777845284709,
+    "sentimentTimestamp": 1777845284709,
     "tickersWithSentiment": 0,
     "tickersWithStddev": 17,
     "fallbackStddevPct": 1.5
@@ -14,32 +14,32 @@
       "name": "Intel Corp.",
       "price": 99.62,
       "base": 5.4403,
-      "momentum": 0.014053402931119837,
+      "momentum": 0.014053402931134103,
       "stddev": 0.006691425036509672,
       "usedFallbackStddev": false,
       "zBase": 15.543714285714286,
-      "zMom": 0.040152579803199535,
+      "zMom": 0.0401525798032403,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 2,
       "newsSignal": 0.5493061443340548,
-      "score": 16.0605340408033
+      "score": 16.06053404080349
     },
     {
       "ticker": "HIMX",
       "name": "",
       "price": 12.31,
       "base": 4.766,
-      "momentum": 0.056864337936619797,
+      "momentum": 0.056864337936648655,
       "stddev": 0.02706726860438311,
       "usedFallbackStddev": false,
       "zBase": 13.617142857142857,
-      "zMom": 0.16246953696177086,
+      "zMom": 0.16246953696185332,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 0,
       "newsSignal": 0,
-      "score": 14.280854125565542
+      "score": 14.280854125565881
     },
     {
       "ticker": "PLTR",
@@ -62,16 +62,16 @@
       "name": "",
       "price": 91.16,
       "base": 3.2273,
-      "momentum": 0.015357612988179265,
+      "momentum": 0.015357612988163677,
       "stddev": 0.007312347025070932,
       "usedFallbackStddev": false,
       "zBase": 9.220857142857144,
-      "zMom": 0.04387889425194076,
+      "zMom": 0.04387889425189622,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 10,
       "newsSignal": 1.1989476363991853,
-      "score": 10.061606029341759
+      "score": 10.061606029341636
     },
     {
       "ticker": "AAPL",
@@ -127,7 +127,7 @@
       "price": 414.44,
       "base": 1.6332,
       "momentum": 0.003378052311569069,
-      "stddev": 0.0016085575273924744,
+      "stddev": 0.0016085575273924741,
       "usedFallbackStddev": false,
       "zBase": 4.666285714285714,
       "zMom": 0.009651578033054484,
@@ -143,7 +143,7 @@
       "price": 268.26,
       "base": 1.2073,
       "momentum": 0.005218817565031372,
-      "stddev": 0.0024850585902516024,
+      "stddev": 0.002485058590251603,
       "usedFallbackStddev": false,
       "zBase": 3.4494285714285717,
       "zMom": 0.014910907328661065,
@@ -158,16 +158,16 @@
       "name": "",
       "price": 27.41,
       "base": 0.8833,
-      "momentum": 0.025538124771973352,
+      "momentum": 0.025538124771999272,
       "stddev": 0.012158794433025782,
       "usedFallbackStddev": false,
       "zBase": 2.523714285714286,
-      "zMom": 0.07296607077706672,
+      "zMom": 0.07296607077714078,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 1,
       "newsSignal": 0.34657359027997264,
-      "score": 2.7869020944400265
+      "score": 2.7869020944400824
     },
     {
       "ticker": "PYPL",
@@ -191,7 +191,7 @@
       "price": 385.69,
       "base": 0.2313,
       "momentum": 0.003629858176258136,
-      "stddev": 0.0017284590804114016,
+      "stddev": 0.0017284590804114018,
       "usedFallbackStddev": false,
       "zBase": 0.6608571428571429,
       "zMom": 0.010371023360737532,
@@ -238,16 +238,16 @@
       "name": "Meta Platforms Inc.",
       "price": 608.745,
       "base": -0.5172,
-      "momentum": 0.002874766938544206,
+      "momentum": 0.0028747669385255307,
       "stddev": 0.0013689085289973761,
       "usedFallbackStddev": false,
       "zBase": -1.4777142857142858,
-      "zMom": 0.008213619824412018,
+      "zMom": 0.00821361982435866,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 4,
       "newsSignal": -0.8047189562170501,
-      "score": -1.962002145446751
+      "score": -1.9620021454467416
     },
     {
       "ticker": "NVDA",
@@ -261,9 +261,9 @@
       "zMom": 0.02015621063237459,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 35,
-      "newsSignal": -1.791759469228055,
-      "score": -2.6823625382477667
+      "newsCount": 34,
+      "newsSignal": -1.7776740307447068,
+      "score": -2.6739112751577574
     },
     {
       "ticker": "NFLX",
@@ -288,32 +288,32 @@
       "name": "Intel Corp.",
       "price": 99.62,
       "base": 5.4403,
-      "momentum": 0.014053402931119837,
+      "momentum": 0.014053402931134103,
       "stddev": 0.006691425036509672,
       "usedFallbackStddev": false,
       "zBase": 15.543714285714286,
-      "zMom": 0.040152579803199535,
+      "zMom": 0.0401525798032403,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 2,
       "newsSignal": 0.5493061443340548,
-      "score": 16.0605340408033
+      "score": 16.06053404080349
     },
     {
       "ticker": "HIMX",
       "name": "",
       "price": 12.31,
       "base": 4.766,
-      "momentum": 0.056864337936619797,
+      "momentum": 0.056864337936648655,
       "stddev": 0.02706726860438311,
       "usedFallbackStddev": false,
       "zBase": 13.617142857142857,
-      "zMom": 0.16246953696177086,
+      "zMom": 0.16246953696185332,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 0,
       "newsSignal": 0,
-      "score": 14.280854125565542
+      "score": 14.280854125565881
     },
     {
       "ticker": "PLTR",
@@ -336,16 +336,16 @@
       "name": "",
       "price": 91.16,
       "base": 3.2273,
-      "momentum": 0.015357612988179265,
+      "momentum": 0.015357612988163677,
       "stddev": 0.007312347025070932,
       "usedFallbackStddev": false,
       "zBase": 9.220857142857144,
-      "zMom": 0.04387889425194076,
+      "zMom": 0.04387889425189622,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 10,
       "newsSignal": 1.1989476363991853,
-      "score": 10.061606029341759
+      "score": 10.061606029341636
     },
     {
       "ticker": "AAPL",
@@ -393,25 +393,25 @@
       "zMom": 0.02015621063237459,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 35,
-      "newsSignal": -1.791759469228055,
-      "score": -2.6823625382477667
+      "newsCount": 34,
+      "newsSignal": -1.7776740307447068,
+      "score": -2.6739112751577574
     },
     {
       "ticker": "META",
       "name": "Meta Platforms Inc.",
       "price": 608.745,
       "base": -0.5172,
-      "momentum": 0.002874766938544206,
+      "momentum": 0.0028747669385255307,
       "stddev": 0.0013689085289973761,
       "usedFallbackStddev": false,
       "zBase": -1.4777142857142858,
-      "zMom": 0.008213619824412018,
+      "zMom": 0.00821361982435866,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 4,
       "newsSignal": -0.8047189562170501,
-      "score": -1.962002145446751
+      "score": -1.9620021454467416
     },
     {
       "ticker": "GLD",
