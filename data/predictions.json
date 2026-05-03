@@ -1,9 +1,9 @@
 {
-  "timestamp": 1777804837564,
+  "timestamp": 1777807839668,
   "meta": {
-    "stocksTimestamp": 1777804812218,
-    "newsTimestamp": 1777803132353,
-    "sentimentTimestamp": 1777803132353,
+    "stocksTimestamp": 1777807815150,
+    "newsTimestamp": 1777807295003,
+    "sentimentTimestamp": 1777807295003,
     "tickersWithSentiment": 0,
     "tickersWithStddev": 17,
     "fallbackStddevPct": 1.5
@@ -53,9 +53,9 @@
       "zMom": -0.027761583520800225,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 2,
-      "newsSignal": 0.5493061443340548,
-      "score": 10.550663889815318
+      "newsCount": 3,
+      "newsSignal": 0.6931471805599453,
+      "score": 10.636968511550853
     },
     {
       "ticker": "AAPL",
@@ -95,7 +95,7 @@
       "price": 390.82,
       "base": 2.4081,
       "momentum": -0.0035820834420777115,
-      "stddev": 0.0017057714794098762,
+      "stddev": 0.0017057714794098764,
       "usedFallbackStddev": false,
       "zBase": 6.880285714285715,
       "zMom": -0.010234524120222034,
@@ -133,9 +133,9 @@
       "zMom": -0.011094038618311314,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 2,
-      "newsSignal": 0.5493061443340548,
-      "score": 5.212361125129532
+      "newsCount": 3,
+      "newsSignal": 0.6931471805599453,
+      "score": 5.298665746865066
     },
     {
       "ticker": "AMZN",
@@ -158,16 +158,16 @@
       "name": "",
       "price": 27.41,
       "base": 0.8833,
-      "momentum": -0.025531604478991138,
-      "stddev": 0.012158794433025782,
+      "momentum": -0.02553160447896523,
+      "stddev": 0.012158794433025784,
       "usedFallbackStddev": false,
       "zBase": 2.523714285714286,
-      "zMom": -0.07294744136854611,
+      "zMom": -0.07294744136847209,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 1,
       "newsSignal": 0.34657359027997264,
-      "score": 2.753750259868842
+      "score": 2.75375025986882
     },
     {
       "ticker": "PYPL",
@@ -207,7 +207,7 @@
       "price": 397.67,
       "base": 0.4065,
       "momentum": -0.0035203830176748383,
-      "stddev": 0.001676389728616444,
+      "stddev": 0.0016763897286164442,
       "usedFallbackStddev": false,
       "zBase": 1.1614285714285715,
       "zMom": -0.010058237193356682,
@@ -255,15 +255,15 @@
       "price": 198.45,
       "base": -0.5612,
       "momentum": -0.007054176072225483,
-      "stddev": 0.0033591991792646936,
+      "stddev": 0.003359199179264693,
       "usedFallbackStddev": false,
       "zBase": -1.6034285714285716,
       "zMom": -0.020154788777787095,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 39,
-      "newsSignal": -1.8444397270569681,
-      "score": -2.719787436915976
+      "newsCount": 37,
+      "newsSignal": -1.8187930798631928,
+      "score": -2.7043994485997107
     },
     {
       "ticker": "NFLX",
@@ -327,9 +327,9 @@
       "zMom": -0.027761583520800225,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 2,
-      "newsSignal": 0.5493061443340548,
-      "score": 10.550663889815318
+      "newsCount": 3,
+      "newsSignal": 0.6931471805599453,
+      "score": 10.636968511550853
     },
     {
       "ticker": "AAPL",
@@ -387,15 +387,15 @@
       "price": 198.45,
       "base": -0.5612,
       "momentum": -0.007054176072225483,
-      "stddev": 0.0033591991792646936,
+      "stddev": 0.003359199179264693,
       "usedFallbackStddev": false,
       "zBase": -1.6034285714285716,
       "zMom": -0.020154788777787095,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 39,
-      "newsSignal": -1.8444397270569681,
-      "score": -2.719787436915976
+      "newsCount": 37,
+      "newsSignal": -1.8187930798631928,
+      "score": -2.7043994485997107
     },
     {
       "ticker": "META",
