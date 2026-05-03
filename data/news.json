@@ -1,6 +1,17 @@
 {
-  "timestamp": 1777845284709,
+  "timestamp": 1777848817627,
   "items": [
+    {
+      "id": 140154185,
+      "headline": "Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d267754c7c9705aad1c9e358a26e1ae2e6ed8feb50e0e708ab60d98f474f2b79",
+      "summary": "Most chains can't excel in every single potential application.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777844460000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 7889974,
       "headline": "Trump says US will help free ships stranded in Strait of Hormuz - Reuters",
@@ -13,6 +24,50 @@
       "category": "business"
     },
     {
+      "id": 140154186,
+      "headline": "Prediction: This Will Be the Top-Performing Artificial Intelligence (AI) Semiconductor Stock Over the Next Year. (Hint: It's Not Nvidia, Broadcom, or Micron.)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=729d3d66fa5911967ee6374fcc44e07aa5167149f1765204eaf81eab094f7796",
+      "summary": "AI chip stocks continue to be some of the biggest winners for technology investors this year.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777840260000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140154194,
+      "headline": "A Look At Gen Digital (GEN) Valuation As AI Security Launches Follow Strong Q3 FY2026 Results And Growth Guidance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a51b823323b7acf520597a392b201f4aa66f1524c2b6e92fc7df553e21b889c4",
+      "summary": "Gen Digital (GEN) has put AI security at the center of its story, pairing the launch of VPN for Agents and expanded Norton AI Agent Protection with Q3 FY2026 results and guidance for continued high single digit growth. See our latest analysis for Gen Digital. Despite a steady stream of AI security launches and partnerships with xAI and Microsoft, Gen Digital’s 1 year total shareholder return is down 23.92%, while the 3 year total shareholder return of 20.29% signals longer term gains from an...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777838920000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140153881,
+      "headline": "This Natural Resources ETF Has Silently Outperformed The S&P 500 Year-To-Date While Yielding 5%",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbc69437aefec1c4fc26f48a9656f0588dbb37b41661fe131547d4d6cc4bc6bc",
+      "summary": "Amplify Natural Resources Dividend Income ETF (NYSEARCA:NDIV) is one of those funds that rarely shows up in performance leaderboards, yet quietly does exactly what its design promises: pair an international natural resources tilt with a steady monthly distribution. The problem it aims to solve is straightforward. Investors who want commodity and hard-asset exposure usually face ... This Natural Resources ETF Has Silently Outperformed The S&P 500 Year-To-Date While Yielding 5%",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777838741000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140154188,
+      "headline": "CoreWeave's Next Earnings Report: 3 Things That Could Make -- or Break -- the Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f77931443a0c787395e89f74d42ee94af03d7a58114b0043990cb41e37fe151",
+      "summary": "CoreWeave's next report won't be about headline numbers; it'll be about these three signals.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777838040000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
       "id": 140153696,
       "headline": "Is ON Semiconductor Corporation (ON) A Good Stock To Buy Now?",
       "source": "Yahoo",
@@ -21,6 +76,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777837810000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140154189,
+      "headline": "AI Capex Boom Drives Hottest ETF Trade Into Semiconductors, Not Crypto",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01a775cc4879d14b8292253fd350f1cb61468adf33d26921e9e57d48b80216b9",
+      "summary": "Retail money pours into semiconductor ETFs as the AI capex supercycle outshines crypto funds in 2026's hottest ETF trade.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777836626000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -1033,72 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777811400000,
       "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140152218,
-      "headline": "HubSpot and monday.com Shares Are Soaring, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cfd748d7649aea6a19484c28b4b6c2fb81567828dac6bd3a7433f3fb92717213",
-      "summary": "A number of stocks jumped in the morning session after strong earnings and upbeat forecasts from several peers boosted the broader software sector.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777811335000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 140152158,
-      "headline": "Spire Global Just Lost a Contract That Would Have Been Equal to 9 Months of 2025 Revenue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9e2345cffb897fa9af53d1e17c4ae4ef588240df615ec7c450c2831302c13835",
-      "summary": "Even seemingly cheap stocks can turn expensive when bad news strikes.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777811280000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140152219,
-      "headline": "Amplitude, Appian, and Commerce Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=55d93907d66bf7a4ac9a5b622b21b2e7719a82ca1ca417ba3deff6dfd85d3aed",
-      "summary": "A number of stocks jumped in the morning session after strong earnings and upbeat forecasts from several peers boosted the broader software sector.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777810855000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 140152183,
-      "headline": "Is Meta Platforms Stock a Buy on Its Pullback?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d32bb2e69f45b95e9abd9e65db7c786d8f60128e3b27548e8a81a36463178ac",
-      "summary": "Meta Platforms shares fell on continued concerns about its heavy spending.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777809900000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140152184,
-      "headline": "Corning Meta Fiber Expansion Deepens Ties To AI Data Center Growth",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5904c768c53e8a3278f9004c057032d4d22e00a43e08f5e765841b58e4b23d7b",
-      "summary": "Corning (NYSE:GLW) and Meta have started a $6b expansion of Corning's optical cable plant in North Carolina. The project is intended to support AI data center growth and strengthen US based fiber supply. The expansion represents a multi year commitment between Corning and a large technology partner focused on AI infrastructure. Corning, trading at $158.26, has seen very strong share price performance, with the stock up 74.5% year to date and 251.1% over the past year. The new expansion with...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777809807000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140152172,
-      "headline": "Tony Robbins Reveals His 'Single Best' AI Investment — Says Its Returns Are 'Ridiculous'",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f4a8f35ec047f776f1b79b261a5ddd58490baf6327ebe8c137859ae861dd040",
-      "summary": "Everyone today talks about how the AI and data center boom is driving a surge in energy demand. But motivational speaker Tony Robbins was already there before it became a headline. Investing in a power plant in West Virginia turned...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777809718000,
-      "ticker": "GOOGL",
       "category": "company"
     }
   ]
