@@ -1,9 +1,9 @@
 {
-  "timestamp": 1777839856957,
+  "timestamp": 1777842597209,
   "meta": {
-    "stocksTimestamp": 1777839831840,
-    "newsTimestamp": 1777838185212,
-    "sentimentTimestamp": 1777838185212,
+    "stocksTimestamp": 1777842572856,
+    "newsTimestamp": 1777841782113,
+    "sentimentTimestamp": 1777841782113,
     "tickersWithSentiment": 0,
     "tickersWithStddev": 17,
     "fallbackStddevPct": 1.5
@@ -21,9 +21,9 @@
       "zMom": 0.040152579803199535,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 3,
-      "newsSignal": 0.6931471805599453,
-      "score": 16.146838662538833
+      "newsCount": 2,
+      "newsSignal": 0.5493061443340548,
+      "score": 16.0605340408033
     },
     {
       "ticker": "HIMX",
@@ -85,9 +85,9 @@
       "zMom": 0.01427857499828336,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 6,
-      "newsSignal": 0.9729550745276566,
-      "score": 9.878847915444686
+      "newsCount": 8,
+      "newsSignal": 1.0986122886681098,
+      "score": 9.954242243928958
     },
     {
       "ticker": "TSLA",
@@ -101,25 +101,9 @@
       "zMom": 0.010234890742548635,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 1,
-      "newsSignal": 0.34657359027997264,
-      "score": 7.109355560222668
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp.",
-      "price": 414.44,
-      "base": 1.6332,
-      "momentum": 0.003378052311569069,
-      "stddev": 0.0016085575273924744,
-      "usedFallbackStddev": false,
-      "zBase": 4.666285714285714,
-      "zMom": 0.009651578033054484,
-      "sentimentScore": null,
-      "sentimentBuzz": null,
-      "newsCount": 10,
-      "newsSignal": 1.1989476363991853,
-      "score": 5.399165402334011
+      "newsCount": 2,
+      "newsSignal": 0.5493061443340548,
+      "score": 7.230995092655117
     },
     {
       "ticker": "AMD",
@@ -133,9 +117,25 @@
       "zMom": 0.011094469406963493,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 2,
-      "newsSignal": 0.5493061443340548,
-      "score": 5.222099341689175
+      "newsCount": 4,
+      "newsSignal": 0.8047189562170501,
+      "score": 5.375347028818972
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp.",
+      "price": 414.44,
+      "base": 1.6332,
+      "momentum": 0.003378052311569069,
+      "stddev": 0.0016085575273924744,
+      "usedFallbackStddev": false,
+      "zBase": 4.666285714285714,
+      "zMom": 0.009651578033054484,
+      "sentimentScore": null,
+      "sentimentBuzz": null,
+      "newsCount": 9,
+      "newsSignal": 1.151292546497023,
+      "score": 5.370572348392714
     },
     {
       "ticker": "AMZN",
@@ -158,16 +158,16 @@
       "name": "",
       "price": 27.41,
       "base": 0.8833,
-      "momentum": 0.025538124771999272,
+      "momentum": 0.025538124771973352,
       "stddev": 0.012158794433025782,
       "usedFallbackStddev": false,
       "zBase": 2.523714285714286,
-      "zMom": 0.07296607077714078,
+      "zMom": 0.07296607077706672,
       "sentimentScore": null,
       "sentimentBuzz": null,
       "newsCount": 1,
       "newsSignal": 0.34657359027997264,
-      "score": 2.7869020944400824
+      "score": 2.7869020944400265
     },
     {
       "ticker": "PYPL",
@@ -181,9 +181,9 @@
       "zMom": 0.07930214115778744,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 0,
-      "newsSignal": 0,
-      "score": 1.7500969751897468
+      "newsCount": 1,
+      "newsSignal": 0.34657359027997264,
+      "score": 1.9580411293577304
     },
     {
       "ticker": "GOOGL",
@@ -197,9 +197,9 @@
       "zMom": 0.010371023360737532,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 7,
-      "newsSignal": 1.0397207708399179,
-      "score": 1.286745734821098
+      "newsCount": 8,
+      "newsSignal": 1.0986122886681098,
+      "score": 1.3220806455180132
     },
     {
       "ticker": "TSM",
@@ -239,15 +239,15 @@
       "price": 608.745,
       "base": -0.5172,
       "momentum": 0.002874766938544206,
-      "stddev": 0.0013689085289973763,
+      "stddev": 0.0013689085289973761,
       "usedFallbackStddev": false,
       "zBase": -1.4777142857142858,
       "zMom": 0.008213619824412018,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 5,
-      "newsSignal": -0.8958797346140275,
-      "score": -2.0166986124849373
+      "newsCount": 4,
+      "newsSignal": -0.8047189562170501,
+      "score": -1.962002145446751
     },
     {
       "ticker": "NVDA",
@@ -261,9 +261,9 @@
       "zMom": 0.02015621063237459,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 38,
-      "newsSignal": -1.8317808230648231,
-      "score": -2.706375350549828
+      "newsCount": 35,
+      "newsSignal": -1.791759469228055,
+      "score": -2.6823625382477667
     },
     {
       "ticker": "NFLX",
@@ -295,9 +295,9 @@
       "zMom": 0.040152579803199535,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 3,
-      "newsSignal": 0.6931471805599453,
-      "score": 16.146838662538833
+      "newsCount": 2,
+      "newsSignal": 0.5493061443340548,
+      "score": 16.0605340408033
     },
     {
       "ticker": "HIMX",
@@ -359,9 +359,9 @@
       "zMom": 0.01427857499828336,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 6,
-      "newsSignal": 0.9729550745276566,
-      "score": 9.878847915444686
+      "newsCount": 8,
+      "newsSignal": 1.0986122886681098,
+      "score": 9.954242243928958
     }
   ],
   "fallers": [
@@ -393,9 +393,9 @@
       "zMom": 0.02015621063237459,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 38,
-      "newsSignal": -1.8317808230648231,
-      "score": -2.706375350549828
+      "newsCount": 35,
+      "newsSignal": -1.791759469228055,
+      "score": -2.6823625382477667
     },
     {
       "ticker": "META",
@@ -403,15 +403,15 @@
       "price": 608.745,
       "base": -0.5172,
       "momentum": 0.002874766938544206,
-      "stddev": 0.0013689085289973763,
+      "stddev": 0.0013689085289973761,
       "usedFallbackStddev": false,
       "zBase": -1.4777142857142858,
       "zMom": 0.008213619824412018,
       "sentimentScore": null,
       "sentimentBuzz": null,
-      "newsCount": 5,
-      "newsSignal": -0.8958797346140275,
-      "score": -2.0166986124849373
+      "newsCount": 4,
+      "newsSignal": -0.8047189562170501,
+      "score": -1.962002145446751
     },
     {
       "ticker": "GLD",
