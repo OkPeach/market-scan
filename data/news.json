@@ -1,6 +1,72 @@
 {
-  "timestamp": 1777766056043,
+  "timestamp": 1777780669068,
   "items": [
+    {
+      "id": 140148258,
+      "headline": "Alphabet Is Outgrowing Amazon and Microsoft Where It Matters Most -- Why This Makes Alphabet Stock a Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36b4d23f65607710da89cece26553a15fbe0bab2472c42c93e42c53c0bec9cb3",
+      "summary": "The search giant's cloud business is suddenly leaving its biggest peers behind in growth -- and the gap could keep widening.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777773060000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140148256,
+      "headline": "Why Sprouts Farmers Market Stock Rebounded This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f495b439d738781e4a792e6069d1c1bc400637a52624d3f3eb43ee5ceb76b778",
+      "summary": "The natural and organic food purveyor continues to crank out cash.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777771281000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140148257,
+      "headline": "Why Wix.com Stock Plummeted in April",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e850b1761006cd76447ca2abda05e6316960d1268c04a086fae519152c34d52c",
+      "summary": "AI disruption fears only grew during the month for the DIY design service provider.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777766832000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140148262,
+      "headline": "Corning Shareholders Reelect Directors, Back Say-on-Pay, Reject Independent Chair Proposal at AGM",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=272526605840b3b388e0fcde7e98c8c2e88dfca58c9eaa451d907e6159fff49a",
+      "summary": "Corning (NYSE:GLW) shareholders voted to elect director nominees, approve executive compensation on an advisory basis, ratify the company’s independent auditor, and reject a shareholder proposal calling for an independent board chair policy at the company’s 2026 annual meeting on April 30. Sharehol",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777766825000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140147710,
+      "headline": "Berkshire Investors Praise Greg Abel at Post-Buffett Meeting",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9503dd4d48b6e6da58ddd4e43e6bec413b10b1c111f48088cdbc335912125108",
+      "summary": "(Bloomberg) -- Greg Abel didn’t take long to address the elephant in the room.Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftTrump Rues State of Iran Talks, Says Prefers Not to StrikeWorld’s Largest Container Carrier Plans Route Avoiding HormuzTrump Family-Backed Drone Firm Signs Weapons Deal With USSpirit Bailout Talks Said to Have Ended With Closure LoomingIn his first few minutes addressing Berkshire Hathaway Inc. shareholders on Saturday — the first a",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777764923000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140147715,
+      "headline": "Amazon Accounted For Over 50% Of Rivian's Q1 2026 Revenue: Jim Chanos Says 'Yikes'",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb56c3728a1163575ba1f083d8e4686a3dbd9f8e800f77597e9faee8258e3282",
+      "summary": "Amazon.com Inc. made up over 50% of Rivian Automotive Inc.‘s revenue in the first quarter of 2026, according to earnings data shared on Thursday. Very Proud Of Our Relationship, Says RJ Scaringe During the earnings call, Rivian CEO RJ Scaringe was asked to comment on interest from non-Amazon customers for Rivian’s commercial vehicles. “Our relationship with Amazon continues to be something that we are very proud of,” Scaringe said, sharing that vans would continue to ramp up with the e-commerce",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777764692000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
     {
       "id": 7883711,
       "headline": "Germany says US troop drawdown should spur Europe, but top Republicans worried - Reuters",
@@ -13,15 +79,147 @@
       "category": "business"
     },
     {
-      "id": 7884822,
-      "headline": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path - Reuters",
+      "id": 140148596,
+      "headline": "May The Fourth Be With Palantir (Earnings Preview)",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=321f83f53f7c03d5583a06157ce8f67cfb215f422a1c89d00abfaf17673c901d",
+      "summary": "",
+      "image": "",
+      "datetime": 1777762560000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140147708,
+      "headline": "Prediction: This Will be Amazon's Next Big Move",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0e14e1bc271984a85e0d795cec48f26ab0b759f0dc8545d84a676b6f254f4cb",
+      "summary": "The company is already generating billions of dollars thanks to the AI boom.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777762200000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 7885827,
+      "headline": "Trump says there is possibility US could restart strikes on Iran - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUozQmZGUTZjZElkcVg4NGRnUVJCSlluVnZiSTk5bXBaUlp6ekJtb2dOMWduY2xRUlIxNC1BdnhzY1JzMTl5emVTOGhjN1YyOThpNG9XYVFYeTFmX25CZmk4cThSZDY0NFlRNnNJNHZ1Mk5STnM0YTZZSVZHV0NiWjF5eGQybHVobVJyMDJfNlVUZThYeEtMajRHNWJlandILXJDelBsTlBNWXZQT3JJeHpmUHlhNE55a193NlZaOC0?oc=5",
-      "summary": "Iran offers Strait deal; Trump dissatisfied but prefers non-military path  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3BPYWlZX3JROTNwdmo0b3dEcFVOMkNMMlFFb1NCeFlQYVpxMFFSbXZVYXRTUXJLdkZBT1dPbU55RHVTM0NJSDdBQVlrcUFFNTR4ZjhoT2RaT3ZDOEs2M1BWUG9Ycm9LVDBFSXluS215bWlkNjJscWxuS0hKMUVBTUVDaGxxM080ajdmcWtXWUh3akhtTFZlV2lhM0lnUWhkckVObmlR?oc=5",
+      "summary": "Trump says there is possibility US could restart strikes on Iran  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777759089000,
+      "datetime": 1777761703000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140147732,
+      "headline": "Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc45b8087a434cd3d5f8d11ef4e3a358a4005547a65e0bfe0127ac6bdb7cb7dc",
+      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 10 Best American Tech Stocks to Buy. On April 29, Deutsche Bank reaffirmed its Hold rating on Advanced Micro Devices, Inc. (NASDAQ:AMD) with a price target of $250. The research firm expects the company to report strong results for the first quarter and provide solid guidance […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777761631000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140147711,
+      "headline": "Morgan Stanley Raises Apple (AAPL) Price Target, Keeps Overweight Rating",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1dd350a1f9d4ebeb384da0ef2a3614507662b187dc02ddd066af7087e247a0e2",
+      "summary": "Apple Inc. (NASDAQ:AAPL) is one of the 10 Best American Tech Stocks to Buy. On April 30, Morgan Stanley increased its price target on Apple Inc. (NASDAQ:AAPL) from $315 to $330 and kept its Overweight rating, pointing to the company’s solid March quarter results and guidance for the June quarter. In the March quarter, Apple […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777761603000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140147724,
+      "headline": "Stifel Cuts META Price Target, Keeps Buy Rating",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d12dfa814013cacb2a70689350568b7b69dfcf5649940e8a580c0baee2d7ca4",
+      "summary": "Meta Platforms, Inc. (NASDAQ:META) is one of the 10 Best American Tech Stocks to Buy. On April 30, Stifel reduced its price target on Meta Platforms, Inc. (NASDAQ:META) from $805 to $780 and kept its Buy rating on the stock. The research firm pointed out that Meta Platforms, Inc.’s (NASDAQ:META) GAAP earnings per share surpassed […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777761585000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140147709,
+      "headline": "NVIDIA (NVDA): Among the Best American Stocks to Buy in the Technology Sector",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8157d13c97c89702f446a2163e26c5233188e0e0f7e6ace2693a26f0782ba303",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best American Tech Stocks to Buy. On April 30, Reuters reported that strong demand for AI computing equipment in China has pushed the price of NVIDIA Corporation’s (NASDAQ:NVDA) B300 ​servers to around 7 million yuan, or about $1 million each. Industry sources said this sharp increase comes […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777761577000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140147719,
+      "headline": "Pivotal Research Raises Alphabet (GOOGL) Price Target, Keeps Buy Rating",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4b428ee7f6e586ca4d5e8a0b289aa47c027fccc3fc8f59aad7b9f3fc9b8973f",
+      "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 10 Best American Tech Stocks to Buy. On April 30, Pivotal Research increased its price target on Alphabet Inc. (NASDAQ:GOOGL) from $420 to $470 and kept its Buy rating on the stock. The research firm pointed to the company’s first-quarter results. Search revenue growth accelerated for the fifth […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777761569000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140147713,
+      "headline": "Stifel Raises Microsoft (MSFT) Price Target, Keeps Hold Rating",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45b1aba6571d136e58e101e1e2bb7cc38df4431ab05d602eca7987b92c35858d",
+      "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the 10 Best American Tech Stocks to Buy. On April 30, Stifel increased its price target on Microsoft Corporation (NASDAQ:MSFT) from $392 to $415 and kept its Hold rating on the stock. The research firm pointed to Microsoft Corporation’s (NASDAQ:MSFT) latest quarterly results, which showed Azure revenue coming in […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777761559000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140147717,
+      "headline": "Amazon (AMZN) Ranks Among the Best American Tech Stocks to Invest In",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6becbcb7f6d458c99746a98b07d4b5559adef8eda742c332b273288fdcd32719",
+      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the 10 Best American Tech Stocks to Buy. On April 29, Reuters reported that Amazon.com, Inc. (NASDAQ:AMZN) posted stronger-than-expected cloud sales ​growth, supported by higher enterprise spending as companies continue to invest heavily in AI. Amazon Web Services (AWS) saw revenue rise 28% to $37.6 billion in the first […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777761554000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140147714,
+      "headline": "Big Tech will burn $700 billion on AI by the end of 2026 — and one NYU professor says it's the biggest waste of money",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=278634ccfb577052d74f2af8ec3affc1f8bf2788feba56390c44e2f639f69d59",
+      "summary": "Big Tech is pouring hundreds of billions into artificial intelligence, driving record growth—but raising fresh concerns about whether the payoff will justify the cost.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777761300000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140148362,
+      "headline": "Top 50 High-Quality Dividend Growth Stocks For May 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e6516bf4948521fb2c5577a4cf44972029e9b73d615c481c69ab7f0d1a55ccdd",
+      "summary": "Track 50 dividend growth stocks with forward return estimates (10%+), FCF-based value flags, and entry ideas for long-term total returnâread now.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214049905/image_2214049905.jpg?io=getty-c-w1536",
+      "datetime": 1777759592000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140147712,
+      "headline": "Tim Cook Says Apple Is Pursuing Tariff Refunds, Will Reinvest Any Windfall Into New US Innovation, Manufacturing Projects",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=140ccb6d0ee8b0456c979a753877b0f04d643365853f7756ae3452d8e8c5bc37",
+      "summary": "On Thursday, Apple Inc. said it is actively seeking refunds on tariffs it previously paid and plans to channel any recovered funds into additional U.S. innovation and advanced manufacturing investments. Apple Q2 Earnings Show Tariff Relief Helped Offset Rising Costs During Apple's fiscal second-quarter 2026 earnings call, CFO Kevan Parekh said product gross margin declined sequentially due to seasonal factors and rising memory costs, but lower tariff-related expenses helped support the company's",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777759279000,
+      "ticker": "AAPL",
+      "category": "company"
     },
     {
       "id": 140147169,
@@ -242,6 +440,17 @@
       "datetime": 1777744620000,
       "ticker": "META",
       "category": "company"
+    },
+    {
+      "id": 7884822,
+      "headline": "Trump says US could restart Iran strikes 'if they misbehave' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUozQmZGUTZjZElkcVg4NGRnUVJCSlluVnZiSTk5bXBaUlp6ekJtb2dOMWduY2xRUlIxNC1BdnhzY1JzMTl5emVTOGhjN1YyOThpNG9XYVFYeTFmX25CZmk4cThSZDY0NFlRNnNJNHZ1Mk5STnM0YTZZSVZHV0NiWjF5eGQybHVobVJyMDJfNlVUZThYeEtMajRHNWJlandILXJDelBsTlBNWXZQT3JJeHpmUHlhNE55a193NlZaOC0?oc=5",
+      "summary": "Trump says US could restart Iran strikes 'if they misbehave'  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777744560000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140146124,
@@ -890,215 +1099,6 @@
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1371736610/image_1371736610.jpg?io=getty-c-w1536",
       "datetime": 1777722235000,
       "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 7885123,
-      "headline": "UAE says air traffic back to normal after precautionary measures lifted - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2xpakRpdm9Eckk5b1NQemx3RjdYQkRoNmNkbV9iMnJwenAzeUtJZDkxMmxZZjJoNVlJRFVySDl4Y2VXUWhyb0ZQTktFdmNNQlFxc2ZqYV9CVXUyZ3kyQjJoejU5WEx5UVBBY3pwNnVJalFxQzNpN1AxM294NHhGd2IzWnJnRkVrMTRVRnZWN2h4TDktQTIwYVBXbGxQSHNLTWxZcnh6SWVBMGY2WkE4NzJXMmIzRzlmb2ZXbkVRaw?oc=5",
-      "summary": "UAE says air traffic back to normal after precautionary measures lifted  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777722209000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140143697,
-      "headline": "META Platforms (NASDAQ:META) Passes Peter Lynch's GARP Screen as a Compelling Long-Term Investment",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=330492e25d2452e8d813c2a15d98c2e50faf0df3fee810ef9884da36da135c5f",
-      "summary": "Meta Platforms (META) passes Peter Lynch’s GARP screen with 24.85% EPS growth, a 0.80 PEG ratio, low debt, and strong profitability, making it a compelling long-term growth-at-a-reasonable-price candidate.",
-      "image": "https://www.chartmill.com/images/uploads/lynch_news_067b1bafe9.webp",
-      "datetime": 1777722043000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 7883099,
-      "headline": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3RkdWg1QTVlQmNRQkpSRFhLSmU3QTZsZmtHV016RHB2cG5FOW05bUdPN3N6ZExBVjdCR1RkdXlwLW0yZ1VGazdOVkJKNkEyWVN2V2NBUWJBX3JhREUwUUQwNlQ2RGhsaUhyb193bVRRbGVSejZZTm5QWUlBcThCRlJuajBlTXgwLXNGRmNYelNWRWFYczBDVTFDUkliRFVkQmd0UFRBZFdoOVM2YXp3eU9EZi1DNThYenRnVUE2UnY2bHNXU3FkWkVQRXg?oc=5",
-      "summary": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777721781000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140143750,
-      "headline": "Ray Dalio: ‘We’re On the Brink’ of Major Problems Within 2 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8af56189cc43714fa1e2bec54e5ec14068d67fe1e8ae56ed9244e0165ec4e804",
-      "summary": "Ray Dalio is compressing his timeline. On a recent Prof G Markets episode with Ed Elson titled “Ray Dalio: The World Order Has Unraveled,” the Bridgewater founder said “We’re on the brink of some of these problems” and pegged the window at “particularly in the vicinity of, you know, two years away from what obviously ... Ray Dalio: ‘We’re On the Brink’ of Major Problems Within 2 Years",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777721413000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140143751,
-      "headline": "SoFi Technologies Just Delivered Record Growth. Why Did Investors Want More?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e57eb51d5dcb4f69ee9c14cbbb1b20e601bf8e6ea1b058e97113a2c0cd06856e",
-      "summary": "As SoFi sets new records, it's getting harder to meet investors' ever-inflating expectations.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777721400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140143752,
-      "headline": "Private Credit Is Getting a Gut Check. What It Means for Blackstone",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91d1f77cc0ceec6d104f272aca1224d5ae43f5b7a0ec067a92271bcb656608f0",
-      "summary": "Blackstone has faced some headwinds in private credit this year.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777720800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140143761,
-      "headline": "XRP Price Prediction: 3 AI Models Predict Where XRP Will Trade by December 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ba1bfbce8236652f221af3447e0bcefa76cf2549ef401f414a57a6f2b1129f6a",
-      "summary": "XRP (CRYPTO: XRP) currently trades in the $1.35-$1.40 range, roughly 62% below the $3.65 peak it hit last July. Most XRP holders are at a loss right now. The token has had every reason to recover this year with a string of catalysts capable of pushing the price higher. There was the SEC and CFTC ... XRP Price Prediction: 3 AI Models Predict Where XRP Will Trade by December 2026",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777720680000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140143753,
-      "headline": "QDVO’s 32% Return Masks a Hidden Risk for Income Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a94a51b69ac2fbdc029c5a8b5e3a86f8995294933d0e5e984a65880cac75314d",
-      "summary": "Amplify CWP Growth & Income ETF (NYSEARCA:QDVO) sits in an awkward niche: it pays a monthly distribution funded partly by call-option premiums, yet the portfolio underneath is essentially a mega-cap technology growth fund. That combination has produced a 32% total return over the past year alongside steady monthly checks. The question for income investors is ... QDVO’s 32% Return Masks a Hidden Risk for Income Investors",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777720553000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140145049,
-      "headline": "One May Dog Of The Dow To Buy",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=b7bb97d8f1593eb8cd0649cc1231b1ba3ac27eeddce2ddf8dcd1dae7a9052980",
-      "summary": "Verizon is the only âfairly pricedâ Dow dividend dog with strong free cash flow coverage.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1839458057/image_1839458057.jpg?io=getty-c-w1536",
-      "datetime": 1777719955000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140145018,
-      "headline": "From AMD To Disney, The Wall Street Week Ahead Is Packed",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=04975de2822942aa070119389f5cac984048865980889d9c92f0208b9c1926af",
-      "summary": "Wall Street Week Ahead: key earnings (AMD, Pfizer and Disney); jobs and quarterly GDP numbers will be released. Read here for more details.",
-      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "datetime": 1777719600000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140143754,
-      "headline": "Fed Chair Nominee Kevin Warsh Aims to Transform the Central Bank -- and the Biggest Loser May Be Wall Street",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e58356dfdd740523bd36ab95001a487280e8557c48580af188ccdeb34f78aad1",
-      "summary": "Warsh's testimony before the Senate Banking Committee points to foundational changes at the Fed.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777719360000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140143755,
-      "headline": "2 Growth Stocks to Invest $500 in Right Now",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b42317659e90fb24ca847965c11eaa02423ecce08c1e06532091e4b2b41e1be",
-      "summary": "Growth investing is still in style.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777719000000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140143765,
-      "headline": "How Much Is AMD Stock Expected to Move After Earnings?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9658c91e2bbc0f1df05102eef2dcb12a6e769608753f9e678171f091a6461743",
-      "summary": "Advanced Micro Devices is set to report earnings after markets close Tuesday, with the chipmaker's stock seen potentially climbing to new highs following the results.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777716900000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140143756,
-      "headline": "Iren vs. Nebius: Which Neocloud Provider Is the Better AI Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e9228e61ae5cf7171d664f652abe4d7b4b7519ab0f4de136a6a42269de40362",
-      "summary": "Both neocloud leaders stand to benefit from rising demand for AI computing power.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777716360000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140143763,
-      "headline": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=45f03b5537ecd5bd630cb97a808bc7bfe682d048aeec22a0a0fd16d8e0dafb61",
-      "summary": "A trial beginning in New Mexico on Monday could prompt a judge to order sweeping changes to how Facebook, Instagram and WhatsApp operate - a move Meta Platforms has warned could force it to withdraw from the state.  The case, which will be tried before a judge in Santa Fe, stems from ‌a lawsuit filed by New Mexico Attorney General Raúl Torrez, a Democrat, accusing the social media giant of designing its products to addict young users and failing to protect ‌children from sexual exploitation on its platforms.  At the heart of the trial is whether Meta’s platforms have created a “public nuisance” under New Mexico law.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777716231000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140143757,
-      "headline": "The Warren Buffett Approved ETF Every Long-Term Investor Should Own",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=412ed23fd4aaf29386187960615984b2c8e841469fcd70c264b96028efec5cda",
-      "summary": "The Oracle of Omaha understands that most people just don't have the time, experience, or insight that he has when it comes to managing a market-beating portfolio.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777715640000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140144556,
-      "headline": "Nvidia's Next Leg Is Hidden",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=5662cdd7b3c5557646a1172edf59e80970d4416fee2f84a3680e781450069c79",
-      "summary": "Blackwell and Vera Rubin transition Nvidia from chips to full AI factory systems, increasing monetization per deployment. Find out why NVDA stock is a strong buy.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1432776766/image_1432776766.jpg?io=getty-c-w1536",
-      "datetime": 1777715110000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140145825,
-      "headline": "Netflix’s 'Beef' highlights a $5,000 deductible — how to handle your own healthcare costs",
-      "source": "CNBC",
-      "url": "https://finnhub.io/api/news?id=b1430b7b705442a99bf25c2cce14999662c620bc01753d7ca82cf10421f66252",
-      "summary": "A scene in the new season of Netflix's show \"Beef,\" about a high health insurance deductible, illustrates a pain many Americans experience. ",
-      "image": "https://image.cnbcfm.com/api/v1/image/108294110-1776705662583-AAAAQfjdXdHtVgCVf2SFdRFIml4E4Ou14myjmiTmnYi_jhAQuTjBsVPyzQ8JusGLkweiBpXsufw1tz4H9mX8UCqt-9Lj12j3CfqvlF-DHlclzipmQ7hXxQpsqRI7tE1bgoZI1zcbcQ5FYjzmN28n5QtltW8n.jpg?v=1776705767&w=1920&h=1080",
-      "datetime": 1777714201000,
-      "ticker": "NFLX",
-      "category": "company"
-    },
-    {
-      "id": 140143041,
-      "headline": "Can Europe Compete With SpaceX Launch Price? Only If Elon Musk Says \"Yes.\"",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=15bdf85ff081fc343ae63da9f9153a9bdcdd380e1d2fcf56aef63f725bb13a75",
-      "summary": "Don't believe everything you read. ArianeGroup still cannot compete with SpaceX on price.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777713900000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
