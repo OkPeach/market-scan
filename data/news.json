@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777803132353,
+  "timestamp": 1777807295003,
   "items": [
     {
       "id": 140150775,
@@ -112,6 +112,39 @@
       "category": "business"
     },
     {
+      "id": 140151223,
+      "headline": "Palantir Stock Faces A Post-Earnings Decline",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ab908f5694b2fbccf86065fa8d0f9ebda063ba3013b15a80ec97db14430d90b5",
+      "summary": "Palantir (PLTR) post-earnings outlook: heavy call OI, ~90% IV, and resistance at the $150â$160 point to downside toward $130. Read the full analysis here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2249768293/image_2249768293.jpg?io=getty-c-w1536",
+      "datetime": 1777791600000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140151126,
+      "headline": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cbcdac421e72e4841392a477537394d294c6a99804e4673ad54f63361f59ea37",
+      "summary": "Busy week ahead: April jobs report, Fed loan survey, and key earnings (AMD, Disney, Uber, Palantir).",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187445136/image_187445136.jpg?io=getty-c-w1536",
+      "datetime": 1777791076000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140151095,
+      "headline": "Microsoft Doesn't Need To Win The AI Race, It Needs The AI Race To Be Brutal",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cb2e4c8bf67c81772b9daec7d7461715ca5a7aec97760a24651b7236feb4015f",
+      "summary": "Microsoft appears strong, as Azure's infrastructure positioning captures disproportionate value from AI model commoditization. Read why I rate MSFT stock a Buy.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2245828022/image_2245828022.jpg?io=getty-c-w1536",
+      "datetime": 1777790620000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140150155,
       "headline": "Alphabet Is Dropping $190 Billion on AI Infrastructure: 3 Semiconductor Stocks Set to Win Big",
       "source": "Yahoo",
@@ -120,6 +153,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777789371000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140150969,
+      "headline": "8 Numbers That Should Concern Prudent Investors",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51b071d91f87592bbe8aac4bf74c86be8997a866dfea9524b13208893079a8e9",
+      "summary": "The S&P 500 and NASDAQ hit record highs on AI growth, yet a 4.5% PCE and a 41.06 Shiller PE suggest underlying economic fragility. Read why these 8 numbers matter now.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2211959463/image_2211959463.jpg?io=getty-c-w1536",
+      "datetime": 1777789215000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -1055,50 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777733592000,
       "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140145177,
-      "headline": "The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=19924bac9cec9a963b1472f75140e4daf08fe87c1583493b6fcc7bdc9dfe9c7a",
-      "summary": "Nvidia (NASDAQ:NVDA) led the first wave of AI enthusiasm with its powerful GPUs. Investors piled in as data centers raced to secure chips that could train and run ever-larger models. Yet as AI expands, the opportunity spreads beyond GPUs into unexpected corners of the stack. Memory — long viewed as a cyclical commodity prone to ... The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777733515000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140145178,
-      "headline": "MISL Investors: Watch the FY27 Budget Bill Before the Next Rally",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f72926d1bb5a8eeb299e67d27d465066b4347dfcb33b4720a8d2497868bc1eb0",
-      "summary": "The First Trust Indxx Aerospace & Defense ETF (NASDAQ:MISL) exists to solve a concentration problem: anyone betting on the defense and aerospace cycle through a single name takes on F-35 program risk, 737 certification risk, or one CEO’s execution risk. MISL spreads that bet across the prime contractors and engine makers driving the cycle. First ... MISL Investors: Watch the FY27 Budget Bill Before the Next Rally",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777732233000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140145187,
-      "headline": "USA Today Q1 Earnings Call Highlights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=47e69f38c7b4fa0e4eecf9fada501479d99141582d419fc33f0624d39dec40d2",
-      "summary": "USA Today (NYSE:TDAY) reported what management described as its strongest start to the year in several years, citing improving revenue trends, rising digital contribution, and sharply higher profitability in the first quarter of 2026. Chairman and CEO Mike Reed said the company is “nearing” several",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777732023000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140145179,
-      "headline": "Robinhood Stock Is Down 53%. Is That a Once-in-a-Decade Opportunity, or a Value Trap?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d294f66b7c92e9663d1557f732eb9b0044a51035612d191004c09531f39f47e",
-      "summary": "Investors who have been waiting for a better entry just got it.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777731900000,
-      "ticker": "NVDA",
       "category": "company"
     }
   ]
