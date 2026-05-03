@@ -1,6 +1,61 @@
 {
-  "timestamp": 1777790007158,
+  "timestamp": 1777798345928,
   "items": [
+    {
+      "id": 140150161,
+      "headline": "Analysts Reaffirm Buy Rating on Meta (META), Cite Growth and AI Potential",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b02f3d6d3c36cf506f93a8dc360b2b807fc6a2a1b77ac4a3fa52f0b312cfcec6",
+      "summary": "Meta Platforms, Inc. (NASDAQ:META) ranks among the stocks to invest in before they split next. On April 23, Guggenheim reaffirmed its Buy rating and $850 price target for Meta Platforms, Inc. (NASDAQ:META), citing strong ad revenue growth and AI developments. Guggenheim anticipates revenue growth of more than 23% in each quarter through 2026, driven by […]",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777794703000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140150149,
+      "headline": "Is Nvidia's Deal With Oklo a Game Changer?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=179310157cd58ac231268fb17ad70431bb13787b82a8fef8cdaa6495e32fcd6b",
+      "summary": "Nvidia and Oklo recently joined forces as reliable energy sources become the new bottleneck for artificial intelligence data centers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777794060000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140150154,
+      "headline": "Elon Musk's Robotaxi Plans Take Shape With Dallas, Houston Rollout, But Tesla Is Still Far Behind Waymo",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12dcf24cb42b2100cca05511a2970dd155941733848a07bbcefcccc6fb60ac63",
+      "summary": "Tesla Inc. (NASDAQ:TSLA) recently ramped up its Robotaxi operations in Texas, providing unsupervised Robotaxi rides in Dallas and Houston, while it was already providing rides in Austin. While the ramp-up in Cybercab production could provide another boost in its Robotaxi exploits, Tesla remains far behind its rival Alphabet Inc.‘s (NASDAQ:GOOGL) (NASDAQ:GOOG) Waymo. Tesla Vs Waymo On Thursday, Electrek reported that Tesla had increased the size of its unsupervised Robotaxi fleet to 25 across the",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777793547000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140150155,
+      "headline": "Alphabet Is Dropping $190 Billion on AI Infrastructure: 3 Semiconductor Stocks Set to Win Big",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87d6c2189b394609f71051be301217128b6fe0e3af48ea6c33873a3ebdd53cad",
+      "summary": "Don't overthink the AI spending spree.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777789371000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140150156,
+      "headline": "Reddit (RDDT) Is Up 7.5% After AI Ad And Data Deals Turbocharge Q1 Results - What's Changed",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7849ab02232c3820419b8c82005f81b3ed3e52b5d40cc4920449480014564225",
+      "summary": "In the first quarter of 2026, Reddit reported revenue of US$663.41 million and net income of US$203.98 million, both sharply higher than a year earlier, as advertising and user engagement drove strong growth. Management also highlighted seven consecutive quarters of revenue growth above 60%, industry‑high gross margins above 90%, and rising contributions from AI-driven advertising tools and data licensing partnerships with Google and OpenAI. With Reddit’s quarterly results beating...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777788478000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
     {
       "id": 140149464,
       "headline": "Why ServiceNow Stock Fell 16% in April",
@@ -1044,61 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777729560000,
       "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140144588,
-      "headline": "URAN’s Nearly 75% Gain Masks a Valuation Risk Most Investors Are Missing",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48f0aab6e554e6997c4bcbb5e5999cde048e3a9281142ac8fe8dbfd7fd2734ea",
-      "summary": "The Themes Uranium & Nuclear ETF (NYSEARCA:URAN) has handed investors a nearly 75% gain over the past year, riding a thesis that ties artificial intelligence power demand, government support for nuclear, and a structural uranium supply deficit into one tidy package. The fund launched in September 2024 and gives investors single-ticker exposure to uranium miners ... URAN’s Nearly 75% Gain Masks a Valuation Risk Most Investors Are Missing",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777729547000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140146004,
-      "headline": "Quantum Computing: Moving Out Of The Lab",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=cac03e21fc33cabb1b277a90c80293269dd0097ff951c47e57230b15e38f2954",
-      "summary": "",
-      "image": "",
-      "datetime": 1777729500000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 7884823,
-      "headline": "Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX1p6NVBtc2ZPUThhZ2RkbXZQSS01MWNwWHE5MEJFRUZFWUotMno5SHJrc0UtdEtMMC15VlJVVGdPd3ZKOGFvRDBaNE1ZTEpVcDlJV1F2cTVDemlNQzVPdkoySUVlTUt2MHlJdnJtTnBTWkN1dFVpcm11cHRmSVZvbVZwQ0VkYzBMWHgwVEZYdy03SDM1NDVmSWMyUWlOaWRuczhFRzNySmgwazZkLThDc0FReUpuUmstUmVNeVlFdlR4Znc4ZWZrblY5ZzhNUWM?oc=5",
-      "summary": "Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777729475000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140144619,
-      "headline": "Market Week Ahead: Is May A Good Month For The Stock Market?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=92d8545068ee686958b40ba77c5c7ce7c469c323342b6672fc6b2848ba52c9f6",
-      "summary": "Is May A Good Month For The Stock Market? Here are a few points to consider as Advanced Micro Devices and Palantir prepare to report.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777728973000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140145184,
-      "headline": "Berkshire’s Cash Pile Swells to Record $397 Billion in Greg Abel’s First Quarter as CEO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e21a609e86192d1bf9a754ccd9cf872a74d99129399f5c17f4063d38d92cbcc6",
-      "summary": "Berkshire Hathaway's cash hoard climbed to a record high, while operating earnings surged in the conglomerate's first quarter without Warren Buffett as CEO.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777728802000,
-      "ticker": "AAPL",
       "category": "company"
     }
   ]
