@@ -1,6 +1,39 @@
 {
-  "timestamp": 1777925051333,
+  "timestamp": 1777930843469,
   "items": [
+    {
+      "id": 140165453,
+      "headline": "Palantir Technologies Inc-A (NASDAQ:PLTR) Q1 2026 Blowout: Revenue and EPS Smash Estimates as Growth Accelerates to Record Levels",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=12930d9b548079085175afcc3380615ac82b925664802337d0c1d34f5ce8895c",
+      "summary": "Palantir Q1 2026 revenue and EPS smash estimates, with 85% YoY growth. U.S. revenue surged 104%, and full-year guidance was raised well above consensus.",
+      "image": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
+      "datetime": 1777927427000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 7894843,
+      "headline": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
+      "summary": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108299219-17774771532026-04-29t153646z_2098091898_rc23zkalxkbx_rtrmadp_0_musk-openai-court.jpeg?v=1777477287&w=1920&h=1080",
+      "datetime": 1777926555000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 7894844,
+      "headline": "Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/04/spirit-airlines-shut-down-ceo-dave-davis.html",
+      "summary": "Spirit Airlines shut down before dawn on Saturday ending its run as the most famous U.S. discount airline.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292682-1776360600406-gettyimages-2271644473-_73a8690_wqksapdt.jpeg?v=1776360700&w=1920&h=1080",
+      "datetime": 1777925928000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 140164538,
       "headline": "AMD to report Q1 earnings as Wall Street eyes data center sales",
@@ -44,6 +77,17 @@
       "datetime": 1777923451000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7893235,
+      "headline": "US restaurant sales drop as Iran war pushes gasoline prices higher - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRzl3R2pyaUFGcC16Q2dlUkJoQnVFNmNYMG1DRXlLNkU3eF8tdGlMV1p4NFhCNVdIc0JQdUczWU1jY1NJTTViMVd6SWJZYktaUkdrUmtYdFhPNHdXYXpBOEhxQ0ZoQXNOWnI0R3JsRHRmTWxYTGRLSGh6UEIzVl90ZHhKWWFDV09WZWUzel9peHVhQ1lPOWgtSlBFYnpCZDQxUDF6RVdjYmN5SlJM?oc=5",
+      "summary": "US restaurant sales drop as Iran war pushes gasoline prices higher  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777923217000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140164374,
@@ -99,6 +143,17 @@
       "datetime": 1777922159000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7894208,
+      "headline": "US sinks Iranian small boats, shoots down missiles, drones as it opens Strait - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1VnS0tzQWtVVnd4SDdsZ1hjRTNQZ05OcUJWZWJPMldpZGlOLUZGY3hqeHdlU1EwcDBPQ25wMVBPT241R0NPNHRaWE8xZUhPSm0xb3hGYkxDMmRJcm5YdWIzOXhsaGdtOXVSLTZxMFp2SWJ0UndneXZWa2ZlT1llYUhWZTZ2clBuSXFkeUR2azB4aV85NUgzSmY3X1ZITEp0SkFHaFUwRHBDSDh5UGpPZUwzX2twcndHV015bDlyRVQyZmtnTzNPcXU5OHBwQQ?oc=5",
+      "summary": "US sinks Iranian small boats, shoots down missiles, drones as it opens Strait  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777922088000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140164378,
@@ -706,6 +761,17 @@
       "category": "company"
     },
     {
+      "id": 140165882,
+      "headline": "Palantir CEO: I am now personally sitting across recruiting",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2231eaf2a9a8309357059e3cc185d8cf694f6e7511d505357e84a6bd5ea3bfdc",
+      "summary": "Palantir CEO: I am now personally sitting across recruiting...",
+      "image": "",
+      "datetime": 1777916359000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
       "id": 140163227,
       "headline": "Palantir Reports Earnings After the Bell. Here's How this High-Flying Artificial Intelligence (AI) Stock Can Impress the Market",
       "source": "Yahoo",
@@ -714,6 +780,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777916328000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140165867,
+      "headline": "Palantir CEO: It's a super competitive environment, talent race is going to continue",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7be8431961d5ee052b2e28fba52442931ad7e05469ceefa245f45526b20b46d9",
+      "summary": "Palantir CEO: It's a super competitive environment, talent race is going to continue...",
+      "image": "",
+      "datetime": 1777916235000,
+      "ticker": "PLTR",
       "category": "company"
     },
     {
@@ -761,6 +838,17 @@
       "category": "company"
     },
     {
+      "id": 140165864,
+      "headline": "Palantir CEO: US national security is company's priority, above commercial clients",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d91cad752b4148e8a3f56e0561b6ca391ac6a64c2335693c2d0c3b3c187c9b29",
+      "summary": "Palantir CEO: US national security is company's priority, above commercial clients...",
+      "image": "",
+      "datetime": 1777916056000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
       "id": 140164493,
       "headline": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App",
       "source": "Yahoo",
@@ -805,6 +893,17 @@
       "category": "company"
     },
     {
+      "id": 140165827,
+      "headline": "Palantir CTO Shyam Sankar: We have gotten rid of legacy software like CRM, built it very quickly on top of our platform to a user experience that our users love",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0f1a2604a1e4935ee284517e2a21998da74195f860a8d8c40a724ec0b404f094",
+      "summary": "Palantir CTO Shyam Sankar: We have gotten rid of legacy software like CRM, built it very quickly on top of our platform to a user experience that our users love...",
+      "image": "",
+      "datetime": 1777915756000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
       "id": 140163229,
       "headline": "Spirit Airlines Shuts Down After Final Flight Landed on Saturday",
       "source": "Yahoo",
@@ -836,6 +935,39 @@
       "datetime": 1777915689000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 7894627,
+      "headline": "Trump says South Korea should join mission to protect ships near Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVBtemd0d1VNbDJ3RC1FdDAya1pWSW9rM0xFNDJSOTdObTlyTU8tYk16X3NWbzhZUDdBVWNrNkNfb21xazdYaHU5TmpsYk8wdXIwZXdhNFoxOEEyT1UyZVVPeHc0YlNjRWg4RXJXNGdMYVo2LW51V0lMRUtXcXBOUjhhQXRuR3MyUGJQcGMwa2ZLV0hPUTNjX0FQSEtWSWVWNjJ5Wlo1d1NkbDFWLTdpRXhtZmtHNWIwY09RUXJR?oc=5",
+      "summary": "Trump says South Korea should join mission to protect ships near Iran  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777915639000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140165796,
+      "headline": "Palantir CEO Alex Karp: We have 70 sales people",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4948ebacef862355b46bc02b668dfcc8d4c96d12f1582d36cb8f45efafa6acd4",
+      "summary": "Palantir CEO Alex Karp: We have 70 sales people...",
+      "image": "",
+      "datetime": 1777915467000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140165792,
+      "headline": "Palantir CFO David Glazer: We continue to expect expenses to ramp in 2026 as we remain committed to investing in the product pipeline and the most elite technical talent",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=b90d261362c4c8d9b1c06e6aa51ead348f779adf090d17af5b0c807bc7292154",
+      "summary": "Palantir CFO David Glazer: We continue to expect expenses to ramp in 2026 as we remain committed to investing in the product pipeline and the most elite technical talent...",
+      "image": "",
+      "datetime": 1777915280000,
+      "ticker": "PLTR",
+      "category": "company"
     },
     {
       "id": 140163230,
@@ -871,6 +1003,17 @@
       "category": "company"
     },
     {
+      "id": 140165765,
+      "headline": "Palantir CFO David Glazer: Our US commercial customer account grew to 615 customers reflecting growth of 42% y/y and 8% sequentially",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=b46f14f10a39fe3cf383a12fae0fe40ca43e4632058de909b8b01e90b44073dc",
+      "summary": "Palantir CFO David Glazer: Our US commercial customer account grew to 615 customers reflecting growth of 42% y/y and 8% sequentially...",
+      "image": "",
+      "datetime": 1777915158000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
       "id": 140163465,
       "headline": "NOW Corp (PSE:NOW) Valuation Check After Recent Weak Share Price Performance",
       "source": "Yahoo",
@@ -882,15 +1025,15 @@
       "category": "company"
     },
     {
-      "id": 7894208,
-      "headline": "US destroys six Iranian small boats, shoots down missiles, drones, admiral says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1VnS0tzQWtVVnd4SDdsZ1hjRTNQZ05OcUJWZWJPMldpZGlOLUZGY3hqeHdlU1EwcDBPQ25wMVBPT241R0NPNHRaWE8xZUhPSm0xb3hGYkxDMmRJcm5YdWIzOXhsaGdtOXVSLTZxMFp2SWJ0UndneXZWa2ZlT1llYUhWZTZ2clBuSXFkeUR2azB4aV85NUgzSmY3X1ZITEp0SkFHaFUwRHBDSDh5UGpPZUwzX2twcndHV015bDlyRVQyZmtnTzNPcXU5OHBwQQ?oc=5",
-      "summary": "US destroys six Iranian small boats, shoots down missiles, drones, admiral says  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777914975000,
-      "ticker": null,
-      "category": "business"
+      "id": 140165728,
+      "headline": "Palantir CFO David Glazer: Customer account grew 31% y/y and 6% sequentially",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=cc9e9cbff9b7c34dcaa948ec9dcb54a90535e55f7676e785b4094963fcb83c6c",
+      "summary": "Palantir CFO David Glazer: Customer account grew 31% y/y and 6% sequentially...",
+      "image": "",
+      "datetime": 1777915040000,
+      "ticker": "PLTR",
+      "category": "company"
     },
     {
       "id": 140163231,
@@ -904,6 +1047,17 @@
       "category": "company"
     },
     {
+      "id": 7894628,
+      "headline": "Rubio to travel to Rome amid US tensions with Pope Leo, Meloni - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEtWcDhZM3c5ZFdUak05NENEUW1nRW5BTzB2bGc5S0J3LXFxdGE0YzI0cnJkekx4ck5jWnA0Zm1MNkVFOXBkc3AzV1lqanNURkhKT292cE1aX3UySlZXVjVONGo2YllXWDRiZlAzSzlCUFEzNnY3MERHclItdjVVQzEzdENhX25LbWN5NXFoeHU1bHY1bVdyWmxWS3VqS0dhUXozcDF1V2VOb0g1X0QtSktB?oc=5",
+      "summary": "Rubio to travel to Rome amid US tensions with Pope Leo, Meloni  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777914756000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140163248,
       "headline": "Medline officially launches Mpower™, a digital control tower designed to predict, respond and resolve supply chain risks",
       "source": "Yahoo",
@@ -915,191 +1069,37 @@
       "category": "company"
     },
     {
-      "id": 140163232,
-      "headline": "The Utility Stock That's Actually Exciting",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c8857c82ce3b7b1948855b12dbf79eaf014f66a1aeab5229d5151f6049b4f09a",
-      "summary": "Oklo is trying to flip the traditional utility model on its head.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777914420000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140163258,
-      "headline": "Stock Market Today, May 4: Strait of Hormuz Tensions Weigh on Stocks at Midday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=208e9f4827c81897a2d180f02936887135f0c3012eccdbef3aac66677dcb7108",
-      "summary": "On May 4, 2026, oil’s jump past $100 on U.S.-Iran tensions jolted major U.S. indexes while potential regulatory progress boosted crypto stocks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777914385000,
+      "id": 140165674,
+      "headline": "Industrials Down as Amazon's Logistics Unit Plan Weighs - Industrials Roundup",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3325b3ab2ed4aa84b562a90d53ffe1c8728c2020fda4638300ad30cc70dafcfd",
+      "summary": "Shares of industrial and transportation companies fell as Amazon.com's plans to sell supply-chain services and a spike in fuel prices weighed on freight companies. The iShares U.S. Transportation...",
+      "image": "",
+      "datetime": 1777914682000,
       "ticker": "AMZN",
       "category": "company"
     },
     {
-      "id": 140163273,
-      "headline": "Ouster Stock Is Up. Its New Lidar Answers an Elon Musk Problem.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7e298ee5a6ba23a44b517cccc2171e5807e7095447133a1413b9c7a8a3a1c37",
-      "summary": "Ouster has launched a lidar that sees in color. Convincing Elon Musk to use lidar will be no easy task.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777914360000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140163341,
-      "headline": "Intel brings in Qualcomm executive to lead key unit",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=01e32966050b382ac5b1c7ac7246bacfbf47ffb94e1e7e448f70c1d93f2ce9ec",
-      "summary": "New hire signals shift beyond traditional PCs",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777914324000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 7894206,
-      "headline": "Which stocks do I actually own? Why experts say it's important to know",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/04/how-to-figure-out-which-stocks-are-in-your-portfolio.html",
-      "summary": "Whether you object to owning certain stocks or want to add investments to your portfolio smartly, it's important to know what you actually hold, experts say.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108037230-1726849352565-gettyimages-1557820909-2z6_6547.jpeg?v=1726849402&w=1920&h=1080",
-      "datetime": 1777914268000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 140163233,
-      "headline": "Marvell Stock: A 16% Yield Trade With A 46% Margin of Safety",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a6d7dad008749b654a9aa1909f2a07ea08227d8d5c3b9478d5fab5ceb5fa8cc",
-      "summary": "Marvell (MRVL) has been one of the quieter names in semiconductors through the AI boom, until recently. A $2 billion strategic investment from Nvidia, advanced chip co-development talks with Alphabet, and multiple confirmed cloud-provider design wins have sent the stock up 50% in the last month alone. See why Marvell stock moved.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777914092000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140163259,
-      "headline": "Amazon Opens Logistics Network to All Businesses",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a72add689b477ee4876ec722db6da73f75d830fa0abf604b6854b246f967c56c",
-      "summary": "New service expands supply chain tools beyond marketplace sellers",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777914089000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140163234,
-      "headline": "Big Tech pulled into growing AI capacity concerns",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=17a353504f41348af08094bc727025d4a933a35f830f42df723cd69106aa22a0",
-      "summary": "Capacity concerns push government to widen partners",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913912000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140163328,
-      "headline": "AMD Shares Sink After HSBC Downgrade Ahead of Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6171ac9990dbc00eb8f994fcf01d84673d84c13bfa6dd2b2fddd9b84f6acb654",
-      "summary": "HSBC Downgrade Puts Advanced Micro Devices Rally Under Pressure",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913828000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140163260,
-      "headline": "Amazon rebrands third-party logistics arms as unified supply chain service",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e34d9c8f3eacedff9e5426b4da6557a52b3220647a8a62f2cb5ca30f2e280442",
-      "summary": "Amazon announced it has stitched together logistics services into a unified supply chain product for manufacturers and retailers to move and distribute heavy freight and parcels, which poses a potential threat to other freight management and transport companies. The post Amazon rebrands third-party logistics arms as unified supply chain service appeared first on FreightWaves.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913817000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140163261,
-      "headline": "Walmart Second P&L Seen Driving Majority of Future Earnings Growth, UBS Says",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=96f2e4d274d6523e59bd0bb7bb1288dc17472a4ce8223425a629c6846ccb4ae1",
-      "summary": "Walmart's (WMT) second P&L has driven a significant upward revaluation of its share price, though UB",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913507000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140163235,
-      "headline": "AI Chipmaker Cerebras Targets Raising Up To $4 billion in IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0d62766fa1223e48de0217cf9a1a3032092724e0fb7b43580f4f8865e2ee6052",
-      "summary": "Cerebras Systems plans to kick off the roadshow for its proposed initial public offering as the arti",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913427000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140163236,
-      "headline": "SIVR Beats SLV. Here Is Why.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3e81b9b49ad155a14a69bbac793a64bdb1cb492bf0610c39afe281926137d017",
-      "summary": "This smaller silver ETF is a better long-term investment than the market leader.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140163381,
-      "headline": "Palantir Earnings: Will AI Commercial Revenue Drive Up Software Stocks?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=56153c7c05a7f0351b87773a6a4ececd2ee89e371b73633d8287523f864bee74",
-      "summary": "Palantir earnings are due Monday night. Will the results buoy PLTR and software stocks? Palantir stock has retreated 19% in 2026.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913367000,
+      "id": 140165638,
+      "headline": "Palantir posts robust growth and raises annual guidance",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=013ddeb6ec3bff9f92d80212aa59b3c4d709770831e339e63d9e69db0333370e",
+      "summary": "The data analytics specialist has reported record Q1 results, driven by rapid expansion across its public and private sector operations.",
+      "image": "",
+      "datetime": 1777914519000,
       "ticker": "PLTR",
       "category": "company"
     },
     {
-      "id": 140163237,
-      "headline": "Cerebras Systems seeks up to $26.6B valuation in US IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a90e5a187bc0b022a880d407f37d989b7b4fc0df3a8859afc7b9f2394571460e",
-      "summary": "Cerebras Systems is targeting a valuation of as much as $26.62 billion in its planned U.S. initial public offering, according to its prospectus filings. The semiconductor company, which is positioning itself as a rival to Nvidia in AI hardware, is looking to sell 28 million shares of its...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913340000,
-      "ticker": "NVDA",
+      "id": 140165640,
+      "headline": "Palantir Technologies : Q1 2026 Earnings Letter from Alex Karp",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1f7c62029d7373bf3aa1070458c1210c982048de35b151083d330d92da39a95c",
+      "summary": "Q1 2026 | Letter to Shareholders Attachments Original document Permalink Disclaimer Palantir Technologies Inc. published this...",
+      "image": "",
+      "datetime": 1777914515000,
+      "ticker": "PLTR",
       "category": "company"
-    },
-    {
-      "id": 140163238,
-      "headline": "Did Anthropic Suck the Air From Palantir’s Commercial Contract Tailwinds?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f5352342f333384ab91786580e314bd8b16ee591db96ef7ef481dab355621e0a",
-      "summary": "Palantir Technologies (NASDAQ: PLTR) reports Q1 2026 results after the close today. Management guided at least 115% U.S. commercial growth for the year just as Anthropic’s enterprise AI push reshaped software buying. I’ll be watching whether commercial momentum held. Commercial Acceleration Meets a New Competitor Last quarter Palantir delivered $1.41B in revenue, up 70% YoY, ... Did Anthropic Suck the Air From Palantir’s Commercial Contract Tailwinds?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777913121000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7893993,
-      "headline": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
-      "summary": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
-      "image": "https://image.cnbcfm.com/api/v1/image/108269270-1771956501559-gettyimages-2261854833-AFP_98666EE.jpeg?v=1776933186&w=1920&h=1080",
-      "datetime": 1777912999000,
-      "ticker": null,
-      "category": "business"
     }
   ]
 }
