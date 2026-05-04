@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777295426446,
+  "timestamp": 1777887134268,
   "portfolios": [
     {
       "id": "berkshire",
@@ -7,7 +7,7 @@
       "ok": false,
       "name": "Berkshire Hathaway",
       "subtitle": "Warren Buffett · 13F",
-      "error": "https://data.sec.gov/submissions/CIK0001067983.json: 403 Forbidden (111ms)"
+      "error": "https://data.sec.gov/submissions/CIK0001067983.json: 403 Forbidden (198ms)"
     },
     {
       "id": "pelosi",
@@ -15,7 +15,7 @@
       "ok": false,
       "name": "Nancy Pelosi",
       "subtitle": "House trades · last 180d",
-      "error": "https://house-stock-watcher-data.s3-us-west-2.amazonaws.com/data/all_transactions.json: 403 Forbidden (321ms)"
+      "error": "https://house-stock-watcher-data.s3-us-west-2.amazonaws.com/data/all_transactions.json: 403 Forbidden (157ms)"
     }
   ]
 }
