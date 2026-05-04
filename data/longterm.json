@@ -1,202 +1,202 @@
 {
-  "timestamp": 1777796290218,
+  "timestamp": 1777884244796,
   "tickers": {
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 280.14,
       "consensus": {
-        "score": 0.9074074074074074,
+        "score": 0.9629629629629629,
         "total": 54
       },
       "consensus3mAgo": {
-        "score": 0.8703703703703703,
+        "score": 0.8888888888888888,
         "total": 54
       },
-      "consensusTrend": 0.03703703703703709,
+      "consensusTrend": 0.07407407407407407,
       "distribution": {
-        "strongBuy": 14,
-        "buy": 23,
-        "hold": 15,
+        "strongBuy": 15,
+        "buy": 24,
+        "hold": 13,
         "sell": 2,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-29",
         "hour": "amc",
-        "epsEstimate": 1.7604,
-        "revenueEstimate": 104289595611
+        "epsEstimate": 1.9105,
+        "revenueEstimate": 109645770478
       },
       "score6m": null,
       "errors": [
-        "pt: pt AAPL: 403 Forbidden (47ms)"
+        "pt: pt AAPL: 403 Forbidden (85ms)"
       ]
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corp.",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 414.44,
       "consensus": {
-        "score": 1.2615384615384615,
-        "total": 65
-      },
-      "consensus3mAgo": {
-        "score": 1.3181818181818181,
+        "score": 1.2727272727272727,
         "total": 66
       },
-      "consensusTrend": -0.056643356643356624,
+      "consensus3mAgo": {
+        "score": 1.2727272727272727,
+        "total": 66
+      },
+      "consensusTrend": 0,
       "distribution": {
-        "strongBuy": 23,
+        "strongBuy": 24,
         "buy": 36,
         "hold": 6,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-28",
         "hour": "amc",
-        "epsEstimate": 4.3383,
-        "revenueEstimate": 89323219139
+        "epsEstimate": 4.3307,
+        "revenueEstimate": 89354651694
       },
       "score6m": null,
       "errors": [
-        "pt: pt MSFT: 403 Forbidden (41ms)"
+        "pt: pt MSFT: 403 Forbidden (81ms)"
       ]
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. (Class A)",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 385.69,
       "consensus": {
-        "score": 1.161764705882353,
-        "total": 68
+        "score": 1.1857142857142857,
+        "total": 70
       },
       "consensus3mAgo": {
-        "score": 1.1304347826086956,
+        "score": 1.144927536231884,
         "total": 69
       },
-      "consensusTrend": 0.03132992327365747,
+      "consensusTrend": 0.040786749482401685,
       "distribution": {
-        "strongBuy": 19,
+        "strongBuy": 21,
         "buy": 41,
         "hold": 8,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-21",
         "hour": "amc",
-        "epsEstimate": 2.8504,
-        "revenueEstimate": 116801217127
+        "epsEstimate": 2.9498,
+        "revenueEstimate": 119563498268
       },
       "score6m": null,
       "errors": [
-        "pt: pt GOOGL: 403 Forbidden (46ms)"
+        "pt: pt GOOGL: 403 Forbidden (83ms)"
       ]
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com Inc.",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 268.26,
       "consensus": {
-        "score": 1.2105263157894737,
-        "total": 76
+        "score": 1.205128205128205,
+        "total": 78
       },
       "consensus3mAgo": {
         "score": 1.2105263157894737,
         "total": 76
       },
-      "consensusTrend": 0,
+      "consensusTrend": -0.005398110661268607,
       "distribution": {
-        "strongBuy": 21,
+        "strongBuy": 22,
         "buy": 50,
-        "hold": 5,
+        "hold": 6,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-29",
         "hour": "amc",
-        "epsEstimate": 1.8272,
-        "revenueEstimate": 192386878617
+        "epsEstimate": 1.8509,
+        "revenueEstimate": 198796508617
       },
       "score6m": null,
       "errors": [
-        "pt: pt AMZN: 403 Forbidden (46ms)"
+        "pt: pt AMZN: 403 Forbidden (85ms)"
       ]
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms Inc.",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 608.745,
       "consensus": {
-        "score": 1.1944444444444444,
-        "total": 72
+        "score": 1.2054794520547945,
+        "total": 73
       },
       "consensus3mAgo": {
         "score": 1.1944444444444444,
         "total": 72
       },
-      "consensusTrend": 0,
+      "consensusTrend": 0.011035007610350034,
       "distribution": {
-        "strongBuy": 22,
-        "buy": 42,
-        "hold": 8,
+        "strongBuy": 24,
+        "buy": 40,
+        "hold": 9,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-28",
         "hour": "amc",
-        "epsEstimate": 7.351,
-        "revenueEstimate": 60642417000
+        "epsEstimate": 7.3717,
+        "revenueEstimate": 61175293560
       },
       "score6m": null,
       "errors": [
-        "pt: pt META: 403 Forbidden (48ms)"
+        "pt: pt META: 403 Forbidden (83ms)"
       ]
     },
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corp.",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 198.45,
       "consensus": {
         "score": 1.2535211267605635,
         "total": 71
       },
       "consensus3mAgo": {
-        "score": 1.2361111111111112,
-        "total": 72
+        "score": 1.2465753424657535,
+        "total": 73
       },
-      "consensusTrend": 0.017410015649452326,
+      "consensusTrend": 0.006945784294809965,
       "distribution": {
         "strongBuy": 24,
         "buy": 42,
         "hold": 4,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
@@ -208,170 +208,170 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt NVDA: 403 Forbidden (43ms)"
+        "pt: pt NVDA: 403 Forbidden (79ms)"
       ]
     },
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla Inc.",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 390.82,
       "consensus": {
-        "score": 0.43333333333333335,
-        "total": 60
+        "score": 0.47540983606557374,
+        "total": 61
       },
       "consensus3mAgo": {
-        "score": 0.39655172413793105,
-        "total": 58
+        "score": 0.4067796610169492,
+        "total": 59
       },
-      "consensusTrend": 0.0367816091954023,
+      "consensusTrend": 0.06863017504862456,
       "distribution": {
         "strongBuy": 9,
         "buy": 20,
-        "hold": 21,
-        "sell": 8,
-        "strongSell": 2,
-        "period": "2026-04-01"
+        "hold": 24,
+        "sell": 7,
+        "strongSell": 1,
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-21",
         "hour": "amc",
-        "epsEstimate": 0.4486,
-        "revenueEstimate": 24750532968
+        "epsEstimate": 0.4464,
+        "revenueEstimate": 24733027524
       },
       "score6m": null,
       "errors": [
-        "pt: pt TSLA: 403 Forbidden (45ms)"
+        "pt: pt TSLA: 403 Forbidden (89ms)"
       ]
     },
     "AMD": {
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 360.54,
       "consensus": {
         "score": 0.9830508474576272,
         "total": 59
       },
       "consensus3mAgo": {
-        "score": 0.9833333333333333,
-        "total": 60
+        "score": 0.9836065573770492,
+        "total": 61
       },
-      "consensusTrend": -0.0002824858757061177,
+      "consensusTrend": -0.0005557099194219983,
       "distribution": {
         "strongBuy": 15,
         "buy": 30,
         "hold": 13,
         "sell": 0,
         "strongSell": 1,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-05-05",
         "hour": "amc",
-        "epsEstimate": 1.3014,
-        "revenueEstimate": 9978990778
+        "epsEstimate": 1.3063,
+        "revenueEstimate": 9990767378
       },
       "score6m": null,
       "errors": [
-        "pt: pt AMD: 403 Forbidden (44ms)"
+        "pt: pt AMD: 403 Forbidden (84ms)"
       ]
     },
     "INTC": {
       "symbol": "INTC",
       "name": "Intel Corp.",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 99.62,
       "consensus": {
-        "score": 0.23076923076923078,
-        "total": 52
+        "score": 0.35185185185185186,
+        "total": 54
       },
       "consensus3mAgo": {
-        "score": 0.21153846153846154,
-        "total": 52
+        "score": 0.22641509433962265,
+        "total": 53
       },
-      "consensusTrend": 0.019230769230769246,
+      "consensusTrend": 0.1254367575122292,
       "distribution": {
         "strongBuy": 4,
-        "buy": 9,
-        "hold": 35,
+        "buy": 14,
+        "hold": 33,
         "sell": 3,
-        "strongSell": 1,
-        "period": "2026-04-01"
+        "strongSell": 0,
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-22",
         "hour": "amc",
-        "epsEstimate": 0.1987,
-        "revenueEstimate": 14500777918
+        "epsEstimate": 0.2129,
+        "revenueEstimate": 14657973801
       },
       "score6m": null,
       "errors": [
-        "pt: pt INTC: 403 Forbidden (49ms)"
+        "pt: pt INTC: 403 Forbidden (82ms)"
       ]
     },
     "NFLX": {
       "symbol": "NFLX",
       "name": "Netflix Inc.",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 92.06,
       "consensus": {
-        "score": 1.0338983050847457,
+        "score": 1.0677966101694916,
         "total": 59
       },
       "consensus3mAgo": {
-        "score": 0.9615384615384616,
-        "total": 52
+        "score": 1.037037037037037,
+        "total": 54
       },
-      "consensusTrend": 0.07235984354628411,
+      "consensusTrend": 0.030759573132454587,
       "distribution": {
-        "strongBuy": 16,
+        "strongBuy": 17,
         "buy": 29,
-        "hold": 14,
+        "hold": 13,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-15",
         "hour": "amc",
-        "epsEstimate": 0.8056,
-        "revenueEstimate": 12840714414
+        "epsEstimate": 0.8041,
+        "revenueEstimate": 12839621841
       },
       "score6m": null,
       "errors": [
-        "pt: pt NFLX: 403 Forbidden (50ms)"
+        "pt: pt NFLX: 403 Forbidden (80ms)"
       ]
     },
     "HIMS": {
       "symbol": "HIMS",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 27.41,
       "consensus": {
-        "score": 0.5,
-        "total": 22
+        "score": 0.5217391304347826,
+        "total": 23
       },
       "consensus3mAgo": {
-        "score": 0.36363636363636365,
-        "total": 22
+        "score": -0.2857142857142857,
+        "total": 21
       },
-      "consensusTrend": 0.13636363636363635,
+      "consensusTrend": 0.8074534161490683,
       "distribution": {
         "strongBuy": 2,
-        "buy": 7,
+        "buy": 8,
         "hold": 13,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
@@ -383,30 +383,30 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt HIMS: 403 Forbidden (44ms)"
+        "pt: pt HIMS: 403 Forbidden (80ms)"
       ]
     },
     "HIMX": {
       "symbol": "HIMX",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 12.31,
       "consensus": {
         "score": 1.0909090909090908,
         "total": 11
       },
       "consensus3mAgo": {
-        "score": 1.1818181818181819,
+        "score": 1.0909090909090908,
         "total": 11
       },
-      "consensusTrend": -0.09090909090909105,
+      "consensusTrend": 0,
       "distribution": {
         "strongBuy": 4,
         "buy": 4,
         "hold": 3,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
@@ -418,118 +418,118 @@
       },
       "score6m": null,
       "errors": [
-        "pt: pt HIMX: 403 Forbidden (45ms)"
+        "pt: pt HIMX: 403 Forbidden (79ms)"
       ]
     },
     "NOW": {
       "symbol": "NOW",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 91.16,
       "consensus": {
-        "score": 1.1730769230769231,
-        "total": 52
+        "score": 1.1481481481481481,
+        "total": 54
       },
       "consensus3mAgo": {
         "score": 1.1730769230769231,
         "total": 52
       },
-      "consensusTrend": 0,
+      "consensusTrend": -0.024928774928774988,
       "distribution": {
         "strongBuy": 15,
-        "buy": 32,
-        "hold": 4,
+        "buy": 33,
+        "hold": 5,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-07-21",
         "hour": "amc",
-        "epsEstimate": 0.8766,
-        "revenueEstimate": 3954582168
+        "epsEstimate": 0.8696,
+        "revenueEstimate": 3956566293
       },
       "score6m": null,
       "errors": [
-        "pt: pt NOW: 403 Forbidden (51ms)"
+        "pt: pt NOW: 403 Forbidden (78ms)"
       ]
     },
     "PYPL": {
       "symbol": "PYPL",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 50.44,
       "consensus": {
-        "score": 0.32,
-        "total": 50
+        "score": 0.28846153846153844,
+        "total": 52
       },
       "consensus3mAgo": {
-        "score": 0.37254901960784315,
+        "score": 0.29411764705882354,
         "total": 51
       },
-      "consensusTrend": -0.05254901960784314,
+      "consensusTrend": -0.005656108597285103,
       "distribution": {
         "strongBuy": 4,
-        "buy": 12,
-        "hold": 30,
+        "buy": 11,
+        "hold": 33,
         "sell": 4,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-05-05",
         "hour": "bmo",
-        "epsEstimate": 1.2935,
+        "epsEstimate": 1.2938,
         "revenueEstimate": 8207161709
       },
       "score6m": null,
       "errors": [
-        "pt: pt PYPL: 403 Forbidden (46ms)"
+        "pt: pt PYPL: 403 Forbidden (88ms)"
       ]
     },
     "PLTR": {
       "symbol": "PLTR",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 144.07,
       "consensus": {
-        "score": 0.8333333333333334,
-        "total": 36
+        "score": 0.8947368421052632,
+        "total": 38
       },
       "consensus3mAgo": {
-        "score": 0.42424242424242425,
-        "total": 33
+        "score": 0.7941176470588235,
+        "total": 34
       },
-      "consensusTrend": 0.4090909090909091,
+      "consensusTrend": 0.10061919504643968,
       "distribution": {
-        "strongBuy": 9,
+        "strongBuy": 11,
         "buy": 15,
         "hold": 10,
         "sell": 1,
         "strongSell": 1,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
       "nextEarnings": {
         "date": "2026-05-04",
         "hour": "amc",
-        "epsEstimate": 0.2848,
-        "revenueEstimate": 1568871231
+        "epsEstimate": 0.2849,
+        "revenueEstimate": 1569456711
       },
       "score6m": null,
       "errors": [
-        "pt: pt PLTR: 403 Forbidden (45ms)"
+        "pt: pt PLTR: 403 Forbidden (81ms)"
       ]
     },
     "TSM": {
       "symbol": "TSM",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 397.67,
       "consensus": {
         "score": 1.2325581395348837,
@@ -546,7 +546,7 @@
         "hold": 2,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-04-01"
+        "period": "2026-05-01"
       },
       "priceTarget": null,
       "targetUpsidePct": null,
@@ -554,17 +554,17 @@
         "date": "2026-07-15",
         "hour": "amc",
         "epsEstimate": 23.6852,
-        "revenueEstimate": 1266482291977
+        "revenueEstimate": 1264810915071
       },
       "score6m": null,
       "errors": [
-        "pt: pt TSM: 403 Forbidden (45ms)"
+        "pt: pt TSM: 403 Forbidden (83ms)"
       ]
     },
     "GLD": {
       "symbol": "GLD",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": 423.18,
       "consensus": null,
       "consensus3mAgo": null,
@@ -575,13 +575,13 @@
       "nextEarnings": null,
       "score6m": null,
       "errors": [
-        "pt: pt GLD: 403 Forbidden (53ms)"
+        "pt: pt GLD: 403 Forbidden (82ms)"
       ]
     },
     "SP": {
       "symbol": "SP",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": null,
       "consensus": {
         "score": -0.9,
@@ -605,13 +605,13 @@
       "nextEarnings": null,
       "score6m": null,
       "errors": [
-        "pt: pt SP: 403 Forbidden (46ms)"
+        "pt: pt SP: 403 Forbidden (81ms)"
       ]
     },
     "INX": {
       "symbol": "INX",
       "name": "",
-      "fetchedAt": 1777796290218,
+      "fetchedAt": 1777884244796,
       "price": null,
       "consensus": null,
       "consensus3mAgo": null,
@@ -622,7 +622,7 @@
       "nextEarnings": null,
       "score6m": null,
       "errors": [
-        "pt: pt INX: 403 Forbidden (43ms)"
+        "pt: pt INX: 403 Forbidden (80ms)"
       ]
     }
   }
