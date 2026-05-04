@@ -1,6 +1,325 @@
 {
-  "timestamp": 1777880179726,
+  "timestamp": 1777890054868,
   "items": [
+    {
+      "id": 140158246,
+      "headline": "Jerome Powell Just Threw President Donald Trump Under the Bus One Last Time Before His Term as Fed Chair Ends",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0e2b4ea9f1185cf8b4cabf7973794d4cde93127a464cb8aa5f6355d9b59f2e0",
+      "summary": "The outgoing Fed chair put the spotlight of higher inflation squarely on the president's shoulders.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777886760000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140158247,
+      "headline": "Meet 3 Upcoming Monster Artificial Intelligence (AI) IPOs That Will Soon Join Meta, Tesla, and Broadcom in the $1 Trillion Club",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f0c00fc449e1453c909e6d4db9d19cdaa09e796843592ad8800453460d2b550",
+      "summary": "Several major private artificial intelligence companies are expected to make their public market debuts this year or next.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777886400000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140158249,
+      "headline": "The Best Dividend Stocks to Buy and Hold Forever",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=246024dfda8f43fee9e0f78035561544cf77a19fb744986bc7e834f5a384125f",
+      "summary": "These companies are built to last. And their stocks are built for owning over the long term.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777885440000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140158248,
+      "headline": "Want to Buy SpaceX Before Its IPO? This Venture Fund Crushed the S&P 500 and Nasdaq-100 in the Past Year.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dcc3ed208fba3a417ba369f9ad937e990925b2e8be1bda39dc8018d92aa6693",
+      "summary": "The Ark Venture Fund offers heavy exposure to SpaceX and OpenAI, but investors should understand the risks.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777885440000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140158255,
+      "headline": "3 Beaten-Down Tech Stocks That Could Soar 33% or More, According to Wall Street",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=adf228f9951c06304bd7e032b608fdeed989637530100ecea859f9f8ba613551",
+      "summary": "Analysts think that steep pullbacks present excellent buying opportunities for these stocks.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777885200000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140158250,
+      "headline": "Nvidia Stock Is Pushing Toward $200. What Could Get It There.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffcfe5fcbc389cc7cdf8360f14119ca90f27d5257fb3aad376ba2f3507d210b9",
+      "summary": "Nvidia stock is looking to consistently trade above $200. Earnings from fellow chip and AI companies could help.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777884300000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140158257,
+      "headline": "Market Chatter: Anthropic Advances Plan for $1.5 Billion AI Joint Venture",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b956cee1ddc8b23bce42b5f64ba2b1c1b6e6cb3a9e622fda8d78ba65f70b4f1b",
+      "summary": "Amazon-backed Anthropic (AMZN) is close to setting up a joint venture with Blackstone (BX), Goldman",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777884172000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140158251,
+      "headline": "Microsoft Is a Mess. Is the \"Magnificent Seven\" Stock a Buy in May or Better Avoided?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e82d78f44d4094302a074f8d0efebbe588ba4e237e85323c252b0b0bd4014bc",
+      "summary": "It continues to lag its megacap peers as investors question its artificial intelligence (AI) spending plans.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777884060000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 7892553,
+      "headline": "Dubai Airports scaling up operations as UAE airspace restored, CEO says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOEJwMlJsbGlVYkYzeFVBTVhoTVJpaGx6SW12Tm12eWxvTVhtNkVYeWRKTVNQSjRTckFZOXBlazdXaVhBX0Y3OFR3TWFZUHNTbUExTTNxNjVlQ2tnNDN2bDJtZTVkVFZEdldfbmFWa3cxMEpvUjk0Tm90UzVCQ2JZWTFCMDY2X3dsMjdJdUhUUGNaZ01DWTAydmQ0Y3AzZlpuQlpUeDJab0hFN1FXQVdfT204d0xQS2ZnMHNka0x3?oc=5",
+      "summary": "Dubai Airports scaling up operations as UAE airspace restored, CEO says  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777883169000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140158252,
+      "headline": "Nvidia, Palantir, and Broadcom Are Sending Shockwaves Through Wall Street With This $4.6 Billion Warning",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a48a9d473e84affed30fea07c601ce134437ec2eeb356c9dc39113c03475479",
+      "summary": "The people who know these artificial intelligence (AI) leaders best are sending worrisome signals.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777883160000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140158253,
+      "headline": "AI chipmaker Cerebras targets $115-$125 share price in US IPO, source says",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8cebea6e205efec3c3418f06ee1df3d639d3d2d07bc4669a6904117cb72acdab",
+      "summary": "AI chipmaker Cerebras Systems, a rival to Nvidia , is scheduled to ‌kick off its IPO roadshow on Monday, ‌with shares expected to be priced between $115 and $125, a source ​familiar with the matter told Reuters.  This marks Cerebras' second attempt to go public after withdrawing a previous IPO filing last October.  Cerebras did not immediately respond ‌to Reuters request ⁠for a comment.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777882495000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140158278,
+      "headline": "Intel’s investment in SambaNova gets US regulatory clearance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fa86bbe59f0df7efa2378437b5bc9953cc24cd00d538ab06769d169f313a521",
+      "summary": "Earlier this year, Intel increased its stake in SambaNova to 8.2% following an investment during a Series E round.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777881754000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
+      "id": 7892552,
+      "headline": "US evacuates 22 crew members on seized Iranian ship to Pakistan - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWk5S2F1NGM1QnpTZ0Q2cHVVYjluSTRQSHBianFEeWtZMkItczZaMF9fc2txU0paaGhCek9Zb2JYZmtLMDlFWXBuUE5zcExDOEM1UGY0YkNNaVBnZDI3ejE5d1NkMXBkYzJBUHJHLU5OVnpnLTZhaGhObGtIR0dpTzl6a3RDSWVyNGtMMUdZanI5UEhJWEdGaGV5N05haWpLdlpWdGRranlQSkRhYWl3SEhn?oc=5",
+      "summary": "US evacuates 22 crew members on seized Iranian ship to Pakistan  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777879466000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140157410,
+      "headline": "Nicolas Sauvage is betting on the boring parts of AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9049d436b534a67dcfeb7af40a0af5a1f63111ddc65fc288045cbeb141026e53",
+      "summary": "The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year:",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777878618000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140157411,
+      "headline": "Alphabet Just Showed Why It's a Top AI Stock to Buy Right Now",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4183567938bf7c94fc397a255d0f4cc6c0cc70b3f27cc4fde0a50d10a9dc64ec",
+      "summary": "Alphabet just posted an incredible quarter.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777878300000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 7892345,
+      "headline": "NATO's Rutte says Europeans have 'gotten message' from Trump - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRl9uT08xMGVDUjdxc1RJbEt4Tm5UWTNxaGE1aHBCVTZsdkI1dmZIM25rYjZDbTJ2T3BoNFRVWVlqeFh5U3I3UVpmcjZncVdvei13OU9tN2dXRDZoTGo2Z29nck5hY2JkbVRBVnBVTXY5aUlWYXNrc2drQUtYR05yNXAyaGhpN3ZFcm4ycWZCdTNMU2FPdzdVV2FDeG5tenk1cVV3?oc=5",
+      "summary": "NATO's Rutte says Europeans have 'gotten message' from Trump  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777877580000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140157400,
+      "headline": "Apple says users are snapping up Macs faster than ever and created a supply shortage",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be48a4a699c35a93f364b75e4916f720b4a9050761e880d2e718f8790fbf2811",
+      "summary": "Apple can't keep up with record Mac demand after the MacBook Neo and AI-capable Mac Mini and Studio flew off shelves faster than even the company predicted.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777877490000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140157401,
+      "headline": "Will Bitcoin Ever Be More Valuable Than Apple? You Might Be Surprised at What Prediction Markets Say.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a1d4f4c18b28a51de4152aa0182f812131d963296156adb25145117d9557050",
+      "summary": "AI agents could become the catalyst for Bitcoin eventually surpassing Apple in market cap.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777877400000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140157532,
+      "headline": "Spirit Airlines Goes Dark: When Geopolitics Lands on the Runway",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=56f91ed0ecdb9d1b7296f5725bf46b2cde24dc5cf7b73f0e2edf16f624ac84c2",
+      "summary": "When a low-cost airline with 17,000 employees shuts its doors overnight, you know the Middle East conflict has stopped being a faraway problem and started hitting closer to home, literally at the departure gate.",
+      "image": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_23_981b4dd2c5.webp",
+      "datetime": 1777877180000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140157394,
+      "headline": "AI Chipmakers in Korea, Taiwan Drive Asian Stocks to Record",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6b77db79ddf1941c8dffef5312e77d23e0c0ea87b5d91f96537890a84b020d0",
+      "summary": "(Bloomberg) -- A rally in shares tied to artificial intelligence helped Asia’s stock benchmark wipe out losses sparked by the Iran war and climb back to an all-time high.Most Read from BloombergBeijing Tells China Firms to Ignore US Sanctions on RefinersSupertanker Appears to Have Crossed the Strait of HormuzWorld’s Largest Container Carrier Plans Route Avoiding HormuzFormer NYC Mayor Giuliani in Critical Condition, Trump SaysPhilippines Says Thousands Evacuated as Mayon Volcano EruptsThe MSCI A",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777876700000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140157403,
+      "headline": "This Major Tech Stock Could Be the Biggest Loser From AI",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=313dc3f0e5a35fb194c48ee70d37ec78813ada23747b5cf74b9d10ea0b97c17d",
+      "summary": "Unless Meta gets more specific about AI products, it could lag behind other AI stocks.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777875600000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140158442,
+      "headline": "AI chipmaker Cerebras aims to raise $3.5 billion in US IPO",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6b45180151aeedbd0b1b1839097fcc39e6c746afa6ebf4532b21beaf408edf2f",
+      "summary": "Nvidia-rival Cerebras Systems, which makes chips for artificial intelligence workloads, is aiming to raise $3.5 billion in its U.S. initial public offering. This marks Cerebras' second...",
+      "image": "",
+      "datetime": 1777875251000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140158393,
+      "headline": "Amazon opens up its logistics network to other businesses",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c6d46e155dfd1f85bf614553a5f364bc3516889ab59fe63e73af06153172e45e",
+      "summary": "Amazon.com said on Monday itwas rolling out Amazon Supply Chain Services, opening up itslogistics network for other businesses to use. The company said businesses of all types and...",
+      "image": "",
+      "datetime": 1777874925000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140158260,
+      "headline": "Zacks Investment Ideas feature highlights: Micron, Alphabet and SanDisk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17d13bd31fd4257fec8ed3f86b93aecfdc2fee5763e345ac46f057110670cdc7",
+      "summary": "Micron, Alphabet and SanDisk are surging as AI-driven demand fuels massive growth in memory, storage and cloud revenues.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777874640000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140158352,
+      "headline": "New Mexico seeks changes to Meta platforms in youth harm trial",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5ca72d7556ae9b2d52bb7f5411e6b5383612701cc4c891ace299c45b57b303fc",
+      "summary": "A trial is slated to begin in NewMexico on Monday that will test the state’s claims that Meta’sFacebook, Instagram and WhatsApp platforms harmed youngusers’ mental health and its bid for a...",
+      "image": "",
+      "datetime": 1777874597000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140158329,
+      "headline": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=791f736740442752fa2cbe0f0d63f40c2caee02e50082ec05521ba0c60cfbcbd",
+      "summary": "Any business can now move, store, and deliver everything from raw materials to finished products quickly and reliably, using the same supply chain that supports Amazon.comRetail, wholesale, and...",
+      "image": "",
+      "datetime": 1777874465000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
+      "id": 140157404,
+      "headline": "Zacks Investment Ideas feature highlights: Alphabet, Amazon and Microsoft",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=176cc86adac98813bdc7b017954d5041cca4af0ba117df4a7a1bb9dbab181dc7",
+      "summary": "Alphabet leads Mag 7 hyperscalers as cloud and AI drive standout Q1 results, outpacing Amazon and Microsoft in growth and momentum.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777873800000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140156631,
+      "headline": "Interactive Brokers Is Winning From Market Volatility. Can It Keep Going?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afedc3443dafe56d01d849ee2eae6b38602c7e6205a926168b86b530db4b18db",
+      "summary": "The momentum doesn't seem ready to stop for Interactive Brokers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777873800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140157402,
+      "headline": "Zacks Value Investor Highlights: Apple, Amazon and Starbucks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d33fd27eb7a3dd4e77b2a50400ef091907bc18e3320af8d397a0279fee56c71",
+      "summary": "Apple, Amazon and Starbucks spotlight the challenges of long-term investing, from massive gains to periods of underperformance and tough holding decisions.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777873440000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
     {
       "id": 140156608,
       "headline": "MongoDB, PubMatic, and Sprinklr Shares Skyrocket, What You Need To Know",
@@ -21,6 +340,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777872775000,
       "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140157396,
+      "headline": "Alphabet, Meta, Microsoft and Nvidia are part of Zacks Earnings Preview",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6113da1d251d99749b63ca57514a21586f4dc9db8ad685443eb58baf348c6219",
+      "summary": "Alphabet, Meta, Microsoft and Nvidia headline Zacks' earnings preview as Mag 7 profits surge, with Nvidia's report still ahead.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777872420000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -79,6 +409,28 @@
       "category": "company"
     },
     {
+      "id": 140157954,
+      "headline": "Alphabet A : JP Morgan reaffirms its Buy rating",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=870294f09047438fd002de4718c819b4952ed24b04be4b5f1659cb3316631778",
+      "summary": "JP Morgan is positive on the stock with a Buy rating. The target price remains set at USD 460.",
+      "image": "",
+      "datetime": 1777871057000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140157936,
+      "headline": "Alphabet C : Gets a Buy rating from JP Morgan",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=36b41e5e5858de975d96ef59d1a72cf0bbf88954506fe035635641ca96399345",
+      "summary": "In a research note, JP Morgan analyst Doug Anmuth has maintained his recommendation on the stock with a Buy rating. The target price is unchanged and still at USD 460.",
+      "image": "",
+      "datetime": 1777870894000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140156590,
       "headline": "Palantir Technologies (PLTR) Stock Is Up, What You Need To Know",
       "source": "Yahoo",
@@ -90,6 +442,17 @@
       "category": "company"
     },
     {
+      "id": 140157900,
+      "headline": "INTEL CORP : RBC is Neutral",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fd631deaef3d2be4fd6d83c39ab4e307856104bee558e34343c4741c2f3bacb9",
+      "summary": "In his latest research note, analyst Srini Pajjuri confirms his recommendation. The broker RBC is keeping its Neutral rating. The target price continues to be set at USD 80.",
+      "image": "",
+      "datetime": 1777870532000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 140156614,
       "headline": "Why The Trade Desk (TTD) Stock Is Trading Up Today",
       "source": "Yahoo",
@@ -98,6 +461,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777870375000,
       "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140157898,
+      "headline": "Why Vibe Coding Isn't the End of the Software Engineer",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5f662664f756812b431e38f307b7cb2ef0c91ad02eac1e39165eb2854b35c731",
+      "summary": "Generative AI has turned coding from a specialized skill into something anyone can do with a simple prompt. A warehouse owner is revolutionizing his shipping software with AI and a creative...",
+      "image": "",
+      "datetime": 1777870318000,
+      "ticker": "GOOGL",
       "category": "company"
     },
     {
@@ -134,6 +508,17 @@
       "category": "company"
     },
     {
+      "id": 140157721,
+      "headline": "Gold Demand Trends: Q1 2026",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ff111b558b66df6bac8294b4477520ffcfabd7fcc8aa731ea67ccd750b377f4",
+      "summary": "Central bank interest in gold remained strong in Q1, despite an uptick in sales. Read more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2192254011/image_2192254011.jpg?io=getty-c-w1536",
+      "datetime": 1777869300000,
+      "ticker": "GLD",
+      "category": "company"
+    },
+    {
       "id": 140155803,
       "headline": "Dow Jones Futures: Trump Says U.S. To 'Guide' Ships Through Hormuz",
       "source": "Yahoo",
@@ -153,6 +538,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777866300000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140157295,
+      "headline": "Microsoft FY Q3 2026: Multi-Model Mirage, Copilot Momentum",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e79a66e608f2f3dfbfed7ddb8be6ace3f5f7264f7f58d91659bed6cdf411687",
+      "summary": "Microsoftâs own narrative about their future has evolved quite a bit following the ChatGPT moment in 2022. Read more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2172935400/image_2172935400.jpg?io=getty-c-w1536",
+      "datetime": 1777865400000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -222,6 +618,17 @@
       "category": "company"
     },
     {
+      "id": 7891402,
+      "headline": "Indian rupee, bonds set to sway to oil prices as US-Iran stalemate drags - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXlFLUM5Q0R4WjY4SGtUMXc0RXBYZjRPQ2kzYUd6VmVTNE5CT2drMlVkcDVjVXkyYVQ1am5IWi1rYWcxVXhqRC1tZHdsUUpmdXk3Z0FmQWkyZjZ5SWZmTm0xMmhBR3lraFNyMGdkOEVBc0lmSkkwa2cwZmE2V2NmSXVKdVJ0RHJRQ2QyeGJ6SVJuYWR1TlcyQmFKell6UXF1aEwxZTFKdmMybHRnbzl3?oc=5",
+      "summary": "Indian rupee, bonds set to sway to oil prices as US-Iran stalemate drags  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777862075000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140155805,
       "headline": "GameStop makes $56 billion takeover bid for eBay",
       "source": "Yahoo",
@@ -253,17 +660,6 @@
       "datetime": 1777858380000,
       "ticker": "MSFT",
       "category": "company"
-    },
-    {
-      "id": 7891402,
-      "headline": "Indian rupee, bonds set to sway to oil prices as US-Iran stalemate drags - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXlFLUM5Q0R4WjY4SGtUMXc0RXBYZjRPQ2kzYUd6VmVTNE5CT2drMlVkcDVjVXkyYVQ1am5IWi1rYWcxVXhqRC1tZHdsUUpmdXk3Z0FmQWkyZjZ5SWZmTm0xMmhBR3lraFNyMGdkOEVBc0lmSkkwa2cwZmE2V2NmSXVKdVJ0RHJRQ2QyeGJ6SVJuYWR1TlcyQmFKell6UXF1aEwxZTFKdmMybHRnbzl3?oc=5",
-      "summary": "Indian rupee, bonds set to sway to oil prices as US-Iran stalemate drags  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777858260000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 140155234,
@@ -454,10 +850,10 @@
     },
     {
       "id": 7891097,
-      "headline": "Oil slips after Trump says US will assist ships stranded in Strait of Hormuz - Reuters",
+      "headline": "Oil rises as US-Iran deal remains elusive - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYm1UTGNtdHU5aVdlSkxNS25FbzFkcEZBUXNYVzc2SmQ5Zm5xN3NLWjVGTkVwT08wY3FXMTZ2Qk9ld1RfUEhFWi1YaElRVlpVSHl5RFVyNFozWFl1ajFta3UzcDlRY19QM21VdUJNZ2dGZmpNZnljNERTV2V0ZG90U01sYWNkbWwtc1JSSXNvWjZFR1I0TjJLTm9QOWx4RVFheXRaRVpiajVVRko5LXhqeVVDdnFzUm9qNENoVFdxNFFJYUpM?oc=5",
-      "summary": "Oil slips after Trump says US will assist ships stranded in Strait of Hormuz  Reuters",
+      "summary": "Oil rises as US-Iran deal remains elusive  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777846500000,
       "ticker": null,
@@ -703,402 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777833555000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153702,
-      "headline": "What Dividend Investors Need to Know About Costco",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9b6524aab1569a2826d99ab4a877d7ac8d276d0a75554800952388ad7916fca9",
-      "summary": "Costco just announced a 13% increase in its dividend, but don't buy it until you understand this one thing about its business model.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777833300000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153708,
-      "headline": "Dow Jones Futures Due Without Weekend Surprise; Apple, Broadcom In Buy Zones",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8053012090ae125ca6833937f0e6aa709352bb7274380657147a895c766fb2fe",
-      "summary": "The stock market rebounded late last week after a short pause. The S&P 500 and Nasdaq are at highs while Apple and Broadcom are in buy zones.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777833283000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140153703,
-      "headline": "Wall Street Says These 2 AI Stocks Could Fall 20% or More. Time to Sell?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e584d2e1e4d74763d050ba3b844010591fec1ca26869482ae93ed854082fe943",
-      "summary": "Analysts are bearish on these two AI stocks. Are they right?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777832520000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153704,
-      "headline": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a465e03fa43c0b658b5fb1679b7f41ad578751ec2f44d46dc95ca386fdb6e57",
-      "summary": "Is NVDA a good stock to buy? We came across a bullish thesis on NVIDIA Corporation on Long-term Investing’s Substack by Sanjiv. In this article, we will summarize the bulls’ thesis on NVDA. NVIDIA Corporation’s share was trading at $199.64 as of April 23rd. NVDA’s trailing and forward P/E were 40.74 and 24.51 respectively according to Yahoo […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777832022000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153722,
-      "headline": "Is Tesla, Inc. (TSLA) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ea80decab50f7518398afb5e773b22133ef8df97a8314a32a78a0217b9d8ee7a",
-      "summary": "Is TSLA a good stock to buy? We came across a bullish thesis on Tesla, Inc. on Eric Ding’s Substack. In this article, we will summarize the bulls’ thesis on TSLA. Tesla, Inc.’s share was trading at $373.72 as of April 23rd. TSLA’s trailing and forward P/E were 358.81 and 185.19 respectively according to Yahoo Finance. Tesla, […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831992000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140153709,
-      "headline": "Is Apple Inc. (AAPL) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b7eab016d1d8cc62ee0bc7ecbfbc445e66d4566f401037bf084955f132288bd",
-      "summary": "Is AAPL a good stock to buy? We came across a bullish thesis on Apple Inc. on The Boring Finance Guy’s Substack. In this article, we will summarize the bulls’ thesis on AAPL. Apple Inc.’s share was trading at $273.43 as of April 23rd. AAPL’s trailing and forward P/E were 34.61 and 31.95 respectively according to Yahoo […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831879000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140153747,
-      "headline": "Is Intel Corporation (INTC) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=063fc140cfc71b5615993e57063d405ee5725c567cbaa6686f9235a9aec26713",
-      "summary": "Is INTC a good stock to buy? We came across a bullish thesis on Intel Corporation on r/StockPickNews by EaseQuiet529. In this article, we will summarize the bulls’ thesis on INTC. Intel Corporation’s share was trading at $66.78 as of April 23rd. INTC’s trailing and forward P/E were 904.17 and 128.21 respectively according to Yahoo Finance. Intel […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831773000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140153737,
-      "headline": "How Riot’s AI Data Center Pivot and Wider AMD Deal May Reshape Riot Platforms (RIOT) Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6beb85ca7042942995ccc245e48093dbfeb72072ae80d2217a48ae325d6fb94c",
-      "summary": "Riot Platforms has already reported first-quarter 2026 results, with revenue rising to US$167.22 million while sales fell to US$111.90 million, and net loss widening to US$500.48 million or US$1.44 per share. The quarter marked Riot’s first meaningful data center income of US$33.20 million and a major expansion of its long-term AI infrastructure lease with AMD, underscoring the company’s shift away from relying solely on Bitcoin mining. Next, we’ll examine how Riot’s new AI data center...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831555000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140153705,
-      "headline": "Gorilla Technology Group (GRRR) Is Up 17.9% After Massive India GPU Deal And Astrikos.AI Investment",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=efea176584c77452e27b9172ba5f17513625adb61d9b51d7f7103f102bd1c6b2",
-      "summary": "Gorilla Technology Group recently expanded its AI infrastructure collaboration with Yotta Data Services in India, backing the deployment of 20,736 additional B300 GPU cards in a project valued at about US$2.80 billion and tied to one of APAC’s largest NVIDIA DGX Cloud clusters, alongside increasing its strategic investment in real-time infrastructure intelligence firm Astrikos.AI. Together, these moves deepen Gorilla’s role in sovereign and enterprise AI infrastructure while tightening the...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831552000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153710,
-      "headline": "Is It Too Late To Consider Apple (AAPL) After Its Strong Share Price Run?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8891feda24bcae31c2528923b39e992043d5801040f9a1bff915a9d86de6e9de",
-      "summary": "Investors may be wondering whether Apple’s share price still offers value after a strong run, or if expectations are already reflected in the current price. Apple’s stock recently closed at US$280.14, with returns of 3.3% over 7 days, 9.5% over 30 days, 3.4% year to date, 37.0% over 1 year, 63.7% over 3 years, and 120.5% over 5 years, providing a track record that can be weighed against today’s price. Recent headlines have continued to focus on Apple’s position as a major US tech company,...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831513000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140153706,
-      "headline": "Nvidia’s $1 million problem is getting worse in China",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=868ffefd441de94d0a151ef153b1c7ada44f271d0afbde04ff708ebb8e1e70a5",
-      "summary": "The worldwide race for artificial intelligence is producing no lack of eye-popping figures. But Nvidia's (NVDA) latest may be one of the clearest signals yet that the AI revolution is facing a real hardware constraint. Nvidia is the backbone of the AI economy powering data centers, large language ...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831380000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153738,
-      "headline": "Jobs Report, Palantir, Pinterest, AMD, PayPal, Disney, and More to Watch This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f5ac75e46a74348afb316658dda6ced3f6257c4f15badac643858fc366d6c1fa",
-      "summary": "ON Semiconductor, Pfizer, Uber, McDonald’s, and many more will report earnings this week. Economic releases will include the April jobs report and purchasing managers index.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831200000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140153711,
-      "headline": "Should You Dump Bitcoin for Stocks After the S&P 500 Hit a New Record on Apple’s $100 Billion Buyback?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e1f5d5df9300a48f0aa74eb2ff5b1767d6aada0b6bd09d69eb79901c80d68d81",
-      "summary": "When it comes to where you put your money, the choice between crypto and stocks has always been one of the hardest to make in investing. One side gives you steady compounding backed by company earnings, while the other gives you a fixed-supply asset that comes up as high risk/high reward. Most people usually hold ... Should You Dump Bitcoin for Stocks After the S&P 500 Hit a New Record on Apple’s $100 Billion Buyback?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777831158000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 7890790,
-      "headline": "Kashkari says Iran war limits Fed's ability to provide rate guidance - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR2taUzZMVTh6WWFVeXFRbFlzSUlSV3VuVTlMckFNc0R6eDRqWWNLT2o3YjNOUVViNVZaRGsxbXlyUC1hOEIxSVBpQThNR1dNYUptd1FpbXJhOTJxZUg1ckgwaS1RUHZxcHFEVEtTU0RXdHRGZ3h1YXJLZHBPUzNNbEFJc0tnQUNqNHZKZy03RUhBMC1UWktUZWVIZDJlem9QT0c2ZGZ3aG9lT0F1eEFrbFFaZU4yR2hSUHJ1NkEzbjhFX3BIbE5aM19FeHZ6Y2JnWk91MGZWMA?oc=5",
-      "summary": "Kashkari says Iran war limits Fed's ability to provide rate guidance  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777830840000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140153239,
-      "headline": "Is Alphabet Inc. (GOOGL) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fe233c46ac7e508d073449532c52726adbb5ef8c41a05e704438129ff4ee1a9b",
-      "summary": "Is GOOGL a good stock to buy? We came across a bullish thesis on Alphabet Inc. on The Boring Finance Guy’s Substack. In this article, we will summarize the bulls’ thesis on GOOGL. Alphabet Inc.’s share was trading at $332.29 as of April 21st. GOOGL’s trailing and forward P/E were 30.74 and 29.07 respectively according to Yahoo […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777830733000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140153278,
-      "headline": "Is Netflix, Inc. (NFLX) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c3f6634e8febacef5ff07eb2aac4be928fb6ff26ea883d2d40fd40cd3125770",
-      "summary": "Is NFLX a good stock to buy? We came across a bullish thesis on Netflix, Inc. on Long-Term Pick’s Substack by Dan. In this article, we will summarize the bulls’ thesis on NFLX. Netflix, Inc.’s share was trading at $92.58 as of April 21st. NFLX’s trailing and forward P/E were 29.86 and 28.90 respectively according to Yahoo […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777830617000,
-      "ticker": "NFLX",
-      "category": "company"
-    },
-    {
-      "id": 140153707,
-      "headline": "Got $1,000? Here Are Three Incredible AI Stocks to Get Started",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2be039ba54339df010a359297ab919b979547bfbd4115314523553815a2b39ef",
-      "summary": "There are countless ways to start investing in AI stocks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777830600000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140153257,
-      "headline": "Is KLA Corporation (KLAC) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42f0a1b3d89d7989bbc5400d50a1000e99c9156afa5b5eea1621c05ac0f30144",
-      "summary": "Is KLAC a good stock to buy? We came across a bullish thesis on KLA Corporation on Nikhs’s Substack. In this article, we will summarize the bulls’ thesis on KLAC. KLA Corporation’s share was trading at $1,812.06 as of April 22nd. KLAC’s trailing and forward P/E were 52.75 and 36.76 respectively according to Yahoo Finance. KLA Corporation […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777830514000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140153234,
-      "headline": "Is Amazon.com, Inc. (AMZN) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=29ea811b5fe0d7404efa492d774bf736baea97c0cc557581c630919fb1a91103",
-      "summary": "Is AMZN a good stock to buy? We came across a bullish thesis on Amazon.com, Inc. on Level-Headed Investing’s Substack by Bernardo. In this article, we will summarize the bulls’ thesis on AMZN. Amazon.com, Inc.’s share was trading at $249.91 as of April 21st. AMZN’s trailing and forward P/E were 34.85 and 30.77 respectively according to Yahoo […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777829771000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140153223,
-      "headline": "Why FormFactor Stock Plummeted This Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b746db23b80d7c8be6d045bbcf29c960dd9c8b2722750814c282813b48521afb",
-      "summary": "Despite a big pullback this week, FormFactor stock is up more than 350% over the last year.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777829719000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153224,
-      "headline": "3 Stocks to Buy and Hold Through Any Market Storm",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6bc641ad489c706b8b22c8d5c2134a757cb051c7e73cbd68d234c2cafabfe38",
-      "summary": "The stock market is near all-time highs despite geopolitical conflicts, high energy prices, and economic concerns.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777829700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153240,
-      "headline": "Why Warby Parker (WRBY) Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f4edec4f6a521161ef9e30145517cd4b2d7d3050d7c0ed000573a7174ff28f60",
-      "summary": "Shares of eyewear retailer Warby Parker (NYSE:WRBY) jumped 4.1% in the afternoon session after BTIG reiterated a Buy rating and a $32.00 price target on the stock ahead of the company's first-quarter earnings report.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777829095000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140154613,
-      "headline": "Jobs, Earnings and Other Key Things to Watch this Week",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7d4f0ac5a5e6c69a8856f9071b5e55afc2ba78564fd999148dec2cedc2818f98",
-      "summary": "Markets enter a big week following last week's Federal Reserve meeting and mega-cap technology earnings convergence, with focus now shifting to Friday's April jobs report at 8:30am that will provide insights into labor market health amid geopolitical uncertainties and energy-driven economic pressures.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777827602000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140153225,
-      "headline": "This Often Underappreciated Growth Stock Is Holding Its Own Against Giants Amazon and Alphabet. Time to Buy?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=055a518236bc8c3d53b6a28fa44383b2c362d52e792c0748b2dc5e32e1506b30",
-      "summary": "The streaming TV platform's accelerating growth and rising profitability impressed investors last week. But has the stock already priced in this growth story?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777827120000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140153226,
-      "headline": "Jensen Huang Just Announced Something Big. Here's What It Means for Nvidia Stock.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=962d2679bbb62c35ad00455fddc5249674fe1d5f1f945dba9d5af6a1bd51697c",
-      "summary": "Faced with an existential threat he can't match, Huang decides to join the party.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777826820000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153385,
-      "headline": "Is Hims & Hers Health, Inc. (HIMS) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1760c72a8755b1c8412a489991b727388a0173fb59a197a8742ceb2e73781edd",
-      "summary": "Is HIMS a good stock to buy? We came across a bullish thesis on Hims & Hers Health, Inc. on Investment Ideas by Antonio’s Substack by Antonio Linares. In this article, we will summarize the bulls’ thesis on HIMS. Hims & Hers Health, Inc.’s share was trading at $29.76 as of April 21st. HIMS’s trailing and forward […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777826226000,
-      "ticker": "HIMS",
-      "category": "company"
-    },
-    {
-      "id": 140153231,
-      "headline": "Bill Gates Once Called Tesla's Semi Truck Impractical, But Gavin Newsom May Need Elon Musk's All-Electric Hauler To Bolster Clean Energy Bid",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=993e8573b43ead9fe327fa0ea5d52f97a398bef7eadd66edbc30c6b4bbebb4ca",
-      "summary": "Microsoft Corp co-founder Bill Gates deemed Elon Musk‘s vision of producing the Tesla Inc. Semi Truck as impractical, but the saleable version of the all-electric truck just entered mass production. Bill Gates On Tesla Semi On Thursday, influencer Sawyer Merritt posted on the social media platform, recounting how Gates had been bearish about the Tesla Semi. “Welp, today Tesla officially started mass production of their Semi truck, and it very much works lol,” Merritt said in the post. Six years",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777825844000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140153258,
-      "headline": "Is Arm Holdings plc (ARM) A Good Stock To Buy Now?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b04beb73f1806525c28dde7706cbe7f6469a118b88194240235699b8ca25d0b",
-      "summary": "Is ARM a good stock to buy? We came across a bullish thesis on Arm Holdings plc on Rijnberk InvestInsights’s Substack by Daan | InvestInsights. In this article, we will summarize the bulls’ thesis on ARM. Arm Holdings plc’s share was trading at $175.49 as of April 21st ARM’s trailing and forward P/E were 233.47 and 85.47 […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777825327000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140153227,
-      "headline": "This Overlooked Precious Metals ETF Offers a 7% Yield",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1d371d83ec9528815786116d9a1cd96c3f560c0df35676172044a44e6c220bc8",
-      "summary": "Investors looking for monthly income from precious metals exposure face a familiar dilemma: gold miners pay almost nothing, and physical gold pays nothing at all. Gamco Global Gold, Natural Resources & Income Trust (NYSE:GGN) was built to solve that problem by holding a basket of gold miners and energy producers, then writing covered calls against ... This Overlooked Precious Metals ETF Offers a 7% Yield",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777824343000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153228,
-      "headline": "Hyperliquid's Momentum Is Fading Fast -- Here's Why the Market Is Treating HYPE as a Trade, not a Long‑Term Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=91d5f07fdb4e25fc75ef29d51a9db8a53eee08019a428656e91fe27342cb99c5",
-      "summary": "Should you believe the hype about Hyperliquid? Here's one reason why you shouldn't.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777823820000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140152879,
-      "headline": "Why Gold Won’t Save You in a Real Crisis (But Stocks Will)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=709f8337f8c6fe5d71bbc235ee075e9582fb89f4bfd0622f41378ce122f7f42e",
-      "summary": "On a recent episode of The Investing for Beginners Podcast, co-host Andrew Sather offered a contrarian take on a piece of conventional wisdom that resurfaces every time markets wobble. Gold gets sold as a safe hedge that retains its value, and Sather pushes back on the leap from store of value to actual investment. His ... Why Gold Won’t Save You in a Real Crisis (But Stocks Will)",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777823487000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140153287,
-      "headline": "Jim Cramer Says He Is “Looking at Palantir as a Longer-Term Investment”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b33b2e8ad76878b818a205a534f66f03446b942b421890f54d241c7466eddbc4",
-      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout. A caller asked whether Cramer sees any catalyst for the company, and he replied: Oh, okay, I’m glad you asked about Palantir. See, I’m looking at Palantir as a longer-term investment. It did have, look, it […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777823486000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140153249,
-      "headline": "Jim Cramer on Meta: “It’s Being Clubbed Like a Baby Seal”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2fc0804ec7182683c21ad40edd6e8d369361b83d8ba144f11ca24056d1a76929",
-      "summary": "Meta Platforms, Inc. (NASDAQ:META) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout. Cramer highlighted why the stock is declining, as he commented: Finally, how about Meta Platforms? Oh man, this one really bothered me. It’s being clubbed like a baby seal… Down more than 8% today. It’s a […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777823484000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140153232,
-      "headline": "Jim Cramer Points to Elevated Capital Spending as a Concern for Microsoft Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8f89723bac8979f03f5d73c6150f901994a815634e35dcea20543aed9436d5ef",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout. Cramer discussed the company’s latest quarterly report, as he remarked: Third, there’s Microsoft, much tougher, okay, and I mean like much tougher. They got clobbered today, down nearly 4%. Ouch. I didn’t want this. But rooting doesn’t […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777823483000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140153236,
-      "headline": "Jim Cramer on Amazon: “I Think This One’s Just Consolidating”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=226a8cc64b7360bc7ea2f80854f4befa014a2eb1954bb53ba2a29c42f05e2c6a",
-      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout. Cramer believes the company’s recent quarter was “very solid,” as he said: Now, next up, Amazon. Very good numbers, even if the stock didn’t get any love. The stock was volatile in after hours trading and ultimately […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777823481000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140153242,
-      "headline": "Jim Cramer Explains Why Wall Street Liked Alphabet Despite Massive Capital Spending",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=073de19f0ec21c939485cbc0a0c37bfc82d861188b7f236b84168dd0b6861f00",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout. Cramer noted that the company’s quarter “wasn’t perfect,” as he stated: I want to dig into what we heard from big tech and what it means for the rest of the market. Why don’t we start with […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777823479000,
-      "ticker": "GOOGL",
       "category": "company"
     }
   ]
