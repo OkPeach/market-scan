@@ -1,158 +1,158 @@
 {
-  "timestamp": 1777986001498,
+  "timestamp": 1778000305333,
   "stocks": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": 276.83,
-      "changePct": -1.1816,
-      "changeAbs": -3.31,
-      "previousClose": 280.14,
-      "timestamp": 1777986001498
+      "price": 282.3,
+      "changePct": 1.9759,
+      "changeAbs": 5.47,
+      "previousClose": 276.83,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp.",
-      "price": 413.62,
-      "changePct": -0.1979,
-      "changeAbs": -0.82,
-      "previousClose": 414.44,
-      "timestamp": 1777986001498
+      "price": 409.78,
+      "changePct": -0.9284,
+      "changeAbs": -3.84,
+      "previousClose": 413.62,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc. (Class A)",
-      "price": 383.25,
-      "changePct": -0.6326,
-      "changeAbs": -2.44,
-      "previousClose": 385.69,
-      "timestamp": 1777986001498
+      "price": 387.08,
+      "changePct": 0.9993,
+      "changeAbs": 3.83,
+      "previousClose": 383.25,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com Inc.",
-      "price": 272.05,
-      "changePct": 1.4128,
-      "changeAbs": 3.79,
-      "previousClose": 268.26,
-      "timestamp": 1777986001498
+      "price": 273.52,
+      "changePct": 0.5403,
+      "changeAbs": 1.47,
+      "previousClose": 272.05,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "META",
       "name": "Meta Platforms Inc.",
-      "price": 610.41,
-      "changePct": 0.2735,
-      "changeAbs": 1.665,
-      "previousClose": 608.745,
-      "timestamp": 1777986001498
+      "price": 601.35,
+      "changePct": -1.4842,
+      "changeAbs": -9.06,
+      "previousClose": 610.41,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp.",
-      "price": 198.48,
-      "changePct": 0.0151,
-      "changeAbs": 0.03,
-      "previousClose": 198.45,
-      "timestamp": 1777986001498
+      "price": 197.69,
+      "changePct": -0.398,
+      "changeAbs": -0.79,
+      "previousClose": 198.48,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc.",
-      "price": 392.51,
-      "changePct": 0.4324,
-      "changeAbs": 1.69,
-      "previousClose": 390.82,
-      "timestamp": 1777986001498
+      "price": 392.15,
+      "changePct": -0.0917,
+      "changeAbs": -0.36,
+      "previousClose": 392.51,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 341.54,
-      "changePct": -5.2699,
-      "changeAbs": -19,
-      "previousClose": 360.54,
-      "timestamp": 1777986001498
+      "price": 355.1,
+      "changePct": 3.9703,
+      "changeAbs": 13.56,
+      "previousClose": 341.54,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "INTC",
       "name": "Intel Corp.",
-      "price": 95.78,
-      "changePct": -3.8546,
-      "changeAbs": -3.84,
-      "previousClose": 99.62,
-      "timestamp": 1777986001498
+      "price": 108.4,
+      "changePct": 13.176,
+      "changeAbs": 12.62,
+      "previousClose": 95.78,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc.",
-      "price": 91.02,
-      "changePct": -1.1297,
-      "changeAbs": -1.04,
-      "previousClose": 92.06,
-      "timestamp": 1777986001498
+      "price": 88.39,
+      "changePct": -2.8895,
+      "changeAbs": -2.63,
+      "previousClose": 91.02,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "HIMS",
       "name": "",
-      "price": 27.27,
-      "changePct": -0.5108,
-      "changeAbs": -0.14,
-      "previousClose": 27.41,
-      "timestamp": 1777986001498
+      "price": 26.25,
+      "changePct": -3.7404,
+      "changeAbs": -1.02,
+      "previousClose": 27.27,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "HIMX",
       "name": "",
-      "price": 11.56,
-      "changePct": -6.0926,
-      "changeAbs": -0.75,
-      "previousClose": 12.31,
-      "timestamp": 1777986001498
+      "price": 12.05,
+      "changePct": 4.2388,
+      "changeAbs": 0.49,
+      "previousClose": 11.56,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "NOW",
       "name": "",
-      "price": 91.97,
-      "changePct": 0.8885,
-      "changeAbs": 0.81,
-      "previousClose": 91.16,
-      "timestamp": 1777986001498
+      "price": 90.71,
+      "changePct": -1.37,
+      "changeAbs": -1.26,
+      "previousClose": 91.97,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "PYPL",
       "name": "",
-      "price": 50.39,
-      "changePct": -0.0991,
-      "changeAbs": -0.05,
-      "previousClose": 50.44,
-      "timestamp": 1777986001498
+      "price": 45.91,
+      "changePct": -8.8907,
+      "changeAbs": -4.48,
+      "previousClose": 50.39,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "PLTR",
       "name": "",
-      "price": 146.03,
-      "changePct": 1.3604,
-      "changeAbs": 1.96,
-      "previousClose": 144.07,
-      "timestamp": 1777986001498
+      "price": 136.22,
+      "changePct": -6.7178,
+      "changeAbs": -9.81,
+      "previousClose": 146.03,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "TSM",
       "name": "",
-      "price": 401.61,
-      "changePct": 0.9908,
-      "changeAbs": 3.94,
-      "previousClose": 397.67,
-      "timestamp": 1777986001498
+      "price": 396.29,
+      "changePct": -1.3247,
+      "changeAbs": -5.32,
+      "previousClose": 401.61,
+      "timestamp": 1778000305333
     },
     {
       "ticker": "GLD",
       "name": "",
-      "price": 414.71,
-      "changePct": -2.0015,
-      "changeAbs": -8.47,
-      "previousClose": 423.18,
-      "timestamp": 1777986001498
+      "price": 418.82,
+      "changePct": 0.9911,
+      "changeAbs": 4.11,
+      "previousClose": 414.71,
+      "timestamp": 1778000305333
     }
   ]
 }
