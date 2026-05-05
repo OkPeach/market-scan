@@ -1,6 +1,94 @@
 {
-  "timestamp": 1777965706509,
+  "timestamp": 1777973365672,
   "items": [
+    {
+      "id": 140170208,
+      "headline": "1 Stock Under $50 with Impressive Fundamentals and 2 We Ignore",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52b6404daaf53aa3890eec8931a01790133da13878e732d6709a59defc21246f",
+      "summary": "The $10-50 price range often includes mid-sized businesses with proven track records and plenty of growth runway ahead. They also usually carry less risk than penny stocks, though they’re not immune to volatility as many lack the scale advantages of their larger peers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777967815000,
+      "ticker": "HIMS",
+      "category": "company"
+    },
+    {
+      "id": 140169996,
+      "headline": "Apple's chip talks with Intel and Samsung signal a structural shift in how Big Tech thinks about supply chain risk",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d47748b6c413268676809953043266e779e84991cabc39a9e4b282e185bcd035",
+      "summary": "The iPhone maker's exploratory discussions are less about finding a better manufacturer than about ensuring it never again loses iPhone revenue to a single point of failure When Apple Inc (NASDAQ:AAPL, XETRA:APC) executives fly to Texas to tour a Samsung fabrication plant and hold separate...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777966200000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140169997,
+      "headline": "ATxSummit 2026 Brings Global Leaders to Singapore to Chart AI's Future Across Asia",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f4fdca160656ce6134037b500e2032de5dabe358b7d1e2177c19500b5989275",
+      "summary": "Artificial intelligence (AI) is rapidly embedding itself into the systems that power economies, reshaping how businesses compete, governments serve, and societies evolve across Asia. Against this dynamic backdrop, ATxSummit, hosted by the Infocomm Media Development Authority of Singapore, returns for its sixth edition on 20 to 21 May 2026 at Capella Singapore, convening more than 4,000 leaders from over 50 countries to confront the region's most pressing issues.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777965840000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140169998,
+      "headline": "Nvidia Rival Cerebras Unveils IPO Details -- Here's What Investors Need to Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=699cd89589a5b0eebaf0f90b5127cba3cd3e70225793b8455e488d9334b5f6e1",
+      "summary": "The start-up chipmaker has an impressive customer list that includes Amazon, Meta Platforms, and ChatGPT parent OpenAI.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777965600000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140170044,
+      "headline": "Palantir's first quarter revenue surged 85% as AI platform demand drives forecast upgrades",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e14cdc19bc7935f63854056b59c1759ca1a4a5a8ff4063e12a135f3e5a5b18c",
+      "summary": "The data analytics company has raised its full-year revenue guidance by nearly $500 million, with US commercial growth running at its fastest rate on record. Palantir Technologies Inc (NYSE:PLTR) had spent the opening months of 2026 in the doghouse. The stock had fallen 18% year to date, a...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777965420000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140170011,
+      "headline": "Will Ulta’s (ULTA) Gemini-Powered “Ulta AI” and NielsenIQ Tie-Up Change Its Digital Narrative?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76457a0c545ebd35543e3c327239efb23653230f957ab2e3718c190f292afe3d",
+      "summary": "In April 2026, Ulta Beauty and Google announced two Gemini-enabled AI commerce experiences and Ulta launched its own Gemini-based “Ulta AI” assistant, aiming to make product discovery and checkout more seamless across Google’s platforms and Ulta’s digital channels. A separate data-sharing collaboration with NielsenIQ positions Ulta Beauty to pair these AI tools with richer omnichannel insights, potentially sharpening merchandising decisions and personalization across its beauty...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777965079000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140170009,
+      "headline": "Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a3a7d89bfa3a13667b437332a4b7ca2db1e1c23dab3f2c2971f15d389ddbaba",
+      "summary": "(Bloomberg) -- Alphabet Inc. has kicked off its latest megabond deal as it returns to the euro market just months after selling nearly $32 billion of dollar, sterling and Swiss franc-denominated notes.Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysChina’s Unprecedented Defiance of US Sanctions Triggers ShowdownUS and Iran Trade Fire in Gulf, Jolting Four-Week-Old TruceFormer NYC Mayor Giuliani in Critical Condition, Trump SaysBeijing Tells China Firms to Igno",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777964388000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140169999,
+      "headline": "AMD Earnings Are Coming. AI Spending Is Driving Growth.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe9ad18ed6031a34e7fdc0abdfec01e8e084db697a01e9d64c441ec510aae517",
+      "summary": "Advanced Micro Devices is expected to post strong growth driven by AI data center demand, though pricing pressure could weigh on margins.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777960800000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
     {
       "id": 140169203,
       "headline": "Datalec Precision Installations Expands Middle East Footprint With New Saudi Arabia Entity",
@@ -10,6 +98,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777959300000,
       "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140170697,
+      "headline": "University of Gothenburg: Record levels for YouTube in 2025",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=83d9c2ebd5b09032069bd4c6769fbb7149b392824e608704136358ffd58cf3a6",
+      "summary": "In 2025, more than half of the Swedish population watched YouTube on a typical day. The daily reach of the American video-sharing service has thus surpassed traditional TV in Sweden. This is shown by...",
+      "image": "",
+      "datetime": 1777958768000,
+      "ticker": "NFLX",
       "category": "company"
     },
     {
@@ -46,6 +145,17 @@
       "category": "company"
     },
     {
+      "id": 140170491,
+      "headline": "Elon Musk settles SEC Twitter disclosures lawsuit for $1.5 million",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c6fbe8c1c01eb1105cd3990918c60ab2e90f6095eed6fc08e059842050bc9284",
+      "summary": "STORY: Elon Musk has settled a U.S. Securities and Exchange Commission lawsuit against him for a $1.5 million fine. The suit accuses the world's richest person of waiting too long in...",
+      "image": "",
+      "datetime": 1777957033000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 140169212,
       "headline": "Palantir Shatters Records With 85% Q1 Revenue Surge, Raises FY26 Outlook",
       "source": "Yahoo",
@@ -66,6 +176,17 @@
       "datetime": 1777955520000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140170293,
+      "headline": "Markets on Edge, With U.S.-Iran Cease-Fire at Risk of Collapse",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bae9711781c64d33832f1a454274db6e4f3b2a7e96a6a07b5421b71f5715992a",
+      "summary": "By Dow Jones Newswires Staff Oil eased but markets remained on edge as tensions flared in the Strait of Hormuz and the U.S.-Iran cease-fire looked increasingly fragile. Iran fired at American...",
+      "image": "",
+      "datetime": 1777955366000,
+      "ticker": "AMD",
+      "category": "company"
     },
     {
       "id": 140169200,
@@ -99,6 +220,17 @@
       "datetime": 1777952820000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140169946,
+      "headline": "Norway sovereign wealth fund CEO: 3 important IPOs coming up - SpaceX, Anthropic and OpenAI - and we will generally buy into those companies",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e8ef5a514735f34ebb06d47a7fe5d821a8f1197fd4ec7af9754b1d44aa717db5",
+      "summary": "Norway sovereign wealth fund CEO: 3 important IPOs coming up - SpaceX, Anthropic and OpenAI - and we will generally buy into those companies...",
+      "image": "",
+      "datetime": 1777952742000,
+      "ticker": "MSFT",
+      "category": "company"
     },
     {
       "id": 7896920,
@@ -163,6 +295,17 @@
       "summary": "Apple has held exploratory discussions about using Intel and Samsung Electronics to produce ‌the main processors for its devices, Bloomberg ‌News reported on Monday, citing people familiar with the deliberations.  Apple executives ​have made visits to a Samsung plant under development in Texas and, separately, also held preliminary talks with Intel about enlisting the company's chipmaking services, Bloomberg reported.  While ‌the move would ⁠offer Apple a secondary option beyond its longtime partner Taiwan Semiconductor Manufacturing Co, the ⁠iPhone-maker is also concerned about using non-TSMC technology, the report said, citing worries about reliability and scale.",
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777950010000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140170000,
+      "headline": "Apple Explores Using Intel and Samsung to Build Main Device Chips in the US",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86e3c9e2dbf46330b795970761d33742be56dcd0d4ad237175e257ee01ead8d3",
+      "summary": "(Bloomberg) -- Apple Inc. has held exploratory discussions about using Intel Corp. and Samsung Electronics Co. to produce the main processors for its devices in the US, a move that would offer a secondary option beyond longtime partner Taiwan Semiconductor Manufacturing Co.Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysChina’s Unprecedented Defiance of US Sanctions Triggers ShowdownUS and Iran Trade Fire in Gulf, Jolting Four-Week-Old TruceFormer NYC Mayor Gi",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777949203000,
       "ticker": "AAPL",
       "category": "company"
     },
@@ -343,6 +486,17 @@
       "category": "company"
     },
     {
+      "id": 140170013,
+      "headline": "AI's Hottest Private Companies Have Booming Crypto Shadow Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ebb495cd5e23890a66b9ec9ea1e9c6f78640524da1920d3626f690e2a7aa23c",
+      "summary": "(Bloomberg) -- The race to sell retail investors a piece of the AI boom has gone mainstream — closed-end funds, interval funds, special-purpose vehicles. Now, crypto platforms are offering trades tied to the most valuable private AI companies on earth — ones ordinary investors have almost no other way to access.Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysChina's Unprecedented Defiance of US Sanctions Triggers ShowdownUS and Iran Trade Fire in Gulf, Jolting",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777941043000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140168616,
       "headline": "AI’s Hottest Private Companies Have Booming Crypto Shadow Market",
       "source": "Yahoo",
@@ -429,6 +583,17 @@
       "datetime": 1777938725000,
       "ticker": null,
       "category": "business"
+    },
+    {
+      "id": 140170045,
+      "headline": "Stock market today: S&P 500, Nasdaq, Dow futures edge higher with Middle East tensions, earnings in focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ff199ba7f2c057a51cfaecd4830f4ce1ccb525fccbdbfd881492bd60ebb4955",
+      "summary": "Investors adjusted to news that ships in the Strait of Hormuz had been struck with missiles.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777937485000,
+      "ticker": "PLTR",
+      "category": "company"
     },
     {
       "id": 140167093,
@@ -541,6 +706,17 @@
       "category": "company"
     },
     {
+      "id": 7897132,
+      "headline": "Asia battles rising, uneven toll of energy crisis caused by Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTVmYjdyQ1lEUGsya0U0R0JXdDNlZFRJeks1M1JkZDNHaTdRVkc2RHh0eXdlSFpsbVducndkcFBJb2ExSGNqZmF1a0tFTnFQNlFaYzBzUXpEcnNXXy15MzlxLU9LdXRPWWhhOUhST24wUElwb0JQcFpsWmJ4TTQ2Q2tQajR3eENaUDlvR2NTcTJjazE5LW4wSU5QVnVaSWE5THc4S3M4Y0V5NzhlbU9lUmFVSkpmeUU?oc=5",
+      "summary": "Asia battles rising, uneven toll of energy crisis caused by Iran war  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777935780000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
       "id": 140167115,
       "headline": "AMD and Pfizer earnings, job openings, Fedspeak: What to Watch",
       "source": "Yahoo",
@@ -619,10 +795,10 @@
     },
     {
       "id": 7895782,
-      "headline": "Oil eases on signs US is loosening Iranian closure of Strait of Hormuz - Reuters",
+      "headline": "Brent holds near $114 a barrel as Middle East tensions rage on - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQUkwOGpqZ0dnWnppaE1hVXczWWZ3eXRtam9ONU8zTlRpZ3NrX2swdDRtOUhFNXVFZmpQanhqQ1hjbFJNQVFLM1oyOUFoRGhyd0lOYnhkTHJyQ2lLS2p4Ml82SlVuT3VxUlhGT3E1TzVLQktYVzF5Qnhxb3Brd0VianZIbFFmOTRTcy1UUzhnd0tDN29LUm1kcVlidw?oc=5",
-      "summary": "Oil eases on signs US is loosening Iranian closure of Strait of Hormuz  Reuters",
+      "summary": "Brent holds near $114 a barrel as Middle East tensions rage on  Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "datetime": 1777932780000,
       "ticker": null,
@@ -923,182 +1099,6 @@
       "image": "",
       "datetime": 1777928535000,
       "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140166173,
-      "headline": "Palantir stock rallies on fastest revenue growth since at least 2020",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=26e2107e8c4fa43728d547237fe6228e05693bf961b97e626b02567f4eb335b2",
-      "summary": "Investing.com -- Palantir Technologies on Monday reported fastest growth in sales since at least 2020 and raised its full-year 2026 revenue guidance that was well above Wall Street projections, sending its shares up more than 1% high in extended hours of trading.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777928455000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140166174,
-      "headline": "Palantir Technologies Raises 2026 Revenue Guidance After First-Quarter Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=baf3b8ed99420782f0beb2988b2cfde511c32a5dd0a0979459fd154569c911af",
-      "summary": "Palantir Technologies (PLTR) late Monday raised its 2026 revenue outlook following first-quarter res",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777928397000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140166068,
-      "headline": "Nvidia Just Stunned the Quantum Computing Market. What Does This Mean for IonQ, D-Wave, and Rigetti?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=403cb8f343e2bf5367ffe727267fb9edd4b8cae27d5f8d5994669afb18c29ee0",
-      "summary": "Jensen Huang's about-face may actually benefit quantum start-ups.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777928340000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140166175,
-      "headline": "Palantir Q1 2026 earnings: revenue surges 85%, guidance raised",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=069c69c2cff02a4a4dd772cebe6f47b818b71b0aa3df91fd69ee9c83ab73cc6f",
-      "summary": "The data analytics company now expects $7.65 billion to $7.66 billion in full-year revenue, up from its February forecast",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927848000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140166069,
-      "headline": "Eli Lilly Captures 60% of the GLP-1 Market as Mounjaro Revenue Soars 125%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=89dc44eb71a943a11d9df2b889331ed63e076b92ade4da4715b2fa71a997d96b",
-      "summary": "The hosts of Morning Brew Daily made a simple argument on a recent episode that the idea of the “Ozempic economy” should be replaced with the “Mounjaro economy” now that Eli Lilly is controlling 60% of the GLP-1 market. Lilly’s Q1 2026 earnings report backs that up. Lilly’s Dominance, by the Numbers Eli Lilly (NYSE:LLY) ... Eli Lilly Captures 60% of the GLP-1 Market as Mounjaro Revenue Soars 125%",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927808000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140166070,
-      "headline": "AbbVie's Latest Results Reveal a Trend Investors Shouldn't Overlook",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=80d42e20a5692ffd4cd73aa2a31a772c33ea3659384623530fa241ee1d50011f",
-      "summary": "But is the stock a buy on the dip?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927800000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140166176,
-      "headline": "Palantir Reports Strong Earnings. The Stock Is Rising.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2aea04ab411efd70c41e759156ce98eba3a3ef4e43eef00171aae28dd82545f2",
-      "summary": "Palantir beat expectations on all its key metrics: sales, adjusted operating margin and adjusted free cash flow margin.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927800000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140168622,
-      "headline": "Cathie Wood Is Shrugging Off CapEx Fears and Buying the Dip in Meta Platforms Stock",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef33f9793f3082a17508761d5ec1e978f091d36d3a4dfbb2ccb923e3a9f7985c",
-      "summary": "Cathie Wood's move signals that the market may be treating the spending surge as a temporary overhang on an otherwise intact long-term growth thesis.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927789000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140166134,
-      "headline": "S&P 500, Nasdaq Retreat From Record, Oil Jumps Amid Renewed US-Iran Tensions",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2cfcc8b9b6ad77eca2142d995d2e5b817f38d8bb2fdfaaee13a726dfb2358521",
-      "summary": "The S&P 500 and the Nasdaq retreated from record highs as oil prices jumped amid signs that the Midd",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927478000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140166088,
-      "headline": "Stock Market Today: Dow Dives As Trump Calls On Key Ally; Warren Buffett Gives This Warning (Live Coverage)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86b168ce02ab15259e5efdd60f335cd868663dfa0897490eb12ce525e54a1752",
-      "summary": "The Dow fell after Iran launched attacks against the U.S. and the UAE. Palantir popped on the stock market today. Warren Buffett spoke out.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927472000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140165453,
-      "headline": "Palantir Technologies Inc-A (NASDAQ:PLTR) Q1 2026 Blowout: Revenue and EPS Smash Estimates as Growth Accelerates to Record Levels",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=12930d9b548079085175afcc3380615ac82b925664802337d0c1d34f5ce8895c",
-      "summary": "Palantir Q1 2026 revenue and EPS smash estimates, with 85% YoY growth. U.S. revenue surged 104%, and full-year guidance was raised well above consensus.",
-      "image": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
-      "datetime": 1777927427000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140166089,
-      "headline": "Why the transport sector is seeing a sea of red",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a18c8c4a8712915d1ebdb48ad45b3501fa6009d525bed536b3310828c22f712d",
-      "summary": "Yahoo Finance Markets and Data Editor Jared Blikre and Yahoo Finance Breaking Business News Reporter Jake Conley take a look at how oil (CL=F, BZ=F) prices are feeding into the Dow Jones Transportation Average's (^DJT) recent market action.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927243000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140167587,
-      "headline": "Calamos Phineus Long/Short Fund: Q1 2026 Contributors And Detractors",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=bb756add33d65f2ec99c1956efb7997596503c323560b7b2ee67e17e2f3110e9",
-      "summary": "Calamos Phineus Long/Short Fund discusses Q1 2026 performance and top holdings like L3Harris and Amazon. Read the full analysis for more details.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260237837/image_2260237837.jpg?io=getty-c-w1536",
-      "datetime": 1777927200000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140166106,
-      "headline": "Reuters wins Pulitzer Prizes for Beat Reporting and National Reporting; named finalist in Illustrated Reporting and Breaking News Photography",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9f6dad8c11cc6e9729de6ac5fcff5e9acb3e78108d01b4b5756e99530857c756",
-      "summary": "Reuters today was named the winner of two Pulitzer Prizes, for Beat Reporting and National Reporting, alongside being a finalist for Illustrated Reporting and Breaking News Photography.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777927080000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 7895064,
-      "headline": "Exclusive: US intelligence indicates limited new damage to Iran's nuclear program, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNm9KaWowV3pqQVVxRjJSZE9ROFVxTlM3YjZiVEI5bGZjcUIwbE1JSl9nWi1tTF8tc2ZpbU80RXFCQWdFNThGa0JZZ0xyai1XSjJEeGVzU3ZtU2ZNNGZMOHpzd0pDYWdlRldLeFZjeEdoeDlidlZ6U3NhYVc5RXZ5Q2ZsMDNvWkNRZkhzckxjeXJITmhIUGV6cFNId3NRakhOckJtOVI2cnZRVnNMQmpYd2JPTm9GMkJHZmpCUktVZ1YtYUtfZlJfM0Z0Tnk?oc=5",
-      "summary": "Exclusive: US intelligence indicates limited new damage to Iran's nuclear program, sources say  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777926960000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140166129,
-      "headline": "These Nine S&P 500 Stocks Have Doubled In 2026. No. 3 Reports On Tuesday.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=10a335453d011c189a43778a88821f8958665a379d5c8f51b046a403f36adfd9",
-      "summary": "The benchmark index is up in 2026, but Sandisk and Intel are among eight S&P 500 stocks that have at least doubled.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777926845000,
-      "ticker": "INTC",
       "category": "company"
     }
   ]
