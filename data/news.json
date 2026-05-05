@@ -1,6 +1,116 @@
 {
-  "timestamp": 1777956368782,
+  "timestamp": 1777965706509,
   "items": [
+    {
+      "id": 140169203,
+      "headline": "Datalec Precision Installations Expands Middle East Footprint With New Saudi Arabia Entity",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fca8fb6b703d9cb2cc59fcb1a45e7f613f301750565b084bb2da1526daaa7e86",
+      "summary": "DUBAI, United Arab Emirates, May 05, 2026 (GLOBE NEWSWIRE) -- Datalec Precision Installations (DPI), a global provider of integrated data centre delivery solutions, today announced it has officially incorporated a new entity in the Kingdom of Saudi Arabia (KSA), marking a significant milestone in its strategic growth across the Middle East. The new Saudi entity strengthens DPI’s ability to deliver end-to-end data centre design, build and fit-out services in one of the world’s fastest-growing dig",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777959300000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140169201,
+      "headline": "Bank of America resets Apple stock price target after earnings",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41a4b8c3207002579cd83a4ad102aacfdd872875ff578faf0816de8dc2c38e33",
+      "summary": "Apple’s Q2 earnings report gave Wall Street a lot to like. Bank of America analysts were all praise for the Cupertino giant’s performance, giving them enough confidence to raise their price target to $330 (18% higher than current prices), while keeping a buy rating. Q2 was another massive ...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777957620000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140169206,
+      "headline": "Exclusive-Tesla faces EU skepticism over automated-driving tech, records show",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06683994edfbb218cf999479dff58cda5328aae7f95964ac65642e00938b1bf4",
+      "summary": "Tesla CEO Elon Musk has projected confidence that the European Union will soon green-light the carmaker's \"Full Self-Driving\" (FSD) system, but emails from some European regulators show marked skepticism toward the technology and its stated safety benefits.  Tesla's \"FSD (Supervised)\" technology got the nod from Dutch road regulator RDW in April.  RDW is now seeking EU approval for FSD, with ‌a key committee hearing scheduled for Tuesday.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777957591000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140169199,
+      "headline": "Why AppLovin Stock Gained 12% in April",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f44765d7953f051f3f30811df514236ed7736ea2ff5de6ee091ea2ab17ba9beb",
+      "summary": "AppLovin outperformed the broader SaaS sector.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777957293000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140169212,
+      "headline": "Palantir Shatters Records With 85% Q1 Revenue Surge, Raises FY26 Outlook",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad63e4be166e239121aaae6c460c8e3879907305082eba4c92e4c784eb779324",
+      "summary": "Palantir Q1 revenue jumped 85% YoY to $1.63B as the firm raised its FY26 outlook to $7.66B amid surging US AI demand.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777956299000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 7896606,
+      "headline": "Morning Bid: Freedom? What freedom? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jVXVtQmdxNjRLRkdxOHpQTkE0M1hPS011SXZjeFpQc01XOXhYbXE1Tjd3Ukd0TkwzUDJPNkFKbW1SMDByUHloUThkQjgxblZDSHVRaTVuUnNOZGplM3l2X1Btc3pRMUppTjZVcW05bnhBTlNrajhZN21PbDZtV1k?oc=5",
+      "summary": "Morning Bid: Freedom? What freedom?  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777955520000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140169200,
+      "headline": "Palantir Stock: With a Fresh Earnings Report Showing Even Faster Growth, Is It Now a Better AI Stock to Buy Than Nvidia?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b0103556da49e48954360c445d5bf6339905f00314b07a14e00b80d1224e796",
+      "summary": "Palantir's first quarter was nothing short of astounding. But does it live up to its sky-high valuation?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777954020000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140169202,
+      "headline": "2 Unpopular Stocks That Deserve Some Love and 1 Facing Challenges",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ca28d82126b735f5910b09a53c990cc2971f8f879805b4718623308b8d93849",
+      "summary": "Wall Street’s bearish price targets for the stocks in this article signal serious concerns. Such forecasts are uncommon in an industry where maintaining cordial corporate relationships often trumps delivering the hard truth.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777953415000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 7896506,
+      "headline": "South Korea to probe ship fire in Strait of Hormuz, Trump blames Iranian attack - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWNFbjJxYWppRk8zN2pzWlM4c0FsTGV6V2VXR1A1RksyYmlTMktEMXgxZ3lGZ1hRMU1nYmZJQ3UyRkJfWi0yZGZZUk4tUUpDRTRDeUp1Q0hyQ2xLVDIxVVh4SGJsY2hDNkpZeTZjb1RSOWpDNHd1VGZKeTNBVS05U2xsdmxqWVpWNVcxZ1lZX2RFZlVhbGZjbFZfQmNkVnFnSGNSMFlpNmtOTUswVXdueC1hT3ZiZE5sZHdMamZHaVJIZw?oc=5",
+      "summary": "South Korea to probe ship fire in Strait of Hormuz, Trump blames Iranian attack  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777952820000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7896920,
+      "headline": "Rupee hits record low as fresh US-Iran tensions intensify economic worries - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZl91cm9Xd3FTOXB0VnE2SHVGOFRxU2NwT2RhSXhqOGhPajdVc0ptVXBnRzFHQTU5RWplem96SS1qaVRZdWxQMXVuZFgtSENES0ZwZFllSk9sYmhWZGZIdkVVbVNrYko2Tmw4bVAwTmRmZ0dVSjhIWHo2Slp5dFk0VXBTQ1FyTkJMQUxLMHNQVUJpbWQ5SGhVUEM2RklXbDZJZlFHcEtwUHo3MENwT3AwVHVveVpqejFTWGZIYkdR?oc=5",
+      "summary": "Rupee hits record low as fresh US-Iran tensions intensify economic worries  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777952520000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 140168603,
       "headline": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
@@ -21,6 +131,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777951492000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140169736,
+      "headline": "APPLE INC : Buy rating from Goldman Sachs",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fd786b3ca466f02012a1c9c5d456695f6b29c22222c88256be011f1a185ad39c",
+      "summary": "Michael Ng from Goldman Sachs retains his positive opinion on the stock with a Buy rating. The target price is still set at USD 340.",
+      "image": "",
+      "datetime": 1777950822000,
+      "ticker": "AAPL",
       "category": "company"
     },
     {
@@ -46,6 +167,17 @@
       "category": "company"
     },
     {
+      "id": 140169516,
+      "headline": "ValuEngine Weekly Market Summary And Commentary",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a9e10ea0ff7e4a07e92f8e988af1ec8ef20c9b65d7f20f3e9725b791ebd01ad5",
+      "summary": "U.S. equity markets continued to grind higher this week, with broad-based gains across major indices and sectors. Read more here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1312255103/image_1312255103.jpg?io=getty-c-w1536",
+      "datetime": 1777948500000,
+      "ticker": "INTC",
+      "category": "company"
+    },
+    {
       "id": 140168606,
       "headline": "Verizon Has a Dividend Yield Of 5.9% and Nike's Is 3.7%. But Which High-Yielding Dividend Stock Is a Better Buy?",
       "source": "Yahoo",
@@ -54,6 +186,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777948080000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140169408,
+      "headline": "Stars go unrecognizable for Met Gala's 'Costume Art' theme",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9be85440efce89f7a8a03ab3777ad9842af533cfd460d4e1aef8f13f7c14b004",
+      "summary": "STORY: :: Celebrities such as Bad Bunny and Heidi Klum are unrecognizable as they walk the carpet at the Met Gala :: New York / May 4, 2026 :: Pop icon Beyonce returned to...",
+      "image": "",
+      "datetime": 1777947697000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -79,6 +222,39 @@
       "category": "company"
     },
     {
+      "id": 7896507,
+      "headline": "Gold rebounds from five-week low but inflation fears cap gains - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0J6Zk84cEp1ZDlmd3pzSXFMVEpwS1p1TVJBNWE3WmN1NmNLU2x5OE8wanBkV3dsRWtXUUl1US1VcHF0SzB1OGpUaWdjSHEwR2ZQWTVjOXlVM2tfNzNXbjlDS1FnUTk5NWNOMks0SWFhTDhHd2xhR2p2X0RZZG9jUEpxVE8zYUdSZWNKOUJfMUlfSDFSTjQ2TWtITE1sdVZNNTdNdFVyX25uQnNYSmk4ckUwUWxZZjFl?oc=5",
+      "summary": "Gold rebounds from five-week low but inflation fears cap gains  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777945860000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7896505,
+      "headline": "Shares falter, oil prices stay elevated as US-Iran hostilities ramp up - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTZ0LVpvcnZ5S20wVGpXU1gtNzhQV2tSTXNvLTA4VDYySHRpM250TVI4cjVycEtZRUdXM2pIVDNIYWFIejl0V0diVGx0Ylp1WFFCWVVpWHdHcHFMOVotSk81TjhUMnJCS0NJOFBzTVB4T0x4Y251dFRtUUEzdTRtX2xxZw?oc=5",
+      "summary": "Shares falter, oil prices stay elevated as US-Iran hostilities ramp up  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777945140000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140169121,
+      "headline": "Palantir Has What Many AI Darlings Don't: Rapid FCF Growth And Minimal Capex",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=05c77b3ca12c71dbd31dc790844da34475004b7606e4821236431ec1ac486281",
+      "summary": "Palantir's Q1 earnings showcased accelerating growth and structurally higher profitability compared to popular AI hardware trades. See why PLTR stock is a Buy.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1426101020/image_1426101020.jpg?io=getty-c-w1536",
+      "datetime": 1777944728000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
       "id": 140168611,
       "headline": "How China Killed Every Rare Earth Competitor Before It Could Get Started",
       "source": "Yahoo",
@@ -90,6 +266,17 @@
       "category": "company"
     },
     {
+      "id": 140168987,
+      "headline": "THIEL BACKS $1BN OCEAN DATA CENTRE START-UP POWERED BY WAVES",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c25e237941b2bde098bf4ae97e530f5670cb77f0e6cf6b942aefad23cd64f624",
+      "summary": "Peter Thiel, co-founder of Palantir and Paypal, is leading a $140m investment in a US start-up Panthalassa, that plans to use wave energy to fuel giant fleets of f loating data centres, as Silicon...",
+      "image": "",
+      "datetime": 1777944067000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
       "id": 140167957,
       "headline": "Irreplaceable Manhattan Building with 5%+ Yield Offered to International Investors",
       "source": "Yahoo",
@@ -98,6 +285,50 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777943580000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140168946,
+      "headline": "PRESS DIGEST-Wall Street Journal - May 5",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=03e08974fd37a78276e3f17a9829ed2d39bac29e01ab8ab762e9c7be48d55d8c",
+      "summary": "The following are the top stories in the Wall Street Journal.Reuters has not verified these stories and does not vouch fortheir accuracy. - The U.S. Financial Industry...",
+      "image": "",
+      "datetime": 1777943267000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140168953,
+      "headline": "Microsoft: The Market Is Pricing AI Costs, Not AI Returns",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7e74b632c3a53b3b0447e7c678a122af0bf77f7368639778f18c5e1a77174d58",
+      "summary": "",
+      "image": "",
+      "datetime": 1777943134000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140168901,
+      "headline": "Tesla faces EU skepticism over automated-driving tech, records show",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3660174ae7fb073fae7066629396676a5cfd8909464148f83b9d37cb858bb153",
+      "summary": "Tesla CEO Elon Musk hasprojected confidence that the European Union will soongreen-light the carmaker's Full Self-Driving system, butemails from some European regulators show marked...",
+      "image": "",
+      "datetime": 1777942974000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140168869,
+      "headline": "Tesla's road to Full Self-Driving approval in Europe",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e610179b249a4c9887f53e0de10476164dcc5cfc836315750a8aa4fe68c089d6",
+      "summary": "European vehicleregulators meet in Brussels on Tuesday when the Dutch roadauthority RDW will make the case for Tesla's supervisedFull Self-Driving technology being approved across theEuropean...",
+      "image": "",
+      "datetime": 1777942904000,
+      "ticker": "TSLA",
       "category": "company"
     },
     {
@@ -120,6 +351,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777941043000,
       "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140168836,
+      "headline": "Commodities: Middle East Re-Escalation Pushes Oil Prices Higher",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bf23953e381aa6238a3882e3c54223cf6b421550087938edb5bb0d0326191c92",
+      "summary": "",
+      "image": "",
+      "datetime": 1777941000000,
+      "ticker": "GLD",
       "category": "company"
     },
     {
@@ -857,248 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777926845000,
       "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140168682,
-      "headline": "Dear PayPal Stock Fans, Mark Your Calendars for May 5",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7943f71a5130bfbaf5e364363557186fdf26abf6d828688fc89eead585a85721",
-      "summary": "PYPL stock has a very low valuation and multiple, powerful, potential catalysts. Here's what else to know ahead of its Q1 earnings.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777926821000,
-      "ticker": "PYPL",
-      "category": "company"
-    },
-    {
-      "id": 140166178,
-      "headline": "Palantir Technologies (NASDAQ:PLTR) Delivers Impressive Q1 CY2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=24d46d765a6a11b43b3ea1b276fb39e39189159e817c79818b0040ec8239bf16",
-      "summary": "Data analytics company Palantir Technologies (NASDAQ:PLTR) reported Q1 CY2026 results exceeding the market’s revenue expectations, with sales up 84.7% year on year to $1.63 billion. On top of that, next quarter’s revenue guidance ($1.80 billion at the midpoint) was surprisingly good and 7.4% above what analysts were expecting. Its non-GAAP profit of $0.33 per share was 18.1% above analysts’ consensus estimates.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777926704000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140167504,
-      "headline": "Palantir: Blowing Past Estimates",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=04e90cab397480517946f6222d1484211ed943217aa1c8770d826d9840fb03c7",
-      "summary": "Palantir's revenue grew over 80% year-over-year, outpacing most tech peers this earnings season. Read why PLTR stock is a Hold despite the strong beat.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/928832382/image_928832382.jpg?io=getty-c-w1536",
-      "datetime": 1777926653000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 7894843,
-      "headline": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
-      "summary": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108299219-17774771532026-04-29t153646z_2098091898_rc23zkalxkbx_rtrmadp_0_musk-openai-court.jpeg?v=1777477287&w=1920&h=1080",
-      "datetime": 1777926555000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 140166179,
-      "headline": "Palantir delivers Q1 beat and raise, driven by surge in US commercial business",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=164cae068889777b83e69ee0e7a0df103c3b83238654498a7305097f040fd003",
-      "summary": "Palantir Technologies Inc (NYSE:PLTR) reported first quarter results on Monday that exceeded analyst expectations on both earnings and revenue, driven by strong growth in its US business, particularly in the commercial segment. The data analytics firm posted adjusted earnings per share of...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777926480000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140166090,
-      "headline": "Amazon Readies Supply Chain Services To Businesses. These Stocks Fall.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a0a70d651f7497adf99275c9df66f4e5d1e45cea8035587bff6905d131c85b3e",
-      "summary": "The tech giant launched a supply chain services business it compared to its highly successful cloud offering.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777926397000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140166071,
-      "headline": "My Top 2 Generative AI Stocks for Long-Term Investors for May 2026",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=895a063d0a303a6c92a0f2019b31c51d7bdcb3a07a8e1f5357f87366ab97dd9b",
-      "summary": "Broadcom and Alphabet are both great long-term plays on the generative AI boom.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777926300000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140167463,
-      "headline": "Palantir Technologies Inc. 2026 Q1 - Results - Earnings Call Presentation",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=711432fc6ae2ef70c2dc9e44bf82ef03bff4b7dfa67fd017b0bc3717acf29e08",
-      "summary": "2026-05-04. The following slide deck was published by Palantir Technologies Inc.",
-      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "datetime": 1777926247000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140167464,
-      "headline": "Palantir Technologies Inc. (PLTR) Q1 2026 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=346ac58696dc6c5fc730cea8216506dfa9891d1097324a331b0d9211ea90585d",
-      "summary": "Palantir Technologies Inc. (PLTR) Q1 2026 Earnings Call May 4, 2026 5:00 PM EDTCompany ParticipantsAna Soro - Office of the CFORyan Taylor - Chief Revenue...",
-      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "datetime": 1777926204000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140166072,
-      "headline": "S&P 500 to Hit 8,000 This Year? Here's Why JPMorgan Thinks It's Possible",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=774957bb509daf9e666646831c86f5285617e305a33b7bfe937d1e036c4e4f27",
-      "summary": "The stock market has been picking up steam in recent weeks, and that trend could continue as the year goes on.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777926000000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140166146,
-      "headline": "Intel Stock Falls From Its Record High. Why People Are Worried.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4c7b40be88d47b2349a0d97ed15f3bd265a05cbcaaecb400c1877f71b40eeea0",
-      "summary": "The U.S. announced an effective 10% stake in Intel last August, making it the largest single investor in the U.S.-based chip maker.  Since then, the company’s shares are up more than fourfold in large part because Intel makes chips that are used in AI data centers.  “We expect that Intel has higher potential for further upside surprises over the next couple of quarters, given its own in-house foundry capacity,” HSBC analysts wrote Monday.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777926000000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140166080,
-      "headline": "Bond Yields Are Rising. Why That Could End the Stock Market’s Rally.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bff327c5cb73f1a52e59d19dcfbef9798416599d4695a62a4a6d0f6d4b98807b",
-      "summary": "The Treasury market is at a critical juncture and deepening losses at this point could pull money away from stocks as prices fall and yields rise.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777925940000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 7894844,
-      "headline": "Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/04/spirit-airlines-shut-down-ceo-dave-davis.html",
-      "summary": "Spirit Airlines shut down before dawn on Saturday ending its run as the most famous U.S. discount airline.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108292682-1776360600406-gettyimages-2271644473-_73a8690_wqksapdt.jpeg?v=1776360700&w=1920&h=1080",
-      "datetime": 1777925928000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
-      "id": 140166092,
-      "headline": "Can a Combined GameStop and eBay Really Take on Amazon?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c15f55b19a120ec5010381428d75a49f2a900c8b3bf555721034c8b064fb31fc",
-      "summary": "GameStop Highlights Opportunity in Collectibles Market",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777925543000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140166098,
-      "headline": "Top Stock Reports for Alphabet, Walmart & Micron",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=320df6b07862b99e81765927cf1da52335b963704d1ef870cc61d782feb2aae1",
-      "summary": "Alphabet rides AI-driven growth across Search, Cloud and subscriptions, but rising spending, debt and legal risks temper near-term flexibility.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777925460000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140166107,
-      "headline": "Pinterest forecasts upbeat quarterly revenue on resilient advertiser spending",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=31fca8e23c216d59f75cb6f65c0af6ff642aa3cc891324e1557bc8b973569a66",
-      "summary": "Pinterest forecast second-quarter revenue above analysts' estimates on Monday, helped by steady spending from advertisers as the ‌image-sharing platform sharpens its ad offerings with deeper artificial intelligence ‌integration. Shares of the California-based company jumped 16% in extended trading. The company has been stepping ​up investments in AI, rolling out enhancements to its Performance+ ad suite to automate ad creation and improve personalized targeting, which have started to bear fruit.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777925319000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140166180,
-      "headline": "Palantir raises annual revenue forecast on strong US government demand",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bae9409c978687ec8e3bbee316cf563f143aa0573772409711abf0a2278cbeae",
-      "summary": "Palantir Technologies raised its annual revenue forecast on Monday and beat estimates for quarterly results, a sign of rising ‌demand for its data analytics software from the U.S. government and ‌commercial clients.  The growing use of artificial intelligence tools in modern warfare has boosted demand for ​software platforms developed by companies such as Palantir that help defense departments analyze data and make real-time targeting decisions.  Palantir now expects fiscal 2026 revenue to be between $7.65 billion and $7.66 billion, compared with its prior expectations of $7.18 billion to $7.20 billion.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777925282000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140166083,
-      "headline": "Adeia Announces First Quarter 2026 Financial Results",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=117c0ff2d54f5e5144f143fcff859037f1f2f9c26dffba0c8f23fa5e888be629",
-      "summary": "Signed new license agreements with AMD and MicrosoftGenerated $58 million in cash from operations and achieved 60% adjusted EBITDA marginPaid down debt by $28 million bringing our outstanding balance to less than $400 million SAN JOSE, Calif., May 04, 2026 (GLOBE NEWSWIRE) -- Adeia Inc. (Nasdaq: ADEA) (the “Company” or “Adeia”) today announced financial results for the first quarter ended March 31, 2026. “We had a strong start to 2026, delivering first quarter revenue of $105 million, generating",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777925100000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140166073,
-      "headline": "Here's Exactly Why Wall Street Thinks Viking Therapeutics Stock Could Soar 207% Over the Next 12 Months",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=cfd7a73619a4c57a5f8170a962e6a4685dd70b3ee2eb9df69fc47401720ef83c",
-      "summary": "The Street is bullish on this biotech's prospects, but is the sentiment justified?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777925100000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140166181,
-      "headline": "Palantir Reports Q1 2026 U.S. Revenue Growth of 104% Y/Y and Revenue Growth of 85% Y/Y; Raises FY 2026 Revenue Guidance to 71% Y/Y Growth and U.S. Comm Revenue Guidance to 120% Y/Y, Crushing Consensus Expectations",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=914571d0678e429f5de7d80e9f6b0df2104cc118efad212041672be89fa7d544",
-      "summary": "MIAMI, May 04, 2026--Palantir Technologies Inc. (NASDAQ:PLTR) today announced financial results for the first quarter ended March 31, 2026.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777925100000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140164809,
-      "headline": "Sector Update: Consumer Stocks Fall Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a44f3e4c9ba25b1305994111fc367648903a65c64741c88895c2d99233c0c8c9",
-      "summary": "Consumer stocks were lower late Monday afternoon, with the State Street Consumer Staples Select Sect",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777924543000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140166081,
-      "headline": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=da3693412c5e8adc1839b9e71d85f3a4a9a04d44e94fbf7bda220d181e7a1fc7",
-      "summary": "Tech stocks were mixed late Monday afternoon, with the State Street Technology Select Sector SPDR ET",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777924417000,
-      "ticker": "AAPL",
       "category": "company"
     }
   ]
