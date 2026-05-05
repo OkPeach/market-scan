@@ -1,6 +1,28 @@
 {
-  "timestamp": 1778011964609,
+  "timestamp": 1778017029046,
   "items": [
+    {
+      "id": 7900094,
+      "headline": "AMC to screen live concerts through Arena One partnership",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/05/amc-arena-one-live-concerts.html",
+      "summary": "More than 300 AMC locations in 89 markets across the U.S. will be programmed for live concert screenings. Tickets will range from $40 to $75.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108107238-17405095342025-02-25t184419z_81129380_rc2s1dandpez_rtrmadp_0_usa-stocks.jpeg?v=1740509569&w=1920&h=1080",
+      "datetime": 1778016261000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7899553,
+      "headline": "S&P 500 and Nasdaq notch records as AI chip stocks surge - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXJmbTJ1QXlUbzNTS1ZhOXF6RHZmZjJGekJSRzZHRWRYQ05FSmEzMnlCaHJpbG0zSVB5WGRTNzUyYWtzY0JtSVNkRWdpWVo0Z2VrM1JLSW02UzRLWXQwaEhoMWgzYnNLdkhRdktMbGJlRnFxY2s5SzNDYkF3Y3ExVWdHTjJuMy1qT200WVo1WmxlT2hnYXJPWmpPTTlXWXhPTnI3N0dn?oc=5",
+      "summary": "S&P 500 and Nasdaq notch records as AI chip stocks surge  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1778012372000,
+      "ticker": null,
+      "category": "business"
+    },
     {
       "id": 140179470,
       "headline": "Sector Update: Financial Stocks Rise Late Afternoon",
@@ -88,6 +110,17 @@
       "datetime": 1778009620000,
       "ticker": "NVDA",
       "category": "company"
+    },
+    {
+      "id": 7898895,
+      "headline": "US and Bahrain push UN-backed action for Hormuz as Washington seeks maritime coalition - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcExoM1d6aklFTjE2XzI0aGc1ckRETkpybV9JVHZnZzVSY1NES1JpX2ZFbXdiRzZwdW1US1NmcC1hTHExTklKZllaTVl1dDdlbm9sNlAwZkFIcnhEVjdFYlRia1VDZ2tSS1NDNnM3V2h3VkdURXBuM3F0MnBfSU9oX1lUUHpJSkd4NE56ZHNzRnNzM1EyemU2XzlCNkVJWXFfeVZrc2hfLWQySFJfZjVEVWdPVmU2OEM0Nmlra01QdnE?oc=5",
+      "summary": "US and Bahrain push UN-backed action for Hormuz as Washington seeks maritime coalition  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1778009476000,
+      "ticker": null,
+      "category": "business"
     },
     {
       "id": 140179295,
@@ -398,17 +431,6 @@
       "category": "company"
     },
     {
-      "id": 7899553,
-      "headline": "Nasdaq hits record as AI chip stocks surge - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXJmbTJ1QXlUbzNTS1ZhOXF6RHZmZjJGekJSRzZHRWRYQ05FSmEzMnlCaHJpbG0zSVB5WGRTNzUyYWtzY0JtSVNkRWdpWVo0Z2VrM1JLSW02UzRLWXQwaEhoMWgzYnNLdkhRdktMbGJlRnFxY2s5SzNDYkF3Y3ExVWdHTjJuMy1qT200WVo1WmxlT2hnYXJPWmpPTTlXWXhPTnI3N0dn?oc=5",
-      "summary": "Nasdaq hits record as AI chip stocks surge  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1778005898000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 140179362,
       "headline": "WattEV to deploy 370 Tesla Semis, launching largest electric-freight network connecting Northern and Central California",
       "source": "Yahoo",
@@ -684,17 +706,6 @@
       "category": "company"
     },
     {
-      "id": 7898895,
-      "headline": "US and Bahrain push UN-backed action for Hormuz as Washington seeks maritime coalition - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcExoM1d6aklFTjE2XzI0aGc1ckRETkpybV9JVHZnZzVSY1NES1JpX2ZFbXdiRzZwdW1US1NmcC1hTHExTklKZllaTVl1dDdlbm9sNlAwZkFIcnhEVjdFYlRia1VDZ2tSS1NDNnM3V2h3VkdURXBuM3F0MnBfSU9oX1lUUHpJSkd4NE56ZHNzRnNzM1EyemU2XzlCNkVJWXFfeVZrc2hfLWQySFJfZjVEVWdPVmU2OEM0Nmlra01QdnE?oc=5",
-      "summary": "US and Bahrain push UN-backed action for Hormuz as Washington seeks maritime coalition  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1778003228000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 140177567,
       "headline": "Bill Ackman Said High‑Quality Stocks Are Stupidly Cheap. He’s Right.",
       "source": "Yahoo",
@@ -860,6 +871,28 @@
       "category": "company"
     },
     {
+      "id": 140181108,
+      "headline": "Apple settles lawsuit over late Siri AI features for $250 million",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f503e1194ba455e236674f25ddb33c08ca802f572169efa1d5575193bc603c5e",
+      "summary": "Apple onTuesday settled for $250 million a shareholder lawsuit broughtafter the company delayed artificial-intelligence upgrades toits Siri voice assistant.The lawsuit, filed by Peter Landsheft in...",
+      "image": "",
+      "datetime": 1778002164000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140181076,
+      "headline": "Alphabet files for four-part notes offering of C$8.5 billion - SEC filing",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d4251cffa59eb1936b32abff79864fabaec8eb624dd62b77edba360045e9e6ee",
+      "summary": "Alphabet Inc: Alphabet files for four-part notes offering of C$8.5 billion - SEC filing...",
+      "image": "",
+      "datetime": 1778002093000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140177842,
       "headline": "PayPal shares fall as it signals profit decline ahead",
       "source": "Yahoo",
@@ -912,6 +945,39 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1778001786000,
       "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140181063,
+      "headline": "Communications Services Down as Traders Hedge on Growth Views - Communications Services Roundup",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ab825203b49c666f6490274c576c06f33663068ec2edef097a1892db72ec06d5",
+      "summary": "Communications-services fell as traders hedged their bets on the outlook for growth in the sector. Paramount Skydance shares fell as traders digested the Hollywood studio's earnings update. A...",
+      "image": "",
+      "datetime": 1778001733000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140181066,
+      "headline": "AMD raises guidance on the back of artificial intelligence boom",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a6b07cd98c21fa0fef361288fecf26e755f54c36ecbca28b60e767df69f58d47",
+      "summary": "Advanced Micro Devices expects Q2 revenue to exceed expectations, driven by robust demand for data center chips. The group forecasts revenue of approximately $11.2bn, plus or minus $300m, compared to...",
+      "image": "",
+      "datetime": 1778001709000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140181065,
+      "headline": "Tech Up as AI Boom Regains Momentum - Tech Roundup",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=532454d55b8c9dfe172a63a73911ecf62ea5967ab18b46f42f37d95ed45aa55e",
+      "summary": "Shares of technology companies rallied as an artificial-intelligence boom regained momentum. Shares of memory chip maker Micron continued a torrid running, rising by more than 10% after research...",
+      "image": "",
+      "datetime": 1778001709000,
+      "ticker": "PLTR",
       "category": "company"
     },
     {
@@ -1003,6 +1069,17 @@
       "category": "business"
     },
     {
+      "id": 140180912,
+      "headline": "CANADA FX DEBT-Loonie sticks to narrow range as Canada posts surprise trade surplus",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=593782845af39526230e79ade964ef469dd1edfa6d5a453d7c1af625cf74d3f3",
+      "summary": "The Canadian dollar steadiedagainst its U.S. counterpart on Tuesday as the price of oil felland data showed Canada's trade balance swung to a surprisesurplus. The loonie was trading...",
+      "image": "",
+      "datetime": 1778001202000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
       "id": 140177609,
       "headline": "How The Meta Platforms (META) Story Is Shifting With AI Spending Legal Risks And Valuation",
       "source": "Yahoo",
@@ -1014,91 +1091,14 @@
       "category": "company"
     },
     {
-      "id": 140177647,
-      "headline": "AMD Traders Brace for Big Swing After Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bbde7fbc65dc44d8426067457f184ea5e344535ab1a8bdbbd4c4b0e391a68b64",
-      "summary": "Heavy activity on both call and put sides",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1778001021000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140177543,
-      "headline": "3 Reasons Why Nvidia's Monstrous Rally Can Continue",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e79f6ccb06bdf3c6332bef17eaaddb304209c3c2cf3b2c1393505d2058039e5c",
-      "summary": "Nvidia has had a big comeback over the past few weeks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1778000700000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140177585,
-      "headline": "Alphabet (GOOGL) Stock Hits Record High on AI Boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f2376a8344bf8c3e42dbe7037dcd1fff03b41e7773b1e26983d75194dd8f5b3",
-      "summary": "Alphabet Surges to All-Time High Amid Explosive Investor Demand",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1778000689000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140177614,
-      "headline": "Tesla's supervised self-driving software could be up for approval in Belgian region",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=38cbdab8227845abbec85636b302953cc16c5331167e2797ad396bb68183b9c4",
-      "summary": "Tesla's aim to roll out its supervised \"full self-driving\" software in Europe got a boost from ‌Belgium on Tuesday, where the Flanders region said it was ‌looking into whether it can quickly adopt it following approval in the Netherlands.  The Netherlands' regulator ​provisionally approved the use of the software on Dutch roads last month, making it the first country in the EU to allow the software, which can control a car but requires drivers to pay attention.  Annick De Ridder, ‌the transport minister for ⁠Flanders, the mainly Dutch-speaking half of Belgium which borders the Netherlands, said in a post on X that she ⁠had asked Tesla to provide documents so as to possibly follow suit in her region.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1778000581000,
-      "ticker": "TSLA",
-      "category": "company"
-    },
-    {
-      "id": 140177544,
-      "headline": "Nvidia and ServiceNow team up on OpenClaw-style AI agent",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a19b2dcce42babdf46167715720eb9196fda0e43f0f91e0f9773c2b47cc8cafb",
-      "summary": "Nvidia and ServiceNow are teaming up to launch a new kind of AI agent.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1778000400000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140177771,
-      "headline": "ServiceNow turns enterprise AI chaos into control with the platform for governed, autonomous work",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=024cd237a09e9f829f6c25b79649739f7a37b76f82affede24658669e4cbb3bc",
-      "summary": "LAS VEGAS, May 05, 2026--ServiceNow turns enterprise AI chaos into control with the platform for governed, autonomous work",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1778000400000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 140177570,
-      "headline": "ServiceNow expands AI agent governance through deeper integration with Microsoft",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28ec00273bd8d3778e4e869d8fe2ab7445b474762979cb4a39b067797070a2cb",
-      "summary": "LAS VEGAS, May 05, 2026--ServiceNow announced an expansion of its strategic partnership with Microsoft that brings order to the chaos of AI agent sprawl.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1778000340000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140177545,
-      "headline": "ServiceNow extends agentic AI governance from desktops to data centers with NVIDIA",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e003eb40f04e377b644518a82698702fab3e72c9fbfc9c6dfb8fc81bc4d56737",
-      "summary": "LAS VEGAS, May 05, 2026--ServiceNow announced a significant expansion of its partnership with NVIDIA to extend agentic AI governance from desktops to data centers.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1778000340000,
-      "ticker": "NVDA",
+      "id": 140180903,
+      "headline": "AMD exec says Meta chip shipments are on-track to begin in the second half of the year",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5e4537863a42435772df9801b4edb79c8d559e1912ea241c3aa6ed45cea3498d",
+      "summary": "AMD exec says Meta chip shipments are on-track to begin in the second half of the year...",
+      "image": "",
+      "datetime": 1778001051000,
+      "ticker": "META",
       "category": "company"
     }
   ]
