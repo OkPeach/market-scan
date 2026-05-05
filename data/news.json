@@ -1,6 +1,226 @@
 {
-  "timestamp": 1777935670388,
+  "timestamp": 1777943535833,
   "items": [
+    {
+      "id": 7893563,
+      "headline": "South Korean-operated vessel ablaze in Strait of Hormuz; Trump says Iran fired at ship - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFBqaE4zOHBMRUw5MVQ5SkZRZGptd1Z0SXprcXdJcHZ4dk9oaFVfOElQOENfWm16c3BaSWROWWJQRkktSXRmTG9LUV9ORDM4bGhEUF84UkgzdVdfTHRBd0UxSk04blZFQzdmVmZuRUVQSG80al9vOVJWZVdTeVFDNU5qYkJOWDhGN2FyU1RWWG5Ha3Rydk1sYmVTa0ttRXprYktIWUlPYVdNQnhDM0R6OGhVWEozQjVpUUo3cHg4SFNQVnlRMG9SazJWVQ?oc=5",
+      "summary": "South Korean-operated vessel ablaze in Strait of Hormuz; Trump says Iran fired at ship  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777938725000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140167093,
+      "headline": "Meta's Revenue Growth Is Impressive, but Its AI Budget Is Getting Harder to Ignore",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85b882e56ea09202d521ba6dbda8457f30ba67ef308092cb93073f635e432b57",
+      "summary": "The social media giant just posted its fastest top-line growth in years, but its 2026 spending plan keeps creeping higher.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777937188000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140167105,
+      "headline": "Meta taps Morgan Stanley, JPMorgan for El Paso data center deal, Bloomberg News reports",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d31cc4599452c461ee2b6e6fe9505cccef25df4d0af7bbc358c3da101788c50",
+      "summary": "Meta Platforms ‌is ‌working on a ​roughly $13 billion financing package for ‌a ⁠data center in El ⁠Paso, Texas, ​led ​by ​Morgan Stanley ‌and JPMorgan Chase, Bloomberg News reported on Monday, ‌citing ​people ​familiar ​with ‌the matter. Reuters could ​not ​immediately verify the ​report. (Reporting ‌by Mihika ​Sharma in ​Bengaluru)",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777936785000,
+      "ticker": "META",
+      "category": "company"
+    },
+    {
+      "id": 140167132,
+      "headline": "Palantir Just Delivered Another Quarterly Beat -- And the Company's 2026 Outlook Just Got Even Stronger",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8b39dd96e2149eae9bb4dbebc0ec828da443a65926180879e92c42cb2ee46af",
+      "summary": "Palantir served up another beat-and-raise quarter. What does the future look like?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777936601000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140167133,
+      "headline": "Palantir (PLTR) Q1 2026 Earnings Transcript",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f99fd5ea1c62e6621248fc3f4d88a447a0f1984347df686e97edaaa44074751",
+      "summary": "Joining me on today's call are Alexander C. Karp, chief executive officer; Shyam Sankar, chief technology officer; David A. Glazer, chief financial officer; and Ryan Taylor, chief revenue officer and chief legal.  Ryan Taylor: The last three months have been some of the most exciting in the history of Palantir Technologies Inc. as we have watched the whole world begin to see the incredible promise of operational AI as well as the risks and perils of being beholden to models alone.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777936499000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140167134,
+      "headline": "Palantir Technologies Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e523b08969d2f081dfeab97c52acd4a2eb1ce7a56bc44a92e9911a82f2d86ef",
+      "summary": "Palantir Technologies (NASDAQ:PLTR) reported first-quarter 2026 results that executives said reflected accelerating demand for the company’s Artificial Intelligence Platform (AIP), highlighting record growth rates, expanding profitability metrics, and raised full-year guidance. Q1 growth accelerate",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777936387000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140167097,
+      "headline": "Apple Weighs Major AI Deal As Investors Reassess Growth And Valuation",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6eed69081895382ecb40b3a8b3638d874afc4297ed473814978feae16065842",
+      "summary": "Apple, ticker NasdaqGS:AAPL, is reportedly weighing a major AI acquisition that would depart from its usual deal making approach. The potential move comes as Tim Cook prepares to hand the CEO role to John Ternus and as questions continue about Apple's position in AI. Rising memory costs and pressure on hardware pricing form part of the backdrop to the reported acquisition interest. Apple is best known for its hardware and services ecosystem, where AI already underpins features across...",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777936330000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140167098,
+      "headline": "Apple's Tim Cook says AI-fueled 'RAMmageddon' will make your next laptop and phone a lot pricier",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b774201aad32bb7df36f742f34f613892557abf3416c43c06cb5bdf919d6f57a",
+      "summary": "Tech is, counterintuitively, getting more expensive — and of course AI is to blame",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777935900000,
+      "ticker": "AAPL",
+      "category": "company"
+    },
+    {
+      "id": 140167115,
+      "headline": "AMD and Pfizer earnings, job openings, Fedspeak: What to Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1280969ebaff710d25bd26776b3e46459ac05b7cac60f3eb4bc7b16f7885b50",
+      "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come tomorrow, Tuesday, May 5, including earnings results from Advanced Micro Devices (AMD), Pfizer (PFE), and Anheuser-Busch Inbev (BUD); fresh labor data in the form of the latest Job Openings and Labor Turnover Survey (JOLTS) report; and commentary from Federal Reserve Vice Chair for Supervision Michelle Bowman and Governor Michael Barr.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777935600000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 7893783,
+      "headline": "China invokes anti-sanctions law to counter US blacklisting of refiners - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2I5Y2J3ZEtuSWJUN1lUMnpTMm5SV2NKZWlzd0YxLVBmUHN3bFBzTEk2cGtyQmtEYnByaEd6aUZZZFVDX3JTN2FGbTBaN1ZndmpkbHFfSWstLUNRaEZlcllRaVB6QjZhZDJ3T2pKYUtSWGhuTDhzNi1FV19fTXUwREZrRWt3TTFLN0N4WlNmY1BwRUdfbHN3ZWhxRGxMSHp5NFA2c3o3dXBVLUhWcGxrc0xKSnFfSVMx?oc=5",
+      "summary": "China invokes anti-sanctions law to counter US blacklisting of refiners  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777935046000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 7895369,
+      "headline": "'The Devil Wears Prada 2' kicks off summer movie season in style with $77 million opening",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/04/the-devil-wears-prada-2-kicks-off-summer-box-office.html",
+      "summary": "Disney and 20th Century Fox's \"The Devil Wears Prada 2\" opened the summer movie season with $77 million in ticket sales.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108301918-1777928859269-g_20cs_the_devil_wears_prada_2_4_87bc83b8_Cropped.jpg?v=1777928937&w=1920&h=1080",
+      "datetime": 1777934898000,
+      "ticker": null,
+      "category": "top news"
+    },
+    {
+      "id": 140167227,
+      "headline": "1 of Wall Street’s Favorite Stock on Our Buy List and 2 Facing Headwinds",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=abee54744ce51350b5220425b1bb7807fb5667d99dd0f4ca680b2e1f98ed620c",
+      "summary": "Wall Street is overwhelmingly bullish on the stocks in this article, with price targets suggesting significant upside potential. However, it’s worth remembering that analysts rarely issue sell ratings, partly because their firms often seek other business from the same companies they cover.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777934695000,
+      "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140167094,
+      "headline": "Stock Market Today, May 4: Intel Pulls Back After Rally as AI PC Push Tests New Client Leadership",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=600eda4196f34ab03f803a7799dc557cb7ed01ea425d5c686dcaa8aab1667847",
+      "summary": "Intel’s new client-computing leadership adds focus to its push beyond traditional PCs, with upcoming results needing clearer evidence that AI PC demand and data center CPU sales can support the stock’s post-rally valuation.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777934575000,
+      "ticker": "GOOGL",
+      "category": "company"
+    },
+    {
+      "id": 140167099,
+      "headline": "Adeia Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09f4c014ed30130e4fb535452fbf5a3f2429e2726cec2e181015a185cca7eb3c",
+      "summary": "Adeia (NASDAQ:ADEA) reported first-quarter 2026 results driven by new license agreements and continued expansion beyond its legacy pay TV business, while also disclosing that President and CEO Paul Davis plans to step down later this year. Quarterly results and deal activity Davis said the company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777933070000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
+      "id": 140167107,
+      "headline": "Elon Musk Settles X Lawsuit for a Cup of (Cheap) Coffee. What It Means for SpaceX’s IPO.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e022560e49f3df29f93d8704c4495aff66edc0c75334a697985f2754a339064",
+      "summary": "The billionaire is on the hook for $1.5 million for failing to disclose his 5% stake in Twitter in a timely fashion.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777932600000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
+      "id": 140167095,
+      "headline": "3 Reasons It's Not Too Late to Buy This Stock on the Dip",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0d10c7d577f9909b9e2f56a227ffb0fed38265384956cbdd92664ecbd20071e",
+      "summary": "But it might be too late soon if the stock sustains its recent momentum.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777932300000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140166208,
+      "headline": "Intel appoints Qualcomm executive to lead PC and physical AI business",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18edcbd27bee3f7f17f74f82deb3d2bd523935363e659a20ccc5c5c5fc0230ff",
+      "summary": "Intel  said on Monday it had appointed Alex Katouzian to lead the company's ‌PC and physical artificial intelligence unit.  The new role ‌for Katouzian includes the company's crucial PC business, which has ​been one of the mainstays of Intel's revenue and profit for decades.  Katouzian has worked at Qualcomm for more than 20 years and has worked extensively in the ‌company's mobile chip ⁠unit, which makes processors for smartphones and other gadgets.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777931486000,
+      "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140167096,
+      "headline": "Is Eli Lilly Stock Heading for $1,000?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc6eae758a70603ece5291a47a7d67f1df27ae6a24832bbee9bd926a06593c57",
+      "summary": "Eli Lilly's valuation looks far more attractive now than it did even a year ago.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777931400000,
+      "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 7895474,
+      "headline": "Maersk unit's US-flagged ship transits Hormuz accompanied by US military - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ0c0VllkWHpONHdfbExpRExaTXFHWWlPSVZJTGFMaUpqdkU5clh1T0tVdzIxdmxoLThNNTV1cldUODBoaUQ4SFpWYXdyQnY2Sm9PNHRHU1F3anB0amVTa3p3SGNTdHBvdzZ2d0ktNkJ5dHN1N3o3YTJKeFFpMDdsYWdELU0xdXc4WWJFTDVGNzhsQmFBWEVUSzZvRnZTM1dZUGExQzFaeU4wSzNEamEzT2RtS09yOGc5YnB1Z0JlMVR6dHhSLVVxTFd0S2NZRTA?oc=5",
+      "summary": "Maersk unit's US-flagged ship transits Hormuz accompanied by US military  Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "datetime": 1777931151000,
+      "ticker": null,
+      "category": "business"
+    },
+    {
+      "id": 140167125,
+      "headline": "Intel Stock Drops. Should You Be Worried?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=873aaec2bcabf7a55c1131e9fbc0d683c8ac2ccd55c4957f52e3a36e8bea95ae",
+      "summary": "Intel  stock stalled Monday after its big run-up over the past month.  The U.S. announced an effective 10% stake in Intel last August, making it the largest single investor in the U.S.-based chip maker.  Since then, the company’s shares are up more than fourfold in large part because Intel makes chips that are used in AI data centers.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777931100000,
+      "ticker": "INTC",
+      "category": "company"
+    },
     {
       "id": 140166169,
       "headline": "Palantir Stock Investors Just Got Incredible News From CEO Alex Karp",
@@ -57,17 +277,6 @@
       "category": "company"
     },
     {
-      "id": 7893563,
-      "headline": "South Korean-run vessel ablaze in Strait of Hormuz; Trump says Iran fired at the ship - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFBqaE4zOHBMRUw5MVQ5SkZRZGptd1Z0SXprcXdJcHZ4dk9oaFVfOElQOENfWm16c3BaSWROWWJQRkktSXRmTG9LUV9ORDM4bGhEUF84UkgzdVdfTHRBd0UxSk04blZFQzdmVmZuRUVQSG80al9vOVJWZVdTeVFDNU5qYkJOWDhGN2FyU1RWWG5Ha3Rydk1sYmVTa0ttRXprYktIWUlPYVdNQnhDM0R6OGhVWEozQjVpUUo3cHg4SFNQVnlRMG9SazJWVQ?oc=5",
-      "summary": "South Korean-run vessel ablaze in Strait of Hormuz; Trump says Iran fired at the ship  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777930414000,
-      "ticker": null,
-      "category": "business"
-    },
-    {
       "id": 140166064,
       "headline": "Why Napco Security Technologies Stock Plummeted Today",
       "source": "Yahoo",
@@ -98,6 +307,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777929621000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140167135,
+      "headline": "Palantir Technologies Inc. (PLTR) Beats Q1 Earnings and Revenue Estimates",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3e54b1224dbc2e4d7f12d153e176d035b227f4f887b0cc4dbe1faee393217b2",
+      "summary": "Palantir Technologies (PLTR) delivered earnings and revenue surprises of +13.79% and +6.04%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777929603000,
+      "ticker": "PLTR",
       "category": "company"
     },
     {
@@ -145,6 +365,17 @@
       "category": "company"
     },
     {
+      "id": 140167667,
+      "headline": "OpenAI's Altman discussed spinning out co's robotics, consumer hardware divisions late last year - WSJ",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6b443c4010c9e2e3183faabff3a42b70ad2c817637b510133921e32b011b28a0",
+      "summary": "May 4 - OpenAI chief executive Sam Altman discussed spinning out the company's Robotics and consumer hardware divisions late last year - WSJ Plan to spin out OpenAI's Robotics, consumer...",
+      "image": "",
+      "datetime": 1777928908000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140166067,
       "headline": "Bernstein Analyst: AI Agents Drive Chip Demand ‘Off the Charts,’ Supply Can’t Keep Up",
       "source": "Yahoo",
@@ -156,6 +387,17 @@
       "category": "company"
     },
     {
+      "id": 140167648,
+      "headline": "Plan to spin out OpenAI's robotics, consumer hardware divisions was rejected - WSJ",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ef2a82ba8857d7df7595551dc3e009bc9ea0e5634a79594f61e49749eaf8447f",
+      "summary": "Plan to spin out OpenAI's robotics, consumer hardware divisions was rejected - WSJ...",
+      "image": "",
+      "datetime": 1777928721000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140166245,
       "headline": "ServiceNow CEO sends blunt message on acquisitions",
       "source": "Yahoo",
@@ -164,6 +406,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777928580000,
       "ticker": "NOW",
+      "category": "company"
+    },
+    {
+      "id": 140167646,
+      "headline": "OpenAI chief executive Sam Altman discussed spinning out the company’s robotics and consumer hardware divisions late last year - WSJ",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9f82dc5b0c86174d32a9aff678ed1f18b16bf7a110cb8d532b30249ad9fea6b5",
+      "summary": "OpenAI chief executive Sam Altman discussed spinning out the company’s robotics and consumer hardware divisions late last year - WSJ...",
+      "image": "",
+      "datetime": 1777928535000,
+      "ticker": "MSFT",
       "category": "company"
     },
     {
@@ -299,6 +552,17 @@
       "category": "business"
     },
     {
+      "id": 140167587,
+      "headline": "Calamos Phineus Long/Short Fund: Q1 2026 Contributors And Detractors",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bb756add33d65f2ec99c1956efb7997596503c323560b7b2ee67e17e2f3110e9",
+      "summary": "Calamos Phineus Long/Short Fund discusses Q1 2026 performance and top holdings like L3Harris and Amazon. Read the full analysis for more details.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260237837/image_2260237837.jpg?io=getty-c-w1536",
+      "datetime": 1777927200000,
+      "ticker": "MSFT",
+      "category": "company"
+    },
+    {
       "id": 140166106,
       "headline": "Reuters wins Pulitzer Prizes for Beat Reporting and National Reporting; named finalist in Illustrated Reporting and Breaking News Photography",
       "source": "Yahoo",
@@ -329,6 +593,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777926704000,
       "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140167504,
+      "headline": "Palantir: Blowing Past Estimates",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=04e90cab397480517946f6222d1484211ed943217aa1c8770d826d9840fb03c7",
+      "summary": "Palantir's revenue grew over 80% year-over-year, outpacing most tech peers this earnings season. Read why PLTR stock is a Hold despite the strong beat.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/928832382/image_928832382.jpg?io=getty-c-w1536",
+      "datetime": 1777926653000,
+      "ticker": "NVDA",
       "category": "company"
     },
     {
@@ -373,6 +648,28 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777926300000,
       "ticker": "NVDA",
+      "category": "company"
+    },
+    {
+      "id": 140167463,
+      "headline": "Palantir Technologies Inc. 2026 Q1 - Results - Earnings Call Presentation",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=711432fc6ae2ef70c2dc9e44bf82ef03bff4b7dfa67fd017b0bc3717acf29e08",
+      "summary": "2026-05-04. The following slide deck was published by Palantir Technologies Inc.",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1777926247000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
+      "id": 140167464,
+      "headline": "Palantir Technologies Inc. (PLTR) Q1 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=346ac58696dc6c5fc730cea8216506dfa9891d1097324a331b0d9211ea90585d",
+      "summary": "Palantir Technologies Inc. (PLTR) Q1 2026 Earnings Call May 4, 2026 5:00 PM EDTCompany ParticipantsAna Soro - Office of the CFORyan Taylor - Chief Revenue...",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "datetime": 1777926204000,
+      "ticker": "PLTR",
       "category": "company"
     },
     {
@@ -530,6 +827,17 @@
       "category": "company"
     },
     {
+      "id": 140167138,
+      "headline": "Palantir: Market Size Limits Materializing",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=31785a3dabf6d7cd6872a3ee8cd4114a3a2b6cd392e41f176eb126555223c7e0",
+      "summary": "Palantir is heavily reliant on U.S. government contracts, with international military expansion facing significant barriers. Read more on PLTR stock here.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-w1536",
+      "datetime": 1777924239000,
+      "ticker": "PLTR",
+      "category": "company"
+    },
+    {
       "id": 140166075,
       "headline": "Meta's Revenue Growth Is Impressive, but This Remains a Big Problem",
       "source": "Yahoo",
@@ -552,6 +860,17 @@
       "category": "company"
     },
     {
+      "id": 140167155,
+      "headline": "OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2acfeaca06c36604ce42f59bae2f3ad764f71aad4d689706caada63f419c7cb3",
+      "summary": "OpenAI's co-founder and president, Greg Brockman, on Monday disclosed deeper financial ties to CEO Sam Altman than previously known as well as a stake in the ChatGPT maker worth almost $30 billion. ...",
+      "image": "",
+      "datetime": 1777923978000,
+      "ticker": "TSLA",
+      "category": "company"
+    },
+    {
       "id": 140164372,
       "headline": "Magna Stock Craters 10% as Strong Q1 Fails to Lift Full-Year Outlook",
       "source": "Yahoo",
@@ -571,6 +890,17 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777923655000,
       "ticker": "AMD",
+      "category": "company"
+    },
+    {
+      "id": 140167160,
+      "headline": "Stars arrive for Met Gala as protesters target Jeff Bezos",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7efbc174d8e0bb98b57e3dd82a5703898c5245d24f9188058ceccdb6d3f9084e",
+      "summary": "Celebrities including singers Sam Smith and Doja Cat and actress Nicole Kidman made their entrances Monday at the Met Gala, the fashion world's most coveted invitation, as protesters bashed...",
+      "image": "",
+      "datetime": 1777923618000,
+      "ticker": "AMZN",
       "category": "company"
     },
     {
@@ -629,6 +959,17 @@
       "category": "company"
     },
     {
+      "id": 140167100,
+      "headline": "GameStop wants to buy eBay for $56 billion. Wall Street has one big question",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2149c109a92bfebfa578c526851e67cb95d099baada2378b10bfb2b65c995d8f",
+      "summary": "Ryan Cohen says a tie-up could turn eBay into a company worth hundreds of billions, but analysts are cautious about rocking the boat.",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "datetime": 1777923003000,
+      "ticker": "AMZN",
+      "category": "company"
+    },
+    {
       "id": 140164540,
       "headline": "Zyphra and AMD Partner to Power Zyphra Cloud on AMD Instinct™ MI355X GPUs",
       "source": "Yahoo",
@@ -660,17 +1001,6 @@
       "datetime": 1777922159000,
       "ticker": "NVDA",
       "category": "company"
-    },
-    {
-      "id": 7894208,
-      "headline": "US sinks Iranian small boats, shoots down missiles, drones as it opens Strait - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1VnS0tzQWtVVnd4SDdsZ1hjRTNQZ05OcUJWZWJPMldpZGlOLUZGY3hqeHdlU1EwcDBPQ25wMVBPT241R0NPNHRaWE8xZUhPSm0xb3hGYkxDMmRJcm5YdWIzOXhsaGdtOXVSLTZxMFp2SWJ0UndneXZWa2ZlT1llYUhWZTZ2clBuSXFkeUR2azB4aV85NUgzSmY3X1ZITEp0SkFHaFUwRHBDSDh5UGpPZUwzX2twcndHV015bDlyRVQyZmtnTzNPcXU5OHBwQQ?oc=5",
-      "summary": "US sinks Iranian small boats, shoots down missiles, drones as it opens Strait  Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "datetime": 1777922088000,
-      "ticker": null,
-      "category": "business"
     },
     {
       "id": 140164378,
@@ -769,336 +1099,6 @@
       "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "datetime": 1777921500000,
       "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140164381,
-      "headline": "Meta Platforms vs Snap: Who’s Really Winning Digital Ads?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1233b5a44e0e1d92f013dbec20cff7de93475f627372470324c9f9e5490e21a7",
-      "summary": "Meta Platforms (NASDAQ:META) and Snap (NYSE:SNAP) just delivered earnings that frame two opposite paths through the digital ad market. Meta posted a 33.08% revenue surge powered by AI-driven ad pricing. Snap finally swung to a $45.21 million quarterly profit by leaning on subscriptions and small advertisers. Same industry, very different business stories. One Sells Pricing ... Meta Platforms vs Snap: Who’s Really Winning Digital Ads?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777921216000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140164382,
-      "headline": "Salesforce vs Oracle: There’s Only One Winner In the Cloud AI Push",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6e265ff5fca07cd88dfad0c686dddd049f30ee898cb630fef6742f629e7cd898",
-      "summary": "Salesforce (NYSE:CRM) and Oracle (NYSE:ORCL) just delivered earnings that frame the cloud pivot from opposite ends. Oracle is pouring capital into AI infrastructure to become a hyperscaler. Salesforce is layering AI agents onto the workflow software enterprises already run. Both are betting big. Only one is doing it with debt. IaaS Carries Oracle. Agentforce Carries ... Salesforce vs Oracle: There’s Only One Winner In the Cloud AI Push",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777921038000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140164383,
-      "headline": "Our Strongest Conviction Call: Eli Lilly Headed 21% Higher in 12 Months",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7beeabfc83120b0a472d6ab9a5f04499c49314aea13f74a0b8213f56703942c4",
-      "summary": "Eli Lilly (NYSE:LLY) just delivered one of the strongest first quarters in big pharma history, but shares have pulled back sharply from their February peak. That gap between operating performance and stock price is where our model sees opportunity. Our 24/7 Wall St. price target for Eli Lilly is $1,133.12 over the next 12 months, ... Our Strongest Conviction Call: Eli Lilly Headed 21% Higher in 12 Months",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777921012000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140164500,
-      "headline": "Amazon to ship stuff for any business, not just its own merchants",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b351ee466c781d27711b44fec89ccb15ddd369519659be271106a09cca9267b8",
-      "summary": "Amazon announced Monday it is opening up its massive shipping and delivery network to any business that wants to use it -- not just the merchants who sell on Amazon's website.AWS started as an internal tool Amazon built for itself, then became a massive business by selling that same technology to other companies.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777921009000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140164384,
-      "headline": "Can Nancy Pelosi’s Favorite AI Stock Hope to Regain Its Momentum?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6d39fc37bf453cec3f6c58ea6a125aa0a0cf8fbcb96fb42dcb3a875c285de11f",
-      "summary": "Investors are watching Tempus AI (NASDAQ:TEM) ahead of first-quarter results due after the close tomorrow. The stock burst into investor consciousness in January 2025 after Nancy Pelosi disclosed a position, ran past $100, and has since shed nearly half its value. From Pelosi Halo to Show-Me Story Pelosi’s market-beating track record has turned her trades ... Can Nancy Pelosi’s Favorite AI Stock Hope to Regain Its Momentum?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777920973000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140164495,
-      "headline": "Azure's Growth Rate Bounces Back in Q3. Is Microsoft's Stock Due for a Rally?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0f6cd9cdceabf81db6aff9e86826f8ce1497ff11f6f5a77ee2b84988d2de0819",
-      "summary": "Microsoft's earnings numbers looked solid, as it beat on Azure and its top and bottom lines.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777920600000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140164385,
-      "headline": "Why Wall Street's Quiet Monday Turned Into a Rocky Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc0e46e3d2e5a6d2b843b3a72a7edaf835d4265d9d4323d8254ecab433334d2f",
-      "summary": "Markets started quiet but turned rocky by midday. Here's what's moving the Dow, Nasdaq-100, and S&P 500 this afternoon.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777920554000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140164386,
-      "headline": "Modus Advisors Loads Up on International Value With $3.5 Million JIVE Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=16e455d49a74b76dd271aedfdcb6c7171e8c91b0a43b9f216df4a55c94dd866e",
-      "summary": "JPMorgan International Value ETF offers diversified exposure to global equities with a value tilt and a focus on income generation.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777920307000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140164387,
-      "headline": "2 Semiconductor Stocks to Own in May",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b06c333a388772786a683467a384968c1cf0bc09eef8974c33c081c649b0b1b6",
-      "summary": "AVGO and AMAT tend outperform in May over the last decade",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777919826000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140164388,
-      "headline": "3 Company Earnings to Watch This Week (May 4-8)",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f0c0bae593d2f4d824dd6a37998e8881e0d857da56a07f5efd2d8ac2fb2fc638",
-      "summary": "Earnings season is in full swing, and these companies will provide clear insight into the future of AI.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777919736000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140164389,
-      "headline": "FedEx Slides 9%, UPS Sinks 10% as Amazon Supply Chain Services Goes Live: How Real Is the Threat?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ad37b8040b5cee01c9ce3925132d55f7b3fec08b137567a84b0c767bf7fe4804",
-      "summary": "Shares of FedEx (NYSE:FDX) are down 9% to roughly $359 in midday trading Monday, while United Parcel Service (NYSE:UPS) stock is down 10% to about $97. The trigger: Amazon (NASDAQ:AMZN) has officially launched Supply Chain Services as a direct enterprise offering. Amazon stock is up 1% to $271 on the news, building on a 27% ... FedEx Slides 9%, UPS Sinks 10% as Amazon Supply Chain Services Goes Live: How Real Is the Threat?",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777919580000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140164502,
-      "headline": "Steffan Szumowki from the Nuclear Energy Content Hub Details Investing in X-energy Without the Pre-Revenue IPO Risk",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6c877fedb056b8efbb13384e561e38a31813cc2325a6a2ef32f41eda174ab23b",
-      "summary": "New York, New York--(Newsfile Corp. - May 4, 2026) - As detailed by Steffan Szumowski, a contributor for VettaFi's Nuclear Energy Content Hub, X-energy (XE), the developer of the Xe-100 advanced small modular reactor (SMR) and XENITH microreactor, made its public market debut earlier this month. While the listing underscores strong investor enthusiasm for next-generation nuclear technology, the company remains pre-revenue. It carries the typical execution risks associated with bringing a new...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777919520000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140164390,
-      "headline": "Cerebras Seeks $3.5 Billion IPO As AI Chip Race Intensifies",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=102a168f19e371ba9d0ff673fd930e59308b086eb005d65204a873097df9c86b",
-      "summary": "Cerebras is offering 28 million shares as investor demand for AI infrastructure challengers builds.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777919470000,
-      "ticker": "NVDA",
-      "category": "company"
-    },
-    {
-      "id": 140166094,
-      "headline": "Should You Buy, Sell, or Hold FSLY Stock Before Q1 Earnings Release?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a399c6b9498e560ecb286ac2282386165f44cfc494f496a9fd8ff3998f90f5d2",
-      "summary": "Fastly heads into Q1 earnings with strong security growth and AI momentum, but competition, pricing pressure, and valuation concerns cloud the near-term outlook.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777919460000,
-      "ticker": "GOOGL",
-      "category": "company"
-    },
-    {
-      "id": 140164503,
-      "headline": "Amazon Opens Shipping Business to All Comers. FedEx Stock Tumbles.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=04f02808cd8339606753e90da18d10fc4ca2a1bd59a1bbafc42e7e8f59af46ef",
-      "summary": "FedEx stock dropped after Amazon unveiled a new logistics offering that could compete directly with the shipping giant’s core business.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777919460000,
-      "ticker": "AMZN",
-      "category": "company"
-    },
-    {
-      "id": 140166629,
-      "headline": "Palantir: A Record-Breaking 145% Rule 40 Score Signals Hypergrowth Phase",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=51e4cfa2fea9f14608139aa43c2da6825612b3a0d3b83b494cab45cac9586ffe",
-      "summary": "Q1 2026 Palantir Technologies Inc. earnings highlights: record margins, revenue growth, Rule of 40, new clients & risks. Click for this PLTR update.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1960986400/image_1960986400.jpg?io=getty-c-w1536",
-      "datetime": 1777919410000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 7894418,
-      "headline": "What's behind Eli Lilly's down-and-up day after last week's post-earnings surge",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/04/whats-behind-eli-lillys-down-and-up-day-after-last-weeks-surge.html",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108259577-17697847352026-01-30t144757z_1049627665_rc2z0iaynvd9_rtrmadp_0_usa-health-lilly.jpeg?v=1769784782&w=1920&h=1080",
-      "datetime": 1777919376000,
-      "ticker": null,
-      "category": "top news"
-    },
-    {
-      "id": 140164541,
-      "headline": "Jim Cramer Calls Arm Holdings a “Real Good One”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c1d8a18be64d4343bdd6d367843c3fe7a58127d62ef924299619b5ed1ecfe36b",
-      "summary": "Arm Holdings plc (NASDAQ:ARM) was among the stocks on Jim Cramer’s radar on Mad Money as he discussed the upcoming earnings. Cramer called it a “real good one,” as he commented: Hey, after the close, we got a real good one, Arm Holdings, Rene Haas, you’ve seen him on, right?… We know what we heard […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918886000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140164542,
-      "headline": "Jim Cramer Says He Would “Buy Some AMD Ahead of the Quarter”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6cdc66a0d6beb83f42812b42ee678784d65e7ffa38d21df03feb37538e3cc6d6",
-      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) was among the stocks on Jim Cramer’s radar on Mad Money as he discussed the upcoming earnings. Cramer called the company’s CEO the “best,” as he commented: You want an upside surprise? Okay, I’m going to say it’s going to come from AMD this week, and I’d buy some AMD […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918876000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140164676,
-      "headline": "Jim Cramer on ServiceNow: “I Am Sure That Bill McDermott Will Put on a Good Show”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f433f9fad6aaa86f06ae01b92c28865c3572405540bb6604dd22fb2426df6c82",
-      "summary": "ServiceNow, Inc. (NYSE:NOW) was among the stocks on Jim Cramer’s radar on Mad Money as he discussed the upcoming earnings. Cramer praised the company’s CEO, as he said: Now, we have an analyst meeting Monday for ServiceNow, okay, a stock that’s been hammered relentlessly because of the AI displacement worries that have dragged down the […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918870000,
-      "ticker": "NOW",
-      "category": "company"
-    },
-    {
-      "id": 140164578,
-      "headline": "Jim Cramer on Palantir: “I Would Own It”",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7b7b732dfd71dc1445ee55aaf6cdfaac8f6eb476579a7df5a4fc20b500dbbed3",
-      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) was among the stocks on Jim Cramer’s radar on Mad Money as he discussed the upcoming earnings. Cramer said that he believes that the company’s business “remains strong,” as he commented: We get results from the most colorful company in the market, Palantir Technologies. I believe their business remains strong, but […]",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918867000,
-      "ticker": "PLTR",
-      "category": "company"
-    },
-    {
-      "id": 140164557,
-      "headline": "Why Global Business Travel Group Stock Is Skyrocketing Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6fcf5959f8630b0ef61b5c88795ef908d6de70afcf8a7b790bd904dfc1ea8b21",
-      "summary": "Global Business Travel announced some massive acquisition news today.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918850000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140164529,
-      "headline": "The Most Surprising Thing About Eli Lilly's Impressive Revenue Growth: Just How Much More Potential There Is",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=9d65a6dc1c9e45a9bedd01f2763a6e29a47a7b1d7fc1037897476e78bf0ff576",
-      "summary": "Eli Lilly is coming off an impressive first-quarter performance, with sales soaring by 56%.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918800000,
-      "ticker": "INTC",
-      "category": "company"
-    },
-    {
-      "id": 140164517,
-      "headline": "From Broke to Seven Figures Working 10 Hours a Month: Digital Laura Anderson Launches Internationally Recognized Bootcamp",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dd0f21d3475349f28625b6a03ad0ae729ffbd49e8f5bcc0cbdb6d4ebc2326eeb",
-      "summary": "The 10hr $10K Work Month Bootcamp offers internationally accredited certifications in Meta Ads, TikTok Ads, Email Marketing, and AI Automation for entrepreneurs and freelancers building high-income consulting businessesMiami, FLORIDA, May 04, 2026 (GLOBE NEWSWIRE) -- When Laura Anderson was 26, she was sitting on the floor of LAX airport with less than $50 in her bank account, throwing her belongings in a trash can just to make weight on a flight she could barely afford. She had no degree, no in",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918500000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140164492,
-      "headline": "AI Trade Sends Asian Tech Shares Up 4.7% To Record",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6b77b67d1e6eaa66ca77448bf345bc6d89f530884d7e400bbcb2721a1e756302",
-      "summary": "Asian equities rallied near all-time highs as chipmakers surged and investors weighed AI momentum against oil and geopolitical risks.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918493000,
-      "ticker": "AAPL",
-      "category": "company"
-    },
-    {
-      "id": 140164518,
-      "headline": "50% of Nvidia Employees Are Now Worth Over $25 Million: How Nvidia Created Thousands of Millionaires",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28d13bb9fc6193c09822550b8ccc41b3017d81b7dfb116a3a96b02967cc7d562",
-      "summary": "A recent episode of Motley Fool Money titled “Nvidia’s Next Big Market” highlighted a statistic that reframes how investors think about employee equity. At NVIDIA (NASDAQ:NVDA), roughly 50% of employees now have a net worth exceeding $25 million, based on a workforce of about 30,000 to 40,000 people. At the top end, management has reached centimillionaire ... 50% of Nvidia Employees Are Now Worth Over $25 Million: How Nvidia Created Thousands of Millionaires",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918472000,
-      "ticker": "META",
-      "category": "company"
-    },
-    {
-      "id": 140164496,
-      "headline": "Want $2,200 in Passive Income? Invest $50,000 Into These 3 Dividend Stocks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3bc5db0f4864b712c3ca483f329302ba191ea6f65a8e970a4fe1606724990ad6",
-      "summary": "Earned income demands your time. Dividend income does not. The appeal of a check that arrives every 90 days, regardless of market conditions, is the foundation of every serious passive-income strategy. Real estate offers similar cash flow but locks up capital, charges friction on every transaction, and cannot be liquidated in an afternoon. Dividend stocks ... Want $2,200 in Passive Income? Invest $50,000 Into These 3 Dividend Stocks",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918420000,
-      "ticker": "MSFT",
-      "category": "company"
-    },
-    {
-      "id": 140164543,
-      "headline": "Equities Fall Intraday, Oil Prices Climb as Traders Monitor Middle East Developments",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=377635258db21b747ce2ba7dfd61e66fd89133e0cb964eb4ab146dce6a192955",
-      "summary": "US benchmark equity indexes were lower intraday and oil prices jumped as fighting in the Iran war fl",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918385000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140164544,
-      "headline": "AMD Stock Is Downgraded Before Earnings. Why This Analyst Soured on the Shares.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=05e06e51e9c0f6d84279ba946be25a9c5daf27447f0685373c51204da51c886a",
-      "summary": "HSBC downgrades Advanced Micro Devices stock to Hold from Buy in a research note ahead of the company’s earnings report Tuesday.",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918380000,
-      "ticker": "AMD",
-      "category": "company"
-    },
-    {
-      "id": 140164521,
-      "headline": "Tesla Semi And Terafab Shift Focus To Vertical Integration And AI",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=99f4ce1e174dd9a80b6a3e93045d27f0d5cce4685440815a398f8b5a711e6ad6",
-      "summary": "Tesla (NasdaqGS:TSLA) has begun producing its first high volume Tesla Semi trucks at its Nevada facility. The company is also launching Terafab, an internal semiconductor foundry developed with support from Intel. These projects aim to support Tesla's commercial vehicle, robotics, and autonomous transport ambitions. Tesla sits at the intersection of electric vehicles, energy storage, and software, and the push into heavy trucks and chips adds new dimensions to that mix. The Tesla Semi...",
-      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "datetime": 1777918344000,
-      "ticker": "TSLA",
       "category": "company"
     }
   ]
